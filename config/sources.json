@@ -10,30 +10,101 @@
         "rss_url": "https://www.dwarkesh.com/feed"
       },
       {
+        "name": "Lex Fridman",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://lexfridman.com/feed/podcast/"
+      },
+      {
         "name": "Latent Space",
-        "domain": "ai-engineering",
+        "domain": "ai",
         "language": "en",
-        "rss_url": "https://www.latent.space/feed"
+        "rss_url": "https://www.latent.space/feed",
+        "fallback_rss_urls": [
+          "https://api.substack.com/feed/podcast/1084089.rss"
+        ]
       },
       {
-        "name": "Invest Like the Best",
-        "domain": "investing",
+        "name": "All-In Podcast",
+        "domain": "ai",
         "language": "en",
-        "rss_url": "https://feeds.megaphone.fm/CLS2859450455"
+        "rss_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml"
       },
       {
-        "name": "SemiAnalysis YouTube",
-        "domain": "ai-infra",
+        "name": "a16z",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://feeds.simplecast.com/JGE3yC0V"
+      },
+      {
+        "name": "No Priors",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://feeds.megaphone.fm/nopriors"
+      },
+      {
+        "name": "Google DeepMind Podcast",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://feeds.simplecast.com/JT6pbPkg"
+      },
+      {
+        "name": "SemiAnalysis",
+        "domain": "ai",
         "language": "en",
         "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg"
       },
       {
-        "name": "a16z Podcast",
-        "domain": "venture-ai",
+        "name": "Lightcone Podcast",
+        "domain": "ai",
         "language": "en",
-        "rss_url": "https://feeds.simplecast.com/JGE3yC0V"
+        "rss_url": "https://anchor.fm/s/f58d3330/podcast/rss"
+      },
+      {
+        "name": "Lenny's Podcast",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://www.lennysnewsletter.com/feed",
+        "fallback_rss_urls": [
+          "https://api.substack.com/feed/podcast/10845.rss"
+        ]
+      },
+      {
+        "name": "Invest Like the Best",
+        "domain": "invest",
+        "language": "en",
+        "rss_url": "https://feeds.megaphone.fm/CLS2859450455"
+      },
+      {
+        "name": "Capital Allocators",
+        "domain": "invest",
+        "language": "en",
+        "rss_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml"
+      },
+      {
+        "name": "The Acquirers Podcast",
+        "domain": "invest",
+        "language": "en",
+        "rss_url": "https://anchor.fm/s/9603714/podcast/rss"
+      }
+    ]
+  },
+  "arxiv": {
+    "lookback_hours": 168,
+    "max_papers": 30,
+    "categories": [
+      {
+        "id": "cs.AI",
+        "name": "Artificial Intelligence"
+      },
+      {
+        "id": "cs.CL",
+        "name": "Computation and Language"
+      },
+      {
+        "id": "cs.LG",
+        "name": "Machine Learning"
       }
     ]
   }
 }
-
