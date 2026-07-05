@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T13:51:15.643305+00:00",
+  "generated_at": "2026-07-05T13:54:04.581084+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 21,
+  "item_count": 24,
   "podcasts": [
     {
       "source": "Lenny's Podcast",
@@ -14,6 +14,18 @@
       "summary": "Community Wisdom 192",
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+      "published_at": "2026-07-03T22:12:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
+      "summary": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models https://x.com/PalantirTech/status/2072326189079757277 https://www.theinformation.com/articles/anthropic-blindsides-business-partners?rc=f8fu8f https://www.google.com/finance/quote/FIG:NYSE https://x.com/DavidSacks/status/2072673187666813226 https://x.com/chamath/status/2072665199786561713 https://x.com/quxiaoyin/status/2072428278976074115 https://x.com/chamath/status/2072390507628540213 https://www.justice.gov/usao-cdca/pr/chinese-national-pleads-guilty-running-birth-tourism-scheme-helped-aliens-give-birth-us https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary https://x.com/GavinNewsom/status/2070496029280276571 https://www.ocregister.com/2026/02/27/these-charts-show-how-californias-budget-has-skyrocketed https://x.com/JeanneIves/status/2072165726526308719 https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     },
     {
@@ -222,6 +234,18 @@
       "source_type": "rss"
     },
     {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+      "published_at": "2026-06-29T15:47:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028",
+      "summary": "(0:00) Nate Silver joins the pod! (10:02) California's ballot counting problem: Raman's late-mail surge, ballot harvesting claims, and why the US counts slower than India (25:18) Democrats' three-way civil war: The left, the abundance libs, and Newsom's \"resistance lib\" base (34:48) The winning 2028 playbook: Anti-oligarch messaging, why young men want control, and immigrants fleeing the Dems (45:48) How algorithmic social media entrenches polarization: Elon's X, filter bubbles, and the death of the chronological feed (50:01) 2026 midterm predictions: 85-90% Dem House takeover, Senate toss-up, and the Iran/gas price wildcard (55:20) Newsom is collapsing in polls: Nate's 2028 Dem bet is AOC Thanks to our partners! Northwest Registered Agent — Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at northwestregisteredagent.com/ALLINFREE PLAUD — If your work depends on conversations — meetings, deal flow, interviews, customer calls — Plaud helps you capture and organize everything with highly accurate AI-generated notes that are not just simple summaries, but also highlight pain points, key decisions, next steps, and customizable summary templates. Check out Plaud at Plaud.ai/allin and use code ALLIN for up to 20% off! Which is also available on Amazon: https://amzn.to/43URLff (Code: ALLIN20X) Follow Nate: https://x.com/NateSilver538 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/FINAL_PASS_NATE_SILVER.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -256,28 +280,19 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/416ab100-e7d8-45d6-9c4d-eff841bcd393/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=416ab100-e7d8-45d6-9c4d-eff841bcd393&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    }
-  ],
-  "errors": [
-    {
-      "source": "All-In Podcast",
-      "url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "error": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml: request timed out"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "url": "https://feeds.simplecast.com/JT6pbPkg",
-      "error": "https://feeds.simplecast.com/JT6pbPkg: <urlopen error request timed out>"
     },
     {
       "source": "Capital Allocators",
-      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "url": "https://anchor.fm/s/9603714/podcast/rss",
-      "error": "https://anchor.fm/s/9603714/podcast/rss: request timed out"
+      "domain": "invest",
+      "language": "en",
+      "title": "Senior Decision Makers: Nicholas Csicsko, Trinity Wall Street (EP.508)",
+      "published_at": "2026-06-29T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/senior-decision-makers-nicholas-csiscko-trinity-wall-street-ep508",
+      "summary": "Our first guest on the Senior Decision Makers mini-series is Nick Csicsko. Nick is a Managing Director at the Trinity Wall Street endowment, where he joined CIO Meredith Jenkins at the founding of the investment office in 2016 and has spent the last decade helping build a young endowment inside a 320-year-old institution. Today the endowment has grown to over $6 billion. Nick's path into investing is a fascinating one. He studied composition and earned his Doctorate of Music at Juilliard. While there, he talked his way into an internship at Juilliard's endowment and never looked back. Our conversation covers the lessons he carried from music into investing, his investment philosophy, and the details of his process. Manager selection sits at the heart of his work, and he articulates what separates the relationships that endure from the ones that don't. Nick is a remarkable storyteller and shares a number of real-life examples of manager relationships — some that worked out well, some that didn't, and others with insights for allocators and managers alike. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SDM_Nicholas_Csicsko_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
     }
-  ]
+  ],
+  "errors": []
 }
