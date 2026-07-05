@@ -1,0 +1,39 @@
+{
+  "podcasts": {
+    "lookback_hours": 168,
+    "max_items_per_channel": 5,
+    "channels": [
+      {
+        "name": "Dwarkesh Patel",
+        "domain": "ai",
+        "language": "en",
+        "rss_url": "https://www.dwarkesh.com/feed"
+      },
+      {
+        "name": "Latent Space",
+        "domain": "ai-engineering",
+        "language": "en",
+        "rss_url": "https://www.latent.space/feed"
+      },
+      {
+        "name": "Invest Like the Best",
+        "domain": "investing",
+        "language": "en",
+        "rss_url": "https://feeds.megaphone.fm/CLS2859450455"
+      },
+      {
+        "name": "SemiAnalysis YouTube",
+        "domain": "ai-infra",
+        "language": "en",
+        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg"
+      },
+      {
+        "name": "a16z Podcast",
+        "domain": "venture-ai",
+        "language": "en",
+        "rss_url": "https://feeds.simplecast.com/JGE3yC0V"
+      }
+    ]
+  }
+}
+

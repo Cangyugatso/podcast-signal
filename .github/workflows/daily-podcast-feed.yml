@@ -1,0 +1,33 @@
+name: Generate Podcast Feed
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 06:00 Beijing time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate podcast feed
+        run: python scripts/generate_feed.py
+
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/feed-podcasts.json -f
+          git diff --staged --quiet || git commit -m "Podcast feed update $(date -u +%Y-%m-%d)"
+          git push
+
