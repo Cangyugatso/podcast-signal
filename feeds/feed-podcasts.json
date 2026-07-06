@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-07-05T13:54:04.581084+00:00",
+  "generated_at": "2026-07-06T12:28:15.938335+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 24,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "published_at": "2026-07-06T12:03:37+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "summary": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time",
+      "audio_url": "https://api.substack.com/feed/podcast/204741760/fa419fe415be23d13043d845b6036ad8.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
+      "published_at": "2026-07-06T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV",
+      "summary": "In this commencement address to Columbia University's Fu Foundation School of Engineering and Applied Science Class of 2015, Ben Horowitz challenges some of the most common advice given to graduates. Rather than urging students to “follow their passion,” Horowitz argues that people should focus on developing their strengths and making meaningful contributions to the world. Drawing on stories from his own time at Columbia, the founding of technology companies, and investments in startups like Airbnb, he explores the importance of independent thinking, conviction, and pursuing ideas that others may initially dismiss. Along the way, Horowitz discusses technological progress, entrepreneurship, opportunity, and why he believes today's graduates are entering a world defined less by unprecedented challenges than by unprecedented possibilities. ee Resources: Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b22a6463-f0e1-44ae-a0c0-63bd483d2b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b22a6463-f0e1-44ae-a0c0-63bd483d2b9b&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
+      "published_at": "2026-07-06T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
+      "summary": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014. Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -255,42 +291,6 @@
       "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
-      "published_at": "2026-06-29T12:03:38+00:00",
-      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
-      "summary": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
-      "audio_url": "https://api.substack.com/feed/podcast/203589481/846f1cae45d76ef325a01c8acbcd5f61.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Beyond P(doom): Marc Andreessen - Betting on America",
-      "published_at": "2026-06-29T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
-      "summary": "Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future. Andreessen argues that while AI has already begun reshaping the economy, the largest impacts are still ahead. He explores how AI could dramatically expand access to expertise, improve productivity, and transform industries ranging from healthcare and education to law and software development. At the same time, he warns that many of the biggest barriers to progress are not technological but institutional, driven by regulation, policy choices, and infrastructure constraints. The discussion also covers the global AI race, U.S.-China competition, export controls, data centers, energy, reindustrialization, defense technology, and the role of government in fostering innovation. Along the way, Andreessen shares his views on technological progress, national competitiveness, and why he believes America still has an opportunity to lead the next wave of economic growth. Resources: Follow Marc Andreessen on X: https://x.com/pmarca Follow Navin Girishankar on X: https://x.com/ngirishankar Follow CSIS on X: https://x.com/CSIS Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/416ab100-e7d8-45d6-9c4d-eff841bcd393/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=416ab100-e7d8-45d6-9c4d-eff841bcd393&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Senior Decision Makers: Nicholas Csicsko, Trinity Wall Street (EP.508)",
-      "published_at": "2026-06-29T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/senior-decision-makers-nicholas-csiscko-trinity-wall-street-ep508",
-      "summary": "Our first guest on the Senior Decision Makers mini-series is Nick Csicsko. Nick is a Managing Director at the Trinity Wall Street endowment, where he joined CIO Meredith Jenkins at the founding of the investment office in 2016 and has spent the last decade helping build a young endowment inside a 320-year-old institution. Today the endowment has grown to over $6 billion. Nick's path into investing is a fascinating one. He studied composition and earned his Doctorate of Music at Juilliard. While there, he talked his way into an internship at Juilliard's endowment and never looked back. Our conversation covers the lessons he carried from music into investing, his investment philosophy, and the details of his process. Manager selection sits at the heart of his work, and he articulates what separates the relationships that endure from the ones that don't. Nick is a remarkable storyteller and shares a number of real-life examples of manager relationships — some that worked out well, some that didn't, and others with insights for allocators and managers alike. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SDM_Nicholas_Csicsko_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
