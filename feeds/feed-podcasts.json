@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-06T12:28:15.938335+00:00",
+  "generated_at": "2026-07-07T10:34:22.832694+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
+      "published_at": "2026-07-07T08:00:00+00:00",
+      "url": "https://colossus.com/episode/posting-priests-private-markets/",
+      "summary": "My guest today is Jeremy Giffon. Jeremy has been on the show before as one of our most popular guests, and this conversation is every bit as enjoyable as the first. Over the last 18 months, Jeremy has had hundreds of conversations with founders and with the capital behind their companies. I don't know many investors with such a high rep count in the most interesting corners of private markets, so I asked him what he has learned. We talk about what those lessons mean for founders and investors, why everyone has become subservient to the poster class, the hidden intellectual history behind Silicon Valley and much more. Please enjoy my conversation with my friend, Jeremy Giffon. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Jeremy Giffon (00:02:34) Lessons from 18 Months of Founder Conversations (00:07:01) The Billion-Dollar PDF (00:08:13) The Unifeed & Rise of the Timeline (00:17:02) Power Law & Breakout Content (00:18:48) AI Algorithms Driving Content (00:20:38) Timeline-Native White House (00:21:09) Traits of Great Posters (00:25:27) Peak Guy & the Billionaire Priest Class (00:32:13) Billionaires Now Defer to Posters (00:34:52) Freedom vs. Relevance (00:38:53) AI & White-Collar Job Displacement (00:40:53) Stewarding Your Gifts as Moral Duty (00:43:18) Next Wave of Finance: Equity-First Firms (00:53:26) East Coast vs. West Coast Finance (00:55:34) Beating the Market Is Not That Hard (01:00:40) SPV Feudalism & Allocation (01:02:10) Egregious SPV Fee Structures (01:04:50) Simplicity vs. Complexity in Investing (01:07:15) Hiring: Attracting Differentiated Talent (01:11:00) Silicon Valley's Hidden Intellectual Traditions",
+      "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] The Field Guide to Fable",
+      "published_at": "2026-07-07T04:44:53+00:00",
+      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "DeepSeek V4 ships with two variants allowing it to hit 1M Context.",
+      "published_at": "2026-07-07T02:00:44+00:00",
+      "url": "https://www.youtube.com/shorts/kfihRzSU3Og",
+      "summary": "DeepSeek V4 ships with two variants allowing it to hit 1M Context. Kimbo Chen breaks down the attention changes and the Mega MOE speeding up compute.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "kfihRzSU3Og"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+      "published_at": "2026-07-06T15:01:17+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -35,7 +84,7 @@
       "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
       "published_at": "2026-07-06T08:00:00+00:00",
       "url": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
-      "summary": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014. Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "summary": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014. Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
@@ -50,18 +99,6 @@
       "summary": "Community Wisdom 192",
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
-      "published_at": "2026-07-03T22:12:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
-      "summary": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models https://x.com/PalantirTech/status/2072326189079757277 https://www.theinformation.com/articles/anthropic-blindsides-business-partners?rc=f8fu8f https://www.google.com/finance/quote/FIG:NYSE https://x.com/DavidSacks/status/2072673187666813226 https://x.com/chamath/status/2072665199786561713 https://x.com/quxiaoyin/status/2072428278976074115 https://x.com/chamath/status/2072390507628540213 https://www.justice.gov/usao-cdca/pr/chinese-national-pleads-guilty-running-birth-tourism-scheme-helped-aliens-give-birth-us https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary https://x.com/GavinNewsom/status/2070496029280276571 https://www.ocregister.com/2026/02/27/these-charts-show-how-californias-budget-has-skyrocketed https://x.com/JeanneIves/status/2072165726526308719 https://polymarket.com/event/democratic-presidential-nominee-2028",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     },
     {
@@ -146,18 +183,6 @@
       "summary": "What does it take to build a global mobility company from a country of just 1.3 million people? Markus Villig, founder and CEO of Bolt, joins the show to share how he scaled from Estonia to 50+ countries, navigating early scrappy days, a near-bankruptcy from expanding too fast, and the hard-won lessons behind Bolt’s capital-efficient growth. They also discuss building in Europe vs. the U.S., competing against much better-funded rivals, and why culture and ambition matter more than regulation. Finally, Markus lays out what’s next: autonomy, robotaxis, and why the future of mobility will be a hybrid of human drivers and self-driving fleets. Resources: Find Markus on X: https://x.com/villigm Find Gabriel on X: https://x.com/GEVS94 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8ddf5f97-9707-46d2-97d3-7e53aeeea1f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8ddf5f97-9707-46d2-97d3-7e53aeeea1f2&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-07-02T07:10:14+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
-      "summary": "another quiet day.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -256,43 +281,13 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building AI for Creators | Luma & Phota Labs",
-      "published_at": "2026-06-30T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/building-ai-for-creators-luma-phota-labs-0nl9Q52H",
-      "summary": "Yoko Li speaks with Luma's Head of Applied Research Matt Tancik and Phota Labs cofounder and CTO Zach Xia about how AI is changing creativity, photography, and the tools people use to make art. The conversation explores the evolving relationship between artists and AI, from image generation and personalization to creative workflows, controllability, and agentic design tools. They discuss personalization, photography, creative software, model design, evaluation, and why the future of creative tools may depend less on generating content and more on helping people express ideas they couldn't easily realize before. Along the way, they explore AI agents, interfaces, and how creators are already using these tools in unexpected ways. Resources: Follow Matt on LinkedIn: https://www.linkedin.com/in/matthewtancik/ Follow Zach on LinkedIn: https://www.linkedin.com/in/zhihao-zach-xia/ Follow Yoko Li on X: https://x.com/stuffyokodraws Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f6e7db05-5707-4d2f-a4da-0fb590be9c89/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f6e7db05-5707-4d2f-a4da-0fb590be9c89&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
-      "published_at": "2026-06-29T15:47:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028",
-      "summary": "(0:00) Nate Silver joins the pod! (10:02) California's ballot counting problem: Raman's late-mail surge, ballot harvesting claims, and why the US counts slower than India (25:18) Democrats' three-way civil war: The left, the abundance libs, and Newsom's \"resistance lib\" base (34:48) The winning 2028 playbook: Anti-oligarch messaging, why young men want control, and immigrants fleeing the Dems (45:48) How algorithmic social media entrenches polarization: Elon's X, filter bubbles, and the death of the chronological feed (50:01) 2026 midterm predictions: 85-90% Dem House takeover, Senate toss-up, and the Iran/gas price wildcard (55:20) Newsom is collapsing in polls: Nate's 2028 Dem bet is AOC Thanks to our partners! Northwest Registered Agent — Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at northwestregisteredagent.com/ALLINFREE PLAUD — If your work depends on conversations — meetings, deal flow, interviews, customer calls — Plaud helps you capture and organize everything with highly accurate AI-generated notes that are not just simple summaries, but also highlight pain points, key decisions, next steps, and customizable summary templates. Check out Plaud at Plaud.ai/allin and use code ALLIN for up to 20% off! Which is also available on Amazon: https://amzn.to/43URLff (Code: ALLIN20X) Follow Nate: https://x.com/NateSilver538 Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/FINAL_PASS_NATE_SILVER.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
-      "published_at": "2026-06-29T15:02:35+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "All-In Podcast",
+      "url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "error": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml: request timed out"
+    }
+  ]
 }
