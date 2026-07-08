@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-07-07T10:34:22.832694+00:00",
+  "generated_at": "2026-07-08T07:17:53.370739+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 21,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+      "published_at": "2026-07-08T02:20:25+00:00",
+      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+      "summary": "a quiet day lets us read some condensed insight",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+      "published_at": "2026-07-07T13:04:22+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+      "summary": "Results from our second annual tech worker sentiment survey",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Is Software Losing Its Head?",
+      "published_at": "2026-07-07T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH",
+      "summary": "Seema Amble, Steven Sinofsky, and Elena Burger unpack one of the biggest questions facing enterprise software: what happens when AI agents become the primary users of software instead of humans? The conversation explores the rise of \"headless\" software, why APIs and agentic workflows are reshaping enterprise applications, and whether traditional SaaS products are becoming systems of record rather than systems of engagement. They discuss Salesforce's Headless 360 announcement, MCP, enterprise software architecture, and why AI may fundamentally change how businesses interact with their data. Along the way, they examine what actually makes enterprise software sticky, why replacing systems like SAP and Salesforce is harder than it appears, and where startups have the greatest opportunity as AI reshapes the software stack. Resources: Follow Seema Amble on X: https://x.com/seema_amble Follow Steven Sinofsky on X: https://x.com/stevesi Follow Elena Burger on X: https://x.com/VirtualElena Related Reading Is Software Losing Its Head? https://a16z.com/is-software-losing-its-head/ The Death of Software? Nah. https://a16z.com/death-of-software-nah/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fc912d16-715f-4956-bf42-2d0389333812/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fc912d16-715f-4956-bf42-2d0389333812&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Invest Like the Best",
       "domain": "invest",
@@ -102,6 +138,18 @@
       "source_type": "rss"
     },
     {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+      "published_at": "2026-07-03T22:12:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
+      "summary": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models https://x.com/PalantirTech/status/2072326189079757277 https://www.theinformation.com/articles/anthropic-blindsides-business-partners?rc=f8fu8f https://www.google.com/finance/quote/FIG:NYSE https://x.com/DavidSacks/status/2072673187666813226 https://x.com/chamath/status/2072665199786561713 https://x.com/quxiaoyin/status/2072428278976074115 https://x.com/chamath/status/2072390507628540213 https://www.justice.gov/usao-cdca/pr/chinese-national-pleads-guilty-running-birth-tourism-scheme-helped-aliens-give-birth-us https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary https://x.com/GavinNewsom/status/2070496029280276571 https://www.ocregister.com/2026/02/27/these-charts-show-how-californias-budget-has-skyrocketed https://x.com/JeanneIves/status/2072165726526308719 https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -156,21 +204,9 @@
       "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
       "published_at": "2026-07-02T15:00:00+00:00",
       "url": "https://traffic.megaphone.fm/PDP1493614959.mp3",
-      "summary": "While the rest of the nuclear industry still relies on simulations and paper designs, Valar Atomics is busy splitting atoms. In fact, they just powered an NVIDIA Blackwell chip directly with a live nuclear reactor in order to power the world’s first nuclear powered website. Sarah Guo joins Valar Atomics founder and CEO Isaiah Taylor on-site at their California headquarters to talk about how Valar is shifting nuclear energy from the theoretical to the practical by building and perfecting reactors via hardware iteration. Isaiah discusses why the US stopped building nuclear reactors in the 1970s, and how Valar utilized a little-known pathway via the Department of Energy, revived by a Trump administration executive order, to successfully develop and run their advanced reactor. He also shares Valar’s strategy for vertical integration, their venture-backed approach to financing, their giga-site plans, and why he believes cheap, abundant atomic energy has the power to vastly improve the quality of human life. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @isaiah_p_taylor | @valaratomics Chapters: 00:00 – Cold Open 00:57 – Isaiah Taylor Introduction 01:30 - Valar’s Mission and Origin 04:24 - Why Nuclear Development Stalled 07:18 - Reviving Nuclear through DoE and Executive Order 10:59 - Control Room Tour 16:17 - Misunderstandings About Nuclear 20:07 - Issues with Reliability 22:14 - Nuclear is a Hardware Execution Problem 24:32 - Timeline to Scale Production 26:32 - Introducing Ward 250 30:42 - Speed Through Simplicity 33:33 - AI Drives Nuclear Demand 35:02 - Running a Reactor with NVIDIA Blackwell 36:27 - Valar’s Nuclear Conviction 40:16 - Verticalization as Path to Scale 43:58 - Valar’s Control Skid 48:00 - Venture-Backed Nuclear 50:51 - Gigasite Strategy 53:11 - CEO Tick Rate 55:37 - Abundant Energy and Hyper-Techno Industrialism 1:01:27 – Conclusion",
+      "summary": "While the rest of the nuclear industry still relies on simulations and paper designs, Valar Atomics is busy splitting atoms. In fact, they just powered an NVIDIA Blackwell chip directly with a live nuclear reactor in order to power the world’s first nuclear powered website. Sarah Guo joins Valar Atomics founder and CEO Isaiah Taylor on-site at their reactor site in Utah to talk about how Valar is shifting nuclear energy from the theoretical to the practical by building and perfecting reactors via hardware iteration. Isaiah discusses why the US stopped building nuclear reactors in the 1970s, and how Valar utilized a little-known pathway via the Department of Energy, revived by a Trump administration executive order, to successfully develop and run their advanced reactor. He also shares Valar’s strategy for vertical integration, their venture-backed approach to financing, their giga-site plans, and why he believes cheap, abundant atomic energy has the power to vastly improve the quality of human life. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @isaiah_p_taylor | @valaratomics Chapters: 00:00 – Cold Open 00:57 – Isaiah Taylor Introduction 01:30 - Valar’s Mission and Origin 04:24 - Why Nuclear Development Stalled 07:18 - Reviving Nuclear through DoE and Executive Order 10:59 - Control Room Tour 16:17 - Misunderstandings About Nuclear 20:07 - Issues with Reliability 22:14 - Nuclear is a Hardware Execution Problem 24:32 - Timeline to Scale Production 26:32 - Introducing Ward 250 30:42 - Speed Through Simplicity 33:33 - AI Drives Nuclear Demand 35:02 - Running a Reactor with NVIDIA Blackwell 36:27 - Valar’s Nuclear Conviction 40:16 - Verticalization as Path to Scale 43:58 - Valar’s Control Skid 48:00 - Venture-Backed Nuclear 50:51 - Gigasite Strategy 53:11 - CEO Tick Rate 55:37 - Abundant Energy and Hyper-Techno Industrialism 1:01:27 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP1493614959.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Skill engineering and the case against one-shot AI design",
-      "published_at": "2026-07-02T14:36:05+00:00",
-      "url": "https://www.latent.space/p/skill-engineering-design",
-      "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -221,73 +257,7 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/07dd0a8b-3522-4806-b39e-a610f75b3e9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=07dd0a8b-3522-4806-b39e-a610f75b3e9b&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
-      "published_at": "2026-06-30T23:22:23+00:00",
-      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
-      "summary": "Watch now | 🎙 I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
-      "audio_url": "https://api.substack.com/feed/podcast/204353515/928109049545fa1bddb70bcf87affe5e.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
-      "published_at": "2026-06-30T21:33:40+00:00",
-      "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
-      "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of “The New Roman Empire”, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/anthony-kaldellis-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Anthony’s Books: https://amzn.to/49AX7Q1 Anthony’s Publications: https://kaldellispublications.weebly.com Anthony’s University of Chicago page: https://classics.uchicago.edu/people/anthony-kaldellis The New Roman Empire (book): https://amzn.to/3PTFTqk Streams of Gold (book): https://amzn.to/4fgRMRq Byzantium & Friends Podcast: https://byzantiumandfriends.podbean.com/ The History of Byzantium Podcast: https://thehistoryofbyzantium.com/ SPONSORS: To support this podcast, check out our sponsors & get discounts: Upwork: Platform for hiring freelancers. Go to https://upwork.com/lex Fin: AI agent for customer service. Go to https://fin.ai/lex BetterHelp: Online therapy and counseling. Go to https://betterhelp.com/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Shopify: Sell stuff online. Go to https://shopify.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (00:11) – Sponsors, Comments, and Reflections (08:45) – The Roman Empire and the Byzantine Empire (12:42) – 2,200 Years of Roman History (33:06) – Power, violence, and civil war (54:20) – Edict of Caracalla (1:07:17) – Crisis of the Third Century (1:21:45) – Constantine and the new Roman Empire (1:33:46) – Christianity in the Roman Empire (1:59:14) – Fall of the Western Roman Empire (2:12:11) – Eunuchs, Taxes, and Power (2:37:17) – Emperor Justinian and wars of conquest (2:54:19) – The Arab conquests (3:13:55) – Why the Roman empire survived so long (3:40:01) – Lessons from history PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://spoti.fi/2nEwCF8 – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Grant Sanderson – AI and the future of math",
-      "published_at": "2026-06-30T15:53:19+00:00",
-      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
-      "summary": "Watch now (94 mins) | Math is where we’ll see superintelligence first. What will it look like?",
-      "audio_url": "https://api.substack.com/feed/podcast/204275916/96bb07d6147c4ef4193fd586a2c304af.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
-      "published_at": "2026-06-30T15:00:00+00:00",
-      "url": "https://colossus.com/episode/the-future-of-ai-hardware/",
-      "summary": "My guests today are Gavin Uberti and Rob Wachen, the founders of Etched. A few years ago, when they set out to build a better AI chip than the largest companies in the world, almost everyone I called told me it could not be done. They have since done it, taping out a working chip on their first attempt and becoming the first hardware company founded after ChatGPT to do so. They already have more than a billion dollars of customer demand for their first product, and have raised eight hundred million dollars to build it. Etched builds chips and systems designed to run AI models faster and at lower cost. They started the company in 2023, and that product is a complete rack for inference, the chip along with the boards, the power delivery, the interconnects, and the manufacturing to produce it all. We talk about the technical bets behind their architecture, how they hired industry legends and paired them with elite 22 year-olds, and why they believe inference will become one of the largest markets in the world. I think you will find the story of what they have built hard to forget. Please enjoy my conversation with Gavin and Rob. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgelineapps.com⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:07) Gavin Uberti and Rob Wachen (00:03:54) Two 21-Year-Olds Taking on NVIDIA (00:07:52) The Two Technical Bets Behind Their Architecture (00:14:15) Why Inference Becomes the Biggest Market (00:20:23) Rob and Gavin's Origins Stories (00:28:38) How They Recruit Industry Legends (00:36:30) Moving a Dozen Engineers to Bangalore for Six Months (00:38:01) Speed Wins (00:43:58) Getting More Concurrency Out of Every Megawatt (00:52:44) Vertical Integration (00:57:43) Hardest Obstacles to Overcome (01:01:09) Raising The Largest AI Chip Series A Ever (01:06:29) TSMC (01:13:20) Designing Gen 2 for Gigawatt-Scale Production (01:16:42) Why Machines Don't Think Like People (01:20:03) A Year of Compute Compressed Into a Month (01:23:44) The Trillion-Dollar Data Center (01:26:19) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS8561569864.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How top PMs increase their leverage with AI",
-      "published_at": "2026-06-30T13:31:39+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
-      "summary": "A framework for getting the most out of AI in your day-to-day-work",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "All-In Podcast",
-      "url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "error": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml: request timed out"
-    }
-  ]
+  "errors": []
 }
