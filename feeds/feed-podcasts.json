@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-07-09T10:33:36.469404+00:00",
+  "generated_at": "2026-07-10T10:30:33.782448+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 21,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "WTT: 5.5 Lessons at 55",
+      "published_at": "2026-07-10T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
+      "summary": "This WTT, 5.5 Lessons at 55 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "published_at": "2026-07-10T06:19:40+00:00",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "summary": "A big day for OpenAI.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+      "published_at": "2026-07-10T01:26:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
+      "summary": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Nasdaq - Industries, capital, and intelligence are converging into a single, interconnected system, and the infrastructure behind it needs to evolve just as quickly. Nasdaq was built for this moment: Powering more than 135 marketplaces and regulators globally and connecting capital to the companies shaping the future. As the innovation economy accelerates, connectivity becomes the critical asset. Nasdaq is the technology platform that makes it possible, and scalable. Learn more at https://Nasdaq.com Follow Andrew: https://x.com/andrewdfeldman Follow Robin: https://x.com/robrombach Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+      "published_at": "2026-07-09T17:33:57+00:00",
+      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+      "summary": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
+      "audio_url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Adam Mosseri: AI is a tailwind for authenticity",
+      "published_at": "2026-07-09T12:32:21+00:00",
+      "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+      "summary": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
+      "audio_url": "https://api.substack.com/feed/podcast/203476809/117446a50201e9bc143d6dcd21762185.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+      "published_at": "2026-07-09T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM",
+      "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year. Mark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Erik Torenberg to discuss the Chan Zuckerberg Initiative's ambitious effort to help cure, prevent, and manage disease by the end of the century. Rather than funding individual breakthroughs, CZI is focused on building the tools and infrastructure that can accelerate scientific discovery across entire fields. The conversation explores Biohub, Cell Atlas, virtual cell models, open biological datasets, and the growing role of AI in helping researchers better understand human biology. They discuss why biology still lacks a \"periodic table of elements,\" how AI could help scientists test hypotheses before running expensive experiments, and why pairing frontier biology with frontier AI may unlock a new era of medical discovery. Resources: Follow Mark Zuckerberg on X: https://x.com/finkd Follow Dr. Priscilla Chan on Instagram: https://www.instagram.com/priscillachan Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Vineeta Agarwala on X: https://x.com/vintweeta Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8004a844-38f5-42f0-ab54-b099f1fbed33/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8004a844-38f5-42f0-ab54-b099f1fbed33&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "No Priors",
       "domain": "ai",
@@ -163,18 +235,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
-      "published_at": "2026-07-06T12:03:37+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
-      "summary": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time",
-      "audio_url": "https://api.substack.com/feed/podcast/204741760/fa419fe415be23d13043d845b6036ad8.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -199,18 +259,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
-      "published_at": "2026-07-04T16:58:47+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
-      "summary": "Community Wisdom 192",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -221,43 +269,13 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "a16z Goes Global: Why American Tech Must Lead the World",
-      "published_at": "2026-07-03T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/technology-alliances-and-american-leadership-e8s7aT2Y",
-      "summary": "Ben Horowitz is joined by Anne Neuberger, Raghu Raghuram, and Jen Kha to discuss a16z's expanding international strategy and the growing role technology plays in economic growth, national security, and global partnerships. The conversation explores why America's technology leadership matters beyond Silicon Valley, how AI is reshaping relationships between governments and the private sector, and why countries around the world are looking to adopt frontier technologies while building stronger innovation ecosystems of their own. They discuss AI infrastructure, cybersecurity, defense technology, startup expansion, and what it takes to build enduring technology ecosystems. Along the way, they examine the role of trusted partnerships, the importance of Western technology, and why helping founders expand globally has become an increasingly important part of company building. Resources: Read more about a16z’s global mission: https://a16z.com/a16zs-global-mission/ Follow Ben on X: https://x.com/bhorowitz Follow Anne on X: https://x.com/AnneNeuberger Follow Raghu on X: https://x.com/RaghuRaghuram Follow Jen Kha on X: https://x.com/jkhamehl Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/af9e7c7e-83f7-4607-bd99-857d6bdf67cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=af9e7c7e-83f7-4607-bd99-857d6bdf67cc&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
-      "published_at": "2026-07-03T05:11:43+00:00",
-      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
-      "summary": "The AI Engineer World’s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Nuclear Will Unlock Energy Abundance with Valar Atomics Founder Isaiah Taylor",
-      "published_at": "2026-07-02T15:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP1493614959.mp3",
-      "summary": "While the rest of the nuclear industry still relies on simulations and paper designs, Valar Atomics is busy splitting atoms. In fact, they just powered an NVIDIA Blackwell chip directly with a live nuclear reactor in order to power the world’s first nuclear powered website. Sarah Guo joins Valar Atomics founder and CEO Isaiah Taylor on-site at their reactor site in Utah to talk about how Valar is shifting nuclear energy from the theoretical to the practical by building and perfecting reactors via hardware iteration. Isaiah discusses why the US stopped building nuclear reactors in the 1970s, and how Valar utilized a little-known pathway via the Department of Energy, revived by a Trump administration executive order, to successfully develop and run their advanced reactor. He also shares Valar’s strategy for vertical integration, their venture-backed approach to financing, their giga-site plans, and why he believes cheap, abundant atomic energy has the power to vastly improve the quality of human life. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @isaiah_p_taylor | @valaratomics Chapters: 00:00 – Cold Open 00:57 – Isaiah Taylor Introduction 01:30 - Valar’s Mission and Origin 04:24 - Why Nuclear Development Stalled 07:18 - Reviving Nuclear through DoE and Executive Order 10:59 - Control Room Tour 16:17 - Misunderstandings About Nuclear 20:07 - Issues with Reliability 22:14 - Nuclear is a Hardware Execution Problem 24:32 - Timeline to Scale Production 26:32 - Introducing Ward 250 30:42 - Speed Through Simplicity 33:33 - AI Drives Nuclear Demand 35:02 - Running a Reactor with NVIDIA Blackwell 36:27 - Valar’s Nuclear Conviction 40:16 - Verticalization as Path to Scale 43:58 - Valar’s Control Skid 48:00 - Venture-Backed Nuclear 50:51 - Gigasite Strategy 53:11 - CEO Tick Rate 55:37 - Abundant Energy and Hyper-Techno Industrialism 1:01:27 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP1493614959.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Lex Fridman",
+      "url": "https://lexfridman.com/feed/podcast/",
+      "error": "https://lexfridman.com/feed/podcast/: HTTP Error 500: Internal Server Error"
+    }
+  ]
 }
