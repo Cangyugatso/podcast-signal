@@ -1,17 +1,77 @@
 {
-  "generated_at": "2026-07-10T10:30:33.782448+00:00",
+  "generated_at": "2026-07-11T06:26:28.155414+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-07-11T02:53:08+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+      "summary": "a quiet day after a week of nonstop model releases",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+      "published_at": "2026-07-11T02:12:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts",
+      "summary": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg! (2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence (27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly (54:29) CCP considering putting export controls on Chinese models, is open source ending in China? (1:03:09) Trump Accounts launch, getting young Americans bought back into capitalism Apply for Summit 2026: https://allin.com/events Follow Brad: ttps://x.com/altcap Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://polymarket.com/event/ipos-before-2027 https://x.com/thejessezhang/status/2074154325933424861 https://x.com/praveenTweets/status/2074605343439810922 https://x.com/nikesharora/status/2074802778074124434 https://x.com/nikesharora/status/2074814752174522857 https://x.com/brian_armstrong/status/2070670644577280109 https://x.com/andyfang/status/2074252174226493584 https://x.com/nikesharora/status/2074630732019036574 https://x.com/finkd/status/2075218444056707458 https://x.com/alighodsi/status/2074996561306955958 https://blog.nicolasmeridjen.com/en/blog/2026-04-03-alibaba-qwen-closed-source-end-of-open-weight https://www.chinatalk.media/p/chinas-ai-companies-are-going-closed https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07 https://x.com/KurtSupeCPA/thread/2074817292550984010",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Adam Brown – A deep but accessible introduction to general relativity",
+      "published_at": "2026-07-10T16:23:56+00:00",
+      "url": "https://www.dwarkesh.com/p/adam-brown-gr",
+      "summary": "And why black holes are the ultimate power plants.",
+      "audio_url": "https://api.substack.com/feed/podcast/206445844/faa55a6705208b2496c98fb2dffb24d0.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Understanding the inner thoughts of AI",
+      "published_at": "2026-07-10T15:50:06+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Neel and his team are trying to do something phenomenally difficult: understand an intelligence that didn't come with a manual. Together, they explore the cutting-edge \"neuroscience\" of artificial intelligence—revealing the surprising, elegant structures being discovered inside these networks (like spare autoencoders), the inherent limits of looking under the hood, and why interpretability is absolutely essential if we are to build safe, aligned and trustworthy AI as we move towards AGI. Learn more about this area of research via https://deepmind.google/ Timecodes 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/d9f67ae3-d4f2-4dbc-aaed-a71adac28c24/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=d9f67ae3-d4f2-4dbc-aaed-a71adac28c24&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Bitcoin Rewired a Classic Computer Science Problem",
+      "published_at": "2026-07-10T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b",
+      "summary": "We're excited to share a special feed drop from The a16z Crypto Show. In the first episode of First Principles: The Scientific Roots of Blockchain Technology , Tim Roughgarden and Ittai Abraham trace the decades of computer science research that laid the foundation for modern blockchains. Long before Bitcoin, researchers were studying one of distributed computing's hardest challenges: how independent machines can reliably agree on a shared state, even when some participants are faulty or malicious. Bitcoin didn't invent that problem, but it introduced a breakthrough solution in a radically different, permissionless setting. The conversation explores Byzantine agreement, state machine replication, proof of work, proof of stake, Tendermint, Casper, DAG-based protocols, and why concepts developed decades ago continue to shape the design of today's fastest and most secure blockchain networks. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/137beb9b-798a-40a2-a14f-cb3043ce5521/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=137beb9b-798a-40a2-a14f-cb3043ce5521&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
-      "title": "WTT: 5.5 Lessons at 55",
+      "title": "WTT: 5.5 Lessons at 55.5",
       "published_at": "2026-07-10T08:00:00+00:00",
       "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
-      "summary": "This WTT, 5.5 Lessons at 55 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
@@ -198,18 +258,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] The Field Guide to Fable",
-      "published_at": "2026-07-07T04:44:53+00:00",
-      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
-      "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -257,25 +305,7 @@
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
-      "published_at": "2026-07-03T22:12:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie",
-      "summary": "(0:00) Bestie intros: Happy Fourth of July! (0:21) Palantir-Nvidia open source deal, Alex Karp's CNBC \"Crashout\" (33:52) Update on the AI jobs debate (50:24) Anthropic's Fable 5 available after export restrictions lifted (59:06) SCOTUS upholds birthright citizenship, striking Trump's EO (1:21:30) Newsom's \"balanced budget\" and how California's dire fiscal situation could break apart the Union Apply for Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models https://x.com/PalantirTech/status/2072326189079757277 https://www.theinformation.com/articles/anthropic-blindsides-business-partners?rc=f8fu8f https://www.google.com/finance/quote/FIG:NYSE https://x.com/DavidSacks/status/2072673187666813226 https://x.com/chamath/status/2072665199786561713 https://x.com/quxiaoyin/status/2072428278976074115 https://x.com/chamath/status/2072390507628540213 https://www.justice.gov/usao-cdca/pr/chinese-national-pleads-guilty-running-birth-tourism-scheme-helped-aliens-give-birth-us https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary https://x.com/GavinNewsom/status/2070496029280276571 https://www.ocregister.com/2026/02/27/these-charts-show-how-californias-budget-has-skyrocketed https://x.com/JeanneIves/status/2072165726526308719 https://polymarket.com/event/democratic-presidential-nominee-2028",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "Lex Fridman",
-      "url": "https://lexfridman.com/feed/podcast/",
-      "error": "https://lexfridman.com/feed/podcast/: HTTP Error 500: Internal Server Error"
-    }
-  ]
+  "errors": []
 }
