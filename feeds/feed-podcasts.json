@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-11T06:26:28.155414+00:00",
+  "generated_at": "2026-07-12T07:34:15.651898+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+      "published_at": "2026-07-11T16:40:58+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+      "summary": "Community Wisdom 193",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -269,18 +281,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "kfihRzSU3Og"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
-      "published_at": "2026-07-06T15:01:17+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     },
     {
       "source": "a16z",
