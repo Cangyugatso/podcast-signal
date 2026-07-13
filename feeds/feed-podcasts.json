@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-12T07:34:15.651898+00:00",
+  "generated_at": "2026-07-13T08:37:52.514982+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "published_at": "2026-07-12T12:32:14+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
+      "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -74,18 +86,6 @@
       "summary": "We're excited to share a special feed drop from The a16z Crypto Show. In the first episode of First Principles: The Scientific Roots of Blockchain Technology , Tim Roughgarden and Ittai Abraham trace the decades of computer science research that laid the foundation for modern blockchains. Long before Bitcoin, researchers were studying one of distributed computing's hardest challenges: how independent machines can reliably agree on a shared state, even when some participants are faulty or malicious. Bitcoin didn't invent that problem, but it introduced a breakthrough solution in a radically different, permissionless setting. The conversation explores Byzantine agreement, state machine replication, proof of work, proof of stake, Tendermint, Casper, DAG-based protocols, and why concepts developed decades ago continue to shape the design of today's fastest and most secure blockchain networks. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/137beb9b-798a-40a2-a14f-cb3043ce5521/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=137beb9b-798a-40a2-a14f-cb3043ce5521&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "WTT: 5.5 Lessons at 55.5",
-      "published_at": "2026-07-10T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
-      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -234,18 +234,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How tech workers are feeling in 2026: a workforce splitting in two",
-      "published_at": "2026-07-07T13:04:22+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
-      "summary": "Results from our second annual tech worker sentiment survey",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -293,19 +281,13 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b22a6463-f0e1-44ae-a0c0-63bd483d2b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b22a6463-f0e1-44ae-a0c0-63bd483d2b9b&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Moat Investing Nuances – Pat Dorsey (EP.509)",
-      "published_at": "2026-07-06T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/moatsinvesting-nuances-pat-dorsey-ep509",
-      "summary": "Pat Dorsey is the Founder of Dorsey Asset Management, a $1.7 billion global public equity manager focused on companies with competitive advantages and long investment runways. Pat created Morningstar's moat research framework and led its equity research efforts for a dozen years before launching his firm in 2014. Our conversation covers the nuances of investing in businesses with wide moats across quantitative analysis, switching costs, network effects, brands, management, alignment, capital allocation, and reinvestment runways. We then turn to Pat's application of moat analysis to his investing, including concentration, global scope, position sizing, decision making, and lessons learned. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.509_Pat_Dorsey_-_AUDIO_V3.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Capital Allocators",
+      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
+    }
+  ]
 }
