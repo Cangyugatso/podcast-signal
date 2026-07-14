@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-07-13T08:37:52.514982+00:00",
+  "generated_at": "2026-07-14T06:23:02.057271+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+      "published_at": "2026-07-14T01:22:27+00:00",
+      "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+      "summary": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+      "published_at": "2026-07-13T22:07:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
+      "summary": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Oracle powers AI at every scale—from frontier labs to enterprise production. Your data. Leading models. No lock-in. One platform, architected for AI. Built for business. Visit https://www.oracle.com/artificial-intelligence/ai-experience/?source=:ex:sn:::::AllIn&SC=:ex:sn:::::AllIn&pcode= Follow Mati: https://x.com/mati Follow Max: https://x.com/MaxJunestrand Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "published_at": "2026-07-13T15:02:17+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "published_at": "2026-07-13T12:05:20+00:00",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "summary": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
+      "audio_url": "https://api.substack.com/feed/podcast/205689325/b872277f3a2dbf756729413f4210989b.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Before Blockchains, There Was State Machine Replication",
+      "published_at": "2026-07-13T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC",
+      "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, and why concepts developed decades before Bitcoin became the foundation for today's blockchain protocols. Along the way, Liskov reflects on the relationship between theory and practice, the importance of modularity and formal reasoning, and why AI is creating a new generation of systems research. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
+      "published_at": "2026-07-13T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
+      "summary": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018. Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and decision-making. We then turn to the application of those lessons at Altered Trajectory, including the evolution away from an endowment-style portfolio, balancing Dambisa's macro convictions with Jared's moonshot investing style, and positioning for long-term themes. Along the way, we discuss the challenge of investing through structural change while avoiding ideological thinking. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -89,6 +161,18 @@
       "source_type": "rss"
     },
     {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "WTT: 5.5 Lessons at 55.5",
+      "published_at": "2026-07-10T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
+      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -107,7 +191,7 @@
       "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
       "published_at": "2026-07-10T01:26:00+00:00",
       "url": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
-      "summary": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Nasdaq - Industries, capital, and intelligence are converging into a single, interconnected system, and the infrastructure behind it needs to evolve just as quickly. Nasdaq was built for this moment: Powering more than 135 marketplaces and regulators globally and connecting capital to the companies shaping the future. As the innovation economy accelerates, connectivity becomes the critical asset. Nasdaq is the technology platform that makes it possible, and scalable. Learn more at https://Nasdaq.com Follow Andrew: https://x.com/andrewdfeldman Follow Robin: https://x.com/robrombach Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "summary": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Nasdaq - Positioned at the nexus of technology and the capital markets, Nasdaq provides premier platforms and services for global capital markets and beyond with unmatched technology, insights and markets expertise. https://www.nasdaq.com/convergence-economy Follow Andrew: https://x.com/andrewdfeldman Follow Robin: https://x.com/robrombach Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
@@ -121,18 +205,6 @@
       "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
       "summary": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
       "audio_url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Adam Mosseri: AI is a tailwind for authenticity",
-      "published_at": "2026-07-09T12:32:21+00:00",
-      "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
-      "summary": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
-      "audio_url": "https://api.substack.com/feed/podcast/203476809/117446a50201e9bc143d6dcd21762185.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
@@ -185,18 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "What a harness is and how to build one with Claude Agent SDK",
-      "published_at": "2026-07-08T12:03:35+00:00",
-      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-      "summary": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
-      "audio_url": "https://api.substack.com/feed/podcast/205647252/8ab2b19e7844865055b49d826c6a4473.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -206,31 +266,6 @@
       "summary": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow. Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live. The conversation explores resilience, company building, leadership, real estate, software, flexible living, and the global housing crisis. Along the way, Neumann discusses rebuilding trust, designing for community, and why some of the biggest entrepreneurial opportunities emerge from deeply personal experiences. Resources: Read Marc's blog post about Flow: https://a16z.com/announcement/flow/ Marc on X: https://x.com/pmarca Marc’s Substack: https://pmarca.substack.com/ Ben on X: https://x.com/bhorowitz Erik on X: https://x.com/eriktorenberg Erik's Substack: https://eriktorenberg.substack.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "If vLLM vs SGLang can compute to one conclusion, it's gotta be that competition is beneficial.",
-      "published_at": "2026-07-08T09:02:56+00:00",
-      "url": "https://www.youtube.com/shorts/UqWqsRQHpbA",
-      "summary": "If vLLM vs SGLang can compute to one conclusion, it's gotta be that competition is beneficial. Cameron Quilici explains why InferenceX showcases in isolation.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "UqWqsRQHpbA"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-      "published_at": "2026-07-08T02:20:25+00:00",
-      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-      "summary": "a quiet day lets us read some condensed insight",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -256,38 +291,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "DeepSeek V4 ships with two variants allowing it to hit 1M Context.",
-      "published_at": "2026-07-07T02:00:44+00:00",
-      "url": "https://www.youtube.com/shorts/kfihRzSU3Og",
-      "summary": "DeepSeek V4 ships with two variants allowing it to hit 1M Context. Kimbo Chen breaks down the attention changes and the Mega MOE speeding up compute.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "kfihRzSU3Og"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
-      "published_at": "2026-07-06T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV",
-      "summary": "In this commencement address to Columbia University's Fu Foundation School of Engineering and Applied Science Class of 2015, Ben Horowitz challenges some of the most common advice given to graduates. Rather than urging students to “follow their passion,” Horowitz argues that people should focus on developing their strengths and making meaningful contributions to the world. Drawing on stories from his own time at Columbia, the founding of technology companies, and investments in startups like Airbnb, he explores the importance of independent thinking, conviction, and pursuing ideas that others may initially dismiss. Along the way, Horowitz discusses technological progress, entrepreneurship, opportunity, and why he believes today's graduates are entering a world defined less by unprecedented challenges than by unprecedented possibilities. ee Resources: Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b22a6463-f0e1-44ae-a0c0-63bd483d2b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b22a6463-f0e1-44ae-a0c0-63bd483d2b9b&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
-      "source": "Capital Allocators",
-      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
     }
   ]
 }
