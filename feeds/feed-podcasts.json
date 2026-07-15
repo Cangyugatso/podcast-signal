@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-07-14T06:23:02.057271+00:00",
+  "generated_at": "2026-07-15T06:29:13.934222+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-07-14T23:54:07+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "summary": "a continuation: Codex adding 1M users a day now.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "published_at": "2026-07-14T23:21:21+00:00",
+      "url": "https://www.latent.space/p/aiewf26trends",
+      "summary": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
+      "published_at": "2026-07-14T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK",
+      "summary": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing. Gavin Baker, Managing Partner and CIO of Atreides Management, joins David George to examine the biggest questions surrounding today's AI investment cycle. Is AI a bubble? What does the unprecedented buildout of data centers, GPUs, and compute infrastructure mean for the economy? And how should investors think about the companies building the next generation of AI? The conversation explores frontier models, Nvidia, Google, custom silicon, AI infrastructure, application software, robotics, and why Baker believes today's AI investment cycle looks fundamentally different from the internet bubble of the early 2000s. Along the way, they discuss the economics of GPUs, enterprise software, AI business models, and what comes next as AI moves from experimentation into the broader economy. Resources: Follow Gavin Baker on X: https://x.com/GavinSBaker Follow Atreides Management on X: https://x.com/atreidesmgmt Follow David George on X: https://x.com/DavidGeorge83 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/44297d40-a3b7-4b37-8e5b-3fafa3243a05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=44297d40-a3b7-4b37-8e5b-3fafa3243a05&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
+      "published_at": "2026-07-14T08:00:00+00:00",
+      "url": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
+      "summary": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers. He was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars. He is also the author of The Tao of Fundraising. This conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital. Please enjoy my conversation with John Kim. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Introduction of John Kim (00:02:39) Money Moves at the Speed of Trust (00:05:06) How to Start a Fundraising Campaign (00:08:03) Persuasion Equals Desire Minus Fear (00:12:20) How to Raise a Few Billion Dollars (00:15:58) The Benchmark Story (00:18:36) The Law of Differentiation (00:24:13) Law of Tradeoffs and Law of Pipeline (00:27:52) The Karpman Drama Triangle (00:30:42) Oprah Winfrey (00:33:49) Most Common Fundraising Mistakes (00:38:35) Secretary of State (00:45:40) The Inner Game (00:47:38) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -23,7 +71,7 @@
       "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
       "published_at": "2026-07-13T22:07:00+00:00",
       "url": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
-      "summary": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Oracle powers AI at every scale—from frontier labs to enterprise production. Your data. Leading models. No lock-in. One platform, architected for AI. Built for business. Visit https://www.oracle.com/artificial-intelligence/ai-experience/?source=:ex:sn:::::AllIn&SC=:ex:sn:::::AllIn&pcode= Follow Mati: https://x.com/mati Follow Max: https://x.com/MaxJunestrand Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "summary": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Oracle powers AI at every scale—from frontier labs to enterprise production. Your data. Leading models. No lock-in. One platform, architected for AI. Built for business. Visit https://www.oracle.com/artificial-intelligence/ai-experience/?source=:ex:sn:::::AllIn&SC=:ex:sn:::::AllIn&pcode= Follow Mati: https://x.com/mati Follow Max: https://x.com/MaxJunestrand Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg And a special thank you to Raise Summit for hosting us in Paris",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
@@ -62,18 +110,6 @@
       "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, and why concepts developed decades before Bitcoin became the foundation for today's blockchain protocols. Along the way, Liskov reflects on the relationship between theory and practice, the importance of modularity and formal reasoning, and why AI is creating a new generation of systems research. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
-      "published_at": "2026-07-13T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
-      "summary": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018. Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and decision-making. We then turn to the application of those lessons at Altered Trajectory, including the evolution away from an endowment-style portfolio, balancing Dambisa's macro convictions with Jared's moonshot investing style, and positioning for long-term themes. Along the way, we discuss the challenge of investing through structural change while avoiding ideological thinking. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -161,18 +197,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "WTT: 5.5 Lessons at 55.5",
-      "published_at": "2026-07-10T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
-      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -233,30 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
-      "published_at": "2026-07-09T06:05:41+00:00",
-      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
-      "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
-      "published_at": "2026-07-08T22:55:07+00:00",
-      "url": "https://www.latent.space/p/modal2026",
-      "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
-      "audio_url": "https://api.substack.com/feed/podcast/205716015/df6332898c08341f79886bb62af7a458.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -267,30 +267,6 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is Software Losing Its Head?",
-      "published_at": "2026-07-07T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH",
-      "summary": "Seema Amble, Steven Sinofsky, and Elena Burger unpack one of the biggest questions facing enterprise software: what happens when AI agents become the primary users of software instead of humans? The conversation explores the rise of \"headless\" software, why APIs and agentic workflows are reshaping enterprise applications, and whether traditional SaaS products are becoming systems of record rather than systems of engagement. They discuss Salesforce's Headless 360 announcement, MCP, enterprise software architecture, and why AI may fundamentally change how businesses interact with their data. Along the way, they examine what actually makes enterprise software sticky, why replacing systems like SAP and Salesforce is harder than it appears, and where startups have the greatest opportunity as AI reshapes the software stack. Resources: Follow Seema Amble on X: https://x.com/seema_amble Follow Steven Sinofsky on X: https://x.com/stevesi Follow Elena Burger on X: https://x.com/VirtualElena Related Reading Is Software Losing Its Head? https://a16z.com/is-software-losing-its-head/ The Death of Software? Nah. https://a16z.com/death-of-software-nah/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fc912d16-715f-4956-bf42-2d0389333812/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fc912d16-715f-4956-bf42-2d0389333812&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
-      "published_at": "2026-07-07T08:00:00+00:00",
-      "url": "https://colossus.com/episode/posting-priests-private-markets/",
-      "summary": "My guest today is Jeremy Giffon. Jeremy has been on the show before as one of our most popular guests, and this conversation is every bit as enjoyable as the first. Over the last 18 months, Jeremy has had hundreds of conversations with founders and with the capital behind their companies. I don't know many investors with such a high rep count in the most interesting corners of private markets, so I asked him what he has learned. We talk about what those lessons mean for founders and investors, why everyone has become subservient to the poster class, the hidden intellectual history behind Silicon Valley and much more. Please enjoy my conversation with my friend, Jeremy Giffon. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Jeremy Giffon (00:02:34) Lessons from 18 Months of Founder Conversations (00:07:01) The Billion-Dollar PDF (00:08:13) The Unifeed & Rise of the Timeline (00:17:02) Power Law & Breakout Content (00:18:48) AI Algorithms Driving Content (00:20:38) Timeline-Native White House (00:21:09) Traits of Great Posters (00:25:27) Peak Guy & the Billionaire Priest Class (00:32:13) Billionaires Now Defer to Posters (00:34:52) Freedom vs. Relevance (00:38:53) AI & White-Collar Job Displacement (00:40:53) Stewarding Your Gifts as Moral Duty (00:43:18) Next Wave of Finance: Equity-First Firms (00:53:26) East Coast vs. West Coast Finance (00:55:34) Beating the Market Is Not That Hard (01:00:40) SPV Feudalism & Allocation (01:02:10) Egregious SPV Fee Structures (01:04:50) Simplicity vs. Complexity in Investing (01:07:15) Hiring: Attracting Differentiated Talent (01:11:00) Silicon Valley's Hidden Intellectual Traditions",
-      "audio_url": "https://traffic.megaphone.fm/CLS7913917793.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
   "errors": [
@@ -298,6 +274,11 @@
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "Capital Allocators",
+      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
     }
   ]
 }
