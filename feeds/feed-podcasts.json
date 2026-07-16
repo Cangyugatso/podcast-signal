@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-07-15T06:29:13.934222+00:00",
+  "generated_at": "2026-07-16T06:36:31.526886+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "published_at": "2026-07-16T06:18:05+00:00",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+      "published_at": "2026-07-15T20:55:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding",
+      "summary": "(0:00) Former Intel CEO Pat Gelsinger joins Jason! (1:41) What Went Wrong at Intel (15:19) Why a Taiwan Blockade Would Cripple the US Economy (25:00) Lovable's Anton Osika: One Million New Apps a Week (33:38) How Lovable is Bringing Down Builder Costs Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Plaud - If your work depends on conversations — meetings, deal flow, interviews, customer calls — Plaud helps you capture and organize everything with highly accurate AI-generated notes that are not just simple summaries, but also highlight pain points, key decisions, next steps, and customizable summary templates. Check out Plaud at https://plaud.ai/allin and use code ALLIN for up to 20% off! Which is also available on Amazon: https://amzn.to/43URLff (Code: ALLIN20X) Follow Pat: https://x.com/PGelsinger Follow Anton: https://x.com/antonosika Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg And a special thank you to Raise Summit for hosting us in Paris",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Paris_2_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+      "published_at": "2026-07-15T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure-zpJUqKwQ",
+      "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure. SemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Appenzeller, and Erik Torenberg to examine the rapidly evolving economics of AI hardware, from GPUs and custom silicon to data centers, power, and the global race for compute. The conversation explores NVIDIA's competitive advantages, the rise of custom chips from Google, Amazon, and Meta, the economics of frontier AI models, and the infrastructure constraints shaping the industry's next phase. They also discuss AI startups, export controls, robotics, enterprise software, and why simply copying NVIDIA isn't enough to build a winning AI hardware company. Whether you're building AI products, investing in infrastructure, or trying to understand where the industry is headed, this conversation offers a practical look at the forces shaping the future of compute. Resources: Follow Dylan Patel on X: https://x.com/dylan522p Follow Erin Price-Wright on X: https://x.com/espricewright Follow Guido Appenzeller on X: https://x.com/appenz Learn more about SemiAnalysis: https://semianalysis.com/dylan-patel/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7aeb5ddc-8c07-47ba-bc13-d0d95480ec93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7aeb5ddc-8c07-47ba-bc13-d0d95480ec93&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -113,6 +149,18 @@
       "source_type": "rss"
     },
     {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
+      "published_at": "2026-07-13T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
+      "summary": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018. Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and decision-making. We then turn to the application of those lessons at Altered Trajectory, including the evolution away from an endowment-style portfolio, balancing Dambisa's macro convictions with Jared's moonshot investing style, and positioning for long-term themes. Along the way, we discuss the challenge of investing through structural change while avoiding ideological thinking. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -197,15 +245,15 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
+      "source": "Capital Allocators",
+      "domain": "invest",
       "language": "en",
-      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
-      "published_at": "2026-07-10T06:19:40+00:00",
-      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
-      "summary": "A big day for OpenAI.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
+      "title": "WTT: 5.5 Lessons at 55.5",
+      "published_at": "2026-07-10T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
+      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -255,18 +303,6 @@
       "audio_url": "https://traffic.megaphone.fm/PDP8517369630.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
       "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Adam Neumann: This Is How You Build Iconic Companies",
-      "published_at": "2026-07-08T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
-      "summary": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow. Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live. The conversation explores resilience, company building, leadership, real estate, software, flexible living, and the global housing crisis. Along the way, Neumann discusses rebuilding trust, designing for community, and why some of the biggest entrepreneurial opportunities emerge from deeply personal experiences. Resources: Read Marc's blog post about Flow: https://a16z.com/announcement/flow/ Marc on X: https://x.com/pmarca Marc’s Substack: https://pmarca.substack.com/ Ben on X: https://x.com/bhorowitz Erik on X: https://x.com/eriktorenberg Erik's Substack: https://eriktorenberg.substack.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
     }
   ],
   "errors": [
@@ -274,11 +310,6 @@
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    },
-    {
-      "source": "Capital Allocators",
-      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
     }
   ]
 }
