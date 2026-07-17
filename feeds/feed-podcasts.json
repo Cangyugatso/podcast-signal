@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-07-16T06:36:31.526886+00:00",
+  "generated_at": "2026-07-17T06:28:29.160974+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "published_at": "2026-07-17T01:46:36+00:00",
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "summary": "a great week for open models continues.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+      "published_at": "2026-07-16T13:30:44+00:00",
+      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+      "summary": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
+      "audio_url": "https://api.substack.com/feed/podcast/207109360/88d62fa51249974837587c8b14999c5d.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Replay 2025: David Sacks on AI, Crypto, and America's Technology Future",
+      "published_at": "2026-07-16T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-2025-david-sacks-on-ai-crypto-and-americas-technology-future-g9dog_eR",
+      "summary": "As part of our summer replay series, we're revisiting one of our most-discussed conversations from the past year. David Sacks joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to discuss the intersection of AI, crypto, regulation, and American competitiveness. The conversation explores the Trump administration's approach to AI and crypto policy, open source AI, export controls, energy and infrastructure, the global race with China, and the role regulation plays in shaping innovation. They also discuss stablecoins, the future of AI development, permissionless innovation, and why they believe America's long-term advantage depends on enabling builders rather than slowing them down. Along the way, Sacks shares his perspective on AI safety, decentralized technology, federal versus state regulation, and what it will take for the U.S. to remain the global leader in emerging technologies. Resources: Follow David Sacks on X: https://x.com/DavidSacks Follow Marc Andreessen on X: https://x.com/pmarca Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64845277-3aab-4c82-8b99-d74cdb039bd2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64845277-3aab-4c82-8b99-d74cdb039bd2&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Roadmap for Private Credit from Australia – Frank Danieli of MA Financial Group (EP.511)",
+      "published_at": "2026-07-16T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/roadmap-for-private-credit-from-australia-frank-danieli-of-ma-financial-group-ep511",
+      "summary": "Frank Danieli is Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit. Our conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.S., the regulatory shift that pushed lending off bank balance sheets, the role of Australia's pension system, and MA Financial's strategy for building proprietary origination across the lending ecosystem. We then turn to MA Financial's investment process, including the separation of investment selection from portfolio management, red teams, war games, and rigorous stress testing. Along the way, Frank shares why sourcing - not fundraising - will define long-term winners, why private credit requires diversified balance sheets, and why portfolio management and risk management are the largest sources of alpha in the asset class. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.511_Frank_Danieli_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -86,18 +134,6 @@
       "summary": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers. He was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars. He is also the author of The Tao of Fundraising. This conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital. Please enjoy my conversation with John Kim. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Introduction of John Kim (00:02:39) Money Moves at the Speed of Trust (00:05:06) How to Start a Fundraising Campaign (00:08:03) Persuasion Equals Desire Minus Fear (00:12:20) How to Raise a Few Billion Dollars (00:15:58) The Benchmark Story (00:18:36) The Law of Differentiation (00:24:13) Law of Tradeoffs and Law of Pipeline (00:27:52) The Karpman Drama Triangle (00:30:42) Oprah Winfrey (00:33:49) Most Common Fundraising Mistakes (00:38:35) Secretary of State (00:45:40) The Inner Game (00:47:38) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
-      "published_at": "2026-07-14T01:22:27+00:00",
-      "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
-      "summary": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -185,18 +221,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-07-11T02:53:08+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
-      "summary": "a quiet day after a week of nonstop model releases",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -254,54 +278,6 @@
       "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
-      "published_at": "2026-07-10T01:26:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs",
-      "summary": "(0:00) The AI Buildout: Datacenters Bigger Than Cities (Andrew Feldman) (1:50) Reasoning, Inference, and Breaking Moore's Law (16:28) Open Source, AI Sovereignty, and the Road to AGI (40:54) The Innovation Behind Generative Video (Robin Rombach) (47:31) Martin Scorsese, Robots, and the Future of Hollywood IP Thanks to our partners for making this possible! AppLovin Ads - AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Nasdaq - Positioned at the nexus of technology and the capital markets, Nasdaq provides premier platforms and services for global capital markets and beyond with unmatched technology, insights and markets expertise. https://www.nasdaq.com/convergence-economy Follow Andrew: https://x.com/andrewdfeldman Follow Robin: https://x.com/robrombach Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-      "published_at": "2026-07-09T17:33:57+00:00",
-      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-      "summary": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
-      "audio_url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM",
-      "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year. Mark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Erik Torenberg to discuss the Chan Zuckerberg Initiative's ambitious effort to help cure, prevent, and manage disease by the end of the century. Rather than funding individual breakthroughs, CZI is focused on building the tools and infrastructure that can accelerate scientific discovery across entire fields. The conversation explores Biohub, Cell Atlas, virtual cell models, open biological datasets, and the growing role of AI in helping researchers better understand human biology. They discuss why biology still lacks a \"periodic table of elements,\" how AI could help scientists test hypotheses before running expensive experiments, and why pairing frontier biology with frontier AI may unlock a new era of medical discovery. Resources: Follow Mark Zuckerberg on X: https://x.com/finkd Follow Dr. Priscilla Chan on Instagram: https://www.instagram.com/priscillachan Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Vineeta Agarwala on X: https://x.com/vintweeta Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8004a844-38f5-42f0-ab54-b099f1fbed33/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8004a844-38f5-42f0-ab54-b099f1fbed33&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Travel Through the Lens of AI with with Booking.com CEO Glenn Fogel",
-      "published_at": "2026-07-09T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP8517369630.mp3",
-      "summary": "When Glenn Fogel joined Priceline in 2000, the business was worth a few hundred million dollars. One week later, the Nasdaq peaked, eventually sending its stock down to a dollar a share. But over 25 years later, Booking Holdings has scaled over 1000x into an over $100 billion dollar global travel behemoth. Elad Gil is joined by Booking Holdings CEO Glenn Fogel to discuss his career, from law school and Wall Street to working at Priceline through the dot-com crash, and to helping grow the business into a multifaceted, dynamic travel marketplace in the AI era. Glenn explains how leveraging AI and agents such as Priceline’s ‘Penny’ makes travel planning and customer service better, while emphasizing the importance of preserving some human support for some users. He also talks about Booking’s strategy of reinvesting over $700 million into AI and other technologies while still offering stock buybacks and dividends, the durability of their scale and complexities of dealing with a large portfolio physical properties across the world, and why upskilling is so important for employees amid concerns about AI-driven job displacement. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @bookingcom | @priceline Chapters: 00:00 – Cold Open 00:05 – Glenn Fogel Introduction 00:41 – Glenn’s Early Career 06:49 – Lessons from the Early Internet 09:24 – Deciding Factors for Exiting 10:56 – Travel Through the Lens of AI 13:30 – Agentic Travel Planning 18:59 – Agents, Token Economics, and ROI 22:46 – Booking’s Capital Investment Philosophy 25:23 – Scale as Durable Asset 29:40 – Purpose and Choosing Wisely 33:18 – AI’s Impact on Jobs 36:38 – Upskilling in the AI Era 38:36 – Public Perception of AI 40:24 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP8517369630.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
       "source_type": "rss"
     }
   ],
