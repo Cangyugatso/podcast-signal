@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-17T06:28:29.160974+00:00",
+  "generated_at": "2026-07-18T05:53:54.448298+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-07-18T04:30:21+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "summary": "a quiet day",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model",
+      "published_at": "2026-07-18T01:08:15+00:00",
+      "url": "https://www.youtube.com/watch?v=hPb3SESIjdU",
+      "summary": "A year ago, the big three was OpenAI, Anthropic, and Google. Things have changed. Moonshot's Kimi K3 sits above Gemini on every composite benchmark, and it's open source in 10 days. New episode: what K3 reveals about frontier margins, model sizes, and who's actually still in the game. 00:00 Intro 00:11 Is Kimi K3 the Third Best Model? 04:04 Why Delay the Weights? 05:30 2.8T Parameters and Serving Constraints 06:48 Frontier Margins and the 3x Price Hike 11:10 New Architecture, What Comes Next 14:09 Will Open Source Catch Closed? 19:51 Built for Chinese Accelerators 22:57 The Harness Is the Product 28:49 We're Still Early",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "hPb3SESIjdU"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "published_at": "2026-07-18T00:36:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
+      "summary": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, alleging stolen trade secrets (42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model (59:53) NY bans datacenters, becoming first state to enact a moratorium (1:22:57) Science Corner: New data on reversing aging! Adopt Ronnie the Dog: https://www.instagram.com/reels/Da0pGahBwaW Apply for All-In Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/chamath/status/2077502408528212144 https://x.com/demishassabis/status/2076957440109625718 https://x.com/satyanadella/status/2076323181154230284 https://x.com/Jason/status/2076231055443440105 https://x.com/SquawkCNBC/status/2077741908391031246 https://thinkingmachines.ai/news/introducing-inkling https://www.politico.com/news/2026/07/15/inside-anthropics-state-by-state-plan-to-ratchet-up-ai-rules-00998415 https://x.com/politico/status/2077315780144996633 https://x.com/DavidSacks/status/1978145266269077891 https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15 https://www.tipranks.com/news/the-fly/block-contributing-to-equity-for-paypal-takeover-bid-cnbc-says-thefly-news https://9to5mac.com/wp-content/uploads/sites/6/2026/07/Apple-Inc.-v.-Liu-et-al.pdf https://finance.yahoo.com/technology/ai/articles/apple-lawsuit-threatens-openais-hardware-215438163.html https://x.com/markgurman/status/2076306380583997665 https://www.engadget.com/2216186/elon-musk-bought-a-gas-turbine-company https://x.com/Reuters/status/2076957424339050839 https://x.com/teddyschleifer/status/2077596563380072694 https://x.com/teddyschleifer/status/2077606887055306879 https://openai.com/index/prc-linked-influence-operations-ai-debates https://www.politico.com/news/2026/06/10/openai-china-ai-data-centers-report-00957612 https://trends.google.com/explore?q=GMO%2C%2Fm%2F0dkz0z&date=2010-01-01%202026-07-15&geo=US https://www.nature.com/articles/s41467-026-75141-2",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Amjad Masad on Going Direct, Building Replit, and the Future of Software",
+      "published_at": "2026-07-17T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-going-direct-building-replit-and-the-future-of-software-bWWNM4zx",
+      "summary": "Recorded live at the New Media Summit, Erik Torenberg sits down with Replit founder and CEO Amjad Masad to discuss founder-led storytelling, building in public, and the role of media in company building. Masad reflects on Replit’s decade-long journey, including the years before the company’s recent breakout growth, and explains why communicating a vision can be just as important as executing on it. He argues that for many founders, especially those building ambitious products ahead of the market, telling a compelling story is often necessary to attract talent, capital, and early believers. The conversation explores social media, authenticity, public communication, company-building, and how founders can develop a voice that resonates beyond their product. Along the way, Masad shares lessons from building Replit, navigating controversy, and why he believes founders should think carefully about when to go direct and what story they're trying to tell. Resources: Follow Amjad Masad on X: https://x.com/amasad Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab1988f6-4530-47ee-96b0-1256d5af49f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab1988f6-4530-47ee-96b0-1256d5af49f6&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -15,6 +64,32 @@
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Introducing STEEL — SemiAnalysis Teardown Engineering & Evaluation Lab",
+      "published_at": "2026-07-16T21:01:09+00:00",
+      "url": "https://www.youtube.com/shorts/NWKIhGwvvak",
+      "summary": "Everyone has takes on SMIC. We have die shots. Introducing STEEL — SemiAnalysis Teardown Engineering & Evaluation Lab. From the box to the bare die: materials, process, integration, every piece of the puzzle. They want the impossible? We'll make it possible. They want cutting edge? We're on the edge. Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NWKIhGwvvak"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 019 - Inside the STEEL Lab: From Package to Transistor (Teardown Lab)",
+      "published_at": "2026-07-16T21:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=ntiSw-86IN8",
+      "summary": "SMIC's N+3 node shrank the M0 layer over 15% and cut SRAM area 10 to 20%, all without EUV. SemiAnalysis built a lab just for that; Andrew Wagner and Afzal Ahmad walk Jordan Nanos (@JordanNanos) through the STEEL teardown of Huawei's Kirin 9030, from package to transistor. They explain die shots, FIB and TEM cross sections, NPU discovery, cell height, and standard cell libraries. Then backside power, GAA, and where SMIC goes next. 00:00 Intro: The STEEL Teardown Lab 01:02 What Is a Teardown? 02:17 Who Uses Teardown Data 03:22 SMIC N+3 and the Kirin 9030 05:02 Inside the Lab: Sourcing to Silicon 09:10 Die Shots Explained 12:35 The NPU Discovery 15:42 Scaling Without EUV 17:57 FIB, SEM, and TEM Cross Sections 20:59 Cell Height and Transistor Shrink 23:56 Standard Cell Libraries 26:22 Export Bans and Huawei's Response 27:40 What's Next: Backside Power and GAA 32:43 Data Center GPUs and Logic Folding 34:28 Closing Thoughts Read More: https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "ntiSw-86IN8"
     },
     {
       "source": "Latent Space",
@@ -65,6 +140,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Training a 400B Model on 2,048 Blackwell GPUs for $20M | Researcher Conversations at GTC",
+      "published_at": "2026-07-15T23:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=t0FvVSiasHg",
+      "summary": "Kimbo Chen sits down with Lucas Atkins, CTO at Arcee AI, to discuss open-weight LLMs, the Trinity model, and why a Western pretraining lab still matters. Lucas dives into training Trinity Large, 400 billion parameters, on 2,048 Blackwell GPUs across six months for $20 million. Researcher Conversations is a live interview series recorded on-site at NVIDIA GTC 2026 in San Jose, produced by SemiAnalysis in partnership with SAIL and Makora. Technical deep-dives with the researchers, founders, and engineers building the future of AI compute. CHAPTERS (00:00) Meet Lucas Atkins of Arcee (00:47) Why build a pre-training lab (05:36) The case for open weights (09:52) Open research and compounding breakthroughs (12:00) Competing on talent versus compute (16:15) Undercutting frontier labs, not catching up (19:13) Naming the Trinity series (20:23) Training on Nvidia B300 clusters",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "t0FvVSiasHg"
+    },
+    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -101,16 +189,17 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
+      "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "published_at": "2026-07-14T23:21:21+00:00",
-      "url": "https://www.latent.space/p/aiewf26trends",
-      "summary": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+      "title": "Supermicro CBO on Building AI at Scale",
+      "published_at": "2026-07-14T16:40:07+00:00",
+      "url": "https://www.youtube.com/shorts/F8nO8ldG1rg",
+      "summary": "Dylan Patel talks with Supermicro CBO Vik Malyala on AMD Helios, NVIDIA Vera Rubin, double-wide racks, liquid cooling, and the storage shift reshaping AI infrastructure. Subscribe for more. #AI #semiconductors #datacenter #shorts",
       "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "F8nO8ldG1rg"
     },
     {
       "source": "a16z",
@@ -219,73 +308,7 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-      "published_at": "2026-07-11T02:12:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts",
-      "summary": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg! (2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence (27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly (54:29) CCP considering putting export controls on Chinese models, is open source ending in China? (1:03:09) Trump Accounts launch, getting young Americans bought back into capitalism Apply for Summit 2026: https://allin.com/events Follow Brad: ttps://x.com/altcap Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://polymarket.com/event/ipos-before-2027 https://x.com/thejessezhang/status/2074154325933424861 https://x.com/praveenTweets/status/2074605343439810922 https://x.com/nikesharora/status/2074802778074124434 https://x.com/nikesharora/status/2074814752174522857 https://x.com/brian_armstrong/status/2070670644577280109 https://x.com/andyfang/status/2074252174226493584 https://x.com/nikesharora/status/2074630732019036574 https://x.com/finkd/status/2075218444056707458 https://x.com/alighodsi/status/2074996561306955958 https://blog.nicolasmeridjen.com/en/blog/2026-04-03-alibaba-qwen-closed-source-end-of-open-weight https://www.chinatalk.media/p/chinas-ai-companies-are-going-closed https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07 https://x.com/KurtSupeCPA/thread/2074817292550984010",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E280_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Adam Brown – A deep but accessible introduction to general relativity",
-      "published_at": "2026-07-10T16:23:56+00:00",
-      "url": "https://www.dwarkesh.com/p/adam-brown-gr",
-      "summary": "And why black holes are the ultimate power plants.",
-      "audio_url": "https://api.substack.com/feed/podcast/206445844/faa55a6705208b2496c98fb2dffb24d0.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Understanding the inner thoughts of AI",
-      "published_at": "2026-07-10T15:50:06+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Neel and his team are trying to do something phenomenally difficult: understand an intelligence that didn't come with a manual. Together, they explore the cutting-edge \"neuroscience\" of artificial intelligence—revealing the surprising, elegant structures being discovered inside these networks (like spare autoencoders), the inherent limits of looking under the hood, and why interpretability is absolutely essential if we are to build safe, aligned and trustworthy AI as we move towards AGI. Learn more about this area of research via https://deepmind.google/ Timecodes 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/d9f67ae3-d4f2-4dbc-aaed-a71adac28c24/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=d9f67ae3-d4f2-4dbc-aaed-a71adac28c24&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Bitcoin Rewired a Classic Computer Science Problem",
-      "published_at": "2026-07-10T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b",
-      "summary": "We're excited to share a special feed drop from The a16z Crypto Show. In the first episode of First Principles: The Scientific Roots of Blockchain Technology , Tim Roughgarden and Ittai Abraham trace the decades of computer science research that laid the foundation for modern blockchains. Long before Bitcoin, researchers were studying one of distributed computing's hardest challenges: how independent machines can reliably agree on a shared state, even when some participants are faulty or malicious. Bitcoin didn't invent that problem, but it introduced a breakthrough solution in a radically different, permissionless setting. The conversation explores Byzantine agreement, state machine replication, proof of work, proof of stake, Tendermint, Casper, DAG-based protocols, and why concepts developed decades ago continue to shape the design of today's fastest and most secure blockchain networks. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/137beb9b-798a-40a2-a14f-cb3043ce5521/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=137beb9b-798a-40a2-a14f-cb3043ce5521&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "WTT: 5.5 Lessons at 55.5",
-      "published_at": "2026-07-10T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/wtt-55-lessons-at-55",
-      "summary": "This WTT, 5.5 Lessons at 55.5 reflects on what five-and-a-half decades of investing, podcasting, and mistakes have taught me about people, markets, and myself. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_WTT_-_5.5_at_55.5_-_AUDIO_V3.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
