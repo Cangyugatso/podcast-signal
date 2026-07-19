@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-07-18T05:53:54.448298+00:00",
+  "generated_at": "2026-07-19T07:17:44.901008+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+      "published_at": "2026-07-18T17:04:04+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+      "summary": "Community Wisdom 194",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -294,18 +306,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
       "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
       "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
-      "published_at": "2026-07-11T16:40:58+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
-      "summary": "Community Wisdom 193",
-      "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
