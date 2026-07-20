@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-19T07:17:44.901008+00:00",
+  "generated_at": "2026-07-20T08:28:55.304673+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Senior Decision Makers: Luis Laboy, Hewlett Foundation (EP.512)",
+      "published_at": "2026-07-20T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/senior-decision-makers-luis-laboy-hewlett-foundation-ep512",
+      "summary": "Our next guest on the Senior Decision Makers series is Luis Laboy, Director of Public Equity at the Hewlett Foundation, where he's spent the last decade running the public equity book alongside CIO Ana Marshall — a mentor and colleague he first met nearly thirty years ago. The foundation's assets stand at roughly $14 billion today. Luis spent fifteen years as a direct emerging markets investor at Everest Capital before crossing to the LP side, and our conversation digs into how he's leveraged that experience as an allocator. We discuss how the cadence and depth of decision-making changed when he went from a high-turnover book at Everest to a handful of high-conviction relationships at Hewlett, how his time split between portfolio construction and manager selection has evolved over, and how his time marketing the fund shaped the way he interviews managers and thinks about turnover. Luis is incredibly insightful about how his early interests and upbringing have shone through across his career. He thinks and speaks in analogies, he's wildly entertaining, and — in short — he's just a genuinely good dude, and that comes through in spades in our conversation. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.512_SDM_Luis_Laboy_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+      "published_at": "2026-07-19T12:31:21+00:00",
+      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+      "summary": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
+      "audio_url": "https://api.substack.com/feed/podcast/205675851/7c9d212495d749dbb630c4880d920182.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -283,30 +307,6 @@
       "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, and why concepts developed decades before Bitcoin became the foundation for today's blockchain protocols. Along the way, Liskov reflects on the relationship between theory and practice, the importance of modularity and formal reasoning, and why AI is creating a new generation of systems research. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Economic Growth, Governance, and Capital Allocation – Dambisa Moyo (EP.410)",
-      "published_at": "2026-07-13T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/economic-growth-governance-and-capital-allocation-dambisa-moyo-ep410",
-      "summary": "Baroness Dambisa Moyo is a global economist, author, board member, and investor who sits at the intersection of public policy, corporate governance, and capital allocation. Dambisa serves in the U.K. House of Lords, sits on the boards of Chevron, Starbucks, Condé Nast, and Oxford University's investment committee, is Chair of the Economic Club of New York, and oversees Altered Trajectory alongside her husband, Jared Smith, the family office formed after his sale of Qualtrics in 2018. Our conversation traces Dambisa's journey from growing up in Zambia to becoming a leading voice on global economic development and governance. We discuss how her experiences across more than 80 countries and on the boards of four global companies shaped her judgment on economic growth, governance, and decision-making. We then turn to the application of those lessons at Altered Trajectory, including the evolution away from an endowment-style portfolio, balancing Dambisa's macro convictions with Jared's moonshot investing style, and positioning for long-term themes. Along the way, we discuss the challenge of investing through structural change while avoiding ideological thinking. Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.510_Dambisa_Moyo_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
-      "published_at": "2026-07-12T12:32:14+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
-      "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
-      "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
