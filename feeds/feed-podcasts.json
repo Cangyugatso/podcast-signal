@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-07-20T08:28:55.304673+00:00",
+  "generated_at": "2026-07-21T07:42:05.285175+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-07-21T03:58:00+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+      "summary": "a quiet day.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Hugging Face's CEO on Open Source AI, Model Routing, and the Future of Competition",
+      "published_at": "2026-07-20T17:08:39+00:00",
+      "url": "https://a16z.simplecast.com/episodes/hugging-faces-ceo-on-open-source-ai-model-routing-and-the-future-of-competition-qEt3voqD",
+      "summary": "As governments weigh new restrictions on frontier AI models, one question is becoming increasingly important: what role should open source play in the future of artificial intelligence? Theo Jaffee and Sofia Puccini speak with Hugging Face CEO Clément Delangue about AI regulation, open source safety, model routing, and why he believes competition—not consolidation—is essential for the industry's future. They discuss GPT-5, government oversight of frontier models, Hugging Face surpassing $100 million in annual recurring revenue, local AI, China's open-source ecosystem, Europe's AI ambitions, and why routing workloads across specialized models could fundamentally reshape where value is created in AI. Resources: Follow Clément Delangue on X: https://x.com/ClementDelangue Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d484c2c-9bfb-4dbf-8019-9b1c8750d33c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d484c2c-9bfb-4dbf-8019-9b1c8750d33c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+      "published_at": "2026-07-20T15:01:56+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Did China just beat Intel?",
+      "published_at": "2026-07-20T14:00:33+00:00",
+      "url": "https://www.youtube.com/watch?v=NAbpjiQNUMs",
+      "summary": "SMIC 7nm N+3 vs TSMC N6 & Intel 18A: How good are Chinese nodes really? We tore down a Kirin 9030 to find out! STEEL teardown article: https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NAbpjiQNUMs"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "published_at": "2026-07-20T12:04:47+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "summary": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
+      "audio_url": "https://api.substack.com/feed/podcast/207355289/37ca9e348cb5cb291449aaa2c86d2637.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Capital Allocators",
       "domain": "invest",
@@ -20,7 +81,7 @@
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
-      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+      "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
       "published_at": "2026-07-19T12:31:21+00:00",
       "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
       "summary": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
@@ -213,31 +274,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-07-14T23:54:07+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
-      "summary": "a continuation: Codex adding 1M users a day now.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Supermicro CBO on Building AI at Scale",
-      "published_at": "2026-07-14T16:40:07+00:00",
-      "url": "https://www.youtube.com/shorts/F8nO8ldG1rg",
-      "summary": "Dylan Patel talks with Supermicro CBO Vik Malyala on AMD Helios, NVIDIA Vera Rubin, double-wide racks, liquid cooling, and the storage shift reshaping AI infrastructure. Subscribe for more. #AI #semiconductors #datacenter #shorts",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "F8nO8ldG1rg"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -259,54 +295,6 @@
       "summary": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers. He was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars. He is also the author of The Tao of Fundraising. This conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital. Please enjoy my conversation with John Kim. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Introduction of John Kim (00:02:39) Money Moves at the Speed of Trust (00:05:06) How to Start a Fundraising Campaign (00:08:03) Persuasion Equals Desire Minus Fear (00:12:20) How to Raise a Few Billion Dollars (00:15:58) The Benchmark Story (00:18:36) The Law of Differentiation (00:24:13) Law of Tradeoffs and Law of Pipeline (00:27:52) The Karpman Drama Triangle (00:30:42) Oprah Winfrey (00:33:49) Most Common Fundraising Mistakes (00:38:35) Secretary of State (00:45:40) The Inner Game (00:47:38) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
-      "published_at": "2026-07-13T22:07:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
-      "summary": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs (15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic (31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour (42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Oracle powers AI at every scale—from frontier labs to enterprise production. Your data. Leading models. No lock-in. One platform, architected for AI. Built for business. Visit https://www.oracle.com/artificial-intelligence/ai-experience/?source=:ex:sn:::::AllIn&SC=:ex:sn:::::AllIn&pcode= Follow Mati: https://x.com/mati Follow Max: https://x.com/MaxJunestrand Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg And a special thank you to Raise Summit for hosting us in Paris",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/1_Paris_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-      "published_at": "2026-07-13T15:02:17+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
-      "published_at": "2026-07-13T12:05:20+00:00",
-      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
-      "summary": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
-      "audio_url": "https://api.substack.com/feed/podcast/205689325/b872277f3a2dbf756729413f4210989b.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Before Blockchains, There Was State Machine Replication",
-      "published_at": "2026-07-13T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC",
-      "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, and why concepts developed decades before Bitcoin became the foundation for today's blockchain protocols. Along the way, Liskov reflects on the relationship between theory and practice, the importance of modularity and formal reasoning, and why AI is creating a new generation of systems research. Resources: Follow Tim Roughgarden on X: https://x.com/Tim_Roughgarden Follow Ittai Abraham on X: https://x.com/ittaia Follow a16z Crypto on X: https://x.com/a16zcrypto Subscribe to The a16z Crypto Show: https://a16zcrypto.substack.com/subscribe/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
