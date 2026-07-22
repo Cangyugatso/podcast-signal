@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-07-21T07:42:05.285175+00:00",
+  "generated_at": "2026-07-22T07:42:25.665766+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AI Cybersecurity becomes top of mind",
+      "published_at": "2026-07-22T03:27:29+00:00",
+      "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+      "summary": "Several new Cyber headlines make us observe a trend",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 020 - Anthropic vs OpenAI Usage, Margins, Meta Compute, Future of MSL (Tokenomics)",
+      "published_at": "2026-07-22T01:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=uLeUpgllI-4",
+      "summary": "Coding drives over 70% of lab API revenue, and token austerity policies mostly miss the point. Crystal (@crystalthegg), Max Kan (@maxkan), and Joey Brookhart (@SaasquatchC) break down why blocking teams from Opus saves nothing, while power users at the 99th percentile burn $100k per employee per year. Jordan (@Jordannanos) and the team run break-even math on the Max plans and Anthropic's margins. 00:00 Intro 00:53 Token Budgeting: Maxing vs Austerity 03:05 Coding Eats the Token Market 04:49 The ROI Question 06:42 Subscriptions vs API Pricing 09:08 Break-Even Math on the Max Plans 10:42 Anthropic's Profit Margins 12:07 Consumer vs Enterprise Mix 16:04 The Two-Horse Race 18:45 Codex App vs CLI 20:41 Who Comes in Third? 23:14 Clawbacks and the SpaceX Playbook 26:59 Meta's NeoCloud Backstop 29:58 Token-as-a-Service Market Forecast 32:03 Hyperscalers vs Inference Startups 38:50 MSL and the RL Scaling Law 41:58 How to Build a Five-Figure RL Task 47:10 Vibe Checks 48:13 The $400B Anthropic Bet Referenced: TokenBudgeting: Our Conversations with Enterprises on Token Spend: https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations Meta Compute: Everyone Wants To Be A Neocloud: https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak: https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the The Future of Meta Superintelligence: A 1 Year Progress Update: https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence Complete Launch Kit",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "uLeUpgllI-4"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+      "published_at": "2026-07-21T19:34:06+00:00",
+      "url": "https://www.latent.space/p/xaira",
+      "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
+      "audio_url": "https://api.substack.com/feed/podcast/207941607/6f355666c408aef162923ead7724868f.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Physical AI Is the Next Frontier | Applied Intuition",
+      "published_at": "2026-07-21T15:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-physical-ai-is-the-next-frontier-applied-intuition-VEkcnJm1",
+      "summary": "Applied Intuition has spent the past decade building the software that powers intelligent machines, from passenger vehicles and trucks to defense systems, mining equipment, and industrial robots. In this conversation, Marc Andreessen and Erik Torenberg sit down with Applied Intuition cofounders Qasar Younis and Peter Ludwig to discuss the emergence of physical AI and the company's latest launch, Dana, a new platform designed to accelerate the development of autonomous systems. They explore autonomous vehicles, robotics, world models, simulation, AI infrastructure, and the engineering challenges of deploying intelligence safely in the physical world. Along the way, they discuss self-driving cars, humanoid robots, global competition, and why lowering the barrier to building physical AI could unlock an entirely new generation of products and companies. Resources: Follow Qasar Younis on X: https://x.com/qasar Follow Peter Ludwig on LinkedIn: linkedin.com/in/peterwludwig Follow Marc Andreessen on X: https://x.com/pmarca Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6addce00-a7d2-4302-848f-6d96ff487d8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6addce00-a7d2-4302-848f-6d96ff487d8c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why a sabbatical can change everything",
+      "published_at": "2026-07-21T12:45:10+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+      "summary": "How to take Big Time Off",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
+      "published_at": "2026-07-21T08:00:00+00:00",
+      "url": "https://colossus.com/episode/americas-next-energy-crisis/",
+      "summary": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure. For the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share. Starting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. By his math, the US could exhaust its working natural gas storage by 2030. In his words, the upside risk to prices becomes unbounded and convex. We talk about why this was set in motion long before AI arrived, why the US can't just turn off exports, who wins and loses among producers, nuclear, solar, and the hyperscalers, and what he sees as the only long-term solution. Please enjoy my conversation with Matthew Smith. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- In June, Matthew wrote a letter to a small group of confidants laying out the full case behind his natural gas forecast. He has allowed us to publish it. You can read the full letter here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:02) Episode Intro: Matt Smith (00:03:33) The Conclusion After 18 Months (00:04:56) The Die Was Cast Before AI (00:07:24) Sizing AI's Gas Demand (00:09:33) Why Not Just Stop Exporting? (00:11:38) Is the Gas Even There? (00:13:53) The Timing Problem, Not Supply (00:15:15) Flow Versus Stock (00:19:10) What Slows Gas to Market (00:22:21) If Nothing Changes by 2030 (00:26:11) Could Prices Hit Twenty Dollars? (00:27:00) Gas Producers Poised to Win (00:28:54) Utility-Scale Solar's Windfall (00:30:08) What About Nuclear? (00:32:40) SMRs (00:34:29) The US Consumer Pays (00:36:37) Turbine Makers Building Too Late (00:37:57) Are Hyperscalers Exposed Too? (00:44:25) Kickstarting the Nuclear Build (00:46:20) Put Solar on Every Roof (00:46:52) Implications for the World (00:49:26) No One's Securing Supply (00:52:57) The Challenge for Energy CEOs",
+      "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -14,6 +87,18 @@
       "summary": "a quiet day.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+      "published_at": "2026-07-20T18:51:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out",
+      "summary": "(0:00) Bubble talk: Comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than expected (16:38) Transitioning to an AI-First Workspace (21:26) Health & AI: self-directed healthcare and biometric data (24:30) Politics, wealth tax, and AI as a truth-seeking force (35:12) Knicks & Sports Talk Thanks to our partners for making this possible! AppLovin Ads — AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow Mark: https://x.com/mcuban Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     },
     {
@@ -189,18 +274,6 @@
       "video_id": "ntiSw-86IN8"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
-      "published_at": "2026-07-16T13:30:44+00:00",
-      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-      "summary": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
-      "audio_url": "https://api.substack.com/feed/podcast/207109360/88d62fa51249974837587c8b14999c5d.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -225,31 +298,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "published_at": "2026-07-16T06:18:05+00:00",
-      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Training a 400B Model on 2,048 Blackwell GPUs for $20M | Researcher Conversations at GTC",
-      "published_at": "2026-07-15T23:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=t0FvVSiasHg",
-      "summary": "Kimbo Chen sits down with Lucas Atkins, CTO at Arcee AI, to discuss open-weight LLMs, the Trinity model, and why a Western pretraining lab still matters. Lucas dives into training Trinity Large, 400 billion parameters, on 2,048 Blackwell GPUs across six months for $20 million. Researcher Conversations is a live interview series recorded on-site at NVIDIA GTC 2026 in San Jose, produced by SemiAnalysis in partnership with SAIL and Makora. Technical deep-dives with the researchers, founders, and engineers building the future of AI compute. CHAPTERS (00:00) Meet Lucas Atkins of Arcee (00:47) Why build a pre-training lab (05:36) The case for open weights (09:52) Open research and compounding breakthroughs (12:00) Competing on talent versus compute (16:15) Undercutting frontier labs, not catching up (19:13) Naming the Trinity series (20:23) Training on Nvidia B300 clusters",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "t0FvVSiasHg"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -271,30 +319,6 @@
       "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure. SemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Appenzeller, and Erik Torenberg to examine the rapidly evolving economics of AI hardware, from GPUs and custom silicon to data centers, power, and the global race for compute. The conversation explores NVIDIA's competitive advantages, the rise of custom chips from Google, Amazon, and Meta, the economics of frontier AI models, and the infrastructure constraints shaping the industry's next phase. They also discuss AI startups, export controls, robotics, enterprise software, and why simply copying NVIDIA isn't enough to build a winning AI hardware company. Whether you're building AI products, investing in infrastructure, or trying to understand where the industry is headed, this conversation offers a practical look at the forces shaping the future of compute. Resources: Follow Dylan Patel on X: https://x.com/dylan522p Follow Erin Price-Wright on X: https://x.com/espricewright Follow Guido Appenzeller on X: https://x.com/appenz Learn more about SemiAnalysis: https://semianalysis.com/dylan-patel/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7aeb5ddc-8c07-47ba-bc13-d0d95480ec93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7aeb5ddc-8c07-47ba-bc13-d0d95480ec93&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
-      "published_at": "2026-07-14T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK",
-      "summary": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing. Gavin Baker, Managing Partner and CIO of Atreides Management, joins David George to examine the biggest questions surrounding today's AI investment cycle. Is AI a bubble? What does the unprecedented buildout of data centers, GPUs, and compute infrastructure mean for the economy? And how should investors think about the companies building the next generation of AI? The conversation explores frontier models, Nvidia, Google, custom silicon, AI infrastructure, application software, robotics, and why Baker believes today's AI investment cycle looks fundamentally different from the internet bubble of the early 2000s. Along the way, they discuss the economics of GPUs, enterprise software, AI business models, and what comes next as AI moves from experimentation into the broader economy. Resources: Follow Gavin Baker on X: https://x.com/GavinSBaker Follow Atreides Management on X: https://x.com/atreidesmgmt Follow David George on X: https://x.com/DavidGeorge83 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/44297d40-a3b7-4b37-8e5b-3fafa3243a05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=44297d40-a3b7-4b37-8e5b-3fafa3243a05&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
-      "published_at": "2026-07-14T08:00:00+00:00",
-      "url": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
-      "summary": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers. He was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars. He is also the author of The Tao of Fundraising. This conversation is really a guide on how to raise money from someone who has done it at the highest level. We talk about why persuasion equals desire minus fear, the difference between belief and trust, the laws of fundraising, and how to build the consensus that moves big pools of capital. Please enjoy my conversation with John Kim. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Introduction of John Kim (00:02:39) Money Moves at the Speed of Trust (00:05:06) How to Start a Fundraising Campaign (00:08:03) Persuasion Equals Desire Minus Fear (00:12:20) How to Raise a Few Billion Dollars (00:15:58) The Benchmark Story (00:18:36) The Law of Differentiation (00:24:13) Law of Tradeoffs and Law of Pipeline (00:27:52) The Karpman Drama Triangle (00:30:42) Oprah Winfrey (00:33:49) Most Common Fundraising Mistakes (00:38:35) Secretary of State (00:45:40) The Inner Game (00:47:38) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS8349497052.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
