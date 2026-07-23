@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-07-22T07:42:25.665766+00:00",
+  "generated_at": "2026-07-23T07:44:07.434819+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 26,
   "podcasts": [
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Inside Artisan's International Value Fund with Portfolio Manager David Samra",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Inside-Artisans-International-Value-Fund-with-Portfolio-Manager-David-Samra-e3mdl34",
+      "summary": "Artisan Partners is a global multi-asset investment platform providing a broad range of high value-added investment strategies in growing asset classes to sophisticated clients around the world. Since the firm’s founding, Artisan Partners has built its business based upon a consistent philosophy and business model. Learn more at www.artisanpartners.com. Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO2306329837.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "published_at": "2026-07-23T05:18:47+00:00",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "summary": "a quiet day lets us highlight a new neolab win.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "published_at": "2026-07-23T05:09:14+00:00",
+      "url": "https://www.latent.space/p/poolside",
+      "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+      "audio_url": "https://api.substack.com/feed/podcast/208082176/150a7023faa153b1393ccb518c6ff305.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Travis Kalanick Is Back | Building the Future of Industrial AI",
+      "published_at": "2026-07-22T21:26:58+00:00",
+      "url": "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f",
+      "summary": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies beyond software. They discuss the lessons of building Uber, the value of founder-led companies, and why Kalanick spent nearly eight years quietly building Atoms before stepping back into the spotlight. The conversation explores industrial AI, robotics, autonomy, mining, food production, and Kalanick's vision for digitizing the physical world, where software, manufacturing, real estate, and transportation come together to transform entire industries. Resources: Follow Travis Kalanick on X: https://x.com/travisk Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7df3742f-0af5-4d91-8c95-0326649283a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7df3742f-0af5-4d91-8c95-0326649283a1&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Computer and browser use in Codex (5 real examples)",
+      "published_at": "2026-07-22T12:03:38+00:00",
+      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+      "summary": "Watch now | 🎙️ I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
+      "audio_url": "https://api.substack.com/feed/podcast/207953544/6d747defe32ee7f9e1cbcba69f37672a.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -175,30 +235,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-      "published_at": "2026-07-18T17:04:04+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-      "summary": "Community Wisdom 194",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-07-18T04:30:21+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
-      "summary": "a quiet day",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -233,18 +269,6 @@
       "summary": "Recorded live at the New Media Summit, Erik Torenberg sits down with Replit founder and CEO Amjad Masad to discuss founder-led storytelling, building in public, and the role of media in company building. Masad reflects on Replit’s decade-long journey, including the years before the company’s recent breakout growth, and explains why communicating a vision can be just as important as executing on it. He argues that for many founders, especially those building ambitious products ahead of the market, telling a compelling story is often necessary to attract talent, capital, and early believers. The conversation explores social media, authenticity, public communication, company-building, and how founders can develop a voice that resonates beyond their product. Along the way, Masad shares lessons from building Replit, navigating controversy, and why he believes founders should think carefully about when to go direct and what story they're trying to tell. Resources: Follow Amjad Masad on X: https://x.com/amasad Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab1988f6-4530-47ee-96b0-1256d5af49f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab1988f6-4530-47ee-96b0-1256d5af49f6&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
-      "published_at": "2026-07-17T01:46:36+00:00",
-      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
-      "summary": "a great week for open models continues.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -295,30 +319,6 @@
       "summary": "Frank Danieli is Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit. Our conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.S., the regulatory shift that pushed lending off bank balance sheets, the role of Australia's pension system, and MA Financial's strategy for building proprietary origination across the lending ecosystem. We then turn to MA Financial's investment process, including the separation of investment selection from portfolio management, red teams, war games, and rigorous stress testing. Along the way, Frank shares why sourcing - not fundraising - will define long-term winners, why private credit requires diversified balance sheets, and why portfolio management and risk management are the largest sources of alpha in the asset class. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.511_Frank_Danieli_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
-      "published_at": "2026-07-15T20:55:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding",
-      "summary": "(0:00) Former Intel CEO Pat Gelsinger joins Jason! (1:41) What Went Wrong at Intel (15:19) Why a Taiwan Blockade Would Cripple the US Economy (25:00) Lovable's Anton Osika: One Million New Apps a Week (33:38) How Lovable is Bringing Down Builder Costs Thanks to our partners for making this possible! Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://airwallex.com/allin Plaud - If your work depends on conversations — meetings, deal flow, interviews, customer calls — Plaud helps you capture and organize everything with highly accurate AI-generated notes that are not just simple summaries, but also highlight pain points, key decisions, next steps, and customizable summary templates. Check out Plaud at https://plaud.ai/allin and use code ALLIN for up to 20% off! Which is also available on Amazon: https://amzn.to/43URLff (Code: ALLIN20X) Follow Pat: https://x.com/PGelsinger Follow Anton: https://x.com/antonosika Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg And a special thank you to Raise Summit for hosting us in Paris",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Paris_2_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
-      "published_at": "2026-07-15T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure-zpJUqKwQ",
-      "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure. SemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Appenzeller, and Erik Torenberg to examine the rapidly evolving economics of AI hardware, from GPUs and custom silicon to data centers, power, and the global race for compute. The conversation explores NVIDIA's competitive advantages, the rise of custom chips from Google, Amazon, and Meta, the economics of frontier AI models, and the infrastructure constraints shaping the industry's next phase. They also discuss AI startups, export controls, robotics, enterprise software, and why simply copying NVIDIA isn't enough to build a winning AI hardware company. Whether you're building AI products, investing in infrastructure, or trying to understand where the industry is headed, this conversation offers a practical look at the forces shaping the future of compute. Resources: Follow Dylan Patel on X: https://x.com/dylan522p Follow Erin Price-Wright on X: https://x.com/espricewright Follow Guido Appenzeller on X: https://x.com/appenz Learn more about SemiAnalysis: https://semianalysis.com/dylan-patel/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7aeb5ddc-8c07-47ba-bc13-d0d95480ec93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7aeb5ddc-8c07-47ba-bc13-d0d95480ec93&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
