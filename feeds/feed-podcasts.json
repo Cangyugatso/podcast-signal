@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-07-23T07:44:07.434819+00:00",
+  "generated_at": "2026-07-24T07:41:14.309608+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "published_at": "2026-07-24T04:30:12+00:00",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "summary": "A HUGE win for BFL!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)",
+      "published_at": "2026-07-23T22:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=0YOf6QTCNuY",
+      "summary": "AI and datacenter CapEx hits $11 trillion cumulatively from 2024 to 2029, and $7.1 trillion of that needs funding, roughly 75% debt financed. Dan Nishball (@dnishball), Zane Fong (linkedin.com/in/zanefongzq), and Kang Wen Cheang (linkedin.com/in/cheangkangwen) sit with Jordan Nanos (@JordanNanos) to break down the AI project Trinity: capital, offtake, and data centers. Today only one deal reliably clears the lending bar, a five-year offtake from an investment-grade hyperscaler. Everything else struggles to finance. The crew explains how NVIDIA backstops are structured, how lenders price GPU loans against them, and what NVIDIA actually does with GPUs it takes back. AI debt financing is on track to become the second-largest US asset-backed market behind the $13 trillion mortgage market. Subscribe for weekly analysis on semiconductors and AI infrastructure. References: https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes CHAPTERS: 00:00 Intro 01:23 The $11T Funding Problem 09:12 Startups Can't Get GPUs 11:32 How the Backstop Works 20:26 The Central Bank of AI 21:35 The Bullseye 26:23 CoreWeave Credit Spreads 36:58 APAC Examples 42:41 ClusterMax 48:58 Training vs Inference",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "0YOf6QTCNuY"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building the Physical AI Stack | Travis Kalanick on TBPN",
+      "published_at": "2026-07-23T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd",
+      "summary": "Travis Kalanick joins TBPN to discuss Atoms, his vision for industrial AI, and why he believes the biggest opportunities in AI lie beyond software. He explains how Atoms is bringing autonomy to mining, logistics, and food production, why robotics will reshape physical industries, and how lower costs and greater automation could unlock entirely new economic opportunities. Travis also reflects on raising $1.7 billion, building in stealth, regulation, hiring, and what he's learned since Uber. Resources Follow Travis on X: https://x.com/travisk Follow TBPN on X: https://x.com/tbpn Stay Updated: If you enjoyed this episode, be sure to like, subscribe, and share with your friends! Find a16z on X: https://twitter.com/a16z Find a16z on LinkedIn: https://www.linkedin.com/company/a16z Listen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX Listen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711 Follow our host: https://x.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details, please see http://a16z.com/disclosures . Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c0548882-482c-45e3-b1c5-bff8f17399f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c0548882-482c-45e3-b1c5-bff8f17399f5&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building an Autonomous Delivery Experience with DoorDash Co-Founders Andy Fang and Stanley Tang",
+      "published_at": "2026-07-23T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP3380514610.mp3",
+      "summary": "DoorDash is not just a delivery company. From its inception, co-founders Andy Fang and Stanley Tang operated it as a robotics and autonomy company. Andy and Stanley join Sarah Guo to explain how autonomous tech and AI are reshaping consumer habits, commerce, and delivery. Andy and Stanley talk about the rollout of Ask DoorDash, a natural-language interface that’s driving both restaurant discovery and larger grocery orders. They also discuss Dot, their in-house autonomous delivery robot that has operated in Phoenix for over two years, and how it highlights the operational and hardware challenges they have faced and solved in autonomous tech. Andy and Stanley also speak about the “first and last 100 feet problem” in autonomous delivery, why multimodal strategies are the key to success, scaling autonomy and operations, and why they believe that more Dashers, not fewer, are the future of DoorDash. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @stanleytang | @andyfang | @DoorDash Chapters: 00:00 – Andy Fang and Stanley Tang Introduction 00:34 – Agentic Commerce and Behavioral Changes 03:52 – Next Steps for Ask DoorDash 06:54 – Investing in Robotics and Autonomy 16:31 – Building Autonomous Tech in the Physical World 21:20 – Dot: DoorDash’s Autonomous Delivery Robot 22:08 – Collecting Realistic Data 25:48 – Why Work at DoorDash 28:04 – Challenges in Scaling Up Autonomy 39:30 – Productivity Benchmarks 44:56 – Future of Agentic Commerce 49:10 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP3380514610.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
     {
       "source": "The Acquirers Podcast",
       "domain": "invest",
@@ -138,18 +187,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-07-21T03:58:00+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-      "summary": "a quiet day.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -269,56 +306,6 @@
       "summary": "Recorded live at the New Media Summit, Erik Torenberg sits down with Replit founder and CEO Amjad Masad to discuss founder-led storytelling, building in public, and the role of media in company building. Masad reflects on Replit’s decade-long journey, including the years before the company’s recent breakout growth, and explains why communicating a vision can be just as important as executing on it. He argues that for many founders, especially those building ambitious products ahead of the market, telling a compelling story is often necessary to attract talent, capital, and early believers. The conversation explores social media, authenticity, public communication, company-building, and how founders can develop a voice that resonates beyond their product. Along the way, Masad shares lessons from building Replit, navigating controversy, and why he believes founders should think carefully about when to go direct and what story they're trying to tell. Resources: Follow Amjad Masad on X: https://x.com/amasad Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab1988f6-4530-47ee-96b0-1256d5af49f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab1988f6-4530-47ee-96b0-1256d5af49f6&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Introducing STEEL — SemiAnalysis Teardown Engineering & Evaluation Lab",
-      "published_at": "2026-07-16T21:01:09+00:00",
-      "url": "https://www.youtube.com/shorts/NWKIhGwvvak",
-      "summary": "Everyone has takes on SMIC. We have die shots. Introducing STEEL — SemiAnalysis Teardown Engineering & Evaluation Lab. From the box to the bare die: materials, process, integration, every piece of the puzzle. They want the impossible? We'll make it possible. They want cutting edge? We're on the edge. Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "NWKIhGwvvak"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 019 - Inside the STEEL Lab: From Package to Transistor (Teardown Lab)",
-      "published_at": "2026-07-16T21:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=ntiSw-86IN8",
-      "summary": "SMIC's N+3 node shrank the M0 layer over 15% and cut SRAM area 10 to 20%, all without EUV. SemiAnalysis built a lab just for that; Andrew Wagner and Afzal Ahmad walk Jordan Nanos (@JordanNanos) through the STEEL teardown of Huawei's Kirin 9030, from package to transistor. They explain die shots, FIB and TEM cross sections, NPU discovery, cell height, and standard cell libraries. Then backside power, GAA, and where SMIC goes next. 00:00 Intro: The STEEL Teardown Lab 01:02 What Is a Teardown? 02:17 Who Uses Teardown Data 03:22 SMIC N+3 and the Kirin 9030 05:02 Inside the Lab: Sourcing to Silicon 09:10 Die Shots Explained 12:35 The NPU Discovery 15:42 Scaling Without EUV 17:57 FIB, SEM, and TEM Cross Sections 20:59 Cell Height and Transistor Shrink 23:56 Standard Cell Libraries 26:22 Export Bans and Huawei's Response 27:40 What's Next: Backside Power and GAA 32:43 Data Center GPUs and Logic Folding 34:28 Closing Thoughts Read More: https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "ntiSw-86IN8"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Replay 2025: David Sacks on AI, Crypto, and America's Technology Future",
-      "published_at": "2026-07-16T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/replay-2025-david-sacks-on-ai-crypto-and-americas-technology-future-g9dog_eR",
-      "summary": "As part of our summer replay series, we're revisiting one of our most-discussed conversations from the past year. David Sacks joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to discuss the intersection of AI, crypto, regulation, and American competitiveness. The conversation explores the Trump administration's approach to AI and crypto policy, open source AI, export controls, energy and infrastructure, the global race with China, and the role regulation plays in shaping innovation. They also discuss stablecoins, the future of AI development, permissionless innovation, and why they believe America's long-term advantage depends on enabling builders rather than slowing them down. Along the way, Sacks shares his perspective on AI safety, decentralized technology, federal versus state regulation, and what it will take for the U.S. to remain the global leader in emerging technologies. Resources: Follow David Sacks on X: https://x.com/DavidSacks Follow Marc Andreessen on X: https://x.com/pmarca Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64845277-3aab-4c82-8b99-d74cdb039bd2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64845277-3aab-4c82-8b99-d74cdb039bd2&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Roadmap for Private Credit from Australia – Frank Danieli of MA Financial Group (EP.511)",
-      "published_at": "2026-07-16T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/roadmap-for-private-credit-from-australia-frank-danieli-of-ma-financial-group-ep511",
-      "summary": "Frank Danieli is Head of Global Credit Solutions at MA Financial Group, an ASX-listed alternative asset manager that oversees A$15 billion ($10 billion) across a broad range of private credit and lending strategies and A$179 billion ($125 billion) in a lending ecosystem platform. Frank began his career in restructurings, the self-described 'dark side of credit', and has used the lessons from special situations and distressed loans to build a performing credit platform across asset backed finance, direct asset lending and corporate private credit. Our conversation discusses what global investors can learn from the model of private credit in Australia. We explore the evolution of private credit in Australia and why it developed differently from the sponsor-backed lending market in the U.S., the regulatory shift that pushed lending off bank balance sheets, the role of Australia's pension system, and MA Financial's strategy for building proprietary origination across the lending ecosystem. We then turn to MA Financial's investment process, including the separation of investment selection from portfolio management, red teams, war games, and rigorous stress testing. Along the way, Frank shares why sourcing - not fundraising - will define long-term winners, why private credit requires diversified balance sheets, and why portfolio management and risk management are the largest sources of alpha in the asset class. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.511_Frank_Danieli_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
