@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-07-25T06:36:35.539448+00:00",
+  "generated_at": "2026-07-26T07:45:57.776599+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 21,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+      "published_at": "2026-07-25T16:01:44+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+      "summary": "Community Wisdom 194",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "published_at": "2026-07-25T07:25:38+00:00",
+      "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "summary": "ain't nobody beats Anthropic at distilling Fable!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -51,6 +75,19 @@
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy)",
+      "published_at": "2026-07-23T22:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=0YOf6QTCNuY",
+      "summary": "AI and datacenter CapEx hits $11 trillion cumulatively from 2024 to 2029, and $7.1 trillion of that needs funding, roughly 75% debt financed. Dan Nishball (@dnishball), Zane Fong (linkedin.com/in/zanefongzq), and Kang Wen Cheang (linkedin.com/in/cheangkangwen) sit with Jordan Nanos (@JordanNanos) to break down the AI project Trinity: capital, offtake, and data centers. Today only one deal reliably clears the lending bar, a five-year offtake from an investment-grade hyperscaler. Everything else struggles to finance. The crew explains how NVIDIA backstops are structured, how lenders price GPU loans against them, and what NVIDIA actually does with GPUs it takes back. AI debt financing is on track to become the second-largest US asset-backed market behind the $13 trillion mortgage market. Subscribe for weekly analysis on semiconductors and AI infrastructure. References: https://newsletter.semianalysis.com/p/nvidia-gpu-debt-backstop-unleashes CHAPTERS: 00:00 Intro 01:23 The $11T Funding Problem 09:12 Startups Can't Get GPUs 11:32 How the Backstop Works 20:26 The Central Bank of AI 21:35 The Bullseye 26:23 CoreWeave Credit Spreads 36:58 APAC Examples 42:41 ClusterMax 48:58 Training vs Inference",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "0YOf6QTCNuY"
     },
     {
       "source": "a16z",
@@ -149,16 +186,17 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
+      "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
-      "published_at": "2026-07-21T19:34:06+00:00",
-      "url": "https://www.latent.space/p/xaira",
-      "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
-      "audio_url": "https://api.substack.com/feed/podcast/207941607/6f355666c408aef162923ead7724868f.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
+      "title": "Ep. 020 - Anthropic vs OpenAI Usage, Margins, Meta Compute, Future of MSL (Tokenomics)",
+      "published_at": "2026-07-22T01:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=uLeUpgllI-4",
+      "summary": "Coding drives over 70% of lab API revenue, and token austerity policies mostly miss the point. Crystal (@crystalthegg), Max Kan (@maxkan), and Joey Brookhart (@SaasquatchC) break down why blocking teams from Opus saves nothing, while power users at the 99th percentile burn $100k per employee per year. Jordan (@Jordannanos) and the team run break-even math on the Max plans and Anthropic's margins. 00:00 Intro 00:53 Token Budgeting: Maxing vs Austerity 03:05 Coding Eats the Token Market 04:49 The ROI Question 06:42 Subscriptions vs API Pricing 09:08 Break-Even Math on the Max Plans 10:42 Anthropic's Profit Margins 12:07 Consumer vs Enterprise Mix 16:04 The Two-Horse Race 18:45 Codex App vs CLI 20:41 Who Comes in Third? 23:14 Clawbacks and the SpaceX Playbook 26:59 Meta's NeoCloud Backstop 29:58 Token-as-a-Service Market Forecast 32:03 Hyperscalers vs Inference Startups 38:50 MSL and the RL Scaling Law 41:58 How to Build a Five-Figure RL Task 47:10 Vibe Checks 48:13 The $400B Anthropic Bet Referenced: TokenBudgeting: Our Conversations with Enterprises on Token Spend: https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations Meta Compute: Everyone Wants To Be A Neocloud: https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak: https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the The Future of Meta Superintelligence: A 1 Year Progress Update: https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence Complete Launch Kit",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "uLeUpgllI-4"
     },
     {
       "source": "a16z",
@@ -233,16 +271,17 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
+      "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
-      "published_at": "2026-07-20T12:04:47+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-      "summary": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
-      "audio_url": "https://api.substack.com/feed/podcast/207355289/37ca9e348cb5cb291449aaa2c86d2637.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
+      "title": "Did China just beat Intel?",
+      "published_at": "2026-07-20T14:00:33+00:00",
+      "url": "https://www.youtube.com/watch?v=NAbpjiQNUMs",
+      "summary": "SMIC 7nm N+3 vs TSMC N6 & Intel 18A: How good are Chinese nodes really? We tore down a Kirin 9030 to find out! STEEL teardown article: https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NAbpjiQNUMs"
     },
     {
       "source": "Capital Allocators",
@@ -257,11 +296,5 @@
       "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
