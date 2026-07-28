@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-07-27T10:55:06.093779+00:00",
+  "generated_at": "2026-07-28T07:47:45.496402+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 21,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Much ado about Open Weights",
+      "published_at": "2026-07-28T06:20:13+00:00",
+      "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
+      "summary": "Everyone is writing a lot, but only Kimi K3 shipped today",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "published_at": "2026-07-27T15:03:21+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "published_at": "2026-07-27T12:04:34+00:00",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "summary": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
+      "audio_url": "https://api.substack.com/feed/podcast/208362786/66781207d9aad96ef4324b4c59755f32.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -14,18 +50,6 @@
       "summary": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process. They discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws may already address many of the risks people attribute to AI. Resources: Follow Steven Sinofsky on X: https://x.com/stevesi Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/428f598f-a8c0-4b71-9400-e2c3f387ca94/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=428f598f-a8c0-4b71-9400-e2c3f387ca94&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Rebuilding the NYU Endowment – Michelle Knudsen (EP.513)",
-      "published_at": "2026-07-27T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/rebuilding-the-nyu-endowment-michelle-knudsen-ep513",
-      "summary": "Michelle Knudsen is Chief Investment Officer of NYU, where she oversees the university's $8 billion endowment. Michelle joined NYU two years ago, after fourteen years as an allocator at Partners Capital and the Mellon Foundation, with a mandate to build a best-in-class endowment from a clean sheet of paper. Our conversation traces Michelle's lessons learned working at Goldman Sachs, a growing OCIO, and a foundation that shaped her investment philosophy and views on portfolio construction, risk management, and manager selection. We then turn to the transformation of NYU's investment office from the ground up across governance, portfolio strategy, investment process, and the team. Along the way, we discuss manager selection, emerging managers, venture capital, hedge funds, AI, stress tests, and what it takes to build an enduring investment organization. Any leader should see for themselves the benefits of elite coaching. Try ALEX: tryalex.admiredleadership.com . Learn more about our Strategic Investments: OWL. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.513_Michelle_Knudsen_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -210,30 +234,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Computer and browser use in Codex (5 real examples)",
-      "published_at": "2026-07-22T12:03:38+00:00",
-      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
-      "summary": "Watch now | 🎙️ I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
-      "audio_url": "https://api.substack.com/feed/podcast/207953544/6d747defe32ee7f9e1cbcba69f37672a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AI Cybersecurity becomes top of mind",
-      "published_at": "2026-07-22T03:27:29+00:00",
-      "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
-      "summary": "Several new Cyber headlines make us observe a trend",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -247,18 +247,6 @@
       "video_id": "uLeUpgllI-4"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why a sabbatical can change everything",
-      "published_at": "2026-07-21T12:45:10+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
-      "summary": "How to take Big Time Off",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -269,32 +257,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
-      "published_at": "2026-07-20T18:51:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out",
-      "summary": "(0:00) Bubble talk: Comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than expected (16:38) Transitioning to an AI-First Workspace (21:26) Health & AI: self-directed healthcare and biometric data (24:30) Politics, wealth tax, and AI as a truth-seeking force (35:12) Knicks & Sports Talk Thanks to our partners for making this possible! AppLovin Ads — AppLovin's AI advertising platform reaches over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day and advertiser access is still in closed beta. The window is open at https://applovin.com/ALLIN Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow Mark: https://x.com/mcuban Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Did China just beat Intel?",
-      "published_at": "2026-07-20T14:00:33+00:00",
-      "url": "https://www.youtube.com/watch?v=NAbpjiQNUMs",
-      "summary": "SMIC 7nm N+3 vs TSMC N6 & Intel 18A: How good are Chinese nodes really? We tore down a Kirin 9030 to find out! STEEL teardown article: https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "NAbpjiQNUMs"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Capital Allocators",
+      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
+    }
+  ]
 }
