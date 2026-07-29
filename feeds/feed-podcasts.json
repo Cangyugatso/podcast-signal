@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-07-28T07:47:45.496402+00:00",
+  "generated_at": "2026-07-29T08:02:16.189655+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 21,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "published_at": "2026-07-29T00:46:52+00:00",
+      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "summary": "The Big Pause is coming.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lex Fridman",
+      "domain": "ai",
+      "language": "en",
+      "title": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+      "published_at": "2026-07-28T20:06:06+00:00",
+      "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+      "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/gary-gallagher-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Gary’s UVA page: https://history.virginia.edu/people/gary-w-gallagher Gary’s Wikipedia: https://en.wikipedia.org/wiki/Gary_W._Gallagher The Confederate War (book): https://amzn.to/4yletel The Union War (book): https://amzn.to/3QT1jED Lee and His Generals in War and Memory (book): https://amzn.to/4fdrbD5 Causes Won, Lost, and Forgotten (book): https://amzn.to/4wFxk1X The Myth of the Lost Cause and Civil War History (book): https://amzn.to/4vsAogU The Great Courses – The American Civil War: https://bit.ly/4gDX3mQ SPONSORS: To support this podcast, check out our sponsors & get discounts: Upwork: Platform for hiring freelancers. Go to https://upwork.com/lex NetSuite: Business management software. Go to http://netsuite.ai/lex Shopify: Sell stuff online. Go to https://shopify.com/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex BetterHelp: Online therapy and counseling. Go to https://betterhelp.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ Plaud: AI-powered note-taking devices and software. Go to https://plaud.ai/lex OUTLINE: (00:00) – Introduction (00:07) – Sponsors, Comments, and Reflections (08:36) – What caused the Civil War? (18:33) – Slavery (46:07) – Lincoln (1:01:03) – Grant vs Lee (1:09:57) – Could the Civil War have been avoided? (1:19:23) – The bloodiest war in US history (1:36:31) – How the Confederate Army could’ve won (1:57:05) – Key battles of the Civil War (2:20:07) – Best and Worst Presidents (2:34:06) – Robert E. Lee (2:53:40) – The most important battle of the Civil War (3:03:51) – The final showdown of the Civil War – Grant vs Lee (3:26:10) – Lost Cause and Confederate Monuments (3:43:37) – Extreme political division in US",
+      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_gary_gallagher.mp3",
+      "feed_url": "https://lexfridman.com/feed/podcast/",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+      "published_at": "2026-07-28T15:54:24+00:00",
+      "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+      "summary": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "published_at": "2026-07-28T15:26:30+00:00",
+      "url": "https://www.latent.space/p/chatgpt-work",
+      "summary": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+      "audio_url": "https://api.substack.com/feed/podcast/208716574/8e2c01f655d8148618e7479c56af1c3a.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
+      "summary": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world. Martin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, and pioneer of spatial intelligence, alongside Yunzhu Li, co-founder of SceniX and assistant professor at Columbia University. They discuss why World Labs acquired SceniX, how simulation can unlock the next generation of robotics, and why training robots may require a fundamentally different approach than training language models. The conversation explores real-to-sim-to-real pipelines, world models, robotics foundation models, evaluation, synthetic data, and why the future of AI depends not just on understanding language—but on understanding and interacting with the physical world. Resources: Follow Fei-Fei Li on X: https://x.com/drfeifei Follow Yunzhu Li on X: https://x.com/YunzhuLiYZ Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e2a3c643-334f-47f6-a6e0-d9124f6786a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e2a3c643-334f-47f6-a6e0-d9124f6786a3&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
+      "published_at": "2026-07-28T08:00:00+00:00",
+      "url": "https://colossus.com/episode/how-to-make-an-abundant-future/",
+      "summary": "My guest today is Sam Altman, CEO of OpenAI. It's a conversation spanning the history, present, and future of OpenAI, from the origin of ChatGPT through Codex, hardware, and their new Jalapeno chip. We discuss the early decision to buy compute at a scale nobody thought was rational, and the plan to build a gigawatt of new capacity every week. We talk about Kimi and distillation, the Hugging Face incident and what it means for the pace of AI development, and what it's like to raise kids who will grow up never knowing a world without abundant intelligence. Please enjoy my conversation with Sam Altman. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:02) Intro: Sam Altman, CEO of OpenAI (00:02:35) Refocusing (00:05:43) OpenAI’s Compute Bets (00:09:07) Data Centers (00:11:14) Jalapeno Chip (00:11:52) Kimi, Distillation & Open Source (00:14:39) The Hugging Face Incident (00:17:46) OpenAI's Mission & Vision (00:22:14) All the Returns Are at the Frontier (00:22:27) Bottlenecks: Compute, Research, Data (00:23:49) Sam's View on AI & Jobs (00:26:56) Unpopular Bets That Turned Out Right (00:27:45) Model Cycles (00:29:45) How Sam Uses AI (00:32:44) Having Kids (00:34:56) Why Sam Has No Equity in OpenAI (00:35:33) Robotics (00:36:48) The Origin Story of ChatGPT (00:39:22) How to Get AI into More Hands (00:42:20) How Sam Recruited Great AI Researchers (00:43:57) What Sam Learned From Being an Investor (00:45:22) What the Next 6–36 Months Look Like (00:46:31) Codex (00:49:36) Could We Be Oversupplied in Compute in Two Years? (00:50:09) Sam's View on Scaling Laws (00:50:20) Alec Radford (00:51:12) Formative Moments (00:53:50) Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS4111343994.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -50,6 +122,18 @@
       "summary": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process. They discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws may already address many of the risks people attribute to AI. Resources: Follow Steven Sinofsky on X: https://x.com/stevesi Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/428f598f-a8c0-4b71-9400-e2c3f387ca94/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=428f598f-a8c0-4b71-9400-e2c3f387ca94&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Rebuilding the NYU Endowment – Michelle Knudsen (EP.513)",
+      "published_at": "2026-07-27T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/rebuilding-the-nyu-endowment-michelle-knudsen-ep513",
+      "summary": "Michelle Knudsen is Chief Investment Officer of NYU, where she oversees the university's $8 billion endowment. Michelle joined NYU two years ago, after fourteen years as an allocator at Partners Capital and the Mellon Foundation, with a mandate to build a best-in-class endowment from a clean sheet of paper. Our conversation traces Michelle's lessons learned working at Goldman Sachs, a growing OCIO, and a foundation that shaped her investment philosophy and views on portfolio construction, risk management, and manager selection. We then turn to the transformation of NYU's investment office from the ground up across governance, portfolio strategy, investment process, and the team. Along the way, we discuss manager selection, emerging managers, venture capital, hedge funds, AI, stress tests, and what it takes to build an enduring investment organization. Any leader should see for themselves the benefits of elite coaching. Try ALEX: tryalex.admiredleadership.com . Learn more about our Strategic Investments: OWL. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.513_Michelle_Knudsen_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -110,18 +194,6 @@
       "summary": "(0:00) Bestie intros! (0:18) The fight to save open source AI: Kimi K3 panic, Anthropic/OpenAI regulatory capture (27:38) Anthropic/OpenAI historic growth rates, China's long game (48:29) Anthropic's $1.5B piracy settlement and the great IP theft hypocrisy (1:07:12) Google and Tesla stocks tank on surging AI capex (1:17:19) Socialism Corner: \"Evictions = Violence\" and the threat to private property rights Apply for All-In Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://artificialanalysis.ai/models/kimi-k3?intelligence=artificial-analysis-intelligence-index#intelligence-comparisons https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai https://x.com/mkratsios47/status/2079933645888880708 https://polymarket.com/event/us-government-bans-an-open-source-ai-model-in-2026-20260703221501747 https://fortune.com/2025/01/29/deepseek-openais-what-is-distillation-david-sacks https://stratechery.com/2026/whos-afraid-of-chinese-models https://x.com/CommerceGov/status/2080341953086886387 https://x.com/tickerplus/status/2080123562560504240 https://blog.tickertrends.io/p/anthropic-vs-openai-arr-tracking https://x.com/sama/status/2077817060068057493 https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20 https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks https://techstartups.com/2026/07/22/nearly-200-silicon-valley-startups-urge-trump-not-to-ban-chinese-ai-models-warn-it-could-kill-innovation https://x.com/typesfast/status/2080339052398891244 https://www.thefp.com/p/why-new-york-city-has-50000-ghost",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-      "published_at": "2026-07-24T17:15:25+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-      "summary": "Watch now | 🎙️ I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn’t expect",
-      "audio_url": "https://api.substack.com/feed/podcast/208355131/160ef0b97449c2cbfefb17cbdf9d4dcb.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
@@ -196,74 +268,7 @@
       "audio_url": "https://traffic.megaphone.fm/APO2306329837.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "published_at": "2026-07-23T05:18:47+00:00",
-      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "summary": "a quiet day lets us highlight a new neolab win.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "published_at": "2026-07-23T05:09:14+00:00",
-      "url": "https://www.latent.space/p/poolside",
-      "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
-      "audio_url": "https://api.substack.com/feed/podcast/208082176/150a7023faa153b1393ccb518c6ff305.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Travis Kalanick Is Back | Building the Future of Industrial AI",
-      "published_at": "2026-07-22T21:26:58+00:00",
-      "url": "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f",
-      "summary": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies beyond software. They discuss the lessons of building Uber, the value of founder-led companies, and why Kalanick spent nearly eight years quietly building Atoms before stepping back into the spotlight. The conversation explores industrial AI, robotics, autonomy, mining, food production, and Kalanick's vision for digitizing the physical world, where software, manufacturing, real estate, and transportation come together to transform entire industries. Resources: Follow Travis Kalanick on X: https://x.com/travisk Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7df3742f-0af5-4d91-8c95-0326649283a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7df3742f-0af5-4d91-8c95-0326649283a1&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 020 - Anthropic vs OpenAI Usage, Margins, Meta Compute, Future of MSL (Tokenomics)",
-      "published_at": "2026-07-22T01:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=uLeUpgllI-4",
-      "summary": "Coding drives over 70% of lab API revenue, and token austerity policies mostly miss the point. Crystal (@crystalthegg), Max Kan (@maxkan), and Joey Brookhart (@SaasquatchC) break down why blocking teams from Opus saves nothing, while power users at the 99th percentile burn $100k per employee per year. Jordan (@Jordannanos) and the team run break-even math on the Max plans and Anthropic's margins. 00:00 Intro 00:53 Token Budgeting: Maxing vs Austerity 03:05 Coding Eats the Token Market 04:49 The ROI Question 06:42 Subscriptions vs API Pricing 09:08 Break-Even Math on the Max Plans 10:42 Anthropic's Profit Margins 12:07 Consumer vs Enterprise Mix 16:04 The Two-Horse Race 18:45 Codex App vs CLI 20:41 Who Comes in Third? 23:14 Clawbacks and the SpaceX Playbook 26:59 Meta's NeoCloud Backstop 29:58 Token-as-a-Service Market Forecast 32:03 Hyperscalers vs Inference Startups 38:50 MSL and the RL Scaling Law 41:58 How to Build a Five-Figure RL Task 47:10 Vibe Checks 48:13 The $400B Anthropic Bet Referenced: TokenBudgeting: Our Conversations with Enterprises on Token Spend: https://newsletter.semianalysis.com/p/tokenbudgeting-our-conversations Meta Compute: Everyone Wants To Be A Neocloud: https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak: https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the The Future of Meta Superintelligence: A 1 Year Progress Update: https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence Complete Launch Kit",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "uLeUpgllI-4"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
-      "published_at": "2026-07-21T08:00:00+00:00",
-      "url": "https://colossus.com/episode/americas-next-energy-crisis/",
-      "summary": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure. For the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share. Starting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. By his math, the US could exhaust its working natural gas storage by 2030. In his words, the upside risk to prices becomes unbounded and convex. We talk about why this was set in motion long before AI arrived, why the US can't just turn off exports, who wins and loses among producers, nuclear, solar, and the hyperscalers, and what he sees as the only long-term solution. Please enjoy my conversation with Matthew Smith. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- In June, Matthew wrote a letter to a small group of confidants laying out the full case behind his natural gas forecast. He has allowed us to publish it. You can read the full letter here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:02) Episode Intro: Matt Smith (00:03:33) The Conclusion After 18 Months (00:04:56) The Die Was Cast Before AI (00:07:24) Sizing AI's Gas Demand (00:09:33) Why Not Just Stop Exporting? (00:11:38) Is the Gas Even There? (00:13:53) The Timing Problem, Not Supply (00:15:15) Flow Versus Stock (00:19:10) What Slows Gas to Market (00:22:21) If Nothing Changes by 2030 (00:26:11) Could Prices Hit Twenty Dollars? (00:27:00) Gas Producers Poised to Win (00:28:54) Utility-Scale Solar's Windfall (00:30:08) What About Nuclear? (00:32:40) SMRs (00:34:29) The US Consumer Pays (00:36:37) Turbine Makers Building Too Late (00:37:57) Are Hyperscalers Exposed Too? (00:44:25) Kickstarting the Nuclear Build (00:46:20) Put Solar on Every Roof (00:46:52) Implications for the World (00:49:26) No One's Securing Supply (00:52:57) The Challenge for Energy CEOs",
-      "audio_url": "https://traffic.megaphone.fm/CLS1352215254.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "Capital Allocators",
-      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
-    }
-  ]
+  "errors": []
 }
