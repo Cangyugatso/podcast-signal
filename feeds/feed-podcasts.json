@@ -1,9 +1,83 @@
 {
-  "generated_at": "2026-07-29T08:02:16.189655+00:00",
+  "generated_at": "2026-07-30T07:41:39.708236+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "What 250 Years of Market Data Actually Tells Us | Meb Faber",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/What-250-Years-of-Market-Data-Actually-Tells-Us--Meb-Faber-e3mn48l",
+      "summary": "Investing in America: The Rise Of A 250-Year Bull Market by Meb Faber: https://amzn.to/3RY7mrS Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO7864771512.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AI is eating Finance; AIE NYC now open",
+      "published_at": "2026-07-29T23:32:12+00:00",
+      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 022 - Market Drawdown, Historic Bubbles, Funding The Buildout, AI Politics (Doug is Back)",
+      "published_at": "2026-07-29T20:59:15+00:00",
+      "url": "https://www.youtube.com/watch?v=kY64Mmo0mtc",
+      "summary": "Doug is back this week! Timestamps: 00:00 Market Update 07:02 Comparing to Past Bubbles in Taiwan and Korea 10:08 Memory Prices, LTAs, and Market Cycles 18:11 Future Demand for AI and Model Usage 37:40 Scaling Laws and Supply Constraints 44:45 Financial and Capital Constraints in Tech Expansion 50:57 Geopolitical Risks, Policy Impact, Long Term Outlook",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "kY64Mmo0mtc"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Trading Houses For Datacenters",
+      "published_at": "2026-07-29T20:38:41+00:00",
+      "url": "https://www.youtube.com/shorts/k1IIaD_ZH7s",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "k1IIaD_ZH7s"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why compute might get 10x+ more expensive in coming years",
+      "published_at": "2026-07-29T15:01:35+00:00",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "summary": "If a human-level software engineer that could run on an H100 equivalent, at current market rates for software engineers, that H100 should rent for over $250k a year. That’s 15x today’s spot price.",
+      "audio_url": "",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Micro Dramas, Generative Media, and the Future of Creativity",
+      "published_at": "2026-07-29T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
+      "summary": "Justine Moore, partner at Andreessen Horowitz, joins New Economies to explore the rapid evolution of generative media and why AI-native content is reaching an inflection point. They discuss the rise of AI micro-dramas, how creators are building entirely new forms of entertainment, and why the biggest opportunities may lie not in replacing Hollywood—but in expanding who gets to create. They also cover the future of creator tools, AI agents for individuals, generative video, AI \"slop,\" the economics of AI-native studios, and where founders should be building next as consumer AI enters a new phase. Resources: Follow Justine Moore on X: https://x.com/venturetwins Watch the episode on YouTube: https://www.neweconomies.co/p/justine -moore-andreessen-horowitz Listen to more from New Economies: https://www.neweconomies.co/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -14,6 +88,18 @@
       "summary": "The Big Pause is coming.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+      "published_at": "2026-07-28T20:21:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs",
+      "summary": "(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged Robot Dogs, Not Humanoids (13:18) Dr. Péter Fankhauser: China's Armed Robot Dogs Are \"Stupid and Risky\" — Inside the Terminator Debate (15:01) NEO's Bernt Børnich: Neo Ships in 2026 and Becomes an Open Robot Platform (22:18) Bernt Børnich: Robots Building Robots in Just 3 Years — \"Hard Takeoff\" (33:45) Boston Dynamics' Amanda McMaster: Spot Is Now the Most Deployed Robot on Earth — Atlas is the Most Capable (42:36) Amanda McMaster: Chinese Robotics Security Risks (47:14) Agility Robotics' Jonathan Hurst: Why \"This Time Is Different\" for Humanoids After 100 Years of False Starts (58:45) Jonathan Hurst: When Do Robots Outnumber Humans on the Factory Floor? Thanks to our partners for making this possible! AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at https://applovin.com/ALLIN If your work depends on conversations — meetings, deal flow, interviews, customer calls — Plaud helps you capture and organize everything with highly accurate AI-generated notes that are not just simple summaries, but also highlight pain points, key decisions, next steps, and customizable summary templates. Check out Plaud at https://www.plaud.ai/allin and use code ALLIN for up to 10% off! Which is also available on Amazon: https://amzn.to/43URLff (Code: ALLIN10X) Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     },
     {
@@ -209,18 +295,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "published_at": "2026-07-24T04:30:12+00:00",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "summary": "A HUGE win for BFL!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -234,18 +308,6 @@
       "video_id": "0YOf6QTCNuY"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building the Physical AI Stack | Travis Kalanick on TBPN",
-      "published_at": "2026-07-23T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd",
-      "summary": "Travis Kalanick joins TBPN to discuss Atoms, his vision for industrial AI, and why he believes the biggest opportunities in AI lie beyond software. He explains how Atoms is bringing autonomy to mining, logistics, and food production, why robotics will reshape physical industries, and how lower costs and greater automation could unlock entirely new economic opportunities. Travis also reflects on raising $1.7 billion, building in stealth, regulation, hiring, and what he's learned since Uber. Resources Follow Travis on X: https://x.com/travisk Follow TBPN on X: https://x.com/tbpn Stay Updated: If you enjoyed this episode, be sure to like, subscribe, and share with your friends! Find a16z on X: https://twitter.com/a16z Find a16z on LinkedIn: https://www.linkedin.com/company/a16z Listen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX Listen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711 Follow our host: https://x.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details, please see http://a16z.com/disclosures . Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c0548882-482c-45e3-b1c5-bff8f17399f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c0548882-482c-45e3-b1c5-bff8f17399f5&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -255,18 +317,6 @@
       "summary": "DoorDash is not just a delivery company. From its inception, co-founders Andy Fang and Stanley Tang operated it as a robotics and autonomy company. Andy and Stanley join Sarah Guo to explain how autonomous tech and AI are reshaping consumer habits, commerce, and delivery. Andy and Stanley talk about the rollout of Ask DoorDash, a natural-language interface that’s driving both restaurant discovery and larger grocery orders. They also discuss Dot, their in-house autonomous delivery robot that has operated in Phoenix for over two years, and how it highlights the operational and hardware challenges they have faced and solved in autonomous tech. Andy and Stanley also speak about the “first and last 100 feet problem” in autonomous delivery, why multimodal strategies are the key to success, scaling autonomy and operations, and why they believe that more Dashers, not fewer, are the future of DoorDash. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @stanleytang | @andyfang | @DoorDash Chapters: 00:00 – Andy Fang and Stanley Tang Introduction 00:34 – Agentic Commerce and Behavioral Changes 03:52 – Next Steps for Ask DoorDash 06:54 – Investing in Robotics and Autonomy 16:31 – Building Autonomous Tech in the Physical World 21:20 – Dot: DoorDash’s Autonomous Delivery Robot 22:08 – Collecting Realistic Data 25:48 – Why Work at DoorDash 28:04 – Challenges in Scaling Up Autonomy 39:30 – Productivity Benchmarks 44:56 – Future of Agentic Commerce 49:10 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP3380514610.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Inside Artisan's International Value Fund with Portfolio Manager David Samra",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Inside-Artisans-International-Value-Fund-with-Portfolio-Manager-David-Samra-e3mdl34",
-      "summary": "Artisan Partners is a global multi-asset investment platform providing a broad range of high value-added investment strategies in growing asset classes to sophisticated clients around the world. Since the firm’s founding, Artisan Partners has built its business based upon a consistent philosophy and business model. Learn more at www.artisanpartners.com. Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO2306329837.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
