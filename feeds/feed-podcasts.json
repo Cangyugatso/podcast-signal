@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-01T07:35:35.292845+00:00",
+  "generated_at": "2026-08-02T07:40:14.695314+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+      "published_at": "2026-08-01T17:25:18+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+      "summary": "Community Wisdom 195",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Marc Andreessen and Chris Dixon: What’s at Stake in Crypto Regulation",
+      "published_at": "2026-08-01T15:38:28+00:00",
+      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn",
+      "summary": "Marc Andreessen, Chris Dixon, and Robert Hackett discuss one of the most consequential policy debates facing the crypto industry: the push for comprehensive U.S. market structure legislation and what regulatory clarity could mean for innovation, financial markets, and America's technological leadership. They explore the CLARITY Act, stablecoins, securities law, consumer protection, and why both builders and financial institutions are calling for clear rules of the road. Along the way, they discuss the lessons of the early internet, FTX, open financial networks, and why they believe thoughtful regulation can strengthen innovation rather than slow it down. Resources: Follow Marc Andreessen on X: https://x.com/pmarca Follow Chris Dixon on X: https://x.com/cdixon Follow Robert Hackett on X: https://x.com/rhackett Follow a16z Crypto on X: https://x.com/a16zcrypto Why Bitcoin matters: https://a16z.com/why-bitcoin-matters/ What builders need to know about the CLARITY Act: https://a16zcrypto.com/posts/article/clarity-act-what-why-matters Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6a1f350c-90b5-47b5-bfa5-20e411df9ecd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6a1f350c-90b5-47b5-bfa5-20e411df9ecd&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -284,18 +308,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Steven Sinofsky: AI Doesn't Need New Rules Yet",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn",
-      "summary": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of experience leading products at Microsoft, Sinofsky argues that governments are rushing to regulate AI before they fully understand the technology, risking innovation in the process. They discuss the \"precautionary principle,\" why open source has historically accelerated innovation, the role of regulation in emerging technologies, the AI competition between the U.S. and China, and why existing laws may already address many of the risks people attribute to AI. Resources: Follow Steven Sinofsky on X: https://x.com/stevesi Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/428f598f-a8c0-4b71-9400-e2c3f387ca94/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=428f598f-a8c0-4b71-9400-e2c3f387ca94&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -316,18 +328,6 @@
       "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
       "summary": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
       "audio_url": "https://api.substack.com/feed/podcast/207214207/5f341ddc033ea4f0aeb376bbced669eb.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
-      "published_at": "2026-07-25T16:01:44+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
-      "summary": "Community Wisdom 194",
-      "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
