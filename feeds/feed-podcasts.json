@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-02T07:40:14.695314+00:00",
+  "generated_at": "2026-08-03T10:56:08.092898+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "published_at": "2026-08-02T12:32:02+00:00",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "summary": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure",
+      "audio_url": "https://api.substack.com/feed/podcast/209025231/25924185c9f76e94e6959378b192bc81.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
+      "published_at": "2026-08-02T10:46:36+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ruby-thelot-on-internet-culture-ai-and-the-future-of-taste-CvhHSpzt",
+      "summary": "Sophia Dew and Sofia Puccini are joined by Ruby Thelot, designer, artist, cyberethnographer, professor at NYU, and founder of 13101401, for a wide-ranging conversation about internet culture, AI, digital communities, and how technology is reshaping the way we relate to one another. Drawing on years of research into online behavior, Ruby explains how digital cultures form, why algorithms shape more than just what we see, and what AI is changing about creativity, communication, and identity. They discuss cyberethnography, online subcultures, \"machinic taste,\" AI companions, social norms, internet language, and why Americans often say they dislike AI—even as they increasingly rely on it in everyday life. Resources: Follow Ruby X: https://x.com/being_on_line Substack: h ttps://beingonline.substack.com/ Follow Sophia on X: https://x.com/sophiadew Follow Sofia on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/03b39caa-2d5d-4ade-815f-7d9df9231c3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=03b39caa-2d5d-4ade-815f-7d9df9231c3f&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -123,18 +147,6 @@
       "summary": "Alex Rampell and Olivia Moore speak with Lassie cofounders Steijn Pelle and Frédéric Renken about bringing AI to one of the most overlooked parts of the economy: small businesses. Inspired by time spent working inside dental practices, Pelle and Renken set out to automate the administrative work that keeps healthcare providers away from patients. They discuss how AI agents are changing billing, insurance claims, patient payments, and other operational workflows, allowing practices to spend less time on paperwork and more time delivering care. The conversation explores AI agents, software that performs work rather than simply storing information, onboarding AI into real-world businesses, and why healthcare administration offers one of the biggest opportunities for automation. Along the way, they discuss product design, go-to-market strategy, and what it takes to build AI systems that operate reliably in complex business environments. Resources: Follow Steijn Pelle on X: https://x.com/steijnpelle Follow Frédéric Renken on X: https://x.com/fredericrenken Follow Alex Rampell on X: https://x.com/arampell Follow Olivia Moore on X: https://x.com/omooretweets Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f566a458-61e5-4456-abc1-ca3c6013eff6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f566a458-61e5-4456-abc1-ca3c6013eff6&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Building Durable Real Estate Portfolios at Morgan Stanley – Lauren Hochfelder (EP.514)",
-      "published_at": "2026-07-30T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/building-durable-real-estate-portfolios-at-morgan-stanley-lauren-hochfelder-ep514",
-      "summary": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees a team of 300 investment professionals across 13 countries, managing $80 billion across real estate, infrastructure, equity and credit. Lauren joined Morgan Stanley as an investment banking analyst directly out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the industry's leading platforms. Our conversation traces Lauren's journey from analyst to Global Head and the evolution of Morgan Stanley's real estate business before, during, and after the Global Financial Crisis. We cover the firm's thematic approach to investing behind structural demand tailwinds, combination of global perspectives and on-the-ground teams, operational improvements to assets, portfolio construction, and themes across industrial real estate and infrastructure, senior housing, and net lease properties. We also touch on riskier areas of real estate and Lauren's new role adding infrastructure to her real estate oversight. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.514_Lauren_Hochfelder_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
     {
@@ -260,18 +272,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
-      "summary": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world. Martin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, and pioneer of spatial intelligence, alongside Yunzhu Li, co-founder of SceniX and assistant professor at Columbia University. They discuss why World Labs acquired SceniX, how simulation can unlock the next generation of robotics, and why training robots may require a fundamentally different approach than training language models. The conversation explores real-to-sim-to-real pipelines, world models, robotics foundation models, evaluation, synthetic data, and why the future of AI depends not just on understanding language—but on understanding and interacting with the physical world. Resources: Follow Fei-Fei Li on X: https://x.com/drfeifei Follow Yunzhu Li on X: https://x.com/YunzhuLiYZ Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e2a3c643-334f-47f6-a6e0-d9124f6786a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e2a3c643-334f-47f6-a6e0-d9124f6786a3&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -306,31 +306,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/208362786/66781207d9aad96ef4324b4c59755f32.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Rebuilding the NYU Endowment – Michelle Knudsen (EP.513)",
-      "published_at": "2026-07-27T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/rebuilding-the-nyu-endowment-michelle-knudsen-ep513",
-      "summary": "Michelle Knudsen is Chief Investment Officer of NYU, where she oversees the university's $8 billion endowment. Michelle joined NYU two years ago, after fourteen years as an allocator at Partners Capital and the Mellon Foundation, with a mandate to build a best-in-class endowment from a clean sheet of paper. Our conversation traces Michelle's lessons learned working at Goldman Sachs, a growing OCIO, and a foundation that shaped her investment philosophy and views on portfolio construction, risk management, and manager selection. We then turn to the transformation of NYU's investment office from the ground up across governance, portfolio strategy, investment process, and the team. Along the way, we discuss manager selection, emerging managers, venture capital, hedge funds, AI, stress tests, and what it takes to build an enduring investment organization. Any leader should see for themselves the benefits of elite coaching. Try ALEX: tryalex.admiredleadership.com . Learn more about our Strategic Investments: OWL. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.513_Michelle_Knudsen_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-      "published_at": "2026-07-26T12:32:06+00:00",
-      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "summary": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
-      "audio_url": "https://api.substack.com/feed/podcast/207214207/5f341ddc033ea4f0aeb376bbced669eb.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Capital Allocators",
+      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
+    }
+  ]
 }
