@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-08-03T10:56:08.092898+00:00",
+  "generated_at": "2026-08-04T07:48:03.022403+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 29,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+      "published_at": "2026-08-04T03:49:14+00:00",
+      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+      "summary": "Qwen is so back!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+      "published_at": "2026-08-03T21:44:03+00:00",
+      "url": "https://www.latent.space/p/inference-eng",
+      "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
+      "audio_url": "https://api.substack.com/feed/podcast/209198968/408157f660ff91fa8b1bd3f63802d9df.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "published_at": "2026-08-03T17:32:13+00:00",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+      "summary": "The end of cheap compute?",
+      "audio_url": "https://api.substack.com/feed/podcast/209664458/61c585baeb7b13bc4b65637ffc2c66b4.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "published_at": "2026-08-03T15:02:21+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "published_at": "2026-08-03T12:04:26+00:00",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "summary": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
+      "audio_url": "https://api.substack.com/feed/podcast/209161342/02c450ab5551c19884e7a8587338dc50.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2022)",
+      "published_at": "2026-08-03T09:15:00+00:00",
+      "url": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2022",
+      "summary": "Our Summer Series kickoff is with one of the all-time greats, Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases. And her follow-up works How to Decide and Quit pull different threads in the decision-making process. Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital. For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets in 2018 and Quit in 2022. Please enjoy these great conversations with Annie Duke . Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.273_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2018)",
+      "published_at": "2026-08-03T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2018",
+      "summary": "Our Summer Series kickoff is with one of the all-time greats, Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases. And her follow-up works How to Decide and Quit pull different threads in the decision-making process. Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital. For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets in 2018 and Quit in 2022. Please enjoy these great conversations with Annie Duke . Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -150,6 +234,18 @@
       "source_type": "rss"
     },
     {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Building Durable Real Estate Portfolios at Morgan Stanley – Lauren Hochfelder (EP.514)",
+      "published_at": "2026-07-30T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/building-durable-real-estate-portfolios-at-morgan-stanley-lauren-hochfelder-ep514",
+      "summary": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees a team of 300 investment professionals across 13 countries, managing $80 billion across real estate, infrastructure, equity and credit. Lauren joined Morgan Stanley as an investment banking analyst directly out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the industry's leading platforms. Our conversation traces Lauren's journey from analyst to Global Head and the evolution of Morgan Stanley's real estate business before, during, and after the Global Financial Crisis. We cover the firm's thematic approach to investing behind structural demand tailwinds, combination of global perspectives and on-the-ground teams, operational improvements to assets, portfolio construction, and themes across industrial real estate and infrastructure, senior housing, and net lease properties. We also touch on riskier areas of real estate and Lauren's new role adding infrastructure to her real estate oversight. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.514_Lauren_Hochfelder_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -159,18 +255,6 @@
       "summary": "Investing in America: The Rise Of A 250-Year Bull Market by Meb Faber: https://amzn.to/3RY7mrS Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO7864771512.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AI is eating Finance; AIE NYC now open",
-      "published_at": "2026-07-29T23:32:12+00:00",
-      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-      "summary": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -224,18 +308,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
-      "published_at": "2026-07-29T00:46:52+00:00",
-      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "summary": "The Big Pause is coming.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -282,37 +354,7 @@
       "audio_url": "https://traffic.megaphone.fm/CLS4111343994.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-      "published_at": "2026-07-27T15:03:21+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
-      "published_at": "2026-07-27T12:04:34+00:00",
-      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
-      "summary": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
-      "audio_url": "https://api.substack.com/feed/podcast/208362786/66781207d9aad96ef4324b4c59755f32.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "Capital Allocators",
-      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
-    }
-  ]
+  "errors": []
 }
