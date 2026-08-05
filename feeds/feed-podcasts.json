@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-08-05T07:49:23.956199+00:00",
+  "generated_at": "2026-08-05T22:54:14.688352+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+      "published_at": "2026-08-05T12:04:01+00:00",
+      "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "summary": "Watch now | 🎙️ I used Vercel Eve agents and Codex to build Merge Mommy: a PR review bot that scores risk, auto-approves the easy ones, and pings me in Slack for the rest",
+      "audio_url": "https://api.substack.com/feed/podcast/209721144/8b1a0bf9d96acb5647322082fce0d8eb.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Three Startups Reinventing Critical Infrastructure",
+      "published_at": "2026-08-05T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/three-startups-reinventing-critical-infrastructure-FkRDwjit",
+      "summary": "This week, a16z American Dynamism Films premiered three short documentaries highlighting companies tackling some of America's biggest industrial challenges: Ulysses, Mariana Materials, and Radiant. Before watching those films, we're revisiting conversations with the founders behind each company. You'll hear Will O'Brien explain why autonomous underwater robots could unlock a new era of ocean exploration and security, Turner Caldwell discuss rebuilding America's critical minerals supply chain and modernizing mining, and Doug Bernauer share why portable nuclear microreactors could transform how we generate power. Together, these conversations offer a look at the technologies—and the founders—working to rebuild the industrial foundations of the United States. Resources: Follow Will O'Brien on X: https://x.com/Willob Follow Turner Caldwell on X: https://x.com/tbc415 Follow Doug Bernauer on X: https://x.com/dougbernauer Follow Erin Price-Wright on X: https://x.com/espricewright Follow Ryan McEntush on X: https://x.com/rmcentush Follow Theo Jaffee on X: https://x.com/theojaffee Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/15117efd-a4fa-490c-a098-726d0b74ba74/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=15117efd-a4fa-490c-a098-726d0b74ba74&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "WTT: The Anatomy of a Blow-Up",
+      "published_at": "2026-08-05T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
+      "summary": "This What Ted's Thinking brings Situational Awareness to the underlying causes of hedge fund disasters. Read Ted's blog here. Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_WTT_-_Anatomy_of_a_Blow-Up_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -173,18 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
-      "published_at": "2026-08-01T17:25:18+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
-      "summary": "Community Wisdom 195",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -258,18 +282,6 @@
       "video_id": "apme8TJVEM4"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI for America's Small Businesses | Lassie",
-      "published_at": "2026-07-30T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh",
-      "summary": "Alex Rampell and Olivia Moore speak with Lassie cofounders Steijn Pelle and Frédéric Renken about bringing AI to one of the most overlooked parts of the economy: small businesses. Inspired by time spent working inside dental practices, Pelle and Renken set out to automate the administrative work that keeps healthcare providers away from patients. They discuss how AI agents are changing billing, insurance claims, patient payments, and other operational workflows, allowing practices to spend less time on paperwork and more time delivering care. The conversation explores AI agents, software that performs work rather than simply storing information, onboarding AI into real-world businesses, and why healthcare administration offers one of the biggest opportunities for automation. Along the way, they discuss product design, go-to-market strategy, and what it takes to build AI systems that operate reliably in complex business environments. Resources: Follow Steijn Pelle on X: https://x.com/steijnpelle Follow Frédéric Renken on X: https://x.com/fredericrenken Follow Alex Rampell on X: https://x.com/arampell Follow Olivia Moore on X: https://x.com/omooretweets Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f566a458-61e5-4456-abc1-ca3c6013eff6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f566a458-61e5-4456-abc1-ca3c6013eff6&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -291,44 +303,6 @@
       "summary": "Investing in America: The Rise Of A 250-Year Bull Market by Meb Faber: https://amzn.to/3RY7mrS Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO7864771512.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 022 - Market Drawdown, Historic Bubbles, Funding The Buildout, AI Politics (Doug is Back)",
-      "published_at": "2026-07-29T20:59:15+00:00",
-      "url": "https://www.youtube.com/watch?v=kY64Mmo0mtc",
-      "summary": "Doug is back this week! Timestamps: 00:00 Market Update 07:02 Comparing to Past Bubbles in Taiwan and Korea 10:08 Memory Prices, LTAs, and Market Cycles 18:11 Future Demand for AI and Model Usage 37:40 Scaling Laws and Supply Constraints 44:45 Financial and Capital Constraints in Tech Expansion 50:57 Geopolitical Risks, Policy Impact, Long Term Outlook",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "kY64Mmo0mtc"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Trading Houses For Datacenters",
-      "published_at": "2026-07-29T20:38:41+00:00",
-      "url": "https://www.youtube.com/shorts/k1IIaD_ZH7s",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "k1IIaD_ZH7s"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why compute might get 10x+ more expensive in coming years",
-      "published_at": "2026-07-29T15:01:35+00:00",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "summary": "If a human-level software engineer that could run on an H100 equivalent, at current market rates for software engineers, that H100 should rent for over $250k a year. That’s 15x today’s spot price.",
-      "audio_url": "",
-      "feed_url": "https://www.dwarkesh.com/feed",
       "source_type": "rss"
     }
   ],
