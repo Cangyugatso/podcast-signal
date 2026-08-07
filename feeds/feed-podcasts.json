@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-08-05T22:54:14.688352+00:00",
+  "generated_at": "2026-08-07T01:29:02.791788+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Engine Powering Open-Source AI",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz",
+      "summary": "Elena Burger and Matt Bornstein are joined by Simon Mo, co-founder and CEO of Inferact, the open-source inference engine powering many of today's most advanced AI applications. Together, they explore how open-source AI evolved from a research project into critical infrastructure, why inference has become one of the most important layers of the AI stack, and what it takes to bring frontier intelligence to developers around the world. The conversation covers vLLM's origins, the rise of open-weight models, why companies increasingly want control over their AI infrastructure, and how open-source inference enables the next generation of AI applications. They also discuss model licensing, the economics of open-weight AI, Kimi K3, distillation, AI infrastructure, and why Simon believes the gap between open and closed models is rapidly disappearing. Resources: Follow Simon Mo on X: https://x.com/simon_mo_ Follow Matt Bornstein on X: https://x.com/BornsteinMatt Follow Elena Burger on X: https://x.com/VirtualElena Follow Inferact: https://x.com/inferact Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/40ae9846-5fcf-49d2-95de-fa631a615ad4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=40ae9846-5fcf-49d2-95de-fa631a615ad4&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP3190127956.mp3",
+      "summary": "Is the tech industry moving too quickly, or are founders letting fear of AI labs stunt their ambitions? Sarah and Elad explore the current landscape of artificial intelligence, venture capital, and startup dynamics. They discuss the realities of building multi-trillion-dollar companies, shifting market sizes and outcome-based pricing models, and how founders are reacting to the rise of major AI labs. They also talk about what the framework for startup exits should look like, the potential for researcher burnouts in the next eighteen months as ASI looms on the horizon, bottlenecks for compute, and the impact of regulatory capture and shifting ecosystems from California to Texas. Apply for Embed - Conviction’s Catalyst for AI-Native Startups Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil Chapters: 00:00 – Cold Open Trailer 00:31 – Episode Introduction 01:44 – The Next Trillion-Dollar Company 03:12 – Tech Waves as Punctuated Equilibria 04:42 – TAM vs. Revenue Reality 07:14 – Market Size vs. Speed 10:32 – When Founders Should Sell 14:04 – Financing and Time Cost 17:57 – RSI and the Looming Promise of ASI 21:49 – Compute Power Laws 28:12 – Regulations and Disruption 33:06 – Beyond Transformers 34:26 – Tradeoffs - Safety vs. Progress 39:11 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP3190127956.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "How I Force Change at Companies Wall Street Ignores",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/How-I-Force-Change-at-Companies-Wall-Street-Ignores-e3n1272",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO4356005448.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+      "published_at": "2026-08-06T04:34:11+00:00",
+      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "summary": "The end of an era.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+      "published_at": "2026-08-05T20:19:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
+      "summary": "(0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing cost-plus, the new primes, and why only 1% of the budget goes to autonomy (25:55) Could 10,000 Corsairs actually lock down a 20-mile strait? (31:25) China's arming robot dogs: will our AI weapons hurt us in Taiwan? (36:33) Exclusive announcement: Port Alpha lands in Brownsville: 4000 acres, 10,000 jobs Thanks to our partners for making this possible! Creative Planning. As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -221,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-08-01T01:38:09+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
-      "summary": "apart from DeepSeek V4-Flash 0731, a quiet day.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -245,18 +293,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Enterprise AI Really Gets Deployed",
-      "published_at": "2026-07-31T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1",
-      "summary": "Sarah Wang and Kimberly Tan are joined by Jesse Zhang and Ashwin Sreenivas, co-founders of Decagon, to discuss the evolution of enterprise AI agents, why the company increasingly relies on open-source models, and how it is helping some of the world’s largest companies deploy AI in production. Decagon has become one of the fastest-growing AI companies by building agents that automate customer support, sales, and operational workflows. Jesse, Decagon’s CEO, and Ashwin, its president, explain how the company is building enterprise AI at scale. They unpack why Decagon moved most of its inference to open-source models, how latency, evaluation, and fine-tuning shape production AI systems, and why enterprise AI requires far more than simply plugging into frontier models. The conversation also explores forward-deployed engineering, enterprise sales, AI’s impact on jobs, and why application companies will continue to thrive alongside the foundation model labs. Resources: Follow Jesse Zhang on X: https://x.com/thejessezhang Follow Ashwin Sreenivas on X: https://x.com/AshwinSreenivas Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Kimberly Tan on X: https://x.com/kimberlywtan Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9e904d6f-9c1a-40ec-9238-59acf0e69b9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9e904d6f-9c1a-40ec-9238-59acf0e69b9d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -266,43 +302,6 @@
       "summary": "When your AC fails in a heatwave, you don’t want a busy signal; you need a solution. Netic founder and CEO Melisa Tokmak joins host Elad Gil to explain how Netic’s autonomous AI platform acts as an intermediary between companies and customers, deploying agents to instantly handle essential services, from emergency home repairs to hospitality to pet care. Melisa describes the complexity of these real-world workloads, which have traditionally relied on large human support teams, and how over 70% of Netic’s customers interact first with AI. She also talks about the reasoning behind building a scalable product company rather than an AI roll-up, why she believes robotics will not catch up in these industries in the near future, why she doesn’t view large frontier labs as competitive threats, and how private equity’s playbook has shifted toward measurable ROI in the AI-era. Plus, why Melisa is optimistic about the impact AI will have on education. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @netic_AI | @melisatokmak Chapters: 00:00 – Melisa Tokmak Introduction 00:32 – What Netic Builds 03:53 – Automating Workflows for Essential Services 06:26 – Building a Service vs. AI Roll-Up 10:38 – AI for the Real World Timeline 12:56 – Can Big Labs Compete? 15:35 – Modern Founder Mindset 19:09 – Screening for Agency 22:25 – Five Year Vision 23:53 – Selling to Slow Industries 27:23 – How Private Equity Approached AI 31:14 – What Excites Melisa About the Future of AI 34:27 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP6533459307.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Using Coding Agents at SemiAnalysis",
-      "published_at": "2026-07-30T16:15:28+00:00",
-      "url": "https://www.youtube.com/shorts/apme8TJVEM4",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "apme8TJVEM4"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Building Durable Real Estate Portfolios at Morgan Stanley – Lauren Hochfelder (EP.514)",
-      "published_at": "2026-07-30T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/building-durable-real-estate-portfolios-at-morgan-stanley-lauren-hochfelder-ep514",
-      "summary": "Lauren Hochfelder is Head of Global Real Assets at Morgan Stanley, where she oversees a team of 300 investment professionals across 13 countries, managing $80 billion across real estate, infrastructure, equity and credit. Lauren joined Morgan Stanley as an investment banking analyst directly out of Yale 26 years ago and has spent her entire career at the firm, helping build one of the industry's leading platforms. Our conversation traces Lauren's journey from analyst to Global Head and the evolution of Morgan Stanley's real estate business before, during, and after the Global Financial Crisis. We cover the firm's thematic approach to investing behind structural demand tailwinds, combination of global perspectives and on-the-ground teams, operational improvements to assets, portfolio construction, and themes across industrial real estate and infrastructure, senior housing, and net lease properties. We also touch on riskier areas of real estate and Lauren's new role adding infrastructure to her real estate oversight. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.514_Lauren_Hochfelder_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "What 250 Years of Market Data Actually Tells Us | Meb Faber",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/What-250-Years-of-Market-Data-Actually-Tells-Us--Meb-Faber-e3mn48l",
-      "summary": "Investing in America: The Rise Of A 250-Year Bull Market by Meb Faber: https://amzn.to/3RY7mrS Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO7864771512.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
