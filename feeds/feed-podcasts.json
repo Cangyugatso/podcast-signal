@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-07T01:29:02.791788+00:00",
+  "generated_at": "2026-08-07T22:29:35.248477+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 23 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5 | Jon from Asianometry",
+      "published_at": "2026-08-07T22:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=q0GKTjhgkwk",
+      "summary": "Jeff Dean and the Gemini leads are leaving Google. Jon Y (@asianometry) makes his FIRST appearance to unpack the exodus with Doug O'Laughlin (@fabknowledge) and Jordan Nanos (@JordanNanos). The crew debates the Demis CEO question, whether Google acquired its innovation or invented it, and how the Bell Labs comparison reads once disruption arrives. First engineers who spent thirty-five years in one job now leaving for passion projects. The episode opens by revisiting the 2024 Dwarkesh clip where Jon questioned whether GPT-5 would be any good. Two years later the verdict is mixed: GPT-5 was a dud, 5.2 was ass, but 5.6 is strong and GPT-6, codenamed Doug, is rumored to write well. Then the Chinese transceiver ban, where the West depends on a supply chain China already owns. 00:00 Intro 01:02 Was GPT-5 Good? 05:00 The Transceiver Ban 08:57 Everyone Leaves Google 12:56 Google's L Culture 19:20 Do Legends Matter? 23:44 The Protestant Church 28:44 Elon's $1T Pull-In 30:55 Roll Your Own Software 38:17 Start With Memory",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "q0GKTjhgkwk"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "published_at": "2026-08-07T17:17:40+00:00",
+      "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "summary": "Locking in AI safety regulation now is a mistake.",
+      "audio_url": "https://api.substack.com/feed/podcast/210233020/894c362b5c1abb4be2eb88cb11e97d63.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
+      "published_at": "2026-08-07T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA",
+      "summary": "Joel De La Garza is joined by Dylan Ayrey, co-founder and CEO of Truffle Security, and Feross Aboukhadijeh, founder and CEO of Socket, to discuss one of the biggest shifts happening in cybersecurity: AI models are no longer just finding vulnerabilities—they're exploiting them. As frontier models become increasingly capable of hacking, software security, supply chain attacks, and cyber defense are entering a fundamentally new era. The conversation explores AI-powered hacking, software supply chain attacks, leaked credentials, zero-day vulnerabilities, package manager security, and why the path of least resistance for increasingly autonomous AI systems may also be the most dangerous. They also discuss what enterprises, developers, and the open-source ecosystem need to do to adapt as the gap between vulnerability discovery and exploitation continues to shrink. Resources: Follow Dylan Ayrey on X: https://x.com/InsecureNature Follow Feross Aboukhadijeh on X: https://x.com/Feross Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/87281352-dde8-4d86-8aca-b732656f750d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=87281352-dde8-4d86-8aca-b732656f750d&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AMD buys Taalas",
+      "published_at": "2026-08-07T05:13:46+00:00",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "summary": "The Inference Inflection is HEATING up.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -173,18 +222,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
-      "published_at": "2026-08-03T21:44:03+00:00",
-      "url": "https://www.latent.space/p/inference-eng",
-      "summary": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
-      "audio_url": "https://api.substack.com/feed/podcast/209198968/408157f660ff91fa8b1bd3f63802d9df.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -266,42 +303,6 @@
       "summary": "Sophia Dew and Sofia Puccini are joined by Ruby Thelot, designer, artist, cyberethnographer, professor at NYU, and founder of 13101401, for a wide-ranging conversation about internet culture, AI, digital communities, and how technology is reshaping the way we relate to one another. Drawing on years of research into online behavior, Ruby explains how digital cultures form, why algorithms shape more than just what we see, and what AI is changing about creativity, communication, and identity. They discuss cyberethnography, online subcultures, \"machinic taste,\" AI companions, social norms, internet language, and why Americans often say they dislike AI—even as they increasingly rely on it in everyday life. Resources: Follow Ruby X: https://x.com/being_on_line Substack: h ttps://beingonline.substack.com/ Follow Sophia on X: https://x.com/sophiadew Follow Sofia on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/03b39caa-2d5d-4ade-815f-7d9df9231c3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=03b39caa-2d5d-4ade-815f-7d9df9231c3f&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Marc Andreessen and Chris Dixon: What’s at Stake in Crypto Regulation",
-      "published_at": "2026-08-01T15:38:28+00:00",
-      "url": "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn",
-      "summary": "Marc Andreessen, Chris Dixon, and Robert Hackett discuss one of the most consequential policy debates facing the crypto industry: the push for comprehensive U.S. market structure legislation and what regulatory clarity could mean for innovation, financial markets, and America's technological leadership. They explore the CLARITY Act, stablecoins, securities law, consumer protection, and why both builders and financial institutions are calling for clear rules of the road. Along the way, they discuss the lessons of the early internet, FTX, open financial networks, and why they believe thoughtful regulation can strengthen innovation rather than slow it down. Resources: Follow Marc Andreessen on X: https://x.com/pmarca Follow Chris Dixon on X: https://x.com/cdixon Follow Robert Hackett on X: https://x.com/rhackett Follow a16z Crypto on X: https://x.com/a16zcrypto Why Bitcoin matters: https://a16z.com/why-bitcoin-matters/ What builders need to know about the CLARITY Act: https://a16zcrypto.com/posts/article/clarity-act-what-why-matters Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6a1f350c-90b5-47b5-bfa5-20e411df9ecd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6a1f350c-90b5-47b5-bfa5-20e411df9ecd&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-      "published_at": "2026-07-31T22:23:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
-      "summary": "(0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say \"SLOW DOWN AI\" (1:01:15) Why are frontier labs \"burning books\"? (1:14:45) Socialism Corner: Mamdani's grocery stores and the \"Socialist Spectacle\" (1:24:44) Science Corner: Understanding and mapping the brain Apply for All-In Summit 2026: https://allin.com/events Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b https://polymarket.com/event/fed-decision-in-september-762 https://situational-awareness.ai https://www.cnbc.com/quotes/US30Y https://x.com/nicolasfulghum/status/2082083884578050299 https://theprint.in/science/breakthrough-china-artificial-sun-project-6-5-tesla-magnet/2999321 https://www.pacingthefrontier.com/ https://www.cnbc.com/2026/07/29/openai-cfo-sarah-friar-tells-employees-arr-in-july-topped-all-of-q2.html https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive vhttps://www.reuters.com/world/china/china-starts-production-home-grown-immersion-duv-chipmaking-tools-source-2026-07-28 https://www.google.com/finance/beta/quote/ASML:NASDAQ https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html https://polymarket.com/event/ipos-before-2027 https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027/us-enacts-ai-safety-bill-before-2027 https://x.com/v_nefodov/status/2082927219224060043 https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20 https://punchbowl.news/article/tech/thune-anthropic https://www.wsj.com/tech/ai/anthropic-doubles-midterm-spending-to-40-million-to-push-ai-regulation-9cd547ae https://x.com/OpenAI/status/2082577277246972300 https://www.carltonfields.com/insights/publications/2025/no-copyright-protection-for-ai-assisted-creations-thaler-v-perlmutter https://x.com/Jason/status/2082577230941557068 https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-reportedly-shredding-millions-of-books-to-train-models-tech-giants-outsource-to-middlemen-to-secretly-buy-up-books-for-training-material https://www.404media.co/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop https://www.youtube.com/watch?v=d1azwUwKrPo&t=39s https://arxiv.org/pdf/2602.16417",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E283_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
-      "published_at": "2026-07-31T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP6533459307.mp3",
-      "summary": "When your AC fails in a heatwave, you don’t want a busy signal; you need a solution. Netic founder and CEO Melisa Tokmak joins host Elad Gil to explain how Netic’s autonomous AI platform acts as an intermediary between companies and customers, deploying agents to instantly handle essential services, from emergency home repairs to hospitality to pet care. Melisa describes the complexity of these real-world workloads, which have traditionally relied on large human support teams, and how over 70% of Netic’s customers interact first with AI. She also talks about the reasoning behind building a scalable product company rather than an AI roll-up, why she believes robotics will not catch up in these industries in the near future, why she doesn’t view large frontier labs as competitive threats, and how private equity’s playbook has shifted toward measurable ROI in the AI-era. Plus, why Melisa is optimistic about the impact AI will have on education. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @netic_AI | @melisatokmak Chapters: 00:00 – Melisa Tokmak Introduction 00:32 – What Netic Builds 03:53 – Automating Workflows for Essential Services 06:26 – Building a Service vs. AI Roll-Up 10:38 – AI for the Real World Timeline 12:56 – Can Big Labs Compete? 15:35 – Modern Founder Mindset 19:09 – Screening for Agency 22:25 – Five Year Vision 23:53 – Selling to Slow Industries 27:23 – How Private Equity Approached AI 31:14 – What Excites Melisa About the Future of AI 34:27 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP6533459307.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
       "source_type": "rss"
     }
   ],
