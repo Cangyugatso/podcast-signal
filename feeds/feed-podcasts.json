@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-08-08T22:23:00.044842+00:00",
+  "generated_at": "2026-08-09T22:24:39.465545+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 26,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 024 - SpaceX's 10GW Plan Drives $300B ARR by 2027 (Datacenter, Energy)",
+      "published_at": "2026-08-09T14:01:16+00:00",
+      "url": "https://www.youtube.com/watch?v=Qln3udrCmeo",
+      "summary": "OpenAI and Anthropic are adding close to $30 billion of ARR per month, and the driver is gross margin expansion, not new compute. Jeremie Eliahou Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower) join Jordan Nanos (@JordanNanos) to trace the $100 million per megawatt per year figure from real inference workloads on GB200 and GB300 up through SemiAnalysis simulation. The Google deal prices GB300 capacity near $14 an hour against a $3 average, a premium justified by a 90 day cancellation clause and the ability to turn on megawatts immediately. From there the conversation moves to SpaceX's 10 gigawatt ambition, the sites and supply chain needed to hit it, the permitting playbook, and why Microsoft becomes the largest offtaker. The bull and bear cases both get airtime, followed by a Hugging Face security scare to close. Subscribe for weekly coverage of tokenomics, datacenter energy, and AI compute economics. 0:00 – Intro 0:47 – The $100M Thesis 3:59 – Pricing & Google's Deal 10:38 – Training vs Inference 13:21 – Sites & Supply Chain 20:55 – Permitting Playbook 25:40 – Microsoft's Role 33:31 – Paying For It 41:01 – Bull vs Bear 43:29 – Hugging Face Security Scare & Wrap-Up Referenced: SpaceX 10GW in 2027 – Why It's Real, Will Drive $300B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker: https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Qln3udrCmeo"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "published_at": "2026-08-09T12:31:29+00:00",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "summary": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
+      "audio_url": "https://api.substack.com/feed/podcast/209025209/a266314f944e73b52dd2625cb49642a9.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -44,7 +69,7 @@
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "Ep. 23 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5 | Jon from Asianometry",
+      "title": "Ep. 023 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5 | Jon from Asianometry",
       "published_at": "2026-08-07T22:00:06+00:00",
       "url": "https://www.youtube.com/watch?v=q0GKTjhgkwk",
       "summary": "Jeff Dean and the Gemini leads are leaving Google. Jon Y (@asianometry) makes his FIRST appearance to unpack the exodus with Doug O'Laughlin (@fabknowledge) and Jordan Nanos (@JordanNanos). The crew debates the Demis CEO question, whether Google acquired its innovation or invented it, and how the Bell Labs comparison reads once disruption arrives. First engineers who spent thirty-five years in one job now leaving for passion projects. The episode opens by revisiting the 2024 Dwarkesh clip where Jon questioned whether GPT-5 would be any good. Two years later the verdict is mixed: GPT-5 was a dud, 5.2 was ass, but 5.6 is strong and GPT-6, codenamed Doug, is rumored to write well. Then the Chinese transceiver ban, where the West depends on a supply chain China already owns. 00:00 Intro 01:02 Was GPT-5 Good? 05:00 The Transceiver Ban 08:57 Everyone Leaves Google 12:56 Google's L Culture 19:20 Do Legends Matter? 23:44 The Protestant Church 28:44 Elon's $1T Pull-In 30:55 Roll Your Own Software 38:17 Start With Memory",
@@ -270,18 +295,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "published_at": "2026-08-03T12:04:26+00:00",
-      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
-      "summary": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
-      "audio_url": "https://api.substack.com/feed/podcast/209161342/02c450ab5551c19884e7a8587338dc50.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -303,18 +316,6 @@
       "summary": "Our Summer Series kickoff is with one of the all-time greats, Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases. And her follow-up works How to Decide and Quit pull different threads in the decision-making process. Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital. For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets in 2018 and Quit in 2022. Please enjoy these great conversations with Annie Duke . Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
-      "published_at": "2026-08-02T10:46:36+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ruby-thelot-on-internet-culture-ai-and-the-future-of-taste-CvhHSpzt",
-      "summary": "Sophia Dew and Sofia Puccini are joined by Ruby Thelot, designer, artist, cyberethnographer, professor at NYU, and founder of 13101401, for a wide-ranging conversation about internet culture, AI, digital communities, and how technology is reshaping the way we relate to one another. Drawing on years of research into online behavior, Ruby explains how digital cultures form, why algorithms shape more than just what we see, and what AI is changing about creativity, communication, and identity. They discuss cyberethnography, online subcultures, \"machinic taste,\" AI companions, social norms, internet language, and why Americans often say they dislike AI—even as they increasingly rely on it in everyday life. Resources: Follow Ruby X: https://x.com/being_on_line Substack: h ttps://beingonline.substack.com/ Follow Sophia on X: https://x.com/sophiadew Follow Sofia on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/03b39caa-2d5d-4ade-815f-7d9df9231c3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=03b39caa-2d5d-4ade-815f-7d9df9231c3f&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
