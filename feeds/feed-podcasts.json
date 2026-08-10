@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-08-09T22:24:39.465545+00:00",
+  "generated_at": "2026-08-10T22:32:11.564412+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "published_at": "2026-08-10T15:01:49+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "published_at": "2026-08-10T12:01:44+00:00",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "summary": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
+      "audio_url": "https://api.substack.com/feed/podcast/210264025/50984fb3525ea5f0b892afa589754e02.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Self-Improving Company | Kavak's AI Playbook",
+      "published_at": "2026-08-10T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
+      "summary": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents. Alejandro explains why Kavak decided that simply giving employees AI tools wasn't enough, and instead redesigned the company's systems, teams, and customer experience around agents. They discuss why Kavak spends as much engineering effort on evals as it does building agents, how its AI sellers outperform its human teams, and an experiment where an AI \"CEO\" increased profits in one city by 50% in its first month. The conversation also explores what happens to organizational structure when agents do most of the work, why Kavak trains everyone from executives to mechanics to build with AI, and Alejandro's argument that companies looking for incremental AI adoption may be missing the larger opportunity: redesigning the organization itself. Resources: Follow Alejandro Maza Ayala on X: https://x.com/alehandromz Follow Angela Strange on X: https://x.com/astrange Follow Gabriel Vasquez on X: https://x.com/GEVS94 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -199,18 +235,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "WTT: The Anatomy of a Blow-Up",
-      "published_at": "2026-08-05T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
-      "summary": "This What Ted's Thinking brings Situational Awareness to the underlying causes of hedge fund disasters. Read Ted's blog here. Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_WTT_-_Anatomy_of_a_Blow-Up_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -247,18 +271,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "What if you’re not supposed to have a long-term plan?",
-      "published_at": "2026-08-04T13:02:53+00:00",
-      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
-      "summary": "The case for career emergence",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -269,55 +281,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS6565465184.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why smarter AI models could drive up compute prices 10x",
-      "published_at": "2026-08-03T17:32:13+00:00",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
-      "summary": "The end of cheap compute?",
-      "audio_url": "https://api.substack.com/feed/podcast/209664458/61c585baeb7b13bc4b65637ffc2c66b4.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "published_at": "2026-08-03T15:02:21+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2022)",
-      "published_at": "2026-08-03T09:15:00+00:00",
-      "url": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2022",
-      "summary": "Our Summer Series kickoff is with one of the all-time greats, Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases. And her follow-up works How to Decide and Quit pull different threads in the decision-making process. Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital. For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets in 2018 and Quit in 2022. Please enjoy these great conversations with Annie Duke . Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.273_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Interdisciplinary Skills: Decision-Making – Annie Duke (2018)",
-      "published_at": "2026-08-03T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/interdisciplinary-skills-decision-making-annie-duke-2018",
-      "summary": "Our Summer Series kickoff is with one of the all-time greats, Annie Duke . The former world-class poker player has become a noted academic and practitioner in the art of decision-making. Her best-seller Thinking in Bets is a one-of-a-kind set of tools and tips to try (emphasis on try) to get past our embedded behavioral biases. And her follow-up works How to Decide and Quit pull different threads in the decision-making process. Since writing Thinking in Bets, Annie has consulted several investment organizations to apply her insights to investing, including becoming a Special Partner focused on Decision Science at venture firm, First Round Capital. For the series, we've shared two of Annie's most popular appearance on the show – coinciding with the launched of Thinking in Bets in 2018 and Quit in 2022. Please enjoy these great conversations with Annie Duke . Any leader should see for themselves the benefits of elite coaching. Try ALEX : tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.39_Annie_Duke_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Capital Allocators",
+      "url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "error": "https://rss.libsyn.com/shows/94820/destinations/482814.xml: request timed out"
+    }
+  ]
 }
