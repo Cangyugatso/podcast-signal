@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-08-12T22:35:21.822086+00:00",
+  "generated_at": "2026-08-13T22:35:40.029047+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
+      "published_at": "2026-08-13T17:29:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP3695187109.mp3",
+      "summary": "In a world of infinite gaming and entertainment possibilities, how does a centuries-old game stay so popular? Chess.com co-founder and CEO Erik Allebest joins Sarah Guo to explain how the evolution of technology has kept people coming back to chess, even when machines can beat us at the game. Erik talks about how the desire to build a MySpace-like community for chess led to the purchase of a domain name from a bankruptcy sale back in 2005, and scaled into a community with 10 million daily active users and 250 million total registered members. He also discusses the growth of the cultural relevance of chess, how investments from private equity firms General Atlantic and CVC helped grow and strengthen their platform, and how Chess.com is leveraging AI both within the business itself and to make a better product for its community. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @chesscom | @erikallebest Chapters: 00:00 – Cold Open Trailer 01:05 – Erik Allebest Introduction 01:48 – Chess.com Today 02:57 – Buying and Scaling Chess.com 06:29 – Competition and Growth 11:52 – Chess and Cultural Relevance 14:32 – Private Equity Investment 19:31 – Playing Games Amid Evolving Tech 25:09 – Tech, Skill Distribution, and Expertise 28:40 – Chess and Cheating 31:20 – What Makes Chess Special 33:17 – Chess.com Future Vision 34:54 – Founder Advice 36:48 – AGI/ASI Predictions 40:02 – AI Investments at Chess.com 42:13 – How AI May Change Product at Chess.com 43:27 – Poker Rating Algorithms 46:07 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP3695187109.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Two Ways to Sell AI: Lighthouse or Landgrab?",
+      "published_at": "2026-08-13T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-two-ways-to-sell-ai-lighthouse-or-landgrab-9C2mrr4S",
+      "summary": "Elena Burger is joined by a16z's Andy McCall and Joe Schmidt to break down two very different ways AI startups can go to market: the lighthouse and the landgrab. Should founders win a handful of marquee customers whose credibility unlocks an entire industry, or move quickly across a broad market where the ROI already speaks for itself? Drawing on Joe's Lighthouse or Landgrab framework and Andy's experience building sales organizations at Samsara and Meraki, they explore how founders can determine which strategy fits their market, when social proof matters more than math, and why the current rush to adopt AI has created a rare window for startups to sell big software again. They also get tactical on POCs, pricing and ACV, hiring early sales teams, moving from mid-market to enterprise, and why founders shouldn't spend too much time perfecting their GTM strategy before talking to customers. As Andy puts it: spend 1% of your time on strategy and 99% executing. Resources: Read Joe Schmidt's \"Lighthouse or Landgrab\": https://a16z.com/lighthouse-or-landgrab-how-to-pick-your-ai-sales-strategy/ Follow Andy McCall on LinkedIn: https://www.linkedin.com/in/amccall/ Follow Joe Schmidt on X: https://x.com/joeschmidtiv Follow Elena Burger on X: https://x.com/VirtualElena Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/27b5d98e-8e97-4611-b829-685b32382349/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=27b5d98e-8e97-4611-b829-685b32382349&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+      "published_at": "2026-08-13T02:10:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats",
+      "summary": "(0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reasons for the decay of the West (38:37) Immigration: US solutions, who to emulate, subsidizing college for Americans (46:55) National debt, government interference in markets, fixing education (1:09:24) DSA vs Democrats Follow Rahm: https://x.com/RahmEmanuel Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+      "published_at": "2026-08-13T01:53:47+00:00",
+      "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+      "summary": "AI teammate category just had its most significant new entrant yet",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lex Fridman",
       "domain": "ai",
@@ -256,54 +304,6 @@
       "summary": "Joel De La Garza is joined by Dylan Ayrey, co-founder and CEO of Truffle Security, and Feross Aboukhadijeh, founder and CEO of Socket, to discuss one of the biggest shifts happening in cybersecurity: AI models are no longer just finding vulnerabilities—they're exploiting them. As frontier models become increasingly capable of hacking, software security, supply chain attacks, and cyber defense are entering a fundamentally new era. The conversation explores AI-powered hacking, software supply chain attacks, leaked credentials, zero-day vulnerabilities, package manager security, and why the path of least resistance for increasingly autonomous AI systems may also be the most dangerous. They also discuss what enterprises, developers, and the open-source ecosystem need to do to adapt as the gap between vulnerability discovery and exploitation continues to shrink. Resources: Follow Dylan Ayrey on X: https://x.com/InsecureNature Follow Feross Aboukhadijeh on X: https://x.com/Feross Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/87281352-dde8-4d86-8aca-b732656f750d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=87281352-dde8-4d86-8aca-b732656f750d&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AMD buys Taalas",
-      "published_at": "2026-08-07T05:13:46+00:00",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "summary": "The Inference Inflection is HEATING up.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Engine Powering Open-Source AI",
-      "published_at": "2026-08-06T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz",
-      "summary": "Elena Burger and Matt Bornstein are joined by Simon Mo, co-founder and CEO of Inferact, the open-source inference engine powering many of today's most advanced AI applications. Together, they explore how open-source AI evolved from a research project into critical infrastructure, why inference has become one of the most important layers of the AI stack, and what it takes to bring frontier intelligence to developers around the world. The conversation covers vLLM's origins, the rise of open-weight models, why companies increasingly want control over their AI infrastructure, and how open-source inference enables the next generation of AI applications. They also discuss model licensing, the economics of open-weight AI, Kimi K3, distillation, AI infrastructure, and why Simon believes the gap between open and closed models is rapidly disappearing. Resources: Follow Simon Mo on X: https://x.com/simon_mo_ Follow Matt Bornstein on X: https://x.com/BornsteinMatt Follow Elena Burger on X: https://x.com/VirtualElena Follow Inferact: https://x.com/inferact Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/40ae9846-5fcf-49d2-95de-fa631a615ad4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=40ae9846-5fcf-49d2-95de-fa631a615ad4&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Chasing Trillion-Dollar Companies, Founder Ambition, Token Budgets, and Regulatory Capture with Sarah & Elad",
-      "published_at": "2026-08-06T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP3190127956.mp3",
-      "summary": "Is the tech industry moving too quickly, or are founders letting fear of AI labs stunt their ambitions? Sarah and Elad explore the current landscape of artificial intelligence, venture capital, and startup dynamics. They discuss the realities of building multi-trillion-dollar companies, shifting market sizes and outcome-based pricing models, and how founders are reacting to the rise of major AI labs. They also talk about what the framework for startup exits should look like, the potential for researcher burnouts in the next eighteen months as ASI looms on the horizon, bottlenecks for compute, and the impact of regulatory capture and shifting ecosystems from California to Texas. Apply for Embed - Conviction’s Catalyst for AI-Native Startups Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil Chapters: 00:00 – Cold Open Trailer 00:31 – Episode Introduction 01:44 – The Next Trillion-Dollar Company 03:12 – Tech Waves as Punctuated Equilibria 04:42 – TAM vs. Revenue Reality 07:14 – Market Size vs. Speed 10:32 – When Founders Should Sell 14:04 – Financing and Time Cost 17:57 – RSI and the Looming Promise of ASI 21:49 – Compute Power Laws 28:12 – Regulations and Disruption 33:06 – Beyond Transformers 34:26 – Tradeoffs - Safety vs. Progress 39:11 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP3190127956.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "How I Force Change at Companies Wall Street Ignores",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/How-I-Force-Change-at-Companies-Wall-Street-Ignores-e3n1272",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO4356005448.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
