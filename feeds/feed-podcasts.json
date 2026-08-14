@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-08-13T22:35:40.029047+00:00",
+  "generated_at": "2026-08-14T22:16:59.640926+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
+      "published_at": "2026-08-14T20:11:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
+      "summary": "(0:00) Gavin Baker joins the show! (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements! (58:13) Nvidia's $500B financing plan, how the AI market could fall apart (1:14:29) NJ and Mamdani take on Amazon over subcontracted drivers (1:27:32) Grok 4.6 launch: SpaceX's high-ceiling, high-floor AI strategy (1:35:21) Workday in talks to be acquired by Silver Lake for ~$43B Apply for Summit 2026: https://allin.com/events Follow Gavin: https://x.com/gavinsbaker Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa https://polymarket.com/event/ipos-before-2027 https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026 https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion https://x.com/elonmusk/status/2052069691372478511 https://www.meta.com/thefutureisforeveryone https://x.com/Home_of_Fight/status/2086504599444140344 https://x.com/JensenHuang/status/2086934705207959965 https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html https://www.google.com/finance/beta/quote/WDAY:NASDAQ https://www.amazon.com/Vision-Anointed-Self-Congratulation-Social-Policy/dp/046508995X https://www.nytimes.com/2026/08/10/nyregion/mamdani-amazon-delivery-workers-nyc.html",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ben Horowitz and Travis Kalanick on Building Again",
+      "published_at": "2026-08-14T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd",
+      "summary": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the next industrial revolution will be powered by AI. They revisit pivotal moments from Uber's history, including the decision not to acquire Lyft, lessons from scaling one of the world's fastest-growing companies, and how Kalanick has evolved as a founder. The conversation also explores Atoms' vision for industrial AI, why software is moving into the physical world, what it takes to build enduring company cultures, and why Kalanick believes the biggest opportunities of the next decade lie in transforming industries like food production, mining, and manufacturing. Resources: Follow Travis Kalanick on X: https://x.com/travisk Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+      "published_at": "2026-08-14T05:30:39+00:00",
+      "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+      "summary": "Down, but not out!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "No Priors",
       "domain": "ai",
@@ -225,7 +261,7 @@
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "title": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
       "published_at": "2026-08-09T12:31:29+00:00",
       "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
       "summary": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
@@ -246,18 +282,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Zawinski's Law of MultiAgents",
-      "published_at": "2026-08-08T01:12:07+00:00",
-      "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-      "summary": "a quiet day lets us find some connections among recent themes",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -267,43 +291,6 @@
       "summary": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (45:44) All-In Summit Speaker Announcements! (48:01) Airtable sells for a 90% discount: SaaSpocalypse? (1:05:56) Chinese AI labs are buying US training data to catch up Apply for Summit 2026: https://allin.com/events Follow Brad: https://x.com/altcap Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/the_ai_investor/status/2084687703707361429 https://x.com/Tesla/status/2085365278276284803",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E284_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 023 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5 | Jon from Asianometry",
-      "published_at": "2026-08-07T22:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=q0GKTjhgkwk",
-      "summary": "Jeff Dean and the Gemini leads are leaving Google. Jon Y (@asianometry) makes his FIRST appearance to unpack the exodus with Doug O'Laughlin (@fabknowledge) and Jordan Nanos (@JordanNanos). The crew debates the Demis CEO question, whether Google acquired its innovation or invented it, and how the Bell Labs comparison reads once disruption arrives. First engineers who spent thirty-five years in one job now leaving for passion projects. The episode opens by revisiting the 2024 Dwarkesh clip where Jon questioned whether GPT-5 would be any good. Two years later the verdict is mixed: GPT-5 was a dud, 5.2 was ass, but 5.6 is strong and GPT-6, codenamed Doug, is rumored to write well. Then the Chinese transceiver ban, where the West depends on a supply chain China already owns. 00:00 Intro 01:02 Was GPT-5 Good? 05:00 The Transceiver Ban 08:57 Everyone Leaves Google 12:56 Google's L Culture 19:20 Do Legends Matter? 23:44 The Protestant Church 28:44 Elon's $1T Pull-In 30:55 Roll Your Own Software 38:17 Start With Memory",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "q0GKTjhgkwk"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "8 Predictions for the Era of Continual Learning",
-      "published_at": "2026-08-07T17:17:40+00:00",
-      "url": "https://www.dwarkesh.com/p/era-of-continual-learning",
-      "summary": "Locking in AI safety regulation now is a mistake.",
-      "audio_url": "https://api.substack.com/feed/podcast/210233020/894c362b5c1abb4be2eb88cb11e97d63.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
-      "published_at": "2026-08-07T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA",
-      "summary": "Joel De La Garza is joined by Dylan Ayrey, co-founder and CEO of Truffle Security, and Feross Aboukhadijeh, founder and CEO of Socket, to discuss one of the biggest shifts happening in cybersecurity: AI models are no longer just finding vulnerabilities—they're exploiting them. As frontier models become increasingly capable of hacking, software security, supply chain attacks, and cyber defense are entering a fundamentally new era. The conversation explores AI-powered hacking, software supply chain attacks, leaked credentials, zero-day vulnerabilities, package manager security, and why the path of least resistance for increasingly autonomous AI systems may also be the most dangerous. They also discuss what enterprises, developers, and the open-source ecosystem need to do to adapt as the gap between vulnerability discovery and exploitation continues to shrink. Resources: Follow Dylan Ayrey on X: https://x.com/InsecureNature Follow Feross Aboukhadijeh on X: https://x.com/Feross Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/87281352-dde8-4d86-8aca-b732656f750d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=87281352-dde8-4d86-8aca-b732656f750d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
