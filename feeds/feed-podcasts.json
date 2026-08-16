@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-08-15T22:15:36.443003+00:00",
+  "generated_at": "2026-08-16T22:15:07.460955+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "published_at": "2026-08-16T12:31:42+00:00",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+      "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
+      "audio_url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -254,31 +266,6 @@
       "summary": "This week's Summer Series is a highly atypical episode, where I appear as the guest. Matt Breitfelder from Apollo asked to interview me about interviewing, something I learned far more from hosting the show the last nine years than I ever did while interviewing managers for 20. The conversation has been sufficiently popular that it made the Summer Series on investment process. Any leader should see for themselves the benefits of elite coaching. Try ALEX: tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.330_Matt_B_Art_of_Interview_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 024 - SpaceX's 10GW Plan Drives $300B ARR by 2027 (Datacenter, Energy)",
-      "published_at": "2026-08-09T14:01:16+00:00",
-      "url": "https://www.youtube.com/watch?v=Qln3udrCmeo",
-      "summary": "OpenAI and Anthropic are adding close to $30 billion of ARR per month, and the driver is gross margin expansion, not new compute. Jeremie Eliahou Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower) join Jordan Nanos (@JordanNanos) to trace the $100 million per megawatt per year figure from real inference workloads on GB200 and GB300 up through SemiAnalysis simulation. The Google deal prices GB300 capacity near $14 an hour against a $3 average, a premium justified by a 90 day cancellation clause and the ability to turn on megawatts immediately. From there the conversation moves to SpaceX's 10 gigawatt ambition, the sites and supply chain needed to hit it, the permitting playbook, and why Microsoft becomes the largest offtaker. The bull and bear cases both get airtime, followed by a Hugging Face security scare to close. Subscribe for weekly coverage of tokenomics, datacenter energy, and AI compute economics. 0:00 – Intro 0:47 – The $100M Thesis 3:59 – Pricing & Google's Deal 10:38 – Training vs Inference 13:21 – Sites & Supply Chain 20:55 – Permitting Playbook 25:40 – Microsoft's Role 33:31 – Paying For It 41:01 – Bull vs Bear 43:29 – Hugging Face Security Scare & Wrap-Up Referenced: SpaceX 10GW in 2027 – Why It's Real, Will Drive $300B ARR for SpaceX, and Why Microsoft Will Be the Largest Offtaker: https://newsletter.semianalysis.com/p/spacex-10gw-in-2027-why-its-real",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Qln3udrCmeo"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
-      "published_at": "2026-08-09T12:31:29+00:00",
-      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
-      "summary": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
-      "audio_url": "https://api.substack.com/feed/podcast/209025209/a266314f944e73b52dd2625cb49642a9.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
