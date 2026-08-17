@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-08-16T22:15:07.460955+00:00",
+  "generated_at": "2026-08-17T22:19:02.925929+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+      "published_at": "2026-08-17T15:03:16+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 25 - DYLAN IS HERE, LIVE! | Dylan Patel & Jordan Nanos",
+      "published_at": "2026-08-17T15:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=Trm74fovjaA",
+      "summary": "Dylan joins the pod today, recorded live from our SF office. Jordan and Dylan discuss SemiAnalysis's AI spend, the model that escaped during training, AI rollups eating private equity, new accelerators vs NVIDIA, and whether the pod gives away too much information for free. 0:00 Cold Open 5:25 SA AI Spend 9:29 AI Performance Reviews 10:40 AI Rollups 13:47 The Agent Moment 15:28 The Escaped Model 18:11 Model Exponential 22:52 Compute and Chips 30:18 Open Models 32:00 ADHD and AI",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Trm74fovjaA"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+      "published_at": "2026-08-17T12:04:02+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+      "summary": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
+      "audio_url": "https://api.substack.com/feed/podcast/210800379/c3cc3683947c15288bc7bde725c34551.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Stripe’s AI Strategy: Build More, Not Less",
+      "published_at": "2026-08-17T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ",
+      "summary": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product financial infrastructure platform, while a new generation of AI companies is growing and monetizing faster than previous software cohorts. Will explains why Stripe sees AI productivity as an opportunity to build more rather than simply cut costs, including how its internal coding agents now generate thousands of pull requests each week. They discuss creating founder-like agency inside large companies, building smaller and flatter teams, and why Stripe believes dramatically more software will be created as the cost of building continues to fall. They also look ahead to agentic commerce, why checkout pages could disappear, the potential return of micropayments, stablecoins as infrastructure for a global economy, and a future where AI agents increasingly buy software and services from other machines. Resources: Follow Will Gaybrick on LinkedIn: https://www.linkedin.com/in/william-gaybrick-5730347/ Follow Will on X: https://x.com/gaybrick Follow David George on X: https://x.com/DavidGeorge83 Follow Stripe on X: https://x.com/stripe Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/32a1ddf5-6e45-40af-aa6c-8916177fb5aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=32a1ddf5-6e45-40af-aa6c-8916177fb5aa&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Best of Pre-Mortem Analysis: Gary Klein",
+      "published_at": "2026-08-17T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/best-of-pre-mortem-analysis-gary-klein",
+      "summary": "This week's Summer Series covers the pre-mortem analysis with its founder, Gary Klein. Gary discovered pre-mortems while working with fighter pilots and wrote a white paper applying the tool to investment analysis alongside Paul Johnson and Paul Sonkin. Please enjoy this discussion of the proper use of pre-mortem analysis with Gary, Paul, and Paul from 2019. Learn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/ Try ALEX by Admired Leadership: tryalex.admiredleadership.com Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.109_Gary_Klein_-_SUMMER_SERIES_2026_-_AUDIO_V3.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -62,6 +123,18 @@
       "summary": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the next industrial revolution will be powered by AI. They revisit pivotal moments from Uber's history, including the decision not to acquire Lyft, lessons from scaling one of the world's fastest-growing companies, and how Kalanick has evolved as a founder. The conversation also explores Atoms' vision for industrial AI, why software is moving into the physical world, what it takes to build enduring company cultures, and why Kalanick believes the biggest opportunities of the next decade lie in transforming industries like food production, mining, and manufacturing. Resources: Follow Travis Kalanick on X: https://x.com/travisk Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Cursor's $60B acquisition by SpaceXai closes",
+      "published_at": "2026-08-14T06:16:00+00:00",
+      "url": "https://www.latent.space/p/ainews-cursors-60b-acquisition-by",
+      "summary": "Congrats to the team!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -161,18 +234,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
-      "published_at": "2026-08-11T21:03:50+00:00",
-      "url": "https://www.latent.space/p/chai-discovery",
-      "summary": "Pharma is suddenly paying for Bio × AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.",
-      "audio_url": "https://api.substack.com/feed/podcast/209779219/6d3e16128540b5067502128632b9952b.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -218,54 +279,6 @@
       "summary": "My guest today is Eric Vishria, a General Partner at Benchmark. Eric has spent his career in software and cloud, and few people know the history of these markets as well as he does. What makes him special is his ability to use that history to make sense of today. We discuss what the rise of AWS teaches us about AI, what he has learned from investing in Fireworks, Sierra, and Cerebras, and how the criteria for winning have changed for founders and investors. Please enjoy my conversation with Eric Vishria. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:20) Learning the World Through Fireworks (00:05:42) AWS Was Going to Eat Everything (00:07:40) The Zero-Sum Thinking Trap (00:09:01) Comparing Cloud and AI Adoption (00:11:03) Becoming Enterprise's AI Sherpa (00:13:05) Building Sandcastles (00:14:55) The Return to Being Technical (00:17:13) The Shifting Competitive Frontier (00:22:10) Why the Old Playbook Fails (00:27:53) Energy as the Binding Constraint (00:29:38) The Cerebras Story (00:37:57) The Virtue of Productive Naivete (00:39:19) What Robotics Still Needs (00:45:58) What Makes a Great Board Partner (00:51:13) Raising A Growth Fund (00:55:39) What the Big Winners Taught Him (00:57:37) Hard Work Versus the Hole-in-One (00:58:38) The Best Reasons to Go Public (01:01:09) Debates Inside Benchmark (01:02:16) What If It All Works (01:03:35) What Geoff Hinton Got Wrong",
       "audio_url": "https://traffic.megaphone.fm/CLS6500696931.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
-      "published_at": "2026-08-10T15:01:49+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
-      "published_at": "2026-08-10T12:01:44+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
-      "summary": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
-      "audio_url": "https://api.substack.com/feed/podcast/210264025/50984fb3525ea5f0b892afa589754e02.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Self-Improving Company | Kavak's AI Playbook",
-      "published_at": "2026-08-10T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
-      "summary": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents. Alejandro explains why Kavak decided that simply giving employees AI tools wasn't enough, and instead redesigned the company's systems, teams, and customer experience around agents. They discuss why Kavak spends as much engineering effort on evals as it does building agents, how its AI sellers outperform its human teams, and an experiment where an AI \"CEO\" increased profits in one city by 50% in its first month. The conversation also explores what happens to organizational structure when agents do most of the work, why Kavak trains everyone from executives to mechanics to build with AI, and Alejandro's argument that companies looking for incremental AI adoption may be missing the larger opportunity: redesigning the organization itself. Resources: Follow Alejandro Maza Ayala on X: https://x.com/alehandromz Follow Angela Strange on X: https://x.com/astrange Follow Gabriel Vasquez on X: https://x.com/GEVS94 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Interviewing: Ted Seides",
-      "published_at": "2026-08-10T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/interdisciplinary-skills-interviewing-the-art-of-the-interview",
-      "summary": "This week's Summer Series is a highly atypical episode, where I appear as the guest. Matt Breitfelder from Apollo asked to interview me about interviewing, something I learned far more from hosting the show the last nine years than I ever did while interviewing managers for 20. The conversation has been sufficiently popular that it made the Summer Series on investment process. Any leader should see for themselves the benefits of elite coaching. Try ALEX: tryalex.admiredleadership.com . Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.330_Matt_B_Art_of_Interview_-_SUMMER_SERIES_2026_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
