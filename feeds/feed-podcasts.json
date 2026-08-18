@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-08-17T22:19:02.925929+00:00",
+  "generated_at": "2026-08-18T22:17:35.468408+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 23,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+      "published_at": "2026-08-18T21:41:10+00:00",
+      "url": "https://www.latent.space/p/glean-model-routing",
+      "summary": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+      "published_at": "2026-08-18T21:30:31+00:00",
+      "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+      "summary": "Watch now | 🎙️ I tested Grok Bot, Cursor Origin, and Grok 4.6 head-to-head against my favorite models and ranked them on the Claire Index: here's what actually moved the needle",
+      "audio_url": "https://api.substack.com/feed/podcast/211737019/7311da6f6320066679f24efa88a18a57.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+      "published_at": "2026-08-18T15:40:06+00:00",
+      "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+      "summary": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Do You Defend Against AI That Can Hack?",
+      "published_at": "2026-08-18T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-do-you-defend-against-ai-that-can-hack-L2M2EmmY",
+      "summary": "a16z's Joel De La Garza is joined by Nick Warner of Neo and Max Pollard of Cotool to discuss what happens when cybersecurity tools built to defend against humans and malware suddenly have to contend with AI agents. As frontier models become more capable of finding and exploiting vulnerabilities, many of the assumptions underlying traditional security are beginning to break. They explore why guardrails designed to stop AI-powered attackers can also prevent security teams from doing their jobs, why defenders increasingly need access to multiple models, and how agentic software creates an entirely new endpoint security problem. They also discuss why static signatures and even newer techniques like honeypots are struggling in a world where software can reason and act autonomously. Recorded around Black Hat, the conversation looks at how security teams are adapting in real time and why the same AI capabilities creating new attack surfaces could ultimately give defenders their biggest advantage yet. Resources: Follow Nick on LinkedIn: https://www.linkedin.com/in/nicholaswarner/ Follow Max on LinkedIn: https://www.linkedin.com/in/mmpollard/ Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/36fe97e3-b3b1-4dcf-93ac-92f232d3c4c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=36fe97e3-b3b1-4dcf-93ac-92f232d3c4c7&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
+      "published_at": "2026-08-18T08:00:00+00:00",
+      "url": "https://colossus.com/episode/winners-losers-ai-era/",
+      "summary": "My guest today is Ben Thompson, the founder and author of Stratechery. Ben is one of my favorite business thinkers and I love talking to him about everything happening in markets and technology. We go through every important company, including OpenAI, Nvidia, Intel, Apple, Microsoft, Google, and Amazon. We also discuss why he thinks it would be dangerous for the United States to win the AI race outright, what container shipping and the railroads of the 1870s tell us about the buildout, and why the binding constraint on all of this may be capital rather than compute. Please enjoy my conversation with Ben Thompson. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:16) Winning the AI Race With China (00:08:28) Timing, Capital, and the Railroads (00:11:34) Berkshire, Google, and Absolute Profits (00:14:23) Verifiable and Unverifiable Domains (00:20:20) Aggregation Theory in the AI Era (00:22:06) The Real Cost of Inference (00:25:40) Why Consumer AI Needs Advertising (00:30:08) Compute Shortages and Commodity Markets (00:35:46) Memory Cycles and Boom Bust Dynamics (00:42:08) TSMC, Intel, and Where Risk Goes (00:44:51) The Best Setups in Big Tech (00:52:14) The Frontier Model Contenders (00:54:27) Microsoft's IBM Playbook (01:00:45) Meta, Attention, and Advertising (01:07:29) NVIDIA, Commodities, and Power",
+      "audio_url": "https://traffic.megaphone.fm/CLS4584299095.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
+      "published_at": "2026-08-18T00:47:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety",
+      "summary": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! (7:23) License plate data retention: 7 days solves 90% of crimes (13:00) Camera vandalism, felony charges, and privacy concerns (18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired (28:25) AI, drones, facial recognition, and avoiding predictive policing (39:43) Safety is a privilege and who actually needs Flock (45:36) Flock's PR crisis: internal morale, churn, and 20 cities turning the cameras back on Thanks to our partners for making this possible! AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at http://applovin.com/ALLIN Numeral is the trusted solution for U.S. sales tax, VAT, and GST, used by 3,000+ businesses globally. They handle registrations, filings, and tax rates, so you can stay ahead of risk. Learn more at https://www.numeral.com/?utm_source=all-in Follow Garrett: https://x.com/glangley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Stripe buys OpenRouter for $7B",
+      "published_at": "2026-08-17T23:13:41+00:00",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "summary": "No GPUs, no Agents, just really, really, really good infra and distribution.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -74,18 +158,6 @@
       "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
       "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
       "audio_url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
-      "published_at": "2026-08-15T17:01:13+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
-      "summary": "Community Wisdom 197",
-      "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
@@ -186,18 +258,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
-      "published_at": "2026-08-13T01:53:47+00:00",
-      "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "summary": "AI teammate category just had its most significant new entrant yet",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lex Fridman",
       "domain": "ai",
       "language": "en",
@@ -219,66 +279,6 @@
       "summary": "Anish Acharya is joined by Garry Tan, President and CEO of Y Combinator, for a conversation about how AI is rewriting the startup playbook, why founders should be more ambitious than ever, and what two decades of Silicon Valley booms, busts, and missed opportunities have taught Garry about building what's next. Garry reflects on turning down an early opportunity to join Palantir, why chasing what's \"hot\" is often the wrong strategy, and why the best ideas tend to begin with people pursuing strange, earnest obsessions outside the mainstream. They also explore how AI changes the economics of company building, why traditional SaaS may be losing its advantage, and how tiny teams equipped with hundreds of agents can build businesses at a scale that once required entire organizations. The conversation goes deeper into agentic companies, taste and agency, why \"a markdown file is an employee,\" and how AI could remove layers of bureaucracy that have historically limited organizations. Garry and Anish also discuss the future of consumer AI, the coming \"harness wars,\" why AI adoption may take longer than Silicon Valley expects, and what the next generation of founders can build with intelligence that was unimaginable just a few years ago. Resources: Follow Garry Tan on X: https://x.com/garrytan Follow Anish Acharya on X: https://x.com/illscience Follow Y Combinator on X: https://x.com/ycombinator Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cab51e91-62c3-4d8f-bf0b-93bfdf079f56/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cab51e91-62c3-4d8f-bf0b-93bfdf079f56&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] How to steal a Reasoning Trace",
-      "published_at": "2026-08-12T07:11:08+00:00",
-      "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "summary": "Speculative Decoding by any other name would distil as sweet",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ryan Greenblatt – What happens once AI can automate AI research?",
-      "published_at": "2026-08-11T16:31:23+00:00",
-      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "summary": "A debate about recursive self-improvement.",
-      "audio_url": "https://api.substack.com/feed/podcast/210737923/7ebb4a9c27fa436baca3863c225f556e.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How to make people care about your startup",
-      "published_at": "2026-08-11T13:31:07+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "summary": "Three founder archetypes—and how to turn your origin story into a communications strategy",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The CISO Playbook for AI Agents | Datadog",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-ciso-playbook-for-ai-agents-datadog-rhAxFNQK",
-      "summary": "a16z's Joel De La Garza is joined by Emilio Escobar, Chief Information Security Officer at Datadog, to discuss what it takes to secure a company where nearly every employee is using AI and more than 4,000 engineers are working with coding agents. Rather than trying to block new tools, Emilio explains why Datadog chose to embrace AI early and build the security infrastructure needed to use it safely. They unpack how AI changes traditional assumptions around data permissions, credentials, developer access, and software supply chains. Emilio shares how Datadog uses role-based MCP servers and ephemeral credentials, as well as an AI \"judge\" built by his security team to evaluate the intent behind code and agent skills before they enter the environment. They also discuss why security teams can't afford to wait for commercial solutions to every new AI threat, how the relationship between developers and security teams needs to change, and why Emilio is less concerned about an AI \"escaping\" than he is about the sheer volume of vulnerabilities AI could uncover. Resources: Follow Emilio Escobar on LinkedIn: linkedin.com/in/emilioesc Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Follow Datadog on X: https://x.com/datadoghq Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7ea50811-6563-4656-abeb-05535ef9cfd6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7ea50811-6563-4656-abeb-05535ef9cfd6&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Eric Vishria - A Decade of Lessons Investing in Software & Hardware - [Invest Like the Best, EP.486]",
-      "published_at": "2026-08-11T08:00:00+00:00",
-      "url": "https://colossus.com/episode/sandcastles-and-silicon/",
-      "summary": "My guest today is Eric Vishria, a General Partner at Benchmark. Eric has spent his career in software and cloud, and few people know the history of these markets as well as he does. What makes him special is his ability to use that history to make sense of today. We discuss what the rise of AWS teaches us about AI, what he has learned from investing in Fireworks, Sierra, and Cerebras, and how the criteria for winning have changed for founders and investors. Please enjoy my conversation with Eric Vishria. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:20) Learning the World Through Fireworks (00:05:42) AWS Was Going to Eat Everything (00:07:40) The Zero-Sum Thinking Trap (00:09:01) Comparing Cloud and AI Adoption (00:11:03) Becoming Enterprise's AI Sherpa (00:13:05) Building Sandcastles (00:14:55) The Return to Being Technical (00:17:13) The Shifting Competitive Frontier (00:22:10) Why the Old Playbook Fails (00:27:53) Energy as the Binding Constraint (00:29:38) The Cerebras Story (00:37:57) The Virtue of Productive Naivete (00:39:19) What Robotics Still Needs (00:45:58) What Makes a Great Board Partner (00:51:13) Raising A Growth Fund (00:55:39) What the Big Winners Taught Him (00:57:37) Hard Work Versus the Hole-in-One (00:58:38) The Best Reasons to Go Public (01:01:09) Debates Inside Benchmark (01:02:16) What If It All Works (01:03:35) What Geoff Hinton Got Wrong",
-      "audio_url": "https://traffic.megaphone.fm/CLS6500696931.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
