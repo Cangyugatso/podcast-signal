@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-08-18T22:17:35.468408+00:00",
+  "generated_at": "2026-08-19T22:19:13.537401+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 23,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Whatnot Built a Global Marketplace",
+      "published_at": "2026-08-19T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-whatnot-built-a-global-marketplace-DoonwHjN",
+      "summary": "a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopping platforms. Grant traces the company's origins from selling Pokémon cards online as a kid to discovering live commerce by watching Whatnot's earliest customers hack together sales on social media. They discuss why Whatnot thinks less like a traditional e-commerce marketplace and more like a digital shopping mall, where discovery, entertainment, community, and commerce all happen at once. Today, users spend roughly 95 minutes a day on the platform, and most aren't even buying something on a given day. They also explore how Whatnot is enabling small businesses to reach global audiences, expanding from collectibles into categories like fashion, food, and golf, and using AI to make sellers more efficient without replacing the human connection at the center of the experience. Resources: Follow Grant LaFontaine on X: https://x.com/GrantLaFontaine Follow David George on X: https://x.com/DavidGeorge83 Follow Whatnot on X: https://x.com/whatnot Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c41c8a47-7d80-4f00-88b2-37e4a98c04c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c41c8a47-7d80-4f00-88b2-37e4a98c04c1&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Memory prices up 500% in 12 months",
+      "published_at": "2026-08-19T08:44:52+00:00",
+      "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "summary": "the Memory crunch continues - Moore’s Law reversed to 2007 levels",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Maximize Gross Margins AI Compute Revenue per Watt",
+      "published_at": "2026-08-19T04:25:21+00:00",
+      "url": "https://www.youtube.com/shorts/NWZ38zrwkvg",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NWZ38zrwkvg"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -210,18 +247,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
-      "published_at": "2026-08-14T05:30:39+00:00",
-      "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
-      "summary": "Down, but not out!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -255,30 +280,6 @@
       "summary": "(0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reasons for the decay of the West (38:37) Immigration: US solutions, who to emulate, subsidizing college for Americans (46:55) National debt, government interference in markets, fixing education (1:09:24) DSA vs Democrats Follow Rahm: https://x.com/RahmEmanuel Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_Emanuel_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "published_at": "2026-08-12T13:11:45+00:00",
-      "url": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
-      "summary": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It’s translated and dubbed into English. Both language audio tracks (and subtitles) are available on YouTube. Here, only the English audio is available. We worked hard to make it enjoyable to listen to, by carefully dubbing the translation using voice-cloning, as we’ve done for previous foreign-language podcasts. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep500-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/khabib-nurmagomedov-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Khabib’s Instagram: https://instagram.com/khabib_nurmagomedov/ Khabib’s YouTube: https://youtube.com/@KhabibTheEagle Khabib’s Facebook: https://facebook.com/KhabibTheEagle/ Khabib’s X: https://x.com/TeamKhabib Khabib’s Telegram: https://t.me/khabib_nurmagomedov Khabib’s Website: https://khabib.com SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Shopify: Sell stuff online. Go to https://shopify.com/lex BetterHelp: Online therapy and counseling. Go to https://betterhelp.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:29) – Sponsors, Comments, and Reflections (08:24) – Why Dagestan produces so many great fighters (18:31) – History of Dagestan warrior culture (27:51) – Hard training in the mountains of Dagestan (31:42) – The trap of fame, money, and power (42:23) – The key to Khabib’s dominance (53:36) – Discipline and hard work (1:06:04) – Street fights in Dagestan (1:19:45) – Khabib’s top pressure (1:25:29) – Khabib vs Conor McGregor (1:38:14) – Khabib’s toughest fight (1:46:02) – Greatest MMA fighters of all time (2:03:46) – Coaching (2:09:19) – Daniel Cormier (2:13:38) – Islam Makhachev (2:23:35) – Dana White (2:27:05) – Joe Rogan (2:29:20) – Ali Abdelaziz (2:31:57) – Football (2:39:12) – Messi vs Ronaldo (2:57:12) – Dubai (3:01:03) – God (3:08:46) – Advice for young people",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_khabib_nurmagomedov.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Garry Tan on Taste, Agents and Founder Ambition",
-      "published_at": "2026-08-12T10:26:08+00:00",
-      "url": "https://a16z.simplecast.com/episodes/garry-tan-on-taste-agents-and-founder-ambition-5Wi5biPg",
-      "summary": "Anish Acharya is joined by Garry Tan, President and CEO of Y Combinator, for a conversation about how AI is rewriting the startup playbook, why founders should be more ambitious than ever, and what two decades of Silicon Valley booms, busts, and missed opportunities have taught Garry about building what's next. Garry reflects on turning down an early opportunity to join Palantir, why chasing what's \"hot\" is often the wrong strategy, and why the best ideas tend to begin with people pursuing strange, earnest obsessions outside the mainstream. They also explore how AI changes the economics of company building, why traditional SaaS may be losing its advantage, and how tiny teams equipped with hundreds of agents can build businesses at a scale that once required entire organizations. The conversation goes deeper into agentic companies, taste and agency, why \"a markdown file is an employee,\" and how AI could remove layers of bureaucracy that have historically limited organizations. Garry and Anish also discuss the future of consumer AI, the coming \"harness wars,\" why AI adoption may take longer than Silicon Valley expects, and what the next generation of founders can build with intelligence that was unimaginable just a few years ago. Resources: Follow Garry Tan on X: https://x.com/garrytan Follow Anish Acharya on X: https://x.com/illscience Follow Y Combinator on X: https://x.com/ycombinator Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cab51e91-62c3-4d8f-bf0b-93bfdf079f56/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cab51e91-62c3-4d8f-bf0b-93bfdf079f56&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
