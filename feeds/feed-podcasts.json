@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-20T22:21:27.164971+00:00",
+  "generated_at": "2026-08-21T22:18:45.654462+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 26,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+      "published_at": "2026-08-21T14:14:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
+      "summary": "(00:00) Besties are back! (00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash (10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\" (30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement (56:33) a16z under DOJ investigation over \"interlocking directorates\" (1:01:15) Midterms: broken polls, the socialism surge, and CATO's DSA price tag Come hang with the Besties at the All-In Summit | September 13-15: ⁠ http://theallinsummit.com ⁠ ⁠ #AllInSummit ⁠ Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpodIntro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburgIntro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Microsoft's Deputy CISO on Securing AI Agents",
+      "published_at": "2026-08-21T11:40:08+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-microsoft-is-securing-the-agentic-enterprise-aaron-zollman-j7eOe8NH",
+      "summary": "a16z's Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control. Aaron shares Microsoft's experience with OpenClaw, from the initial instinct to ban it to figuring out how to make it safe to use. They unpack what agents mean for identity, permissions, containerization, and monitoring, as well as how AI is shifting the CISO's role from saying \"no\" to safely enabling new technology. They also explore whether AI could help defenders patch vulnerabilities as quickly as they're discovered, and why new AI threats don't make the old security problems go away. Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "published_at": "2026-08-21T05:45:21+00:00",
+      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "summary": "Yes, we’re confused too.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Microsoft's AI Advantage OpenAI & Data Center Strategy",
+      "published_at": "2026-08-21T04:00:37+00:00",
+      "url": "https://www.youtube.com/shorts/UL4RRzO6Nmw",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "UL4RRzO6Nmw"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -213,18 +262,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Stripe buys OpenRouter for $7B",
-      "published_at": "2026-08-17T23:13:41+00:00",
-      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
-      "summary": "No GPUs, no Agents, just really, really, really good infra and distribution.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -235,19 +272,6 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 25 - DYLAN IS HERE, LIVE! | Dylan Patel & Jordan Nanos",
-      "published_at": "2026-08-17T15:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=Trm74fovjaA",
-      "summary": "Dylan joins the pod today, recorded live from our SF office. Jordan and Dylan discuss SemiAnalysis's AI spend, the model that escaped during training, AI rollups eating private equity, new accelerators vs NVIDIA, and whether the pod gives away too much information for free. 0:00 Cold Open 5:25 SA AI Spend 9:29 AI Performance Reviews 10:40 AI Rollups 13:47 The Agent Moment 15:28 The Escaped Model 18:11 Model Exponential 22:52 Compute and Chips 30:18 Open Models 32:00 ADHD and AI",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Trm74fovjaA"
     },
     {
       "source": "Lenny's Podcast",
@@ -295,30 +319,6 @@
       "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
       "audio_url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-      "published_at": "2026-08-14T20:11:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
-      "summary": "(0:00) Gavin Baker joins the show! (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summit Speaker Announcements! (58:13) Nvidia's $500B financing plan, how the AI market could fall apart (1:14:29) NJ and Mamdani take on Amazon over subcontracted drivers (1:27:32) Grok 4.6 launch: SpaceX's high-ceiling, high-floor AI strategy (1:35:21) Workday in talks to be acquired by Silver Lake for ~$43B Apply for Summit 2026: https://allin.com/events Follow Gavin: https://x.com/gavinsbaker Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@theallinpod Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa https://polymarket.com/event/ipos-before-2027 https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026 https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion https://x.com/elonmusk/status/2052069691372478511 https://www.meta.com/thefutureisforeveryone https://x.com/Home_of_Fight/status/2086504599444140344 https://x.com/JensenHuang/status/2086934705207959965 https://www.cnbc.com/2026/08/04/nj-amazon-antitrust-lawsuit-delivery-contractors.html https://www.google.com/finance/beta/quote/WDAY:NASDAQ https://www.amazon.com/Vision-Anointed-Self-Congratulation-Social-Policy/dp/046508995X https://www.nytimes.com/2026/08/10/nyregion/mamdani-amazon-delivery-workers-nyc.html",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E285_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ben Horowitz and Travis Kalanick on Building Again",
-      "published_at": "2026-08-14T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd",
-      "summary": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the next industrial revolution will be powered by AI. They revisit pivotal moments from Uber's history, including the decision not to acquire Lyft, lessons from scaling one of the world's fastest-growing companies, and how Kalanick has evolved as a founder. The conversation also explores Atoms' vision for industrial AI, why software is moving into the physical world, what it takes to build enduring company cultures, and why Kalanick believes the biggest opportunities of the next decade lie in transforming industries like food production, mining, and manufacturing. Resources: Follow Travis Kalanick on X: https://x.com/travisk Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=121c3a09-4be1-4ba9-a3b7-52aa4c4e3c1f&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     }
   ],
