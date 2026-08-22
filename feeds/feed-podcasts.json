@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-08-21T22:18:45.654462+00:00",
+  "generated_at": "2026-08-22T22:16:28.340441+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 26,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+      "published_at": "2026-08-22T19:23:07+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+      "summary": "Community Wisdom 198",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Martin Casado on Where the Value Is Going in AI",
+      "published_at": "2026-08-22T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM",
+      "summary": "Martin Casado joins MTS hosts Theo Jaffee and Sophia Dew to unpack where value is actually accruing in AI, why this technology cycle looks fundamentally different from previous waves, and whether the frontier labs will ultimately capture most of the market. Martin explains why AI has turned venture into a scale-up capital game, where small teams can productively deploy extraordinary amounts of money, and why the relationship between capital, innovation, and growth has never been tighter. He lays out the case both for and against the frontier labs dominating AI, the role of open-source and specialist models, and why applications are increasingly capturing more value. The conversation also explores model routing, AI economics, founder-market fit, and why Martin believes this may be the biggest unlock of wealth he's seen since the 1990s. Resources: Follow Martin Casado on X: https://x.com/martin_casado Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0f74143d-54d1-41fc-bb21-edb7d10bf376/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0f74143d-54d1-41fc-bb21-edb7d10bf376&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "published_at": "2026-08-22T07:36:00+00:00",
+      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "summary": "Did you think RSI stopped at model training?",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Evolution of the Agent Harness",
+      "published_at": "2026-08-22T07:30:52+00:00",
+      "url": "https://www.latent.space/p/attention-interface",
+      "summary": "Models keep absorbing the harness into their weights — soon, it will be a harness for human attention rather than for the model.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Leaders Exit Google's Gemini Team Loses Key Figures",
+      "published_at": "2026-08-22T04:00:01+00:00",
+      "url": "https://www.youtube.com/shorts/vCdl05NPxts",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "vCdl05NPxts"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "published_at": "2026-08-21T23:37:38+00:00",
+      "url": "https://www.latent.space/p/simile",
+      "summary": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
+      "audio_url": "https://api.substack.com/feed/podcast/212197985/bfb37479177211a59519fff64084acf8.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -115,18 +188,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
-      "published_at": "2026-08-20T05:17:12+00:00",
-      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
-      "summary": "Every lab CEO is on X now",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -162,43 +223,6 @@
       "summary": "a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopping platforms. Grant traces the company's origins from selling Pokémon cards online as a kid to discovering live commerce by watching Whatnot's earliest customers hack together sales on social media. They discuss why Whatnot thinks less like a traditional e-commerce marketplace and more like a digital shopping mall, where discovery, entertainment, community, and commerce all happen at once. Today, users spend roughly 95 minutes a day on the platform, and most aren't even buying something on a given day. They also explore how Whatnot is enabling small businesses to reach global audiences, expanding from collectibles into categories like fashion, food, and golf, and using AI to make sellers more efficient without replacing the human connection at the center of the experience. Resources: Follow Grant LaFontaine on X: https://x.com/GrantLaFontaine Follow David George on X: https://x.com/DavidGeorge83 Follow Whatnot on X: https://x.com/whatnot Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c41c8a47-7d80-4f00-88b2-37e4a98c04c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c41c8a47-7d80-4f00-88b2-37e4a98c04c1&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Memory prices up 500% in 12 months",
-      "published_at": "2026-08-19T08:44:52+00:00",
-      "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
-      "summary": "the Memory crunch continues - Moore’s Law reversed to 2007 levels",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Maximize Gross Margins AI Compute Revenue per Watt",
-      "published_at": "2026-08-19T04:25:21+00:00",
-      "url": "https://www.youtube.com/shorts/NWZ38zrwkvg",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "NWZ38zrwkvg"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
-      "published_at": "2026-08-18T21:41:10+00:00",
-      "url": "https://www.latent.space/p/glean-model-routing",
-      "summary": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -286,18 +310,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Stripe’s AI Strategy: Build More, Not Less",
-      "published_at": "2026-08-17T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ",
-      "summary": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product financial infrastructure platform, while a new generation of AI companies is growing and monetizing faster than previous software cohorts. Will explains why Stripe sees AI productivity as an opportunity to build more rather than simply cut costs, including how its internal coding agents now generate thousands of pull requests each week. They discuss creating founder-like agency inside large companies, building smaller and flatter teams, and why Stripe believes dramatically more software will be created as the cost of building continues to fall. They also look ahead to agentic commerce, why checkout pages could disappear, the potential return of micropayments, stablecoins as infrastructure for a global economy, and a future where AI agents increasingly buy software and services from other machines. Resources: Follow Will Gaybrick on LinkedIn: https://www.linkedin.com/in/william-gaybrick-5730347/ Follow Will on X: https://x.com/gaybrick Follow David George on X: https://x.com/DavidGeorge83 Follow Stripe on X: https://x.com/stripe Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/32a1ddf5-6e45-40af-aa6c-8916177fb5aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=32a1ddf5-6e45-40af-aa6c-8916177fb5aa&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -307,18 +319,6 @@
       "summary": "This week's Summer Series covers the pre-mortem analysis with its founder, Gary Klein. Gary discovered pre-mortems while working with fighter pilots and wrote a white paper applying the tool to investment analysis alongside Paul Johnson and Paul Sonkin. Please enjoy this discussion of the proper use of pre-mortem analysis with Gary, Paul, and Paul from 2019. Learn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/ Try ALEX by Admired Leadership: tryalex.admiredleadership.com Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.109_Gary_Klein_-_SUMMER_SERIES_2026_-_AUDIO_V3.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-      "published_at": "2026-08-16T12:31:42+00:00",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
-      "audio_url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
