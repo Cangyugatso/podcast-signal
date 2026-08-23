@@ -1,9 +1,34 @@
 {
-  "generated_at": "2026-08-22T22:16:28.340441+00:00",
+  "generated_at": "2026-08-23T22:16:12.279843+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 26,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+      "published_at": "2026-08-23T12:31:43+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+      "summary": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
+      "audio_url": "https://api.substack.com/feed/podcast/211488420/1232a687a284e024ff4d1a87ef83608d.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "SpaceX Can They Build 8GW Data Centers by Next Year",
+      "published_at": "2026-08-23T04:00:37+00:00",
+      "url": "https://www.youtube.com/shorts/KP_0BRCG-gs",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "KP_0BRCG-gs"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -201,19 +226,6 @@
       "video_id": "MJH9F6ySCUk"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Dylan explains why the next wave of private equity looks nothing like the last one.",
-      "published_at": "2026-08-20T03:05:01+00:00",
-      "url": "https://www.youtube.com/shorts/LS6ifq5IlnI",
-      "summary": "Dylan explains why the next wave of private equity looks nothing like the last one. \"If we're looking at these companies that are AI rollups, let's take an existing company and completely destroy its cost structure. Nuke its cost structure by just making it efficient with AI.\" \"Private equity companies buy a company, and right now they just squeeze the rag, discard it, and make the American populace screwed.\" \"What new people started to do is the AI private equity strategy. Instead of trying to wring it dry, they're modernizing all the systems. Oh, you use Excel for your databases? Okay, let's move to standard cloud. Spend a lot of money up front.\" \"AI makes that front load much more severe. You spike up on spend a lot for the one time, and then you spike down a lot and your cost efficiency is way better. AI cold calling, AI invoicing, AI accounting, none of it is really at critical mass. But we're so close.\" Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "LS6ifq5IlnI"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -294,18 +306,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
       "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
-      "published_at": "2026-08-17T12:04:02+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
-      "summary": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
-      "audio_url": "https://api.substack.com/feed/podcast/210800379/c3cc3683947c15288bc7bde725c34551.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
