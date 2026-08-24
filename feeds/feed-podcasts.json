@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-08-23T22:16:12.279843+00:00",
+  "generated_at": "2026-08-24T22:20:04.776381+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+      "published_at": "2026-08-24T15:02:23+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+      "published_at": "2026-08-24T12:04:02+00:00",
+      "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+      "summary": "Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
+      "audio_url": "https://api.substack.com/feed/podcast/211609191/4ad86218bbaf6202e0f5c6ee68214f7f.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
+      "published_at": "2026-08-24T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D",
+      "summary": "Daisy Wolf and Eva Steinman are joined by Engy Ziedan, co-founder and Chief Scientific Officer of Protege, to discuss why medical AI has a measurement problem, and why scoring well on a benchmark doesn't necessarily mean a model is ready for the hospital. Engy explains why healthcare AI needs independent evaluations that go beyond static exams and measure how models actually perform in real-world clinical workflows. They explore the risks of subtle bias and misalignment, why the same model can rank differently depending on how it's prompted or tested, and what happens as AI becomes more personalized and changes faster than traditional healthcare quality systems can keep up. The conversation also gets into Protege's role as an independent evaluator, how contaminated training data can undermine benchmarks, and why the future of medical AI may require continuous monitoring rather than occasional testing. Resources: Read our insights piece: https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck Follow Engy Ziedan on X: https://x.com/engyziedan Follow Daisy Wolf on X: https://x.com/daisydwolf Follow Eva Steinman on X: https://x.com/evajsteinman Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e568464b-7a8f-4739-8a93-ae7df452a987/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e568464b-7a8f-4739-8a93-ae7df452a987&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Best of Storytelling: Matthew Dicks",
+      "published_at": "2026-08-24T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/best-of-storytelling-matthew-dicks",
+      "summary": "This week's Summer Series is a two-fer on the essential skill of storytelling. Whether pitching an investment fund to a prospect, an idea to a portfolio manager or CIO, or a request of a family member, storytelling helps you get what you want. To help understand the art and science of storytelling, Matt Dicks – a retired middle school teacher and author of the best-seller Storyworthy, and Don Miller – creator of Storybrand, a business started with his book of the same name – describe how to improve your storytelling ability. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_-_EP.477_Matthew_Dicks_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Best of Storytelling: Donald Miller",
+      "published_at": "2026-08-24T07:30:00+00:00",
+      "url": "https://tedseides.libsyn.com/best-of-storytelling-donald-miller",
+      "summary": "This week's Summer Series is a two-fer on the essential skill of storytelling. Whether pitching an investment fund to a prospect, an idea to a portfolio manager or CIO, or a request of a family member, storytelling helps you get what you want. To help understand the art and science of storytelling, Matt Dicks – a retired middle school teacher and author of the best-seller Storyworthy, and Don Miller – creator of Storybrand, a business started with his book of the same name – describe how to improve your storytelling ability. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_-_EP.426_Don_Miller_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "China's 1 6T Transceiver Dominance The West's Painful Supply Chain",
+      "published_at": "2026-08-24T04:00:23+00:00",
+      "url": "https://www.youtube.com/shorts/J0QYLT3QdTM",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "J0QYLT3QdTM"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -213,19 +286,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Compute Powerhouse Unlocking Billions in Revenue!",
-      "published_at": "2026-08-20T04:00:38+00:00",
-      "url": "https://www.youtube.com/shorts/MJH9F6ySCUk",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "MJH9F6ySCUk"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -250,30 +310,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
-      "published_at": "2026-08-18T15:40:06+00:00",
-      "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
-      "summary": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Do You Defend Against AI That Can Hack?",
-      "published_at": "2026-08-18T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-do-you-defend-against-ai-that-can-hack-L2M2EmmY",
-      "summary": "a16z's Joel De La Garza is joined by Nick Warner of Neo and Max Pollard of Cotool to discuss what happens when cybersecurity tools built to defend against humans and malware suddenly have to contend with AI agents. As frontier models become more capable of finding and exploiting vulnerabilities, many of the assumptions underlying traditional security are beginning to break. They explore why guardrails designed to stop AI-powered attackers can also prevent security teams from doing their jobs, why defenders increasingly need access to multiple models, and how agentic software creates an entirely new endpoint security problem. They also discuss why static signatures and even newer techniques like honeypots are struggling in a world where software can reason and act autonomously. Recorded around Black Hat, the conversation looks at how security teams are adapting in real time and why the same AI capabilities creating new attack surfaces could ultimately give defenders their biggest advantage yet. Resources: Follow Nick on LinkedIn: https://www.linkedin.com/in/nicholaswarner/ Follow Max on LinkedIn: https://www.linkedin.com/in/mmpollard/ Follow Joel De La Garza on LinkedIn: https://www.linkedin.com/in/3448827723723234/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/36fe97e3-b3b1-4dcf-93ac-92f232d3c4c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=36fe97e3-b3b1-4dcf-93ac-92f232d3c4c7&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -295,30 +331,6 @@
       "summary": "(0:00) The most controversial company in privacy right now, Flock CEO joins the show! (7:23) License plate data retention: 7 days solves 90% of crimes (13:00) Camera vandalism, felony charges, and privacy concerns (18:15) Dirty cops exposed: Flock's audit tool got 9 Georgia officers fired (28:25) AI, drones, facial recognition, and avoiding predictive policing (39:43) Safety is a privilege and who actually needs Flock (45:36) Flock's PR crisis: internal morale, churn, and 20 cities turning the cameras back on Thanks to our partners for making this possible! AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at http://applovin.com/ALLIN Numeral is the trusted solution for U.S. sales tax, VAT, and GST, used by 3,000+ businesses globally. They handle registrations, filings, and tax rates, so you can stay ahead of risk. Learn more at https://www.numeral.com/?utm_source=all-in Follow Garrett: https://x.com/glangley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Flock_CEO_INT_AUDIO_V88.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-      "published_at": "2026-08-17T15:03:16+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Pre-Mortem Analysis: Gary Klein",
-      "published_at": "2026-08-17T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/best-of-pre-mortem-analysis-gary-klein",
-      "summary": "This week's Summer Series covers the pre-mortem analysis with its founder, Gary Klein. Gary discovered pre-mortems while working with fighter pilots and wrote a white paper applying the tool to investment analysis alongside Paul Johnson and Paul Sonkin. Please enjoy this discussion of the proper use of pre-mortem analysis with Gary, Paul, and Paul from 2019. Learn more about Capital Allocators University: https://www.capitalallocators.com/capital-allocators-university/ Try ALEX by Admired Leadership: tryalex.admiredleadership.com Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_EP.109_Gary_Klein_-_SUMMER_SERIES_2026_-_AUDIO_V3.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
