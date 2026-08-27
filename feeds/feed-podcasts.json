@@ -1,9 +1,105 @@
 {
-  "generated_at": "2026-08-25T22:20:51.615894+00:00",
+  "generated_at": "2026-08-27T02:49:25.990643+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+      "published_at": "2026-08-27T01:50:54+00:00",
+      "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+      "summary": "Open Source wins!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+      "published_at": "2026-08-27T01:31:22+00:00",
+      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "summary": "The conference with hot chips and even hotter companies",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
+      "published_at": "2026-08-26T23:00:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
+      "summary": "(0:00) Eric Weinstein joins the show! (03:09) Has American science stalled? Cowboy science, Fauci, and the scientific precariat (21:31) Weinstein's fix: Blow a hole in the Civil Rights Act, kill peer review, fund people not ideas (41:36) Ed Witten drove physics off a cliff, and is Renaissance Technologies a secret Los Alamos? (52:49) Boom, Vroom, Zoom: Did stagnant physics save the human species? (01:07:11) UAPs, multi-temporal adversaries, and Einstein's prison (01:16:12) China poaches our best scientists, AI reads the trash can corpus Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 With over nine million acres protected across all fifty states, The Conservation Fund secures the irreplaceable lands we love. Learn more at http://conservationfund.org Follow Eric: https://x.com/ericweinstein Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lex Fridman",
+      "domain": "ai",
+      "language": "en",
+      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+      "published_at": "2026-08-26T21:47:04+00:00",
+      "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+      "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/dhh-2-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: DHH’s X: https://x.com/dhh DHH’s Blog: https://world.hey.com/dhh Omarchy: https://omarchy.org Ruby on Rails: https://rubyonrails.org 37signals: https://37signals.com SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Blitzy: AI agent for large enterprise codebases. Go to https://blitzy.com/lex NetSuite: Business management software. Go to http://netsuite.ai/lex Shopify: Sell stuff online. Go to https://shopify.com/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Plaud: AI-powered note-taking devices and software. Go to https://plaud.ai/lex Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:14) – Sponsors, Comments, and Reflections (08:56) – Programming with AI agents (24:14) – How software will change (33:30) – AI impact on open source (43:21) – Building Omarchy Linux distro (53:05) – Vibe coding vs agentic engineering (1:06:06) – The end of manual programming (1:16:24) – Advice for programmers (1:28:31) – Surviving Internet Hate (1:37:46) – Programming setup for AI Agents (1:50:11) – Obsessing about speed (2:13:06) – Voice prompting vs typing (2:27:05) – Best AI coding models (2:43:55) – Best AI coding harnesses (2:56:57) – AI video generation and filmmaking (3:16:28) – Fatherhood (3:44:35) – Linux will win the desktop (3:55:51) – PewDiePie (4:05:25) – Future of programming (4:28:18) – Politics and immigration (4:59:55) – Longevity, over-optimization, and fear of death (5:11:38) – Eternal recurrence and future of human civization",
+      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
+      "feed_url": "https://lexfridman.com/feed/podcast/",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+      "published_at": "2026-08-26T16:16:25+00:00",
+      "url": "https://www.latent.space/p/lovable-future-of-saas",
+      "summary": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The mathematics of AI uncertainty",
+      "published_at": "2026-08-26T15:35:59+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Now, if you ask an AI a question, it will usually give you an absolute answer with unwavering authority, even if that answer turns out to be wrong. In fact, today's AI seems to be missing a fundamental human trait: self-doubt. Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their own limitations. Zoubin Ghahramani has spent the last 30 years pioneering a type of intelligence built on the mathematics of uncertainty. Today, as a professor at Cambridge and VP of Research at Google DeepMind, Zoubin finds himself at the heart of another interesting debate: will improving machine uncertainty be one of the missing pieces to ever improving AI? Timecodes: 00:00 Introduction 01:06 The role of uncertainty 07:45 Correctness vs confidence 09:40 Historical perspectives 16:10 Bayesian thinking in AI 26:30 Uncertainty in the real world 36:42 Future research and AGI Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/64f5029d-0d8f-4b02-ad63-d112c6ba9152/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=64f5029d-0d8f-4b02-ad63-d112c6ba9152&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+      "published_at": "2026-08-26T15:15:39+00:00",
+      "url": "https://www.latent.space/p/anima",
+      "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
+      "audio_url": "https://api.substack.com/feed/podcast/212802973/e5f537041b32f292ee34524c8043f9fe.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The State of AI: Macro, Apps, and Consumer",
+      "published_at": "2026-08-26T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2",
+      "summary": "Anish Acharya joins Jen Kha to break down the next frontier of AI, from the evolving model landscape and open-source AI to why the application layer, and consumer AI in particular, may be entering a new phase. Anish explains why he believes there will be multiple winners at the model layer, why traditional moats like network effects, scale, and brand still matter, and how companies can choose between frontier and open-weight models depending on the economics of the task. They also explore why models are increasingly specializing, and how applications can combine different types of intelligence to create products that are more valuable than any single model. The conversation then turns to consumer AI: personal agents that can shop and manage your inbox, coding tools enabling a new generation of small businesses, and why Anish thinks we're seeing a renaissance for consumer builders. They also discuss the changing economics of AI software, the rise of \"luxury software,\" and why the biggest risk for today's founders may no longer be thinking too big, but thinking too small. Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Dwarkesh Patel",
       "domain": "ai",
@@ -51,19 +147,6 @@
       "audio_url": "https://traffic.megaphone.fm/CLS1341199916.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jeff Dean Left Google The Chuck Norris of Tech!",
-      "published_at": "2026-08-25T04:00:06+00:00",
-      "url": "https://www.youtube.com/shorts/V7_RNFPn2Sg",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "V7_RNFPn2Sg"
     },
     {
       "source": "Latent Space",
@@ -150,19 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "China's 1 6T Transceiver Dominance The West's Painful Supply Chain",
-      "published_at": "2026-08-24T04:00:23+00:00",
-      "url": "https://www.youtube.com/shorts/J0QYLT3QdTM",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "J0QYLT3QdTM"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -173,19 +243,6 @@
       "audio_url": "https://api.substack.com/feed/podcast/211488420/1232a687a284e024ff4d1a87ef83608d.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "SpaceX Can They Build 8GW Data Centers by Next Year",
-      "published_at": "2026-08-23T04:00:37+00:00",
-      "url": "https://www.youtube.com/shorts/KP_0BRCG-gs",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "KP_0BRCG-gs"
     },
     {
       "source": "Lenny's Podcast",
@@ -212,55 +269,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "published_at": "2026-08-22T07:36:00+00:00",
-      "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "summary": "Did you think RSI stopped at model training?",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Evolution of the Agent Harness",
-      "published_at": "2026-08-22T07:30:52+00:00",
-      "url": "https://www.latent.space/p/attention-interface",
-      "summary": "Models keep absorbing the harness into their weights — soon, it will be a harness for human attention rather than for the model.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Leaders Exit Google's Gemini Team Loses Key Figures",
-      "published_at": "2026-08-22T04:00:01+00:00",
-      "url": "https://www.youtube.com/shorts/vCdl05NPxts",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "vCdl05NPxts"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-      "published_at": "2026-08-21T23:37:38+00:00",
-      "url": "https://www.latent.space/p/simile",
-      "summary": "Simile’s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it’s gone from fun exploration to very serious business.",
-      "audio_url": "https://api.substack.com/feed/podcast/212197985/bfb37479177211a59519fff64084acf8.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -281,43 +289,6 @@
       "url": "https://a16z.simplecast.com/episodes/how-microsoft-is-securing-the-agentic-enterprise-aaron-zollman-j7eOe8NH",
       "summary": "a16z's Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control. Aaron shares Microsoft's experience with OpenClaw, from the initial instinct to ban it to figuring out how to make it safe to use. They unpack what agents mean for identity, permissions, containerization, and monitoring, as well as how AI is shifting the CISO's role from saying \"no\" to safely enabling new technology. They also explore whether AI could help defenders patch vulnerabilities as quickly as they're discovered, and why new AI threats don't make the old security problems go away. Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-      "published_at": "2026-08-21T05:45:21+00:00",
-      "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "summary": "Yes, we’re confused too.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Microsoft's AI Advantage OpenAI & Data Center Strategy",
-      "published_at": "2026-08-21T04:00:37+00:00",
-      "url": "https://www.youtube.com/shorts/UL4RRzO6Nmw",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "UL4RRzO6Nmw"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Global Networks Are Reshaping Startup Success",
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-global-networks-are-reshaping-startup-success-YCGysOkP",
-      "summary": "Elena Burger is joined by a16z’s Angela Strange and Gabriel Vasquez to discuss the rise of the \"borderless founder\": entrepreneurs who bring the networks and insights of their home markets together with the talent, capital, and speed of Silicon Valley to build global companies. Angela and Gabriel trace how a16z's international investing efforts grew from early work in Latin America into a broader global network, and why AI has accelerated the flow of founders and talent between Silicon Valley and startup ecosystems around the world. They explore the advantages borderless founders can bring, from differentiated talent networks and early customers to strong local brands and communities that help open doors across markets. They also discuss how founder diasporas can function like powerful alumni networks, why spending time in Silicon Valley can help founders recalibrate around speed and ambition, and how the next generation of global companies may increasingly be built across multiple countries from day one. Resources: Read Angela Strange and Gabriel Vasquez's piece on Borderless Founders: https://www.a16z.news/p/rise-of-the-borderless-founder Follow Angela Strange on X: https://x.com/astrange Follow Gabriel Vasquez on X: https://x.com/GEVS94 Follow Elena Burger on X: https://x.com/VirtualElena Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/00806283-934c-4cfa-9593-090db70ce483/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=00806283-934c-4cfa-9593-090db70ce483&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
@@ -346,5 +317,11 @@
       "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
