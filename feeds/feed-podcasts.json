@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-08-29T03:27:34.676078+00:00",
+  "generated_at": "2026-08-29T23:50:41.525776+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 32,
   "podcasts": [
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "published_at": "2026-08-29T22:47:53+00:00",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "summary": "The whole OpenAI/Hugging Face story in plain English",
+      "audio_url": "",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+      "published_at": "2026-08-29T18:59:48+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+      "summary": "Community Wisdom 199",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 027 - OpenAI Jalapeño: Better Than Nvidia Blackwell (Accelerators)",
+      "published_at": "2026-08-29T15:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=hj_ffVldQZA",
+      "summary": "This week Bryan, Myron and Jordan (@JordanNanos) discuss our recent article on OpenAI Jalapeño. They cover the performance, architecture, programming model, implications for NVIDIA and more. Full Article: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia 0:00 Cold Open 1:05 Jalapeno Overview 4:22 Tokens Per Megawatt 9:15 Benchmark Caveats 13:48 The CUDA Moat 21:12 How OpenAI Did It 32:13 Samsung HBM4 42:10 AI-Designed Silicon 49:24 Architecture Deep Dive 56:58 Doom and Wrap",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "hj_ffVldQZA"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why 1,200 AI Agents Started Working Together | Ryan Greenblatt",
+      "published_at": "2026-08-29T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2",
+      "summary": "Ryan Greenblatt, Chief Scientist at Redwood Research, joins MTS host Theo Jaffee to unpack a new independent investigation into the OpenAI Hugging Face hacking incident and what it reveals about how large groups of AI agents behave when they're allowed to coordinate. Ryan and his collaborators found agents spontaneously organizing through message boards, sharing information, assigning tasks, forming teams, and even sacrificing their own chances of success to help other agents. Rather than simply trying to steal answers, hundreds of agents were working together on elaborate strategies to manipulate how their performance would be scored. Theo and Ryan discuss why this level of coordination was surprising, how reward hacking may emerge during training, and the risk that attempts to eliminate bad behavior could simply make it harder to detect. They also explore what the incident means for AI monitoring and alignment, and why independent risk assessment may become increasingly important as agents grow more capable. Resources: Follow Ryan Greenblatt on X: https://x.com/RyanGreenblatt Follow Theo Jaffee on X: https://x.com/theojaffee Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2007ee81-c10e-4aea-aae5-c60f9a772e9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2007ee81-c10e-4aea-aae5-c60f9a772e9c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "published_at": "2026-08-29T05:11:52+00:00",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "summary": "Elon v Altman has a real consequence.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -75,6 +136,19 @@
       "audio_url": "https://traffic.megaphone.fm/APO8402558800.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Apple Denied Memory Deal by CXMT Price Wars Begin!",
+      "published_at": "2026-08-27T04:00:37+00:00",
+      "url": "https://www.youtube.com/shorts/I8vyNJqUx5s",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "I8vyNJqUx5s"
     },
     {
       "source": "Latent Space",
@@ -149,18 +223,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-      "published_at": "2026-08-26T15:15:39+00:00",
-      "url": "https://www.latent.space/p/anima",
-      "summary": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
-      "audio_url": "https://api.substack.com/feed/podcast/212802973/e5f537041b32f292ee34524c8043f9fe.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -171,6 +233,19 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Taiwan's Memory Crisis Apple's Struggle & Elon's Billion Dollar Vision",
+      "published_at": "2026-08-26T04:00:30+00:00",
+      "url": "https://www.youtube.com/shorts/TS-zS0m7LUc",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "TS-zS0m7LUc"
     },
     {
       "source": "Dwarkesh Patel",
@@ -221,6 +296,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jeff Dean Left Google The Chuck Norris of Tech!",
+      "published_at": "2026-08-25T04:00:06+00:00",
+      "url": "https://www.youtube.com/shorts/V7_RNFPn2Sg",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "V7_RNFPn2Sg"
+    },
+    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -257,18 +345,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
-      "published_at": "2026-08-24T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D",
-      "summary": "Daisy Wolf and Eva Steinman are joined by Engy Ziedan, co-founder and Chief Scientific Officer of Protege, to discuss why medical AI has a measurement problem, and why scoring well on a benchmark doesn't necessarily mean a model is ready for the hospital. Engy explains why healthcare AI needs independent evaluations that go beyond static exams and measure how models actually perform in real-world clinical workflows. They explore the risks of subtle bias and misalignment, why the same model can rank differently depending on how it's prompted or tested, and what happens as AI becomes more personalized and changes faster than traditional healthcare quality systems can keep up. The conversation also gets into Protege's role as an independent evaluator, how contaminated training data can undermine benchmarks, and why the future of medical AI may require continuous monitoring rather than occasional testing. Resources: Read our insights piece: https://www.a16z.news/p/the-oracle-problem-an-invisible-bottleneck Follow Engy Ziedan on X: https://x.com/engyziedan Follow Daisy Wolf on X: https://x.com/daisydwolf Follow Eva Steinman on X: https://x.com/evajsteinman Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e568464b-7a8f-4739-8a93-ae7df452a987/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e568464b-7a8f-4739-8a93-ae7df452a987&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -293,6 +369,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "China's 1 6T Transceiver Dominance The West's Painful Supply Chain",
+      "published_at": "2026-08-24T04:00:23+00:00",
+      "url": "https://www.youtube.com/shorts/J0QYLT3QdTM",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "J0QYLT3QdTM"
+    },
+    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -303,25 +392,7 @@
       "audio_url": "https://api.substack.com/feed/podcast/211488420/1232a687a284e024ff4d1a87ef83608d.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
-      "published_at": "2026-08-22T19:23:07+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-      "summary": "Community Wisdom 198",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
