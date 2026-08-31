@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-08-29T23:50:41.525776+00:00",
+  "generated_at": "2026-08-31T00:09:26.615732+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 32,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "published_at": "2026-08-30T12:31:30+00:00",
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "summary": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+      "audio_url": "https://api.substack.com/feed/podcast/211586245/d699a87046cf3438ce24e5b50b4460a6.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why a16z Launched the Machine Age Fund | Jen Kha",
+      "published_at": "2026-08-30T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl",
+      "summary": "a16z Managing Partner and Head of Global Partnerships Jen Kha joins MTS hosts Theo Jaffee and Sophia Dew to discuss a16z's Machine Age Fund and the investment thesis behind rebuilding the physical infrastructure that powers AI. Jen explains why chips, networking, memory, cooling, data centers, and other parts of the physical computing stack are becoming investable again after decades in which software captured much of the industry's attention. As AI demand pushes existing infrastructure to its limits, she explains why a16z created a dedicated fund and why hardware founders are increasingly rethinking the stack from first principles. They also discuss the global race to adopt AI, what hardware startups need beyond capital, the backlash against data centers in the U.S., and why experienced systems builders are returning to entrepreneurship as a new generation of infrastructure gets built. Resources: Follow Jen Kha on X: https://x.com/jkhamehl Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/68d49c98-05bc-4eec-a525-c6fdb554f130/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=68d49c98-05bc-4eec-a525-c6fdb554f130&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Dwarkesh Patel",
       "domain": "ai",
@@ -272,18 +296,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The New Economics of AI | Martin Casado & Steven Sinofsky",
-      "published_at": "2026-08-25T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr",
-      "summary": "a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is headed, and whether some of the basic assumptions that have governed computing for decades are starting to break. Martin and Steven debate whether AI's progress in mathematics represents a genuine leap in reasoning or simply a new tool for solving problems at a higher level of abstraction. From the four-color theorem and early computers to graphing calculators and today's models, they trace how new technologies have repeatedly changed which problems humans need to solve themselves, and ask what makes this moment different. The conversation then turns to one of the biggest shifts in AI: problems that were once constrained by engineering talent can increasingly be attacked with capital and compute. They discuss what that means for startups versus incumbents, venture capital, the coming wave of AI applications, and why pouring billions into increasingly capable models may force us to rethink what these systems can ultimately accomplish. Resources: Follow Martin Casado on X: https://x.com/martin_casado Follow Steven Sinofsky on X: https://x.com/stevesi Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/038a6355-dd87-461a-84db-419d4c3f2643/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=038a6355-dd87-461a-84db-419d4c3f2643&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -380,18 +392,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "J0QYLT3QdTM"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-      "published_at": "2026-08-23T12:31:43+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "summary": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
-      "audio_url": "https://api.substack.com/feed/podcast/211488420/1232a687a284e024ff4d1a87ef83608d.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
   "errors": []
