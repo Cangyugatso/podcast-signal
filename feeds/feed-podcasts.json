@@ -1,9 +1,94 @@
 {
-  "generated_at": "2026-09-01T00:57:11.055406+00:00",
+  "generated_at": "2026-09-01T23:44:21.793704+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 32,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+      "published_at": "2026-09-01T16:17:15+00:00",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "summary": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+      "published_at": "2026-09-01T15:41:06+00:00",
+      "url": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "summary": "\"This might be the clearest warning shot we ever get.\"",
+      "audio_url": "https://api.substack.com/feed/podcast/213682035/1d3eb74fe75861cd1fd2db2ebb09c1a7.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jalapeno outperforms GB300 on both axes",
+      "published_at": "2026-09-01T13:00:26+00:00",
+      "url": "https://www.youtube.com/shorts/njZJHQ4_6kg",
+      "summary": "",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "njZJHQ4_6kg"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How to turn your AI into a world-class designer",
+      "published_at": "2026-09-01T12:45:59+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "summary": "An end-to-end process for tapping into AI’s hidden creativity",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Daniel Litt: The Mathematician's Guide to AI",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk",
+      "summary": "a16z’s Lisha Li sits down with Daniel Litt, Assistant Professor of Mathematics at the University of Toronto, to unpack AI's rapid progress in mathematics, what today's frontier models can actually do, and what they're still missing about the way mathematicians think. Daniel explains why some recent AI-generated results are genuinely impressive, including an autonomous solution to the Erdős unit distance problem, but argues that solving problems is only one part of mathematics. Today's models can grind through calculations, combine known techniques, and search enormous spaces, but still struggle with intuition, theory building, identifying the right questions, and developing the kind of big-picture understanding that drives much of mathematical progress. Lisha and Daniel also explore how AI is already changing mathematical research, why an explosion of AI-generated papers could distort academic incentives, and what happens if researchers outsource the work of thinking rather than use AI to deepen it. Ultimately, they ask a question that extends far beyond mathematics: as AI gets better at intellectual work, how do we make sure humans keep getting better at thinking too? Resources: Follow Daniel Litt on X: https://x.com/littmath Follow Lisha Li on X: https://x.com/lishali88 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c0772156-b98e-43c5-b01b-5cd54df1a9a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c0772156-b98e-43c5-b01b-5cd54df1a9a5&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
+      "published_at": "2026-09-01T08:00:00+00:00",
+      "url": "https://colossus.com/episode/no-priors-just-conviction/",
+      "summary": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days. Sarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier. In this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sense of purpose, and how close we are to robots in the home and a genuine acceleration in scientific discovery. At the center is Sarah's conviction that no single company will own the future of AI, and what that means for founders, investors, and anyone allocating their time and resources in a world moving this fast. Our managing editor Dom Cooke wrote a profile of Sarah for Colossus, \"Sarah's Wager,\" on how she built the firm closest to the AI frontier and why she's now betting against its biggest companies. Please enjoy this conversation with Sarah Guo. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) Investing Without a Backtest (00:03:31) The AI Wager (00:06:16) Building the Best Investment Firm (00:08:37) Finding Non-Obvious AI Opportunities (00:11:00) The Frontier AI Talent Race (00:13:50) Compute as the Constraint (00:19:10) The Future of Robotics (00:22:15) Making Investment Decisions (00:26:13) How Sarah Spends Her Time (00:28:15) Raising a Venture Fund (00:30:49) Lessons From Her Parents (00:34:38) The Case for Open Source AI (00:39:01) Abundant Intelligence Isn't Inevitable (00:40:55) Compute Independence (00:43:14) Debates Inside Conviction (00:45:27) AI's Opportunity in Biology (00:48:58) Why Conviction (00:50:31) Finding Truth and Taking Risk (00:54:16) What Changes in the Next Year (00:56:46) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS7890997457.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "published_at": "2026-09-01T04:36:54+00:00",
+      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "summary": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -211,18 +296,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside Cursor: The Anatomy of a Generational Startup",
-      "published_at": "2026-08-27T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp",
-      "summary": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on incumbents with seemingly unbeatable advantages, and repeatedly made decisions that ran against conventional startup wisdom. They revisit the early bet that the interface between humans and AI would matter more than building a coding-specific foundation model, why Cursor built its own product rather than a VS Code plugin, and how the founders' ability to say \"no\" became one of the company's defining strengths. They also discuss Cursor's rapid evolution from IDE to agent and model platform, and why the team was willing to cannibalize its own products as AI capabilities improved. The conversation gets into what founders can learn from Cursor's approach to competition, hiring, enterprise sales, M&A, and company culture, including why the team remained unfazed by competitors from Microsoft to Anthropic and how its obsessive focus on product ultimately extended into every part of building the company. Resources: Explore Cursor Compile: https://cursor.com/compile Follow Martin Casado on X: https://x.com/martin_casado Follow Matt Bornstein on X: https://x.com/BornsteinMatt Follow Sarah Wang on X: https://x.com/sarahdingwang Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/06262bc9-7183-4be2-a4b5-6ed18cc6a418/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=06262bc9-7183-4be2-a4b5-6ed18cc6a418&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -272,18 +345,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
-      "published_at": "2026-08-27T01:31:22+00:00",
-      "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
-      "summary": "The conference with hot chips and even hotter companies",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -305,18 +366,6 @@
       "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/dhh-2-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: DHH’s X: https://x.com/dhh DHH’s Blog: https://world.hey.com/dhh Omarchy: https://omarchy.org Ruby on Rails: https://rubyonrails.org 37signals: https://37signals.com SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Blitzy: AI agent for large enterprise codebases. Go to https://blitzy.com/lex NetSuite: Business management software. Go to http://netsuite.ai/lex Shopify: Sell stuff online. Go to https://shopify.com/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Plaud: AI-powered note-taking devices and software. Go to https://plaud.ai/lex Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:14) – Sponsors, Comments, and Reflections (08:56) – Programming with AI agents (24:14) – How software will change (33:30) – AI impact on open source (43:21) – Building Omarchy Linux distro (53:05) – Vibe coding vs agentic engineering (1:06:06) – The end of manual programming (1:16:24) – Advice for programmers (1:28:31) – Surviving Internet Hate (1:37:46) – Programming setup for AI Agents (1:50:11) – Obsessing about speed (2:13:06) – Voice prompting vs typing (2:27:05) – Best AI coding models (2:43:55) – Best AI coding harnesses (2:56:57) – AI video generation and filmmaking (3:16:28) – Fatherhood (3:44:35) – Linux will win the desktop (3:55:51) – PewDiePie (4:05:25) – Future of programming (4:28:18) – Politics and immigration (4:59:55) – Longevity, over-optimization, and fear of death (5:11:38) – Eternal recurrence and future of human civization",
       "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
       "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-      "published_at": "2026-08-26T16:16:25+00:00",
-      "url": "https://www.latent.space/p/lovable-future-of-saas",
-      "summary": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -343,55 +392,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "TS-zS0m7LUc"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
-      "published_at": "2026-08-25T15:32:57+00:00",
-      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "summary": "\"Every force is screeching towards centralization.\"",
-      "audio_url": "https://api.substack.com/feed/podcast/212689635/b1d0ec442f2c0207d04925da65c321a2.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How to figure out your next career move",
-      "published_at": "2026-08-25T13:04:15+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "summary": "Six essential questions to help you navigate change",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
-      "published_at": "2026-08-25T08:00:00+00:00",
-      "url": "https://colossus.com/episode/from-transistor-to-token/",
-      "summary": "My guest today is Neil Movva, founder of Sail. Sail is building what Neil calls a token factory, an inference company designed for a specific kind of future, one where AI agents run in the background for hours or days at a time rather than answering a human in real time. In that world, latency matters less and cost matters more, and Neil has built the whole company around driving the cost of a token as low as it can possibly go. What makes this conversation special is that it is one of the most detailed tours I have ever done through the full stack of intelligence, the software, the chips, and the power, and how all three connect. Along the way we cover the trade-off between speed and cost that lives inside every GPU, his scavenger strategy for buying the chips and power nobody else wants, his contrarian view on Nvidia, and why the premium the frontier labs charge for being three to six months ahead may not last. Please enjoy my conversation with Neil Movva. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:20) Neil Movva (00:03:22) Building a Token Factory (00:05:32) The Rise of Long-Running Agents (00:08:47) Deep Research and Cybersecurity (00:15:12) The Full Stack of Intelligence (00:20:03) Throughput Versus Latency (00:24:58) The Future of AI Chips (00:33:19) Why Transformers Work (00:36:43) The Future of Data (00:44:05) The Market for AI Chips (00:47:56) Is the AI Boom Different? (00:51:08) Reinventing the Data Center (00:56:43) Scavenging Power (01:01:04) Where Compute Is Most Inefficient (01:07:02) Open Versus Closed Models (01:10:37) A Trillion Tokens a Day (01:12:42) The Contrarian Case on NVIDIA (01:14:38) Advice for AI Hardware Founders",
-      "audio_url": "https://traffic.megaphone.fm/CLS1341199916.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jeff Dean Left Google The Chuck Norris of Tech!",
-      "published_at": "2026-08-25T04:00:06+00:00",
-      "url": "https://www.youtube.com/shorts/V7_RNFPn2Sg",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "V7_RNFPn2Sg"
     }
   ],
   "errors": []
