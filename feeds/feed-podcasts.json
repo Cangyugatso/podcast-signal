@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-09-01T23:44:21.793704+00:00",
+  "generated_at": "2026-09-02T23:47:49.720394+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 32,
+  "item_count": 29,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 028 - Most Neoclouds Suck At Security: How Agents Hacked Hugging Face (Neoclouds, Security)",
+      "published_at": "2026-09-02T14:00:24+00:00",
+      "url": "https://www.youtube.com/watch?v=2uU5JFJ2T-o",
+      "summary": "This week Doug (@fabknowledge), Sam (@sharshe02) and Jordan (@jordannanos) discuss the OpenAI vs HuggingFace security incident and our recent article on Neocloud security ahead of ClusterMAX 3.0 Full article: https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security 0:00 Cold Open 0:57 Neocloud Security 4:38 The Hugging Face Hack 11:47 Agent Swarm Behavior 14:47 Obliterated Models 20:37 Security as a Service 24:30 What the Data Shows 33:08 Attacker Asymmetry 40:55 Nothing Ever Happens 45:22 CMAX Audit",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "2uU5JFJ2T-o"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+      "published_at": "2026-09-02T12:03:39+00:00",
+      "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+      "summary": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my wardrobe",
+      "audio_url": "https://api.substack.com/feed/podcast/213644454/8861b59cd21a6007b0237aaf5f590ad2.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside Moderna’s Personalized Cancer Vaccine",
+      "published_at": "2026-09-02T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/inside-modernas-personalized-cancer-vaccine-214RAv4s",
+      "summary": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA technology: positive Phase 3 results from Moderna and Merck’s individualized treatment for melanoma, after more than a decade of work on personalized cancer vaccines. Stéphane explains how the treatment works by sequencing an individual patient’s tumor and healthy cells, identifying the mutations most relevant to their cancer, and encoding up to 34 of them into an mRNA designed specifically for that patient. Rather than simply unleashing the immune system, the goal is to teach it exactly what to recognize and attack. They also unpack the engineering challenge of manufacturing a different medicine for every patient, how Moderna has brought the process down to roughly 42 days from biopsy to treatment, and what it would take to manufacture personalized medicines at scale. Finally, Stéphane looks beyond melanoma to lung, kidney, bladder, pancreatic, and gastric cancers, as well as Moderna’s longer-term work applying mRNA to rare genetic and autoimmune diseases. Resources: Follow Stéphane Bancel on LinkedIn: https://www.linkedin.com/in/st%C3%A9phane-bancel-8185251/ Follow Jorge Conde on X: https://x.com/JorgeCondeBio Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/457cc002-6623-42f4-8cc7-1bc2f129144b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=457cc002-6623-42f4-8cc7-1bc2f129144b&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "published_at": "2026-09-02T07:46:08+00:00",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "summary": "Queue the usual rush of model launches...",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -211,18 +260,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
-      "published_at": "2026-08-29T18:59:48+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
-      "summary": "Community Wisdom 199",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -269,18 +306,6 @@
       "summary": "(0:00) Bestie intros: Recapping recent interviews and the state of American science (3:31) China's Robot Olympics, Optimus update, Grok Bot (9:05) Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed (33:32) Bessent gets called out by Druckenmiller for bond market interference (1:01:33) AI writing controversy: Druck used AI to write his WSJ Op-ed (1:15:00) CIA Chief visits Moscow, Meta's settlement and new teen rules (1:22:52) Science Corner: Moderna's mRNA cancer vaccine Come hang with the Besties at the All-In Summit | September 13-15: http://theallinsummit.com Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html https://finance.yahoo.com/markets/stocks/article/how-nvidia-silenced-the-bears-105017893.html https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027 https://polymarket.com/event/largest-company-end-of-december-2026 https://www.cnbc.com/2026/08/18/treasury-yields-.html https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html https://seekingalpha.com/news/4636322-wall-street-sees-bessent-putting-fear-of-god-into-bond-vigilantes https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74 https://www.wsj.com/world/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-c1c68fa6 https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Infrastructure Behind the Machine Age",
-      "published_at": "2026-08-28T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-infrastructure-behind-the-machine-age-M3g5NamY",
-      "summary": "Ben Horowitz, Martin Casado, Raghu Raghuram, and Erik Torenberg discuss the launch of a16z's new Machine Age Fund and the infrastructure buildout behind AI, from chips, memory, and networking to power, cooling, and data centers. Why a dedicated fund now? The group argues that the bottleneck in AI is increasingly shifting from the models themselves to everything beneath them. Hyperscaler CapEx is surging, critical components are booked years in advance, and each new generation of reasoning and agents requires dramatically more compute. They unpack why this cycle looks different from previous infrastructure booms and how AI is turning problems once constrained by engineering into problems that can increasingly be attacked with capital and compute. They also explore where the next generation of infrastructure companies could emerge, why founders are returning to hard technical problems across hardware and systems, and what it will take to rebuild the computing stack for the Machine Age. Resources: Read more about the Machine Age Fund : https://www.a16z.news/p/the-machine-age-fund Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a2703003-7e2d-4dd3-b92b-99a1aebc67ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a2703003-7e2d-4dd3-b92b-99a1aebc67ed&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -331,67 +356,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "I8vyNJqUx5s"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
-      "published_at": "2026-08-27T01:50:54+00:00",
-      "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
-      "summary": "Open Source wins!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-      "published_at": "2026-08-26T23:00:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
-      "summary": "(0:00) Eric Weinstein joins the show! (03:09) Has American science stalled? Cowboy science, Fauci, and the scientific precariat (21:31) Weinstein's fix: Blow a hole in the Civil Rights Act, kill peer review, fund people not ideas (41:36) Ed Witten drove physics off a cliff, and is Renaissance Technologies a secret Los Alamos? (52:49) Boom, Vroom, Zoom: Did stagnant physics save the human species? (01:07:11) UAPs, multi-temporal adversaries, and Einstein's prison (01:16:12) China poaches our best scientists, AI reads the trash can corpus Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 With over nine million acres protected across all fifty states, The Conservation Fund secures the irreplaceable lands we love. Learn more at http://conservationfund.org Follow Eric: https://x.com/ericweinstein Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Eric_Weinstein_Int_AUDIO_v99.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-      "published_at": "2026-08-26T21:47:04+00:00",
-      "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
-      "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/dhh-2-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: DHH’s X: https://x.com/dhh DHH’s Blog: https://world.hey.com/dhh Omarchy: https://omarchy.org Ruby on Rails: https://rubyonrails.org 37signals: https://37signals.com SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Blitzy: AI agent for large enterprise codebases. Go to https://blitzy.com/lex NetSuite: Business management software. Go to http://netsuite.ai/lex Shopify: Sell stuff online. Go to https://shopify.com/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Plaud: AI-powered note-taking devices and software. Go to https://plaud.ai/lex Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:14) – Sponsors, Comments, and Reflections (08:56) – Programming with AI agents (24:14) – How software will change (33:30) – AI impact on open source (43:21) – Building Omarchy Linux distro (53:05) – Vibe coding vs agentic engineering (1:06:06) – The end of manual programming (1:16:24) – Advice for programmers (1:28:31) – Surviving Internet Hate (1:37:46) – Programming setup for AI Agents (1:50:11) – Obsessing about speed (2:13:06) – Voice prompting vs typing (2:27:05) – Best AI coding models (2:43:55) – Best AI coding harnesses (2:56:57) – AI video generation and filmmaking (3:16:28) – Fatherhood (3:44:35) – Linux will win the desktop (3:55:51) – PewDiePie (4:05:25) – Future of programming (4:28:18) – Politics and immigration (4:59:55) – Longevity, over-optimization, and fear of death (5:11:38) – Eternal recurrence and future of human civization",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_dhh_2.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "The mathematics of AI uncertainty",
-      "published_at": "2026-08-26T15:35:59+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Now, if you ask an AI a question, it will usually give you an absolute answer with unwavering authority, even if that answer turns out to be wrong. In fact, today's AI seems to be missing a fundamental human trait: self-doubt. Long before the current wave of large language models, one academic researcher was trying to give machines a sense of their own limitations. Zoubin Ghahramani has spent the last 30 years pioneering a type of intelligence built on the mathematics of uncertainty. Today, as a professor at Cambridge and VP of Research at Google DeepMind, Zoubin finds himself at the heart of another interesting debate: will improving machine uncertainty be one of the missing pieces to ever improving AI? Timecodes: 00:00 Introduction 01:06 The role of uncertainty 07:45 Correctness vs confidence 09:40 Historical perspectives 16:10 Bayesian thinking in AI 26:30 Uncertainty in the real world 36:42 Future research and AGI Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/64f5029d-0d8f-4b02-ad63-d112c6ba9152/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=64f5029d-0d8f-4b02-ad63-d112c6ba9152&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Taiwan's Memory Crisis Apple's Struggle & Elon's Billion Dollar Vision",
-      "published_at": "2026-08-26T04:00:30+00:00",
-      "url": "https://www.youtube.com/shorts/TS-zS0m7LUc",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "TS-zS0m7LUc"
     }
   ],
   "errors": []
