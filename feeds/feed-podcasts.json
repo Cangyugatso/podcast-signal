@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-03T23:44:56.012780+00:00",
+  "generated_at": "2026-09-04T23:38:45.540467+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 29,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Fei Fei Li: The Race to Build World Models For AI",
+      "published_at": "2026-09-04T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/fei-fei-li-the-race-to-build-world-models-for-ai-tvIN7XfT",
+      "summary": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of spatial intelligence. At the center of Atlas is what the team calls “new view prediction”: given images or views of a scene, the model predicts what that environment should look like from a different position in space and time. This brings generation and 3D reconstruction into the same model, and raises a broader question about whether predicting views could become a useful primitive for understanding the physical world. They discuss the technical bets behind the model, what it can and can’t yet capture, and the importance of dynamics, editability, and simulation as world models develop. The conversation also explores applications in creative work, architecture, and robotics, where Fei-Fei argues that one of today’s biggest constraints is access to real-world training data. Resources: Follow Fei-Fei Li on X: https://x.com/drfeifei Follow Justin Johnson on X: https://x.com/jcjohnss Follow Ben Mildenhall on X: https://x.com/BenMildenhall Follow Martin Casado on X: https://x.com/martin_casado Learn more about Atlas: https://www.worldlabs.ai/blog/atlas Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7a8beefc-2d73-42f7-8b7a-d2f15ad0358d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7a8beefc-2d73-42f7-8b7a-d2f15ad0358d&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "published_at": "2026-09-04T05:18:11+00:00",
+      "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -211,18 +235,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-      "published_at": "2026-09-01T04:36:54+00:00",
-      "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "summary": "You can now create decent video faster than you watch it. This is the start of... something. We’re not sure what.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -305,18 +317,6 @@
       "summary": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations. The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Daylian_Cain_-_AUDIO_V1.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why a16z Launched the Machine Age Fund | Jen Kha",
-      "published_at": "2026-08-30T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl",
-      "summary": "a16z Managing Partner and Head of Global Partnerships Jen Kha joins MTS hosts Theo Jaffee and Sophia Dew to discuss a16z's Machine Age Fund and the investment thesis behind rebuilding the physical infrastructure that powers AI. Jen explains why chips, networking, memory, cooling, data centers, and other parts of the physical computing stack are becoming investable again after decades in which software captured much of the industry's attention. As AI demand pushes existing infrastructure to its limits, she explains why a16z created a dedicated fund and why hardware founders are increasingly rethinking the stack from first principles. They also discuss the global race to adopt AI, what hardware startups need beyond capital, the backlash against data centers in the U.S., and why experienced systems builders are returning to entrepreneurship as a new generation of infrastructure gets built. Resources: Follow Jen Kha on X: https://x.com/jkhamehl Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/68d49c98-05bc-4eec-a525-c6fdb554f130/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=68d49c98-05bc-4eec-a525-c6fdb554f130&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
