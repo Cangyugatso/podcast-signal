@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-04T23:38:45.540467+00:00",
+  "generated_at": "2026-09-05T23:29:46.130084+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 29,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+      "published_at": "2026-09-05T17:00:46+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+      "summary": "Community Wisdom 200",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "published_at": "2026-09-05T15:01:02+00:00",
+      "url": "https://www.latent.space/p/grok-bot",
+      "summary": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Aaron Levie on Why Open AI Wins",
+      "published_at": "2026-09-05T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/aaron-levie-on-why-open-ai-wins-YUnuv_hR",
+      "summary": "Box co-founder and CEO Aaron Levie joins MTS hosts Theo Jaffee and Sofia Puccini to make the case for open-weight AI, unpack the economics of open versus closed models, and explain why he believes more openness could strengthen rather than undermine the U.S. AI ecosystem. Aaron argues that open models create more use cases, push closed labs to innovate faster, and don't fundamentally change where the economics of AI ultimately accrue. They debate model distillation, America's competition with China, why restricting access may simply accelerate competing AI ecosystems, and whether U.S. labs should begin releasing open-weight versions of previous-generation models. They also get into what the latest frontier models mean for knowledge work, how AI has changed software engineering at Box, and why Aaron believes companies cutting engineers may simply not be ambitious enough. Finally, they discuss why enterprises are unlikely to bet on a single model and why the layer that routes between models, data, and workflows could become increasingly valuable. Resources: Follow Aaron Levie on X: https://x.com/levie Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fa4d1de0-221c-4305-9b44-d8ee5ef2a0db/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fa4d1de0-221c-4305-9b44-d8ee5ef2a0db&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+      "published_at": "2026-09-04T23:10:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal",
+      "summary": "(0:00) Bestie intros: Happy 50th Chamath! (1:17) OpenAI releases GPT-6 Astra: Have they reached AGI? (19:01) All-In Summit: Scholarships available! (19:56) Dwarkesh's Hugging Face hack article sparks a Bernie Sanders AI ban (37:03) EAs, AI-brained influencers, and the conflicts of interest (59:26) Mamdani bans AI in NYC schools K-8 (1:18:58) US-Venezuela oil deal The All-In Summit is only 1 week away! You won't want to miss it: https://theallinsummit.com Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://openai.com/index/gpt-6-astra https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi https://www.axios.com/2026/09/03/axios-interview-sam-altmans-sobering-siren https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026 https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027 https://x.com/chamath/status/2095511879951192279 https://x.com/Jason/status/2095521697411514626 https://scale.stanford.edu/research-in-action/understanding-evidence-base-ai-k12-education https://www.politico.com/news/2026/09/02/trumps-seen-the-data-center-polling-and-he-still-supports-them-01061244 https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -162,18 +210,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
-      "published_at": "2026-09-01T16:17:15+00:00",
-      "url": "https://www.latent.space/p/pr-not-welcome",
-      "summary": "Vercel’s AI SDK, Astro, Flue and tldraw are replacing drive-by community PRs with software factories, where teams of agents apply fixes and features.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -272,30 +308,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "published_at": "2026-08-31T12:04:18+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "summary": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
-      "audio_url": "https://api.substack.com/feed/podcast/212924577/37a4efe4f921303b5ec4f6e7b7bf82e6.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Gavin Baker: Why AI Demand Is Outrunning Compute Supply",
-      "published_at": "2026-08-31T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/gavin-baker-why-ai-demand-is-outrunning-compute-supply-z97oFoOG",
-      "summary": "a16z’s David George sits down with Gavin Baker to unpack the state of the AI boom, why demand for intelligence may still be dramatically underestimated, and why the outcome doesn't necessarily have to be winner-take-all. David and Gavin explore the possibility that frontier labs, open-source models, applications, clouds, and NVIDIA can all capture significant value as AI adoption expands. They dig into the economics of the infrastructure buildout, why compute investments can have unusually fast payback periods, and what happens when today's relatively small group of heavy AI users expands to hundreds of millions of people. They also debate the risk of an AI bubble versus an AI shortage, the backlash against data centers, orbital compute, the rise of multi-model architectures, and NVIDIA's position at the center of the AI supply chain. Gavin makes the case that the AI buildout could help reindustrialize America, while David explores whether the bigger near-term risk is not overbuilding, but failing to build enough. Resources: Follow Gavin Baker on X: https://x.com/GavinSBaker Follow David George on X: https://x.com/DavidGeorge83 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab07099a-8e69-4f2e-92c1-40d928dc1420/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab07099a-8e69-4f2e-92c1-40d928dc1420&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -317,43 +329,6 @@
       "summary": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations. The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
       "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Daylian_Cain_-_AUDIO_V1.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "published_at": "2026-08-29T22:47:53+00:00",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "summary": "The whole OpenAI/Hugging Face story in plain English",
-      "audio_url": "",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 027 - OpenAI Jalapeño: Better Than Nvidia Blackwell (Accelerators)",
-      "published_at": "2026-08-29T15:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=hj_ffVldQZA",
-      "summary": "This week Bryan, Myron and Jordan (@JordanNanos) discuss our recent article on OpenAI Jalapeño. They cover the performance, architecture, programming model, implications for NVIDIA and more. Full Article: https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia 0:00 Cold Open 1:05 Jalapeno Overview 4:22 Tokens Per Megawatt 9:15 Benchmark Caveats 13:48 The CUDA Moat 21:12 How OpenAI Did It 32:13 Samsung HBM4 42:10 AI-Designed Silicon 49:24 Architecture Deep Dive 56:58 Doom and Wrap",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "hj_ffVldQZA"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
-      "published_at": "2026-08-29T01:19:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine",
-      "summary": "(0:00) Bestie intros: Recapping recent interviews and the state of American science (3:31) China's Robot Olympics, Optimus update, Grok Bot (9:05) Nvidia and Salesforce rip after big earnings: AI Capex Bubble and SaaSpocalypse narratives get reversed (33:32) Bessent gets called out by Druckenmiller for bond market interference (1:01:33) AI writing controversy: Druck used AI to write his WSJ Op-ed (1:15:00) CIA Chief visits Moscow, Meta's settlement and new teen rules (1:22:52) Science Corner: Moderna's mRNA cancer vaccine Come hang with the Besties at the All-In Summit | September 13-15: http://theallinsummit.com Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html https://finance.yahoo.com/markets/stocks/article/how-nvidia-silenced-the-bears-105017893.html https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027 https://polymarket.com/event/largest-company-end-of-december-2026 https://www.cnbc.com/2026/08/18/treasury-yields-.html https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html https://seekingalpha.com/news/4636322-wall-street-sees-bessent-putting-fear-of-god-into-bond-vigilantes https://www.wsj.com/opinion/let-the-bond-market-speak-81529d74 https://www.wsj.com/world/cia-director-john-ratcliffe-makes-surprise-trip-to-moscow-c1c68fa6 https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E287_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
