@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-09-05T23:29:46.130084+00:00",
+  "generated_at": "2026-09-06T23:25:30.302123+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "published_at": "2026-09-06T12:32:00+00:00",
+      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+      "audio_url": "https://api.substack.com/feed/podcast/213044770/4eea366175d335a312e305ba284a8e6c.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI is running out of Power",
+      "published_at": "2026-09-06T11:13:34+00:00",
+      "url": "https://www.youtube.com/watch?v=nB4wFU43wck",
+      "summary": "How does the AI boom affect the electrical grid? Deep-dive into the rising AI datacenter power demand, behind-the-meter power & how AI starts to affect heavy industries. SemiAnalysis Energy Model: https://semianalysis.com/energy-model/ 0:00 The real AI bottleneck 2:54 Behind-the-Meter Power 5:14 The Grid has a problem 12:24 xAI Energy Strategy / On-site generation 15:50 Gas Turbines / Aeroderivatives 17:28 Reciprocating Engines 18:14 Fuel Cells 19:06 Why Behind-the-Meter is not cheaper 25:20 The Labor Shortage 32:34 Texas & Grid access 35:26 Energy Policy - ERCOT vs PJM 39:13 AI datacenter impact on household bills 45:22 The new AI supply chain / Power as a gatekeeper 50:05 The Future of AI as Industrial Strategy",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "nB4wFU43wck"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Your AI Doctor Is Coming | Julie Yoo",
+      "published_at": "2026-09-06T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/your-ai-doctor-is-coming-julie-yoo-YEmlPria",
+      "summary": "a16z General Partner Julie Yoo joins MTS host Sophia Dew to explain why she believes healthcare could benefit more from AI than almost any other industry, and why decades of slow technology adoption may actually give healthcare an advantage in the AI era. Julie traces healthcare’s evolution from paper records and fax machines through electronic health records and telehealth, and explains why AI represents something different: an organic adoption wave driven by tools that doctors and patients actually want to use. Because healthcare never built the same layers of legacy software as other industries, it may now be able to leapfrog directly into agentic AI. They also explore how AI could dramatically lower the cost of care, why consumers are becoming a more important payer, where Julie sees the biggest opportunities for healthcare founders, and a future where everyone has a highly personalized AI doctor in their pocket for life. Resources: Follow Julie Yoo on X: https://x.com/julesyoo Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bec89b11-0527-42ce-b965-a903f73f2754/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=bec89b11-0527-42ce-b965-a903f73f2754&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -247,18 +284,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Daniel Litt: The Mathematician's Guide to AI",
-      "published_at": "2026-09-01T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk",
-      "summary": "a16z’s Lisha Li sits down with Daniel Litt, Assistant Professor of Mathematics at the University of Toronto, to unpack AI's rapid progress in mathematics, what today's frontier models can actually do, and what they're still missing about the way mathematicians think. Daniel explains why some recent AI-generated results are genuinely impressive, including an autonomous solution to the Erdős unit distance problem, but argues that solving problems is only one part of mathematics. Today's models can grind through calculations, combine known techniques, and search enormous spaces, but still struggle with intuition, theory building, identifying the right questions, and developing the kind of big-picture understanding that drives much of mathematical progress. Lisha and Daniel also explore how AI is already changing mathematical research, why an explosion of AI-generated papers could distort academic incentives, and what happens if researchers outsource the work of thinking rather than use AI to deepen it. Ultimately, they ask a question that extends far beyond mathematics: as AI gets better at intellectual work, how do we make sure humans keep getting better at thinking too? Resources: Follow Daniel Litt on X: https://x.com/littmath Follow Lisha Li on X: https://x.com/lishali88 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c0772156-b98e-43c5-b01b-5cd54df1a9a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c0772156-b98e-43c5-b01b-5cd54df1a9a5&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -293,18 +318,6 @@
       "summary": "The OpenAI/Hugging Face attack, clearly explained",
       "audio_url": "https://api.substack.com/feed/podcast/213603862/d5d65fe19895665329a808914904c59a.mp3",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-      "published_at": "2026-08-31T15:01:58+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
