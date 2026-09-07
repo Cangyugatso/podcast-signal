@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-06T23:25:30.302123+00:00",
+  "generated_at": "2026-09-07T23:55:00.788011+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+      "published_at": "2026-09-07T21:32:37+00:00",
+      "url": "https://www.latent.space/p/aeo",
+      "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "published_at": "2026-09-07T15:02:41+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "published_at": "2026-09-07T12:04:19+00:00",
+      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+      "audio_url": "https://api.substack.com/feed/podcast/214090220/4cccdb9b806152e3e331d85f76bfe4ca.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can Open Source Keep AI Power From Concentrating?",
+      "published_at": "2026-09-07T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-open-source-keep-ai-power-from-concentrating-SoZe4_xf",
+      "summary": "MTS host Sophia Dew visits the Open Source AI Summit in San Francisco to ask researchers and founders across the AI stack a central question: can open source prevent AI power from concentrating in the hands of a few companies? Lukasz Kaiser, co-author of Attention Is All You Need , argues that today’s concentration may be a feature of the current technological paradigm rather than a permanent feature of AI. Transformers reward enormous amounts of data and compute, but future breakthroughs could make smaller, more specialized models far more capable. Across conversations with researchers and builders working on open models, infrastructure, and applications, Sophia explores why China has taken the lead in open-weight models, whether the U.S. needs more open-model startups, what it means for companies to own their own intelligence, and where openness alone falls short, particularly when access to compute remains concentrated. Resources: Follow Lukasz Kaiser on X: https://x.com/lukaszkaiser Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ad5068cd-5d10-4465-bc38-31449e172e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ad5068cd-5d10-4465-bc38-31449e172e26&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Best of Habit Formation: James Clear",
+      "published_at": "2026-09-07T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
+      "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Best of Habit Formation: Katy Milkman",
+      "published_at": "2026-09-07T07:30:00+00:00",
+      "url": "https://tedseides.libsyn.com/best-of-habit-formation-katy-milkman",
+      "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -211,42 +283,6 @@
       "video_id": "2uU5JFJ2T-o"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-      "published_at": "2026-09-02T12:03:39+00:00",
-      "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-      "summary": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my wardrobe",
-      "audio_url": "https://api.substack.com/feed/podcast/213644454/8861b59cd21a6007b0237aaf5f590ad2.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside Moderna’s Personalized Cancer Vaccine",
-      "published_at": "2026-09-02T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/inside-modernas-personalized-cancer-vaccine-214RAv4s",
-      "summary": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA technology: positive Phase 3 results from Moderna and Merck’s individualized treatment for melanoma, after more than a decade of work on personalized cancer vaccines. Stéphane explains how the treatment works by sequencing an individual patient’s tumor and healthy cells, identifying the mutations most relevant to their cancer, and encoding up to 34 of them into an mRNA designed specifically for that patient. Rather than simply unleashing the immune system, the goal is to teach it exactly what to recognize and attack. They also unpack the engineering challenge of manufacturing a different medicine for every patient, how Moderna has brought the process down to roughly 42 days from biopsy to treatment, and what it would take to manufacture personalized medicines at scale. Finally, Stéphane looks beyond melanoma to lung, kidney, bladder, pancreatic, and gastric cancers, as well as Moderna’s longer-term work applying mRNA to rare genetic and autoimmune diseases. Resources: Follow Stéphane Bancel on LinkedIn: https://www.linkedin.com/in/st%C3%A9phane-bancel-8185251/ Follow Jorge Conde on X: https://x.com/JorgeCondeBio Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/457cc002-6623-42f4-8cc7-1bc2f129144b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=457cc002-6623-42f4-8cc7-1bc2f129144b&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-      "published_at": "2026-09-02T07:46:08+00:00",
-      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-      "summary": "Queue the usual rush of model launches...",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -272,18 +308,6 @@
       "video_id": "njZJHQ4_6kg"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How to turn your AI into a world-class designer",
-      "published_at": "2026-09-01T12:45:59+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "summary": "An end-to-end process for tapping into AI’s hidden creativity",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -293,55 +317,6 @@
       "summary": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days. Sarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier. In this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sense of purpose, and how close we are to robots in the home and a genuine acceleration in scientific discovery. At the center is Sarah's conviction that no single company will own the future of AI, and what that means for founders, investors, and anyone allocating their time and resources in a world moving this fast. Our managing editor Dom Cooke wrote a profile of Sarah for Colossus, \"Sarah's Wager,\" on how she built the firm closest to the AI frontier and why she's now betting against its biggest companies. Please enjoy this conversation with Sarah Guo. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) Investing Without a Backtest (00:03:31) The AI Wager (00:06:16) Building the Best Investment Firm (00:08:37) Finding Non-Obvious AI Opportunities (00:11:00) The Frontier AI Talent Race (00:13:50) Compute as the Constraint (00:19:10) The Future of Robotics (00:22:15) Making Investment Decisions (00:26:13) How Sarah Spends Her Time (00:28:15) Raising a Venture Fund (00:30:49) Lessons From Her Parents (00:34:38) The Case for Open Source AI (00:39:01) Abundant Intelligence Isn't Inevitable (00:40:55) Compute Independence (00:43:14) Debates Inside Conviction (00:45:27) AI's Opportunity in Biology (00:48:58) Why Conviction (00:50:31) Finding Truth and Taking Risk (00:54:16) What Changes in the Next Year (00:56:46) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS7890997457.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI's role in chip design & bringup",
-      "published_at": "2026-08-31T21:10:23+00:00",
-      "url": "https://www.youtube.com/shorts/91cwtYG_y9I",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "91cwtYG_y9I"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "The rise and fall of agent civilizations",
-      "published_at": "2026-08-31T20:36:53+00:00",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "summary": "The OpenAI/Hugging Face attack, clearly explained",
-      "audio_url": "https://api.substack.com/feed/podcast/213603862/d5d65fe19895665329a808914904c59a.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Negotiations: Chris Voss",
-      "published_at": "2026-08-31T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/best-of-negotiations-chris-voss",
-      "summary": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations. The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Chris_Voss_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Negotiations: Daylian Cain",
-      "published_at": "2026-08-31T07:30:00+00:00",
-      "url": "https://tedseides.libsyn.com/best-of-negotiations-daylian-cain",
-      "summary": "This week's Summer Series is another two-fer, this time on negotiations. The first is with legendary former FBI-hostage negotiator Chris Voss, the author of Never Split the Difference and founder of the Black Swan group where he teaches tactical empathy in negotiations. The second is with Yale professor Daylian Cain, who opened my eyes to the importance of walking away. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Daylian_Cain_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
