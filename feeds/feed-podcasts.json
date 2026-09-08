@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-07T23:55:00.788011+00:00",
+  "generated_at": "2026-09-08T23:47:56.715844+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Pretraining progress is mostly coming from data",
+      "published_at": "2026-09-08T16:10:16+00:00",
+      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "summary": "Breaking down 6 years of pretraining progress into data vs model improvements",
+      "audio_url": "",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "published_at": "2026-09-08T12:31:49+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+      "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
+      "audio_url": "https://api.substack.com/feed/podcast/214070217/74500da2d21a92872afb94e2f2b9094d.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenAI Researchers on the Future of Mathematical Reasoning",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/openai-researchers-on-the-future-of-mathematical-reasoning-Jn50EkyR",
+      "summary": "a16z Infra Partner Lisha Li sits down with OpenAI mathematicians Mehtaab Sawhney and Mark Sellke to discuss how quickly AI’s mathematical capabilities are advancing, what recent results reveal about model reasoning, and what happens when AI begins making progress on problems mathematicians have struggled with for decades. Mehtaab and Mark unpack several recent results from OpenAI’s models, including advances in sphere packing and the construction of a non-sofic group. They explain why the surprising part isn’t simply that models can search more possibilities or work longer than humans: in many cases, the reasoning traces look remarkably similar to the work of an expert mathematician, including choosing promising approaches, backtracking when they fail, and combining ideas from across the literature. They also explore what this means for mathematics itself: how the role of human taste and judgment may change, whether AI could produce far more mathematics than humans can absorb, and why models that accelerate discovery may also make sophisticated results easier to understand. Resources: Follow Lisha Li on X: https://x.com/lishali88 Follow Mehtaab Sawhney on X: https://x.com/mehtaab_sawhney Follow Mark Sellke on X: https://x.com/MarkSellke Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0936ea4f-0124-43ff-b2b1-641cc247a0c3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0936ea4f-0124-43ff-b2b1-641cc247a0c3&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
+      "published_at": "2026-09-08T08:00:00+00:00",
+      "url": "https://colossus.com/episode/god-gold-silicon/",
+      "summary": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power. He has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so. Walter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers. We discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East. Please enjoy my conversation with Walter Russell Mead. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) America and the World Today (00:05:34) Trump’s Method of Power (00:09:43) Why America Keeps Winning (00:12:25) The Five-Point Plan for Global Dominance (00:20:11) China and American Power (00:22:10) The Risk of American Isolationism (00:25:50) Technology and Global Power (00:28:42) Riding the Technological Wild Horse (00:34:29) Four Schools of American Foreign Policy (00:40:22) The Rise of Tech Hamiltonians (00:43:51) India and the Next Great Powers (00:48:54) The Risks of the Information Revolution (00:51:30) How Technology Is Changing War (00:55:06) Taiwan (00:57:20) The Future of American Society (01:00:44) What It Means to Be American (01:03:25) Iran and the Middle East (01:06:28) The Erosion of Deterrence (01:08:53) America’s Role in the Next 20 Years (01:12:08) AI and Global Power (01:14:26) Reasons for Optimism (01:16:33) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -198,30 +246,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-      "published_at": "2026-09-03T19:34:20+00:00",
-      "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-      "summary": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
-      "audio_url": "https://api.substack.com/feed/podcast/214048522/4ae3ffadb011dee13d0f3ad8895f4c9d.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The $100B Niches Hiding Inside Payments",
-      "published_at": "2026-09-03T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o",
-      "summary": "Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the origins of Affirm and the next generation of agentic commerce. Max and Alex revisit what surprised them most about how payments evolved, why the card interface has been so difficult to displace, and why even the smallest corners of payments can become enormous markets. They also trace the early idea maze behind Affirm, from \"pay with your identity\" and the pajama problem to the realization that installment financing could dramatically increase merchant conversion. The conversation also gets into real versus \"fake\" 0% financing, what people misunderstand about Affirm today, why negative customer acquisition cost can be such a powerful business model advantage, and why Max is more bullish on agentic payments than on agents choosing what people buy. Resources: Follow Max Levchin on X: https://x.com/mlevchin Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a13b21a1-e71b-428e-969a-c4fe80db9f9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a13b21a1-e71b-428e-969a-c4fe80db9f9c&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -281,43 +305,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "2uU5JFJ2T-o"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
-      "published_at": "2026-09-01T15:41:06+00:00",
-      "url": "https://www.dwarkesh.com/p/ajeya-cotra",
-      "summary": "\"This might be the clearest warning shot we ever get.\"",
-      "audio_url": "https://api.substack.com/feed/podcast/213682035/1d3eb74fe75861cd1fd2db2ebb09c1a7.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jalapeno outperforms GB300 on both axes",
-      "published_at": "2026-09-01T13:00:26+00:00",
-      "url": "https://www.youtube.com/shorts/njZJHQ4_6kg",
-      "summary": "",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "njZJHQ4_6kg"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Sarah Guo - Funding the Frontier - [Invest Like the Best, EP.489]",
-      "published_at": "2026-09-01T08:00:00+00:00",
-      "url": "https://colossus.com/episode/no-priors-just-conviction/",
-      "summary": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days. Sarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier. In this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sense of purpose, and how close we are to robots in the home and a genuine acceleration in scientific discovery. At the center is Sarah's conviction that no single company will own the future of AI, and what that means for founders, investors, and anyone allocating their time and resources in a world moving this fast. Our managing editor Dom Cooke wrote a profile of Sarah for Colossus, \"Sarah's Wager,\" on how she built the firm closest to the AI frontier and why she's now betting against its biggest companies. Please enjoy this conversation with Sarah Guo. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) Investing Without a Backtest (00:03:31) The AI Wager (00:06:16) Building the Best Investment Firm (00:08:37) Finding Non-Obvious AI Opportunities (00:11:00) The Frontier AI Talent Race (00:13:50) Compute as the Constraint (00:19:10) The Future of Robotics (00:22:15) Making Investment Decisions (00:26:13) How Sarah Spends Her Time (00:28:15) Raising a Venture Fund (00:30:49) Lessons From Her Parents (00:34:38) The Case for Open Source AI (00:39:01) Abundant Intelligence Isn't Inevitable (00:40:55) Compute Independence (00:43:14) Debates Inside Conviction (00:45:27) AI's Opportunity in Biology (00:48:58) Why Conviction (00:50:31) Finding Truth and Taking Risk (00:54:16) What Changes in the Next Year (00:56:46) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS7890997457.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
   "errors": []
