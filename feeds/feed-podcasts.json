@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-09-08T23:47:56.715844+00:00",
+  "generated_at": "2026-09-09T23:46:38.997847+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can AI help us better predict the weather?",
+      "published_at": "2026-09-09T16:08:26+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From providing critical early warnings for Category 5 storms like Hurricane Melissa to predicting renewable energy supply and agricultural impacts, see how models like GraphCast and WeatherNext 3 are building upon decades of numerical physics to reshape our understanding of the atmosphere. Learn more about WeatherNext 3, our most advanced global weather AI model yet: https://deepmind.google/science/weathernext/ Timestamps: 00:00 Introduction 00:38 Hurricane Melissa 11:50 Why weather forecasting is hard 14:13 Traditional models vs AI models 21:55 Probabilistic forecasting 26:00 WeatherNext 3 33:00 Future outlook 43:44 Hannah's reflections Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/e969cd6f-d389-41e3-b342-bacfa33ca198/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=e969cd6f-d389-41e3-b342-bacfa33ca198&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
+      "published_at": "2026-09-09T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18",
+      "summary": "a16z’s Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI’s increasingly difficult problems: how do you actually measure whether a model is getting better? As public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations. They unpack why self-reported model scores can be misleading, how VALS evaluates models in the hours before a release, and why measuring increasingly agentic systems means testing work that can unfold over hours, days, or even weeks. They also explore why evals are becoming critical for enterprises trying to understand the ROI of AI, what happens if token spend begins to rival employee salaries, and how evaluations could eventually provide a shared language for everything from model routing and recursive self-improvement to AI policy and international coordination. Resources: Follow Rayan Krishnan on X: https://x.com/RayanKrishnan Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Jennifer Li on X: https://x.com/JenniferHli Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "published_at": "2026-09-09T05:04:51+00:00",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Dwarkesh Patel",
       "domain": "ai",
@@ -198,6 +234,18 @@
       "source_type": "rss"
     },
     {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
+      "published_at": "2026-09-05T04:32:00+00:00",
+      "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
+      "summary": "AI News for 9/2/2026-9/3/2026.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -210,18 +258,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Fei Fei Li: The Race to Build World Models For AI",
-      "published_at": "2026-09-04T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/fei-fei-li-the-race-to-build-world-models-for-ai-tvIN7XfT",
-      "summary": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of spatial intelligence. At the center of Atlas is what the team calls “new view prediction”: given images or views of a scene, the model predicts what that environment should look like from a different position in space and time. This brings generation and 3D reconstruction into the same model, and raises a broader question about whether predicting views could become a useful primitive for understanding the physical world. They discuss the technical bets behind the model, what it can and can’t yet capture, and the importance of dynamics, editability, and simulation as world models develop. The conversation also explores applications in creative work, architecture, and robotics, where Fei-Fei argues that one of today’s biggest constraints is access to real-world training data. Resources: Follow Fei-Fei Li on X: https://x.com/drfeifei Follow Justin Johnson on X: https://x.com/jcjohnss Follow Ben Mildenhall on X: https://x.com/BenMildenhall Follow Martin Casado on X: https://x.com/martin_casado Learn more about Atlas: https://www.worldlabs.ai/blog/atlas Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7a8beefc-2d73-42f7-8b7a-d2f15ad0358d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7a8beefc-2d73-42f7-8b7a-d2f15ad0358d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -229,18 +265,6 @@
       "published_at": "2026-09-04T05:18:11+00:00",
       "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "summary": "new SOTA computer use and coding, 2.5x pricier per token, but WAY cheaper per task, less monitorable. overall, a very successful launch of OpenAI’s new frontier model class.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-      "published_at": "2026-09-03T21:09:41+00:00",
-      "url": "https://www.latent.space/p/astra",
-      "summary": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
@@ -280,31 +304,6 @@
       "audio_url": "https://traffic.megaphone.fm/APO2723574036.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
-      "published_at": "2026-09-03T04:38:33+00:00",
-      "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "summary": "an epic comeback story for Meta",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 028 - Most Neoclouds Suck At Security: How Agents Hacked Hugging Face (Neoclouds, Security)",
-      "published_at": "2026-09-02T14:00:24+00:00",
-      "url": "https://www.youtube.com/watch?v=2uU5JFJ2T-o",
-      "summary": "This week Doug (@fabknowledge), Sam (@sharshe02) and Jordan (@jordannanos) discuss the OpenAI vs HuggingFace security incident and our recent article on Neocloud security ahead of ClusterMAX 3.0 Full article: https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security 0:00 Cold Open 0:57 Neocloud Security 4:38 The Hugging Face Hack 11:47 Agent Swarm Behavior 14:47 Obliterated Models 20:37 Security as a Service 24:30 What the Data Shows 33:08 Attacker Asymmetry 40:55 Nothing Ever Happens 45:22 CMAX Audit",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "2uU5JFJ2T-o"
     }
   ],
   "errors": []
