@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-09-10T23:38:16.796050+00:00",
+  "generated_at": "2026-09-11T23:49:38.702093+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "A cross section of SemiAnalysis: consulting, Core Research, and the data center, energy, and industr",
+      "published_at": "2026-09-11T20:30:27+00:00",
+      "url": "https://www.youtube.com/shorts/8T-V91Jgd8w",
+      "summary": "A cross section of SemiAnalysis: consulting, Core Research, and the data center, energy, and industrials model team all contribute to articles like this one. The full piece covers and why 12 months of build time now equals, 12 months of tokens you never made.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "8T-V91Jgd8w"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 029 - Modular Data Centers Cut Build Time to 12 Months (Datacenter)",
+      "published_at": "2026-09-11T20:00:37+00:00",
+      "url": "https://www.youtube.com/watch?v=3AaA0rzZggY",
+      "summary": "Traditional data center builds ran 18 to 24 months, sometimes past three years. Modular construction cuts that to 12. Jordan Nanos (@JordanNanos) sits down with Eric Wen, Nigel Chiang, and Nico Bontigui to map what modular actually means, from MEP heavy skids to full containerized builds. They break down why the bottleneck moved from construction time to labor, why welders and electricians are the real constraint in Abilene, and how time to power translates directly into tokens at 40 to 100 million dollars per megawatt. Subscribe for weekly SemiAnalysis coverage on data center construction, prefabrication, and AI infrastructure. 0:00 Cold Open 1:09 What Is Modular 4:03 Why Go Modular 5:55 Time to Power Math 9:04 Labor Wage Data 13:51 Two Kinds of Bottlenecks 18:24 Site, Shell, System 22:31 Who Owns the Risk 26:59 Trucks and Insurance 30:53 Who Supplies the Modules 35:50 Commissioning Reality 41:39 Vendor Map and Wrap Read More: The Wild Wild West Of LEGO Datacenters: https://newsletter.semianalysis.com/p/the-wild-wild-west-of-lego-datacenters",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "3AaA0rzZggY"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "published_at": "2026-09-11T16:28:11+00:00",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "“We're nowhere near the ceiling.”",
+      "audio_url": "https://api.substack.com/feed/podcast/215199144/740d4b3c97ca6d2b2940f58d6447964f.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What It Takes to Build a Startup | Andrew Chen & Matt Perault",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-it-takes-to-build-a-startup-andrew-chen-matt-perault-ihdfyK_8",
+      "summary": "a16z’s Matt Perault sits down with General Partner and Speedrun lead Andrew Chen on the a16z AI Policy Brief to explore what “Little Tech” actually looks like at the earliest stages, and why the realities of building a two- or three-person startup are often missing from policy debates. Andrew takes us inside Speedrun, where founders are often starting companies from kitchen tables, working with tiny teams, and trying to determine in a matter of months whether their idea can become a viable business. He explains why these founders rarely have the time or resources to engage with policymakers, even as regulation can have an outsized impact on whether and where they build. Matt and Andrew also discuss how regulatory burdens accumulate for young companies, why startups can choose where to put down roots, the role of ecosystems like Tech Week, and what policymakers can do to hear directly from the founders who may otherwise be absent from the conversation. This episode originally appeared on the a16z AI Policy Brief. Resources: Follow Andrew Chen on X: https://x.com/andrewchen Follow Matt Perault on X: https://x.com/MattPerault Learn more about a16z Speedrun: https://speedrun.a16z.com Listen to more from the a16z AI Policy Brief : https://a16zpolicy.substack.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6aaa7c3b-d4a0-432b-a65d-49def5d32074/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6aaa7c3b-d4a0-432b-a65d-49def5d32074&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -192,7 +242,7 @@
       "published_at": "2026-09-07T08:00:00+00:00",
       "url": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
       "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
@@ -204,7 +254,7 @@
       "published_at": "2026-09-07T07:30:00+00:00",
       "url": "https://tedseides.libsyn.com/best-of-habit-formation-katy-milkman",
       "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     },
@@ -232,18 +282,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "nB4wFU43wck"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Your AI Doctor Is Coming | Julie Yoo",
-      "published_at": "2026-09-06T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/your-ai-doctor-is-coming-julie-yoo-YEmlPria",
-      "summary": "a16z General Partner Julie Yoo joins MTS host Sophia Dew to explain why she believes healthcare could benefit more from AI than almost any other industry, and why decades of slow technology adoption may actually give healthcare an advantage in the AI era. Julie traces healthcare’s evolution from paper records and fax machines through electronic health records and telehealth, and explains why AI represents something different: an organic adoption wave driven by tools that doctors and patients actually want to use. Because healthcare never built the same layers of legacy software as other industries, it may now be able to leapfrog directly into agentic AI. They also explore how AI could dramatically lower the cost of care, why consumers are becoming a more important payer, where Julie sees the biggest opportunities for healthcare founders, and a future where everyone has a highly personalized AI doctor in their pocket for life. Resources: Follow Julie Yoo on X: https://x.com/julesyoo Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bec89b11-0527-42ce-b965-a903f73f2754/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=bec89b11-0527-42ce-b965-a903f73f2754&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
     },
     {
       "source": "Lenny's Podcast",
@@ -279,18 +317,6 @@
       "summary": "AI News for 9/2/2026-9/3/2026.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
-      "published_at": "2026-09-04T23:10:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal",
-      "summary": "(0:00) Bestie intros: Happy 50th Chamath! (1:17) OpenAI releases GPT-6 Astra: Have they reached AGI? (19:01) All-In Summit: Scholarships available! (19:56) Dwarkesh's Hugging Face hack article sparks a Bernie Sanders AI ban (37:03) EAs, AI-brained influencers, and the conflicts of interest (59:26) Mamdani bans AI in NYC schools K-8 (1:18:58) US-Venezuela oil deal The All-In Summit is only 1 week away! You won't want to miss it: https://theallinsummit.com Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://openai.com/index/gpt-6-astra https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi https://www.axios.com/2026/09/03/axios-interview-sam-altmans-sobering-siren https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026 https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027 https://x.com/chamath/status/2095511879951192279 https://x.com/Jason/status/2095521697411514626 https://scale.stanford.edu/research-in-action/understanding-evidence-base-ai-k12-education https://www.politico.com/news/2026/09/02/trumps-seen-the-data-center-polling-and-he-still-supports-them-01061244 https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
