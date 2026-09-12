@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-09-11T23:49:38.702093+00:00",
+  "generated_at": "2026-09-12T23:39:53.849406+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "published_at": "2026-09-12T17:45:34+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "summary": "Community Wisdom 298",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+      "published_at": "2026-09-12T15:01:19+00:00",
+      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+      "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Companies Are Becoming a Series of Loops | Anish Acharya on Lenny’s Podcast",
+      "published_at": "2026-09-12T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-companies-are-becoming-a-series-of-loops-anish-acharya-on-lennys-podcast-ZW9GBD70",
+      "summary": "a16z General Partner Anish Acharya joins Lenny Rachitsky on Lenny’s Podcast to discuss why fears of an AI-driven “permanent underclass” may be misplaced, how AI is changing the way companies operate, and why the opportunity may be less about replacing people and more about dramatically expanding what they can build. Anish lays out his idea that companies are becoming a series of loops, with agents increasingly handling workflows across engineering, sales, marketing, support, and other functions while humans provide the judgment and new ideas needed to move beyond local maxima. They also explore why Anish thinks consumer AI should focus less on productivity and more on helping people live richer lives, why moats are often discovered rather than designed, how to develop intuition for different AI models, and why his biggest advice for anyone trying to keep up with AI is simple: make more things. Resources: Follow Anish Acharya on X: https://x.com/illscience Follow Lenny Rachitsky on X: https://x.com/lennysan Read/listen to the original episode on Lenny’s Newsletter : Why companies are becoming a series of loops | Anish Acharya (a16z) Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/34aa54e9-999d-484a-8bce-f0f27dc906ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=34aa54e9-999d-484a-8bce-f0f27dc906ca&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+      "published_at": "2026-09-12T05:56:05+00:00",
+      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "summary": "We agree with Sebastian: this should have been DeepSeek v5",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
+      "published_at": "2026-09-11T23:32:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse",
+      "summary": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO (58:45) OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data? (1:19:55) Nike removed from S&P 100 after stock tanks 80%: What went wrong? Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/hilbertspaess/status/2097476196791709843 https://x.com/EvanHub/status/2097497037956891126 https://x.com/BernieSanders/status/2097705093520863568 https://x.com/GovPritzker/status/2097715871309312220 https://x.com/DavidSacks/status/2097861539491463331 https://www.youtube.com/watch?v=e_ZDQKq2F08 https://x.com/DavidSacks/status/2097861539491463331 https://polymarket.com/event/ipos-before-2027 https://x.com/bgurley/status/2097690522437444050 https://x.com/polynoamial/status/2097381286193316203 https://x.com/OpenAI/status/2097374640582668336 https://x.com/OpenAI/status/2097375276384567642 https://finance.yahoo.com/markets/stocks/articles/nike-loses-spot-p-100-120000497.html https://x.com/libsoftiktok/status/2096970501017010461 https://x.com/spencerpratt/status/2096390079132360936 https://x.com/DrEliDavid/status/2096519550103691364",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E289_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -223,18 +283,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can Open Source Keep AI Power From Concentrating?",
-      "published_at": "2026-09-07T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-open-source-keep-ai-power-from-concentrating-SoZe4_xf",
-      "summary": "MTS host Sophia Dew visits the Open Source AI Summit in San Francisco to ask researchers and founders across the AI stack a central question: can open source prevent AI power from concentrating in the hands of a few companies? Lukasz Kaiser, co-author of Attention Is All You Need , argues that today’s concentration may be a feature of the current technological paradigm rather than a permanent feature of AI. Transformers reward enormous amounts of data and compute, but future breakthroughs could make smaller, more specialized models far more capable. Across conversations with researchers and builders working on open models, infrastructure, and applications, Sophia explores why China has taken the lead in open-weight models, whether the U.S. needs more open-model startups, what it means for companies to own their own intelligence, and where openness alone falls short, particularly when access to compute remains concentrated. Resources: Follow Lukasz Kaiser on X: https://x.com/lukaszkaiser Follow Sophia Dew on X: https://x.com/sophiadew Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ad5068cd-5d10-4465-bc38-31449e172e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ad5068cd-5d10-4465-bc38-31449e172e26&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -282,42 +330,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "nB4wFU43wck"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
-      "published_at": "2026-09-05T17:00:46+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
-      "summary": "Community Wisdom 200",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "published_at": "2026-09-05T15:01:02+00:00",
-      "url": "https://www.latent.space/p/grok-bot",
-      "summary": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Collusion.wiki: A second undisclosed OpenAI agent swarm incident...",
-      "published_at": "2026-09-05T04:32:00+00:00",
-      "url": "https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed",
-      "summary": "AI News for 9/2/2026-9/3/2026.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
     }
   ],
   "errors": []
