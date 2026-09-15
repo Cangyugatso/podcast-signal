@@ -1,9 +1,106 @@
 {
-  "generated_at": "2026-09-15T00:11:06.767282+00:00",
+  "generated_at": "2026-09-15T23:54:48.952231+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+      "published_at": "2026-09-15T20:46:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
+      "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doomerism, \"Frankenstein,\" and AI negativity (16:23) H-1B abuse and the massive $1T+ of fraud in federal spending (21:48) Relationship with Israel, rational foreign policy (25:19) JD Vance's midterms message Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Vice President Vance: https://x.com/JDVance Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "published_at": "2026-09-15T20:11:54+00:00",
+      "url": "https://www.latent.space/p/good-start-labs",
+      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+      "published_at": "2026-09-15T17:10:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
+      "summary": "(0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, \"pacing the frontier,\" common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new AI products? (14:22) Economic incentives for frontier lab doomerism, where the AI profits are (22:45) Microsoft's master plan for AI, how they are allocating capital (31:00) China's slow down, changing AI perception, data center benefits Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Satya: https://x.com/satyanadella Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "60+ new creative growth ideas",
+      "published_at": "2026-09-15T12:45:28+00:00",
+      "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "summary": "How to stand out when everyone is running the same playbook",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Age of Body Futurism | Ruby Justice Thelot",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-age-of-body-futurism-ruby-justice-thelot-ZnUXyeWf",
+      "summary": "Elena Burger sits down with academic and cyber ethnographer Ruby Justice Thelot to explore the increasingly blurry line between internet culture and the real world, and how to tell the difference between a trend that’s actually changing behavior and one that simply feels enormous online. They use today’s wellness and optimization culture as a case study, from peptides and GLP-1s to protein maxxing, wearables, microplastics, and the quantified self. Ruby explains her concept of “paracontent,” where the conversation around a phenomenon can become much larger than the phenomenon itself, and what social media data can tell us about how these trends move from niche communities into the mainstream. They also trace the much longer history of body optimization, from changing ideals of thinness to the rise of the quantified self, and ask what comes next as technology gives people increasingly granular ways to measure and modify themselves. Ruby’s prediction: rather than everyone optimizing toward the same ideal, we may see increasingly individualized and sometimes extreme forms of “body futurism.” Resources: Follow Ruby Justice Thelot on X: https://x.com/being_on_line Follow Elena Burger on X: https://x.com/VirtualElena Read Ruby’s piece “Enshittification” Isn’t Real: https://www.a16z.news/p/enshittification-isnt-real Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b05f61cd-4e60-4b30-aff6-0ed605600152/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b05f61cd-4e60-4b30-aff6-0ed605600152&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "published_at": "2026-09-15T04:50:36+00:00",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "summary": "Pacing gathers pace.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+      "published_at": "2026-09-15T03:42:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger",
+      "summary": "(0:00) SpaceX's Gwynne Shotwell joins The Besties! (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon (6:45) Running modern day SpaceX: AI, Starlink, Rockets, and X (13:43) Direct to cell with Starlink, retiring rockets, competition (18:34) Data centers in space (22:00) Management at SpaceX (27:37) Elon Musk joins: AI's real risk, model peer review, what he meant by \"Dario is right\" (36:53) Elon and Gwynne on their working relationship, Starship's future (46:16) Terafab, Tesla, Flying cars?, merging Tesla and SpaceX (52:51) Lying AIs, how to do AI peer review right Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Gwynne: https://x.com/Gwynne_Shotwell Follow Elon: https://x.com/elonmusk Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "GPT-6 Astra reportedly gets deeper without getting bigger. The labs already know what that means for",
+      "published_at": "2026-09-15T02:01:51+00:00",
+      "url": "https://www.youtube.com/shorts/Xzht2uAIt6E",
+      "summary": "GPT-6 Astra reportedly gets deeper without getting bigger. The labs already know what that means for scaling. \"It's basically confirmed that GPT-6 Astra uses loop transformers, which means that instead of adding parameter count, it goes through the layers more than once. You add compute depth, but you don't increase the size of the model.\" \"The labs are probably the people that are best positioned to say which way models are scaling. I think that's a tell that they're not seeing parameter sizes scaling as aggressively in their roadmaps, in what they find in their research.\"",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Xzht2uAIt6E"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -20,7 +117,7 @@
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "Ep. 030 - Long Live the Short King: Why 4-hi HBM Wins (Memory)",
+      "title": "Ep. 030 - Rubin Ultra Drops From 1 TB to 192GB of HBM (Memory)",
       "published_at": "2026-09-14T17:27:34+00:00",
       "url": "https://www.youtube.com/watch?v=2cmlk-YlgRk",
       "summary": "NVIDIA previewed Rubin Ultra at 1TB of HBM per package. The part that ships will carry 192GB. Myron Xie and Jordan Nanos (@JordanNanos) get into how the design fell that far, why the reason is supply and not performance, and why shipping less memory per chip might be the right call anyway. For the first time in recent memory, NVIDIA's next flagship will have less capacity than the one it replaces. READ MORE: https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
@@ -212,18 +309,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How AI Is Rewriting the Power Law of Venture Capital",
-      "published_at": "2026-09-10T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/aram-x-jen-x-dg-draft-dXGKJks2",
-      "summary": "a16z’s Jen Kha and David George sit down with Accolade Partners’ Aram Verdiyan to discuss how AI is changing the power law of technology investing, why the largest companies can compound advantages in ways that weren’t possible before, and what that means for how investors construct portfolios. They explore why AI may be much bigger than traditional software, with applications reaching into labor, healthcare, transportation, services, and other major parts of the economy. David explains why capital itself can now reinforce an AI company’s advantage by buying more compute, while Aram makes the case that AI should increasingly be treated as a core allocation rather than a satellite position. The conversation also gets into the changing economics of venture and growth investing, how to distinguish real AI traction from early hype, what AI means for legacy software and private equity, and why some of the largest opportunities may still be ahead in robotics, autonomy, healthcare, energy, and physical infrastructure. Resources: Follow Aram Verdiyan on X: https://x.com/aramverdi Follow Jen Kha on X: https://x.com/jkhamehl Follow David George on X: https://x.com/DavidGeorge83 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/d0bf22e9-4ae1-41c6-949b-3d6333d7aa0b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=d0bf22e9-4ae1-41c6-949b-3d6333d7aa0b&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -248,18 +333,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-09-10T03:33:12+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "summary": "a quiet day",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Google DeepMind Podcast",
       "domain": "ai",
       "language": "en",
@@ -269,54 +342,6 @@
       "summary": "Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From providing critical early warnings for Category 5 storms like Hurricane Melissa to predicting renewable energy supply and agricultural impacts, see how models like GraphCast and WeatherNext 3 are building upon decades of numerical physics to reshape our understanding of the atmosphere. Learn more about WeatherNext 3, our most advanced global weather AI model yet: https://deepmind.google/science/weathernext/ Timestamps: 00:00 Introduction 00:38 Hurricane Melissa 11:50 Why weather forecasting is hard 14:13 Traditional models vs AI models 21:55 Probabilistic forecasting 26:00 WeatherNext 3 33:00 Future outlook 43:44 Hannah's reflections Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/e969cd6f-d389-41e3-b342-bacfa33ca198/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=e969cd6f-d389-41e3-b342-bacfa33ca198&feed=JT6pbPkg",
       "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-      "published_at": "2026-09-09T05:04:51+00:00",
-      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "summary": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Pretraining progress is mostly coming from data",
-      "published_at": "2026-09-08T16:10:16+00:00",
-      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "summary": "Breaking down 6 years of pretraining progress into data vs model improvements",
-      "audio_url": "",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-      "published_at": "2026-09-08T12:31:49+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-      "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
-      "audio_url": "https://api.substack.com/feed/podcast/214070217/74500da2d21a92872afb94e2f2b9094d.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
-      "published_at": "2026-09-08T08:00:00+00:00",
-      "url": "https://colossus.com/episode/god-gold-silicon/",
-      "summary": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power. He has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so. Walter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers. We discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East. Please enjoy my conversation with Walter Russell Mead. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) America and the World Today (00:05:34) Trump’s Method of Power (00:09:43) Why America Keeps Winning (00:12:25) The Five-Point Plan for Global Dominance (00:20:11) China and American Power (00:22:10) The Risk of American Isolationism (00:25:50) Technology and Global Power (00:28:42) Riding the Technological Wild Horse (00:34:29) Four Schools of American Foreign Policy (00:40:22) The Rise of Tech Hamiltonians (00:43:51) India and the Next Great Powers (00:48:54) The Risks of the Information Revolution (00:51:30) How Technology Is Changing War (00:55:06) Taiwan (00:57:20) The Future of American Society (01:00:44) What It Means to Be American (01:03:25) Iran and the Middle East (01:06:28) The Erosion of Deterrence (01:08:53) America’s Role in the Next 20 Years (01:12:08) AI and Global Power (01:14:26) Reasons for Optimism (01:16:33) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
