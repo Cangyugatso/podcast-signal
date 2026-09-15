@@ -1,9 +1,94 @@
 {
-  "generated_at": "2026-09-13T23:50:56.946457+00:00",
+  "generated_at": "2026-09-15T00:11:06.767282+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
+      "published_at": "2026-09-14T21:24:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
+      "summary": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisition, future of Open Source, and the race with China (22:58) President Trump calls in live to discuss the Doomer Hoax (31:29) The AI boom and Nvidia's capital allocation strategy (40:21) Nvidia's Open Source model ambitions, thoughts on Elon's Terafab Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Jensen: https://x.com/JensenHuang Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Jensen_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 030 - Long Live the Short King: Why 4-hi HBM Wins (Memory)",
+      "published_at": "2026-09-14T17:27:34+00:00",
+      "url": "https://www.youtube.com/watch?v=2cmlk-YlgRk",
+      "summary": "NVIDIA previewed Rubin Ultra at 1TB of HBM per package. The part that ships will carry 192GB. Myron Xie and Jordan Nanos (@JordanNanos) get into how the design fell that far, why the reason is supply and not performance, and why shipping less memory per chip might be the right call anyway. For the first time in recent memory, NVIDIA's next flagship will have less capacity than the one it replaces. READ MORE: https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "2cmlk-YlgRk"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+      "published_at": "2026-09-14T16:04:16+00:00",
+      "url": "https://www.latent.space/p/recursive",
+      "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!",
+      "audio_url": "https://api.substack.com/feed/podcast/215289811/2fb38b11f6378b842e98c121de6c47e9.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "published_at": "2026-09-14T15:03:48+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "published_at": "2026-09-14T12:04:39+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "summary": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "audio_url": "https://api.substack.com/feed/podcast/214965776/21507ee9686910ca502f6b69963f3b37.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
+      "published_at": "2026-09-14T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/greg-brockman-on-why-openai-says-were-entering-the-agi-era-deKod42i",
+      "summary": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI has entered a new phase, what OpenAI’s latest models reveal about the path to AGI, and the safety and security challenges that come with increasingly capable systems. Greg explains why computer use represents such an important step for agents, including models that can work coherently for 24 hours and interact with software through the same interfaces humans use. He also shares how OpenAI deployed 10,000 agents to tackle the Navier-Stokes problem, and why advances in mathematical reasoning could translate into new approaches to science, software, and cybersecurity. Ben, Erik, and Greg also dig into the “defender’s window” for cybersecurity, how AI could reshape work and entrepreneurship, and what the AI assistant of the future might actually look like: persistent, proactive, personalized, and capable of doing work on your behalf rather than waiting for another prompt. Resources: Follow Greg Brockman on X: https://x.com/gdb Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fbe64487-d342-4489-8ce5-8c81dc6b9cf8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fbe64487-d342-4489-8ce5-8c81dc6b9cf8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "AI in the Investment Office – Abby Barlow, Laura Hill, Brian Sugrue, Jenny Heller, John Lawrence, Matt Bank, Kristin Kallergis Rowland, Jon Webster (EP.515)",
+      "published_at": "2026-09-14T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/ai-in-the-investment-office-abby-barlow-laura-hill-brian-sugrue-jenny-heller-john-lawrence-matt-bank-kristin-kallergis-rowland-jon-webster-ep515",
+      "summary": "AI is top of mind for everyone in the investment business. Our Summits are abuzz with curiosity about what others are doing. I asked 8 CIOs to share how they're using AI today, including what's working and what isn't, the tools they've adopted, and where they're headed next. They range from a single-family office with one investment professional to one of the largest pension funds in the world with thousands. What emerged is a range of use cases — from using AI as a personal productivity tool, to changing investment workflows, organizing institutional knowledge, improving decisions, and ultimately trying to generate alpha. You'll also hear some consistency in the tools currently used and different views on how far AI should go in the investment process. Featured in this interview: Abby Barlow , CIO of Westwood Management Laura Hill , CIO of Advocate Health Brian Sugrue , CIO of Shannonbridge Jenny Heller , President and CIO Brandywine Group Advisors John Lawrence , President of Rice Management Company Matt Bank , CIO of GEM Kristin Kallergis Rowland , Global Head of Alternative Investments for J.P. Morgan Asset & Wealth Management Jon Webster , Senior Managing Director and COO of Technology & Operations at CPP Investments Try ALEX by Admired Leadership. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_AI_Comp_-_AUDIO_FINAL_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -187,18 +272,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
-      "published_at": "2026-09-09T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18",
-      "summary": "a16z’s Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI’s increasingly difficult problems: how do you actually measure whether a model is getting better? As public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations. They unpack why self-reported model scores can be misleading, how VALS evaluates models in the hours before a release, and why measuring increasingly agentic systems means testing work that can unfold over hours, days, or even weeks. They also explore why evals are becoming critical for enterprises trying to understand the ROI of AI, what happens if token spend begins to rival employee salaries, and how evaluations could eventually provide a shared language for everything from model routing and recursive self-improvement to AI policy and international coordination. Resources: Follow Rayan Krishnan on X: https://x.com/RayanKrishnan Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Jennifer Li on X: https://x.com/JenniferHli Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -244,66 +317,6 @@
       "summary": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power. He has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so. Walter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating centralized continental powers. We discuss how Trump turned fame into power, the four schools of American foreign policy and the rise of the tech Hamiltonians, what the drone war in Ukraine means for the Pentagon, and why the erosion of deterrence is the deeper story in the Middle East. Please enjoy my conversation with Walter Russell Mead. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like the Best (00:02:16) America and the World Today (00:05:34) Trump’s Method of Power (00:09:43) Why America Keeps Winning (00:12:25) The Five-Point Plan for Global Dominance (00:20:11) China and American Power (00:22:10) The Risk of American Isolationism (00:25:50) Technology and Global Power (00:28:42) Riding the Technological Wild Horse (00:34:29) Four Schools of American Foreign Policy (00:40:22) The Rise of Tech Hamiltonians (00:43:51) India and the Next Great Powers (00:48:54) The Risks of the Information Revolution (00:51:30) How Technology Is Changing War (00:55:06) Taiwan (00:57:20) The Future of American Society (01:00:44) What It Means to Be American (01:03:25) Iran and the Middle East (01:06:28) The Erosion of Deterrence (01:08:53) America’s Role in the Next 20 Years (01:12:08) AI and Global Power (01:14:26) Reasons for Optimism (01:16:33) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS4316656997.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
-      "published_at": "2026-09-07T21:32:37+00:00",
-      "url": "https://www.latent.space/p/aeo",
-      "summary": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "published_at": "2026-09-07T15:02:41+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "published_at": "2026-09-07T12:04:19+00:00",
-      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
-      "audio_url": "https://api.substack.com/feed/podcast/214090220/4cccdb9b806152e3e331d85f76bfe4ca.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Habit Formation: James Clear",
-      "published_at": "2026-09-07T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/best-of-habit-formation-james-clear",
-      "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_James_Clear_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Best of Habit Formation: Katy Milkman",
-      "published_at": "2026-09-07T07:30:00+00:00",
-      "url": "https://tedseides.libsyn.com/best-of-habit-formation-katy-milkman",
-      "summary": "This week's Summer Series concludes with a two-fer on habits. There may be no better way to improve the investment process than to understand what it takes to improve ourselves. We've got two of the best – James Clear and Katy Milkman, experts and authors of wildly bestselling books Atomic Habits and How to Change. Please enjoy my conversations with James Clear and Katy Milkman, both from 2021. We hope you've enjoyed this summer exploration in improving the investment process with some of the best conversations over the last nine years. Learn more about Capital Allocators University . Try ALEX by Admired Leadership. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_SUMMER_SERIES_2026_-_Katy_Milkman_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
