@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-09-15T23:54:48.952231+00:00",
+  "generated_at": "2026-09-17T00:01:15.349606+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 30,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "published_at": "2026-09-16T18:07:45+00:00",
+      "url": "https://www.latent.space/p/aiuc",
+      "summary": "We sit down with AIUC’s CEO on their Series A!",
+      "audio_url": "https://api.substack.com/feed/podcast/215893904/498e50787a4f6e12e12b40465b0792de.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "published_at": "2026-09-16T12:02:14+00:00",
+      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "summary": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
+      "audio_url": "https://api.substack.com/feed/podcast/215710078/f0a34674483a4a7ee6a05d4ec88e3ffe.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "published_at": "2026-09-16T11:09:53+00:00",
+      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "summary": "congrats to TypeSafe!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The AI-Native CRM",
+      "published_at": "2026-09-16T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-ai-native-crm-PM_eRvpt",
+      "summary": "a16z’s Alex Rampell and Joe Schmidt sit down with Lightfield co-founder and CEO Keith Peiris to discuss what it takes to rethink the CRM for an AI-native world, and the unusual pivot that got him there. Keith previously built Tome to 25 million users, but eventually walked away from the product after concluding that the underlying technology couldn’t capture enough context about a presenter, their audience, and the relationship between them. Starting again, his team followed customers from AI presentations into sales workflows and eventually found a harder problem: making sense of the fragmented and often conflicting data spread across a company’s emails, calls, CRM, and other systems. They unpack Lightfield’s idea of a “business world model,” why Keith believes intelligence can replace much of the rigid schema behind traditional software, and what changes when AI has enough context to reason about a company and its customers. They also get into building for greenfield versus brownfield markets, AI-era pricing, running a company where everyone is a generalist, and Keith’s lessons from making a hard pivot. Resources: Follow Keith Peiris on LinkedIn: https://www.linkedin.com/in/keithpeiris Follow Alex Rampell on X: https://x.com/arampell Follow Joe Schmidt on X: https://x.com/joeschmidtiv Learn more about Lightfield: https://lightfield.app Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6229af03-9c3d-49f0-b84c-fbbd1b7a789b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6229af03-9c3d-49f0-b84c-fbbd1b7a789b&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
+      "published_at": "2026-09-16T08:00:00+00:00",
+      "url": "https://colossus.com/episode/the-outsider/",
+      "summary": "Michael Moritz led Sequoia Capital for nearly two decades and backed some of the defining companies of the internet era. In his new memoir, Ausländer, he turns his attention to his own family, Jewish refugees who fled Nazi Germany and rebuilt their lives in Wales. We discuss the imprint his parents left on him, the method he used for decades of asking founders about their childhoods and the Time profile that ended his relationship with Steve Jobs. We also also cover Lee Iacocca, why Don Valentine hired him, Alex Ferguson's approach to managing players, Elon Musk, and why Mike still struggles to feel proud of anything he has done. Please enjoy my conversation with Michael Moritz. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:16) Where Does One Person End? (00:11:15) The State of the World Today (00:15:08) The Unlived Life of Parents (00:17:33) Lee Iacocca, Eternal Outsider (00:21:03) His Most Revealing Question (00:26:03) Resisters, the Silent, and Collabos (00:33:30) The Profile of Steve Jobs (00:38:04) Frank Auerbach's Total Obsession (00:41:04) Why Don Valentine Hired Michael (00:46:44) Building Sequoia (00:49:49) What Michael Learned from Alex Ferguson (00:52:57) The Great Man Theory (01:00:36) Defining Extraordinary Writing (01:03:40) Stepping Back From Sequoia (01:06:54) A Philosophy of Parenting (01:09:00) The Next Book: Iran (01:11:44) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS6587705018.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 031 - EMERGENCY EPISODE: Are We Doomed? | Jordan Nanos, Doug O'Laughlin, Max Kan, Joey Brookhart",
+      "published_at": "2026-09-16T02:30:29+00:00",
+      "url": "https://www.youtube.com/watch?v=38vwjWpHFes",
+      "summary": "Emergency episode. Doug O'Laughlin (@Fabknowledge) , Joey Brookhart (@SaasquatchC), and Max Kan (@maxkan) join Jordan (@JordanNanos) to talk through Dario's \"We Must Pace the Frontier\" blog and the responses from Sam Altman and David Sacks. Does pacing actually mean less compute, or a lot more? Plus the Hugging Face incident, Moonshot serving Claude, and the security behaviour that keeps them up at night. 0:00 Cold Open 2:50 Glorified Neoclouds 8:21 Pacing the Frontier 12:53 Safety Eats Compute 20:38 Hugging Face Lessons 30:52 Moonshot Serving Claude 36:37 The Coxson Resignation 38:27 Two-Year Predictions 49:19 Regulation Under Trump 57:21 Hotter or Cooler",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "38vwjWpHFes"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -211,18 +284,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-      "published_at": "2026-09-12T15:01:19+00:00",
-      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
-      "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -232,18 +293,6 @@
       "summary": "a16z General Partner Anish Acharya joins Lenny Rachitsky on Lenny’s Podcast to discuss why fears of an AI-driven “permanent underclass” may be misplaced, how AI is changing the way companies operate, and why the opportunity may be less about replacing people and more about dramatically expanding what they can build. Anish lays out his idea that companies are becoming a series of loops, with agents increasingly handling workflows across engineering, sales, marketing, support, and other functions while humans provide the judgment and new ideas needed to move beyond local maxima. They also explore why Anish thinks consumer AI should focus less on productivity and more on helping people live richer lives, why moats are often discovered rather than designed, how to develop intuition for different AI models, and why his biggest advice for anyone trying to keep up with AI is simple: make more things. Resources: Follow Anish Acharya on X: https://x.com/illscience Follow Lenny Rachitsky on X: https://x.com/lennysan Read/listen to the original episode on Lenny’s Newsletter : Why companies are becoming a series of loops | Anish Acharya (a16z) Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/34aa54e9-999d-484a-8bce-f0f27dc906ca/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=34aa54e9-999d-484a-8bce-f0f27dc906ca&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-      "published_at": "2026-09-12T05:56:05+00:00",
-      "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "summary": "We agree with Sebastian: this should have been DeepSeek v5",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -297,18 +346,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What It Takes to Build a Startup | Andrew Chen & Matt Perault",
-      "published_at": "2026-09-11T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-it-takes-to-build-a-startup-andrew-chen-matt-perault-ihdfyK_8",
-      "summary": "a16z’s Matt Perault sits down with General Partner and Speedrun lead Andrew Chen on the a16z AI Policy Brief to explore what “Little Tech” actually looks like at the earliest stages, and why the realities of building a two- or three-person startup are often missing from policy debates. Andrew takes us inside Speedrun, where founders are often starting companies from kitchen tables, working with tiny teams, and trying to determine in a matter of months whether their idea can become a viable business. He explains why these founders rarely have the time or resources to engage with policymakers, even as regulation can have an outsized impact on whether and where they build. Matt and Andrew also discuss how regulatory burdens accumulate for young companies, why startups can choose where to put down roots, the role of ecosystems like Tech Week, and what policymakers can do to hear directly from the founders who may otherwise be absent from the conversation. This episode originally appeared on the a16z AI Policy Brief. Resources: Follow Andrew Chen on X: https://x.com/andrewchen Follow Matt Perault on X: https://x.com/MattPerault Learn more about a16z Speedrun: https://speedrun.a16z.com Listen to more from the a16z AI Policy Brief : https://a16zpolicy.substack.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6aaa7c3b-d4a0-432b-a65d-49def5d32074/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6aaa7c3b-d4a0-432b-a65d-49def5d32074&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -330,18 +367,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO9618053478.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can AI help us better predict the weather?",
-      "published_at": "2026-09-09T16:08:26+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Can artificial intelligence solve one of science’s most chaotic physics puzzles? In this episode, Professor Hannah Fry sits down with Peter Battaglia, Senior Director of Research at Google DeepMind, to explore how machine learning is transforming global weather forecasting. From providing critical early warnings for Category 5 storms like Hurricane Melissa to predicting renewable energy supply and agricultural impacts, see how models like GraphCast and WeatherNext 3 are building upon decades of numerical physics to reshape our understanding of the atmosphere. Learn more about WeatherNext 3, our most advanced global weather AI model yet: https://deepmind.google/science/weathernext/ Timestamps: 00:00 Introduction 00:38 Hurricane Melissa 11:50 Why weather forecasting is hard 14:13 Traditional models vs AI models 21:55 Probabilistic forecasting 26:00 WeatherNext 3 33:00 Future outlook 43:44 Hannah's reflections Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/e969cd6f-d389-41e3-b342-bacfa33ca198/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=e969cd6f-d389-41e3-b342-bacfa33ca198&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
       "source_type": "rss"
     }
   ],
