@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-09-17T23:51:11.282177+00:00",
+  "generated_at": "2026-09-18T23:49:12.753211+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 31,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Databricks CEO on AI Pacing, Cyber Risk, and the Enterprise",
+      "published_at": "2026-09-18T21:37:54+00:00",
+      "url": "https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I",
+      "summary": "Databricks co-founder and CEO Ali Ghodsi joins a16z General Partners Martin Casado and Sarah Wang for a conversation about AI risk, recursive self-improvement, cybersecurity, and what’s actually holding back enterprise adoption. Ali argues that today’s models are already capable enough to automate far more work than most companies are using them for. The bigger problem is context: models haven’t been in every meeting, don’t understand how decisions actually get made, and lack the institutional knowledge that experienced employees accumulate over years. He explains why building an organizational “ontology” could help close that gap and what Databricks has learned from doing it internally. They also debate the current conversation around pacing frontier AI, what would constitute meaningful recursive self-improvement, and why Ali distinguishes speculative superintelligence risk from the much more immediate challenge of AI-powered cyberattacks. They close with how enterprises are managing exploding AI usage and costs, the shift toward multiple models and harnesses, and why agents are beginning to reshape infrastructure itself. Resources: Follow Ali Ghodsi on X: https://x.com/alighodsi Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/809021a5-7883-43db-a718-62cf28e58cf8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=809021a5-7883-43db-a718-62cf28e58cf8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "More than 300 local governments have moved to pause data centers. There is a three-step plan for dea",
+      "published_at": "2026-09-18T18:00:29+00:00",
+      "url": "https://www.youtube.com/shorts/CZcDJlPJ5NE",
+      "summary": "More than 300 local governments have moved to pause data centers. There is a three-step plan for dealing with that. \"Many folks don't realize we're starting to get into a moment of oversupply of early-stage projects.\" \"This is fairly cheap political signaling.\" \"Some people were actually net positive on AI while being net negative on data centers.\" \"Give me your three-step plan to get the political opposition to chill out a bit.\" \"Create your own town.\" Watch the Full Podcast on Youtube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "CZcDJlPJ5NE"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 033 - 300 Data Center Bans, 3 Projects Delayed: Moratoriums Explained (Datacenter, Energy)",
+      "published_at": "2026-09-18T18:00:17+00:00",
+      "url": "https://www.youtube.com/watch?v=Qv2vMj0Uq3c",
+      "summary": "More than 300 towns, cities, and counties have voted to pause data centers in the past 18 months. Maya Barkin (@mayabarkin) and Reyk Knühtsen (@robotknower) from the SemiAnalysis Data Center, Energy, and Industrials team join Jordan Nanos (@jordannanos) to explain what a moratorium actually is, how they mapped every one of them against the US project pipeline, and why only three projects are being delayed. Plus: the SpaceX de-annexation in Brownsville, New York vs Texas, why politicians love a moratorium, and the surprising amount of alpha in anti-data center Facebook groups. Jeremie Eliahou Ontiveros (@JeremieEO) drops in from Bangkok. Read More: https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums 0:00 Intro 0:36 What Is a Moratorium 4:34 300 Moratoriums, 3 Projects 10:18 Behind the Meter Wins 14:04 Eight Conditions to Delay 17:06 The SpaceX De-Annexation 20:03 Cheap Political Signaling 32:03 New York vs Texas 41:14 City Council Alpha 46:32 Advice for Developers",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Qv2vMj0Uq3c"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+      "published_at": "2026-09-18T15:59:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration",
+      "summary": "(0:00) NASA Administrator Jared Isaacman lays out the state and future of NASA (17:59) Moon base, creating new space industries, NASA's next chapter (23:29) How to make Mars realistic (25:30) Recruiting, moonshots, the \"Nuclear NASA,\" new vehicles and the importance of humans in space (32:43) Allocating capital toward scientific discovery and deep space research (35:46) Space Race 2.0: China and Russia Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Jared Isaacman: https://x.com/rookisaacman https://x.com/NASAAdmin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
+      "published_at": "2026-09-18T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP7720707490.mp3",
+      "summary": "As generative AI hits hardware and latency bottlenecks, Stanford professor, diffusion pioneer, and Inception co-founder and CEO Stefano Ermon is betting on a radical new architecture. Stefano joins Sarah Guo to talk about Inception, and how his team is applying diffusion architecture beyond images and video into discrete text and code generation. Stefano explains the limitations of autoregressive LLMs, as well as why parallel token generation in diffusion models offers superior inference scaling and hardware utilization on standard GPUs. He also shares details about Inception’s Mercury models, real-world voice agent applications, the software stack required to serve diffusion-based models at scale, academia’s role at the frontier of AI innovations, and why the next era of AI competition will be defined by efficiency. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @StefanoErmon | @_inception_ai Chapters: 00:00 – Stefano Ermon Introduction 00:35 – Research Background 02:54 – Starting Inception 05:59 – Why Diffusion Beats Autoregressive 11:10 – Discrete vs. Continuous Modalities 13:19 – Inception Today 16:45 – Where Speed Wins 17:31 – Inception Customer Base 18:49 – Interaction with Hardware Landscape 19:34 – Inception and the Broader Industry 21:41 – Data Compression and Structure 24:45 – Controllability of Diffusion Modeles 27:25 – Emergent Capabilities at Scale 29:02 – Future Workload Split Between Diffusion vs. Traditional 30:03 – Adoption Challenges 31:44 – Hiring and Team Organization 32:50 – Recursive Self Improvement 34:02 – Resource Allocation 35:10 – Impact of Academia 38:13 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP7720707490.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-09-18T06:28:43+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "summary": "a quiet day",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+      "published_at": "2026-09-18T00:30:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media",
+      "summary": "(0:00) Nick Shirley debuts his new video: \"Inside California's High Speed Rail to Nowhere\" (11:42) Nick joins The Besties to discuss California's \"Stop Nick Shirley Act\" and recent fraud arrests (17:03) How he got into investigative journalism and finding fraud (23:32) Selective journalism and why Nick is a major threat to mainstream outlets (27:34) What's next for Nick: Investigating welfare fraud, building his platform Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Nick Shirley: https://x.com/nickshirleyy https://www.youtube.com/@NickShirley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_NickShirley_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -199,18 +285,6 @@
       "source_type": "rss"
     },
     {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
-      "published_at": "2026-09-15T17:10:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
-      "summary": "(0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, \"pacing the frontier,\" common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new AI products? (14:22) Economic incentives for frontier lab doomerism, where the AI profits are (22:45) Microsoft's master plan for AI, how they are allocating capital (31:00) China's slow down, changing AI perception, data center benefits Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Satya: https://x.com/satyanadella Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Satya_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -235,30 +309,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "published_at": "2026-09-15T04:50:36+00:00",
-      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "summary": "Pacing gathers pace.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
-      "published_at": "2026-09-15T03:42:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger",
-      "summary": "(0:00) SpaceX's Gwynne Shotwell joins The Besties! (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon (6:45) Running modern day SpaceX: AI, Starlink, Rockets, and X (13:43) Direct to cell with Starlink, retiring rockets, competition (18:34) Data centers in space (22:00) Management at SpaceX (27:37) Elon Musk joins: AI's real risk, model peer review, what he meant by \"Dario is right\" (36:53) Elon and Gwynne on their working relationship, Starship's future (46:16) Terafab, Tesla, Flying cars?, merging Tesla and SpaceX (52:51) Lying AIs, how to do AI peer review right Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Gwynne: https://x.com/Gwynne_Shotwell Follow Elon: https://x.com/elonmusk Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Gwynne_Elon_AIS26_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -270,19 +320,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "Xzht2uAIt6E"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 030 - Rubin Ultra Drops From 1 TB to 192GB of HBM (Memory)",
-      "published_at": "2026-09-14T17:27:34+00:00",
-      "url": "https://www.youtube.com/watch?v=2cmlk-YlgRk",
-      "summary": "NVIDIA previewed Rubin Ultra at 1TB of HBM per package. The part that ships will carry 192GB. Myron Xie and Jordan Nanos (@JordanNanos) get into how the design fell that far, why the reason is supply and not performance, and why shipping less memory per chip might be the right call anyway. For the first time in recent memory, NVIDIA's next flagship will have less capacity than the one it replaces. READ MORE: https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "2cmlk-YlgRk"
     },
     {
       "source": "Lenny's Podcast",
@@ -333,18 +370,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "World Models, Robotics, and the Future of 3D AI",
-      "published_at": "2026-09-13T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/world-models-robotics-and-the-future-of-3d-ai-mGOuUHi0",
-      "summary": "World Labs co-founder Justin Johnson joins MTS hosts Theo Jaffee and Sofia Puccini to discuss Atlas, World Labs’ latest world model, and the broader case for AI systems that understand and interact with the physical world. Justin explains how Atlas approaches three core tasks: generating new worlds, reconstructing real environments from images, and simulating how objects or robots might behave within them. Underlying it is a bigger thesis: just as language models became general-purpose engines for working with text, world models could become a horizontal layer for visual and physical intelligence across industries from entertainment and gaming to construction and robotics. They also explore how world models could change video games and creative tools, why precise spatial control matters, and the potential for “real-to-sim-to-real” robotics, where a few photos of a physical environment could eventually be enough to build a simulation and adapt a robot to that specific space. Resources: Follow Justin Johnson on X: https://x.com/jcjohnss Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia on X: https://x.com/schisofrenia Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e578e083-6b40-4815-a479-28213e86988a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e578e083-6b40-4815-a479-28213e86988a&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -354,31 +379,6 @@
       "summary": "Community Wisdom 298",
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "A cross section of SemiAnalysis: consulting, Core Research, and the data center, energy, and industr",
-      "published_at": "2026-09-11T20:30:27+00:00",
-      "url": "https://www.youtube.com/shorts/8T-V91Jgd8w",
-      "summary": "A cross section of SemiAnalysis: consulting, Core Research, and the data center, energy, and industrials model team all contribute to articles like this one. The full piece covers and why 12 months of build time now equals, 12 months of tokens you never made.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "8T-V91Jgd8w"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "published_at": "2026-09-11T16:28:11+00:00",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "summary": "“We're nowhere near the ceiling.”",
-      "audio_url": "https://api.substack.com/feed/podcast/215199144/740d4b3c97ca6d2b2940f58d6447964f.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
       "source_type": "rss"
     }
   ],
