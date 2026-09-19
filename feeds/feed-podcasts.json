@@ -1,9 +1,70 @@
 {
-  "generated_at": "2026-09-18T23:49:12.753211+00:00",
+  "generated_at": "2026-09-19T23:50:41.188552+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 31,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "More than 300 US local governments have voted to pause datacenters in the past 18 months, and the pa",
+      "published_at": "2026-09-19T21:01:29+00:00",
+      "url": "https://www.youtube.com/shorts/44XWk7Oa7bc",
+      "summary": "More than 300 US local governments have voted to pause datacenters in the past 18 months, and the pace picked up sharply this summer. Most of them are buying time. \"A datacenter moratorium is a temporary legal pause, usually enacted by a local government. It halts approval, permitting, and construction of new datacenters. It doesn't affect existing datacenters.\" \"These can last anywhere from months to a year, and can often be revoked, replaced by new regulation, or extended.\" \"Many zoning codes were written before anyone was considering those huge 100-plus megawatt to multiple gigawatt facilities, so a pause buys time to write datacenter-specific rules and assess infrastructure needs. It's also a low-cost way for elected officials to answer local opposition.\"",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "44XWk7Oa7bc"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "published_at": "2026-09-19T19:42:24+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "summary": "Community Wisdom 299",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Makes a Consumer AI Product Stick? | Josh Elman",
+      "published_at": "2026-09-19T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W",
+      "summary": "a16z Partner Josh Elman joins Ollie Forsyth on New Economies to discuss the next wave of consumer AI and what separates a product people try once from one that becomes part of their everyday lives. Josh argues that getting attention has actually become easier, but getting consumers to stick is harder than ever. He explains what he looks for in consumer products, why the best ones start with a narrow wedge and earn the right to do more, and why trust becomes increasingly important as AI agents gain access to more of our personal lives. They also explore personal AI agents, the future of shopping and entertainment, why we haven’t seen another major social network emerge, and how AI could make technology more social rather than less, including agents that help people spend more time together in the real world. This conversation originally appeared on the New Economies podcast. Resources: Follow Josh Elman on X: https://x.com/jelman Follow New Economies: https://www.youtube.com/@NEWECONOMIESPOD New Economies Substack: https://www.neweconomies.co/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60c2b678-3eec-440d-a9fa-890e85aa5a23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=60c2b678-3eec-440d-a9fa-890e85aa5a23&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "published_at": "2026-09-19T05:48:28+00:00",
+      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "summary": "Imitation is the sincerest form of Flattery",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Bill Gurley: Searching for Feynman",
+      "published_at": "2026-09-19T00:20:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
+      "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research: https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Bill: https://x.com/bgurley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -33,7 +94,7 @@
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "Ep. 033 - 300 Data Center Bans, 3 Projects Delayed: Moratoriums Explained (Datacenter, Energy)",
+      "title": "Ep. 032 - 300 Datacenter Bans, 6 Projects Delayed: Moratoriums Explained (Datacenter, Energy)",
       "published_at": "2026-09-18T18:00:17+00:00",
       "url": "https://www.youtube.com/watch?v=Qv2vMj0Uq3c",
       "summary": "More than 300 towns, cities, and counties have voted to pause data centers in the past 18 months. Maya Barkin (@mayabarkin) and Reyk Knühtsen (@robotknower) from the SemiAnalysis Data Center, Energy, and Industrials team join Jordan Nanos (@jordannanos) to explain what a moratorium actually is, how they mapped every one of them against the US project pipeline, and why only three projects are being delayed. Plus: the SpaceX de-annexation in Brownsville, New York vs Texas, why politicians love a moratorium, and the surprising amount of alpha in anti-data center Facebook groups. Jeremie Eliahou Ontiveros (@JeremieEO) drops in from Bangkok. Read More: https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums 0:00 Intro 0:36 What Is a Moratorium 4:34 300 Moratoriums, 3 Projects 10:18 Behind the Meter Wins 14:04 Eight Conditions to Delay 17:06 The SpaceX De-Annexation 20:03 Cheap Political Signaling 32:03 New York vs Texas 41:14 City Council Alpha 46:32 Advice for Developers",
@@ -261,30 +322,6 @@
       "video_id": "38vwjWpHFes"
     },
     {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "published_at": "2026-09-15T20:46:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doomerism, \"Frankenstein,\" and AI negativity (16:23) H-1B abuse and the massive $1T+ of fraud in federal spending (21:48) Relationship with Israel, rational foreign policy (25:19) JD Vance's midterms message Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Vice President Vance: https://x.com/JDVance Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Vance_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
-      "published_at": "2026-09-15T20:11:54+00:00",
-      "url": "https://www.latent.space/p/good-start-labs",
-      "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -307,19 +344,6 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b05f61cd-4e60-4b30-aff6-0ed605600152/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b05f61cd-4e60-4b30-aff6-0ed605600152&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "GPT-6 Astra reportedly gets deeper without getting bigger. The labs already know what that means for",
-      "published_at": "2026-09-15T02:01:51+00:00",
-      "url": "https://www.youtube.com/shorts/Xzht2uAIt6E",
-      "summary": "GPT-6 Astra reportedly gets deeper without getting bigger. The labs already know what that means for scaling. \"It's basically confirmed that GPT-6 Astra uses loop transformers, which means that instead of adding parameter count, it goes through the layers more than once. You add compute depth, but you don't increase the size of the model.\" \"The labs are probably the people that are best positioned to say which way models are scaling. I think that's a tell that they're not seeing parameter sizes scaling as aggressively in their roadmaps, in what they find in their research.\"",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Xzht2uAIt6E"
     },
     {
       "source": "Lenny's Podcast",
@@ -346,18 +370,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
-      "published_at": "2026-09-14T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/greg-brockman-on-why-openai-says-were-entering-the-agi-era-deKod42i",
-      "summary": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI has entered a new phase, what OpenAI’s latest models reveal about the path to AGI, and the safety and security challenges that come with increasingly capable systems. Greg explains why computer use represents such an important step for agents, including models that can work coherently for 24 hours and interact with software through the same interfaces humans use. He also shares how OpenAI deployed 10,000 agents to tackle the Navier-Stokes problem, and why advances in mathematical reasoning could translate into new approaches to science, software, and cybersecurity. Ben, Erik, and Greg also dig into the “defender’s window” for cybersecurity, how AI could reshape work and entrepreneurship, and what the AI assistant of the future might actually look like: persistent, proactive, personalized, and capable of doing work on your behalf rather than waiting for another prompt. Resources: Follow Greg Brockman on X: https://x.com/gdb Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fbe64487-d342-4489-8ce5-8c81dc6b9cf8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fbe64487-d342-4489-8ce5-8c81dc6b9cf8&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -367,18 +379,6 @@
       "summary": "AI is top of mind for everyone in the investment business. Our Summits are abuzz with curiosity about what others are doing. I asked 8 CIOs to share how they're using AI today, including what's working and what isn't, the tools they've adopted, and where they're headed next. They range from a single-family office with one investment professional to one of the largest pension funds in the world with thousands. What emerged is a range of use cases — from using AI as a personal productivity tool, to changing investment workflows, organizing institutional knowledge, improving decisions, and ultimately trying to generate alpha. You'll also hear some consistency in the tools currently used and different views on how far AI should go in the investment process. Featured in this interview: Abby Barlow , CIO of Westwood Management Laura Hill , CIO of Advocate Health Brian Sugrue , CIO of Shannonbridge Jenny Heller , President and CIO Brandywine Group Advisors John Lawrence , President of Rice Management Company Matt Bank , CIO of GEM Kristin Kallergis Rowland , Global Head of Alternative Investments for J.P. Morgan Asset & Wealth Management Jon Webster , Senior Managing Director and COO of Technology & Operations at CPP Investments Try ALEX by Admired Leadership. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_AI_Comp_-_AUDIO_FINAL_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-      "published_at": "2026-09-12T17:45:34+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-      "summary": "Community Wisdom 298",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
