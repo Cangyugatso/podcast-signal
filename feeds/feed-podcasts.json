@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-09-19T23:50:41.188552+00:00",
+  "generated_at": "2026-09-20T23:47:47.812282+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 31,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+      "published_at": "2026-09-20T20:49:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+      "summary": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "published_at": "2026-09-20T12:32:17+00:00",
+      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+      "audio_url": "https://api.substack.com/feed/podcast/213758597/ba2cef9af77bdcfe4be1afa2634bdbe6.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Nas, Grandmaster Caz, Steve Stoute & Ben Horowitz on Paying Hip-Hop’s Pioneers Their Due",
+      "published_at": "2026-09-20T10:01:39+00:00",
+      "url": "https://a16z.simplecast.com/episodes/nas-grandmaster-caz-steve-stoute-ben-horowitz-on-paying-hip-hops-pioneers-their-due-0OiuXVpk",
+      "summary": "Ben Horowitz and Erik Torenberg sit down with Nas, Grandmaster Caz, and Steve Stoute for a conversation about the Paid in Full Foundation and its mission to recognize and support the pioneers who built hip-hop. Ben, Nas, and Steve share how the foundation began, why simply giving artists money wasn’t enough, and how the Hip Hop Grandmaster Awards became a way to pair financial support with the recognition many foundational artists never received. Caz brings the perspective of one of those pioneers, reflecting on his role in hip-hop’s earliest history and what receiving the award has meant for his life and legacy. They also discuss the enormous cultural and commercial impact of hip-hop beyond music, from language and fashion to some of the world’s biggest brands, why so many of its pioneers captured so little of that value, and what happens when generations of hip-hop finally come together in the same room. Resources: Learn more about the Paid in Full Foundation: https://paidinfullfoundation.org Follow Nas on X: https://x.com/Nas Follow Grandmaster Caz on IG: https://www.instagram.com/grandmastercaz07/ Follow Steve Stoute: https://linkedin.com/in/stevestoute Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bde9dcba-b188-4612-9f1b-1d14c1fd0bd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=bde9dcba-b188-4612-9f1b-1d14c1fd0bd8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -212,18 +248,6 @@
       "source_type": "rss"
     },
     {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
-      "published_at": "2026-09-17T03:04:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
-      "summary": "(0:00) Welcome Brad Gerstner! (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Margin Expansion (12:30) The risks: AI regulation, the nuclear precedent, power limits, and rising rates Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -334,18 +358,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Age of Body Futurism | Ruby Justice Thelot",
-      "published_at": "2026-09-15T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-age-of-body-futurism-ruby-justice-thelot-ZnUXyeWf",
-      "summary": "Elena Burger sits down with academic and cyber ethnographer Ruby Justice Thelot to explore the increasingly blurry line between internet culture and the real world, and how to tell the difference between a trend that’s actually changing behavior and one that simply feels enormous online. They use today’s wellness and optimization culture as a case study, from peptides and GLP-1s to protein maxxing, wearables, microplastics, and the quantified self. Ruby explains her concept of “paracontent,” where the conversation around a phenomenon can become much larger than the phenomenon itself, and what social media data can tell us about how these trends move from niche communities into the mainstream. They also trace the much longer history of body optimization, from changing ideals of thinness to the rise of the quantified self, and ask what comes next as technology gives people increasingly granular ways to measure and modify themselves. Ruby’s prediction: rather than everyone optimizing toward the same ideal, we may see increasingly individualized and sometimes extreme forms of “body futurism.” Resources: Follow Ruby Justice Thelot on X: https://x.com/being_on_line Follow Elena Burger on X: https://x.com/VirtualElena Read Ruby’s piece “Enshittification” Isn’t Real: https://www.a16z.news/p/enshittification-isnt-real Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b05f61cd-4e60-4b30-aff6-0ed605600152/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b05f61cd-4e60-4b30-aff6-0ed605600152&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -354,18 +366,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
       "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-      "published_at": "2026-09-14T12:04:39+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "summary": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
-      "audio_url": "https://api.substack.com/feed/podcast/214965776/21507ee9686910ca502f6b69963f3b37.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
