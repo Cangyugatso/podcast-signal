@@ -1,9 +1,105 @@
 {
-  "generated_at": "2026-09-20T23:47:47.812282+00:00",
+  "generated_at": "2026-09-22T00:31:38.405853+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 31,
+  "item_count": 33,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "published_at": "2026-09-21T22:13:49+00:00",
+      "url": "https://www.latent.space/p/jev",
+      "summary": "The definitive Jev podcast with its lead creator.",
+      "audio_url": "https://api.substack.com/feed/podcast/216783460/cdf8e02436aa264178bb2aa2c85db57c.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+      "published_at": "2026-09-21T21:03:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
+      "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Safety Language Is Destroying the Debate | Steven Sinofsky",
+      "published_at": "2026-09-21T18:05:35+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ai-safety-language-is-destroying-the-debate-steven-sinofsky-p7Rb9M_7",
+      "summary": "a16z Board Partner and former Microsoft Windows president Steven Sinofsky joins Theo Jaffee and Sofia Puccini on MTS to argue that the language we use to describe AI failures is making it harder to understand what’s actually going wrong. Steven takes aim at terms like “alignment,” “goal-seeking,” and “rogue agents,” arguing that they can anthropomorphize problems that software engineers have dealt with for decades. His framing is simpler: when software doesn’t do what it’s supposed to do, it has a bug. And as AI becomes more widely deployed, labs need the same kind of telemetry, debugging, incident reporting, and operational discipline that previous generations of software eventually developed. Drawing on everything from early computer hacking and Microsoft’s response to major software failures to Y2K and cybersecurity standards, Steven makes the case for treating AI reliability as an engineering problem. They also discuss what AI labs can learn from CVE reporting, why industry has a responsibility to make its systems safer, and how confusing terminology can lead to equally confused regulation. Resources: Follow Steven Sinofsky on X: https://x.com/stevesi Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4a13c8b0-2462-4960-9b99-fcf8bb40551c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4a13c8b0-2462-4960-9b99-fcf8bb40551c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "published_at": "2026-09-21T15:03:51+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "published_at": "2026-09-21T12:04:11+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
+      "audio_url": "https://api.substack.com/feed/podcast/215710129/8d665b46d4581cf6b5b5d6a46f95ddc6.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "André Perold – Investing Through Exponential Change (EP.516)",
+      "published_at": "2026-09-21T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/andr-perold-investing-through-exponential-change-ep516",
+      "summary": "André Perold is the co-founder and CIO of HighVista Strategies, an alternative asset manager overseeing $14 billion that searches for alpha opportunities in structurally inefficient markets. André has twice been a past guest on the show, starting way back with episode #2 and both conversations are replayed on the feed. This conversation starts with André's assessment of the most exciting and unusual investment environment he has experienced, alongside his thoughts on how to build capabilities and construct portfolios to navigate exponential change. We then turn to the beautifully inefficient markets where HighVista has built core capabilities across biotech, lower middle-market buyouts, early-stage venture, and specialty private credit. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.516_Andre_Perold_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "[REPLAY] André Perold – Pockets of Inefficiency at HighVista Strategies (EP.169)",
+      "published_at": "2026-09-21T07:50:00+00:00",
+      "url": "https://tedseides.libsyn.com/replay-andr-perold-pockets-of-inefficiency-at-highvista-strategies-ep169",
+      "summary": "André Perold, the Co-Managing Partner and Chief Investment Officer of HighVista Strategies, a $4B firm with roots in endowment-style investing that searches for inefficiencies across asset classes. André was the 2nd guest on the show, where we discussed his background as a renowned investment professor at HBS and the founding of HighVista. Our second conversation covers the evolution of HighVista over the last few years. We discuss changes in the business and the firm's response by focusing on inefficient markets. We then dive into examples of opportunities in biotech, private credit and litigation finance, and close with a perspective on active management and private markets. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.169_-_Andre_Perold_FINAL.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "[REPLAY] André Perold – Academic Practitioner (EP.02)",
+      "published_at": "2026-09-21T07:40:00+00:00",
+      "url": "https://tedseides.libsyn.com/replay-andr-perold-academic-practitioner-ep02",
+      "summary": "André Perold is the Chief Investment Officer and Co-Managing Partner at HighVista Strategies, where for the last dozen years he has sat at the helm of a now $3 billion fund that takes a multi-asset class, endowment-like approach emphasizing broad diversification and risk management. Over this period, André has definitively rebuffed the cliché that those who can't do, teach. In his prior career, he spent over 30 years teaching at the HBS, where he is the George Gund Professor of Finance and Banking, Emeritus. André had a distinguished career teaching investment management at Harvard and is a legendary master of the case study classroom. Just about everyone in the investment profession with Harvard Business School on their resume took a seat in his classroom at one point in time. André received numerous awards for teaching excellence, including being voted the School's most outstanding professor in a Business Week student survey. While at Harvard, André authored and co-authored 27 articles in financial journals, two books, and over 100 case studies, all relating to investment management, capital markets, and the financial system. He literally chronicled the development of modern finance as it occurred through is work at HBS. Among his directorships and trustee roles over the years, André currently is a Board member at The Vanguard Group. In this episode, we spend the first 11:30 talking about teaching at Harvard, and then turn to the practice of investing: the active vs. passive debate, a risk-based approach to asset allocation, and what makes investing so hard. I found it fascinating hearing how André takes all of his academic experience and knowledge and applies it the practice of investing at HighVista. His wisdom and clarity of thought are second to none, and his soothing South African accent only adds to the allure. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.02_-_Andre_Perold_FINAL.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -188,18 +284,6 @@
       "source_type": "rss"
     },
     {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
-      "published_at": "2026-09-17T16:54:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future",
-      "summary": "(0:00) Dina Powell McCormick joins The Besties! (1:52) Impact of Meta's data center in Richland Parish, LA: $50K teacher checks, revitalizing a small town community (11:52) How Meta is alleviating data center concerns: pollution, electricity, water, noise, aesthetics; Misinformation campaigns (19:57) America's Workforce Academy, the job growth in re-industrializing America (26:58) Meta's recent social media settlement, new rules for teens (35:25) Meta glasses and Zuck's AI strategy Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Dina: https://x.com/DinaPowellMcC Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Dina_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -297,30 +381,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
-      "published_at": "2026-09-16T11:09:53+00:00",
-      "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
-      "summary": "congrats to TypeSafe!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The AI-Native CRM",
-      "published_at": "2026-09-16T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-ai-native-crm-PM_eRvpt",
-      "summary": "a16z’s Alex Rampell and Joe Schmidt sit down with Lightfield co-founder and CEO Keith Peiris to discuss what it takes to rethink the CRM for an AI-native world, and the unusual pivot that got him there. Keith previously built Tome to 25 million users, but eventually walked away from the product after concluding that the underlying technology couldn’t capture enough context about a presenter, their audience, and the relationship between them. Starting again, his team followed customers from AI presentations into sales workflows and eventually found a harder problem: making sense of the fragmented and often conflicting data spread across a company’s emails, calls, CRM, and other systems. They unpack Lightfield’s idea of a “business world model,” why Keith believes intelligence can replace much of the rigid schema behind traditional software, and what changes when AI has enough context to reason about a company and its customers. They also get into building for greenfield versus brownfield markets, AI-era pricing, running a company where everyone is a generalist, and Keith’s lessons from making a hard pivot. Resources: Follow Keith Peiris on LinkedIn: https://www.linkedin.com/in/keithpeiris Follow Alex Rampell on X: https://x.com/arampell Follow Joe Schmidt on X: https://x.com/joeschmidtiv Learn more about Lightfield: https://lightfield.app Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6229af03-9c3d-49f0-b84c-fbbd1b7a789b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6229af03-9c3d-49f0-b84c-fbbd1b7a789b&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -344,42 +404,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "38vwjWpHFes"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "60+ new creative growth ideas",
-      "published_at": "2026-09-15T12:45:28+00:00",
-      "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "summary": "How to stand out when everyone is running the same playbook",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
-      "published_at": "2026-09-14T15:03:48+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "AI in the Investment Office – Abby Barlow, Laura Hill, Brian Sugrue, Jenny Heller, John Lawrence, Matt Bank, Kristin Kallergis Rowland, Jon Webster (EP.515)",
-      "published_at": "2026-09-14T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/ai-in-the-investment-office-abby-barlow-laura-hill-brian-sugrue-jenny-heller-john-lawrence-matt-bank-kristin-kallergis-rowland-jon-webster-ep515",
-      "summary": "AI is top of mind for everyone in the investment business. Our Summits are abuzz with curiosity about what others are doing. I asked 8 CIOs to share how they're using AI today, including what's working and what isn't, the tools they've adopted, and where they're headed next. They range from a single-family office with one investment professional to one of the largest pension funds in the world with thousands. What emerged is a range of use cases — from using AI as a personal productivity tool, to changing investment workflows, organizing institutional knowledge, improving decisions, and ultimately trying to generate alpha. You'll also hear some consistency in the tools currently used and different views on how far AI should go in the investment process. Featured in this interview: Abby Barlow , CIO of Westwood Management Laura Hill , CIO of Advocate Health Brian Sugrue , CIO of Shannonbridge Jenny Heller , President and CIO Brandywine Group Advisors John Lawrence , President of Rice Management Company Matt Bank , CIO of GEM Kristin Kallergis Rowland , Global Head of Alternative Investments for J.P. Morgan Asset & Wealth Management Jon Webster , Senior Managing Director and COO of Technology & Operations at CPP Investments Try ALEX by Admired Leadership. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://thepodcastconsultant.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_AI_Comp_-_AUDIO_FINAL_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
   "errors": []
