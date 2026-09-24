@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-09-22T23:57:18.870846+00:00",
+  "generated_at": "2026-09-24T00:11:17.785321+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 34,
+  "item_count": 33,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+      "published_at": "2026-09-23T23:00:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
+      "summary": "(0:00) Luca Ferrari joins the Besties! (1:56) Crashing an AI startup, the $40,000 restart & buying product market fit (4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard (9:55) Debt as an accelerant, what happens if rates rise & who else is bidding (14:58) Inside the deal desk: what gets acquired, why they don't build & the founder question (20:22) Building a tech giant out of Milan, Europe's talent pool & the outsider advantage Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "$7 trillion is about to get spent on GPU clouds, and every provider is being asked to get 100x bigge",
+      "published_at": "2026-09-23T22:58:23+00:00",
+      "url": "https://www.youtube.com/shorts/SCDiwsubNp8",
+      "summary": "$7 trillion is about to get spent on GPU clouds, and every provider is being asked to get 100x bigger overnight. ClusterMAX 3.0 spent three months finding out who actually can. Ep. 033 of SemiAnalysis Weekly is live. Jordan Nanos sits down with Sam Harshe and Pratt Bhatt fresh off testing 77 GPU clouds: the new rankings, health checks, cache hit rates, NCCL, agents on clusters, a Linux kernel bug, security, financing and backstops, H100s, and hosted RL training. \"It's my first time seeing sunlight today, actually, since testing began.\" \"This time we rank 77 providers.\" \"Just about everyone in the industry looks like a genius right now.\" \"No way. I thought you could just earn 80% margins on the inference business, right?\" \"Who are you going to trust for your Vera Rubin going into next year?\" Watch it Now on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "SCDiwsubNp8"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 033 - ClusterMAX 3.0 Is Here! Neoclouds Ranked (Neoclouds, GPUs)",
+      "published_at": "2026-09-23T22:54:46+00:00",
+      "url": "https://www.youtube.com/watch?v=gO7oczGh9qE",
+      "summary": "ClusterMAX 3.0 is here. Sam Harshe (@sharshe02) and Pratt Bhatt (@PrathmeshBhat19) join Jordan Nanos (@jordannanos) after months of testing 77 GPU clouds. Somebody moved up. Somebody moved down. You'll have to listen. Health checks, cache hit rates, NCCL recipes, agentic coding on clusters, a Linux kernel bug, neocloud security, SLAs and financing, NVIDIA's backstops, five-year-old H100s, and hosted RL training. Read the full ClusterMAX 3.0 report: https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard ClusterMAX inquiries: ⁠clustermax@semianalysis.com⁠ 0:00 Cold Open 1:32 The Rankings 6:58 Health Checks 13:26 Endpoint Cache Misses 16:40 Networking and NCCL 22:52 Vibe-Coded Infra 31:27 Bug Hunting 38:36 Security 45:43 Financing Neoclouds 56:33 Hosted Training and RL",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "gO7oczGh9qE"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "published_at": "2026-09-23T13:27:18+00:00",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "summary": "Radical Numerics is using biological chain-of-thought and multimodal perception to keep up with the bio-defense arms race, design new genomes and gain insights into biology itself.",
+      "audio_url": "https://api.substack.com/feed/podcast/216723291/8511fc2825689ad610a1ca70864be49f.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Amjad Masad on Rethinking College for the AI Era",
+      "published_at": "2026-09-23T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ",
+      "summary": "Erik Torenberg sits down with Replit founder and CEO Amjad Masad and Horowitz and Andreessen Academy co-founder and CEO Gagan Biyani to ask what education should look like for a generation growing up with AI. Amjad argues that one of the most valuable things young people bring to society is their willingness to question deeply held assumptions. They discuss how education could create more room for that instinct through project-based learning, intellectual side quests, and giving students the freedom to follow an idea deeply rather than optimizing around grades and credentials. They also explore whether young founders are being pushed to professionalize too early, why Amjad thinks starting a company can sometimes be a form of “premature optimization,” and how curiosity led him from learning chess to experimenting with AI that can conduct machine-learning research. Finally, they discuss trust, judgment, and what it means to develop as a person, not just a builder, including why being contrarian and ambitious still needs to be balanced with the ability to work with other people. Resources: Follow Amjad Masad on X: https://x.com/amasad Follow Gagan Biyani on X: https://x.com/gaganbiyani Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7314ee9a-9c50-4ba1-b44e-55c00ea1f608/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7314ee9a-9c50-4ba1-b44e-55c00ea1f608&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "published_at": "2026-09-23T06:41:41+00:00",
+      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "summary": "overshadowing more efficient GPT6 models from OpenAI",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+      "published_at": "2026-09-23T01:44:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
+      "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually reward (36:54) Ballot harvesting, voter ID & whether the system is rigged or just legal (47:13) The Palisades: the empty reservoirs, suing the state & what Spencer does next Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -246,42 +332,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-      "published_at": "2026-09-19T05:48:28+00:00",
-      "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "summary": "Imitation is the sincerest form of Flattery",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Bill Gurley: Searching for Feynman",
-      "published_at": "2026-09-19T00:20:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
-      "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research: https://www.p3.institute/searching_for_feynman_resource_links.html Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Bill: https://x.com/bgurley Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Databricks CEO on AI Pacing, Cyber Risk, and the Enterprise",
-      "published_at": "2026-09-18T21:37:54+00:00",
-      "url": "https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I",
-      "summary": "Databricks co-founder and CEO Ali Ghodsi joins a16z General Partners Martin Casado and Sarah Wang for a conversation about AI risk, recursive self-improvement, cybersecurity, and what’s actually holding back enterprise adoption. Ali argues that today’s models are already capable enough to automate far more work than most companies are using them for. The bigger problem is context: models haven’t been in every meeting, don’t understand how decisions actually get made, and lack the institutional knowledge that experienced employees accumulate over years. He explains why building an organizational “ontology” could help close that gap and what Databricks has learned from doing it internally. They also debate the current conversation around pacing frontier AI, what would constitute meaningful recursive self-improvement, and why Ali distinguishes speculative superintelligence risk from the much more immediate challenge of AI-powered cyberattacks. They close with how enterprises are managing exploding AI usage and costs, the shift toward multiple models and harnesses, and why agents are beginning to reshape infrastructure itself. Resources: Follow Ali Ghodsi on X: https://x.com/alighodsi Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/809021a5-7883-43db-a718-62cf28e58cf8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=809021a5-7883-43db-a718-62cf28e58cf8&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -308,18 +358,6 @@
       "video_id": "Qv2vMj0Uq3c"
     },
     {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
-      "published_at": "2026-09-18T15:59:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration",
-      "summary": "(0:00) NASA Administrator Jared Isaacman lays out the state and future of NASA (17:59) Moon base, creating new space industries, NASA's next chapter (23:29) How to make Mars realistic (25:30) Recruiting, moonshots, the \"Nuclear NASA,\" new vehicles and the importance of humans in space (32:43) Allocating capital toward scientific discovery and deep space research (35:46) Space Race 2.0: China and Russia Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow Jared Isaacman: https://x.com/rookisaacman https://x.com/NASAAdmin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_JaredIsaacman_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -329,18 +367,6 @@
       "summary": "As generative AI hits hardware and latency bottlenecks, Stanford professor, diffusion pioneer, and Inception co-founder and CEO Stefano Ermon is betting on a radical new architecture. Stefano joins Sarah Guo to talk about Inception, and how his team is applying diffusion architecture beyond images and video into discrete text and code generation. Stefano explains the limitations of autoregressive LLMs, as well as why parallel token generation in diffusion models offers superior inference scaling and hardware utilization on standard GPUs. He also shares details about Inception’s Mercury models, real-world voice agent applications, the software stack required to serve diffusion-based models at scale, academia’s role at the frontier of AI innovations, and why the next era of AI competition will be defined by efficiency. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @StefanoErmon | @_inception_ai Chapters: 00:00 – Stefano Ermon Introduction 00:35 – Research Background 02:54 – Starting Inception 05:59 – Why Diffusion Beats Autoregressive 11:10 – Discrete vs. Continuous Modalities 13:19 – Inception Today 16:45 – Where Speed Wins 17:31 – Inception Customer Base 18:49 – Interaction with Hardware Landscape 19:34 – Inception and the Broader Industry 21:41 – Data Compression and Structure 24:45 – Controllability of Diffusion Modeles 27:25 – Emergent Capabilities at Scale 29:02 – Future Workload Split Between Diffusion vs. Traditional 30:03 – Adoption Challenges 31:44 – Hiring and Team Organization 32:50 – Recursive Self Improvement 34:02 – Resource Allocation 35:10 – Impact of Academia 38:13 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP7720707490.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-09-18T06:28:43+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
-      "summary": "a quiet day",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -368,19 +394,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Regulating AI matters. On either side of the table, the question is no longer whether it happens. It",
-      "published_at": "2026-09-17T01:53:14+00:00",
-      "url": "https://www.youtube.com/shorts/EgheBCbY620",
-      "summary": "Regulating AI matters. On either side of the table, the question is no longer whether it happens. It is who gets to say they did it first. \"I think it's totally possible Trump regulates AI too.\" \"There is a world where the advisors really internalize that OpenAI and Anthropic are being genuine, and they start to get scared. That's one possibility. And then there is another possibility where something really bad actually happens during his term and it forces his hand. I think these are both possible.\" \"I would actually bet that we see AI regulation during Trump's term. I think it's more likely than not.\" \"They are going to make a preliminary framework to begin the regulated process of AI. It's like a trade deal. This is our first framework, and then they'll refine it afterward. But that way, come election time, they'll be like, we regulated AI. We are the first ones to do it.\"",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "EgheBCbY620"
-    },
-    {
       "source": "Lex Fridman",
       "domain": "ai",
       "language": "en",
@@ -391,31 +404,6 @@
       "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
       "feed_url": "https://lexfridman.com/feed/podcast/",
       "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
-      "published_at": "2026-09-16T08:00:00+00:00",
-      "url": "https://colossus.com/episode/the-outsider/",
-      "summary": "Michael Moritz led Sequoia Capital for nearly two decades and backed some of the defining companies of the internet era. In his new memoir, Ausländer, he turns his attention to his own family, Jewish refugees who fled Nazi Germany and rebuilt their lives in Wales. We discuss the imprint his parents left on him, the method he used for decades of asking founders about their childhoods and the Time profile that ended his relationship with Steve Jobs. We also also cover Lee Iacocca, why Don Valentine hired him, Alex Ferguson's approach to managing players, Elon Musk, and why Mike still struggles to feel proud of anything he has done. Please enjoy my conversation with Michael Moritz. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:02:16) Where Does One Person End? (00:11:15) The State of the World Today (00:15:08) The Unlived Life of Parents (00:17:33) Lee Iacocca, Eternal Outsider (00:21:03) His Most Revealing Question (00:26:03) Resisters, the Silent, and Collabos (00:33:30) The Profile of Steve Jobs (00:38:04) Frank Auerbach's Total Obsession (00:41:04) Why Don Valentine Hired Michael (00:46:44) Building Sequoia (00:49:49) What Michael Learned from Alex Ferguson (00:52:57) The Great Man Theory (01:00:36) Defining Extraordinary Writing (01:03:40) Stepping Back From Sequoia (01:06:54) A Philosophy of Parenting (01:09:00) The Next Book: Iran (01:11:44) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS6587705018.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 031 - EMERGENCY EPISODE: Are We Doomed? | Jordan Nanos, Doug O'Laughlin, Max Kan, Joey Brookhart",
-      "published_at": "2026-09-16T02:30:29+00:00",
-      "url": "https://www.youtube.com/watch?v=38vwjWpHFes",
-      "summary": "Emergency episode. Doug O'Laughlin (@Fabknowledge) , Joey Brookhart (@SaasquatchC), and Max Kan (@maxkan) join Jordan (@JordanNanos) to talk through Dario's \"We Must Pace the Frontier\" blog and the responses from Sam Altman and David Sacks. Does pacing actually mean less compute, or a lot more? Plus the Hugging Face incident, Moonshot serving Claude, and the security behaviour that keeps them up at night. 0:00 Cold Open 2:50 Glorified Neoclouds 8:21 Pacing the Frontier 12:53 Safety Eats Compute 20:38 Hugging Face Lessons 30:52 Moonshot Serving Claude 36:37 The Coxson Resignation 38:27 Two-Year Predictions 49:19 Regulation Under Trump 57:21 Hotter or Cooler",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "38vwjWpHFes"
     }
   ],
   "errors": []
