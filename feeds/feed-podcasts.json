@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-09-24T00:11:17.785321+00:00",
+  "generated_at": "2026-09-25T00:13:08.586210+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 33,
+  "item_count": 32,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Agentic coding puts a kind of stress on GPU clusters that providers are struggling to handle. SemiAn",
+      "published_at": "2026-09-24T23:00:49+00:00",
+      "url": "https://www.youtube.com/shorts/NpPvKvaVRpg",
+      "summary": "Agentic coding puts a kind of stress on GPU clusters that providers are struggling to handle. SemiAnalysis runs it on the clusters it rates anyway, with an open-source CLI in front. \"A lot of our ClusterMAX testing, we lead with our CLI, cmax. It's open source. Feel free to try it out on your managed cluster.\" \"We do use agentic coding for testing all these clusters, and the workload is very different. The workload is very stressful on these systems.\" \"That's why we have cmax CLI as a front end, and the agent is just a wrap around it. If there are any issues cmax CLI faces, the agent debugs into it and understands what's going on.\"",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NpPvKvaVRpg"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Foundries vs Navigators: Lowering the Cost of Science",
+      "published_at": "2026-09-24T15:03:16+00:00",
+      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+      "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP3274846886.mp3",
+      "summary": "Can AI transform legacy incumbents rather than replacing them? Sequence Holdings co-founder and CEO Michael Lee joins Sarah Guo to discuss how holding company structures and engineering integrations are reshaping market leaders from the inside out. Michael details Sequence’s $7.7 billion take-private transaction of Baldwin alongside Dell Family Office (DFO), and shares his thesis on why traditional consulting models and software sales fall short for real enterprise AI transformations. They also talk about why permanent holding company structures are good for long-term compounding, real-world results from applying frontier engineering to BankSouth, and Michael’s lessons from his time in public investing, private equity, and operating at the intersection of market incumbents and AI. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @mjlee_2014 | @seqholdings Chapters: 00:34 – Michael Lee Introduction 01:03 – Sequence Holdings and Baldwin 01:54 – Idea for Sequence 04:36 – Incumbents in the AI Era 06:32 – Why a Holding Company 11:21 – Recruiting Top Engineers 13:08 – Investing in BankSouth 17:46 – Why an Insurance Brokerage 20:17 – Atlas Platform Explained 23:53 – Traditional Private Equity Limitations 27:23 – What Sequence Looks For in Management Teams 31:04 – Accomplishments at BankSouth 34:45 – Founder Lessons 36:08 – Story of Dell Partnership 37:10 – Career and Investment Approach 40:00 – Value of Exceptional People 42:23 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP3274846886.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "published_at": "2026-09-24T08:12:59+00:00",
+      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "summary": "Team Zuck is absolutely on fire.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Case Against an AI Pause | Eddy Lazzarin",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-case-against-an-ai-pause-eddy-lazzarin-oPay7sAU",
+      "summary": "a16z crypto General Partner Eddy Lazzarin joins Theo Jaffee on MTS to debate the increasingly prominent calls to slow AI development and whether the current safety conversation is conflating very different kinds of risk. Eddy argues that the debate puts too much emphasis on speculative superintelligence and not enough on the costs of delaying useful technology. Rather than treating every AI failure as evidence of an alignment problem, he makes the case for familiar tools like cybersecurity, accountability, liability, market incentives, and stronger technical controls. They also discuss whether AI models can develop reputations for trustworthiness, the risks of concentrating oversight among a small group of evaluators, and why Eddy thinks the collision between Silicon Valley’s AI debates and broader politics could fundamentally reshape the conversation over the next year. Resources: Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Theo Jaffee on X: https://x.com/theojaffee Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c4640152-7d44-401d-a3a0-eea1a7ba0aef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c4640152-7d44-401d-a3a0-eea1a7ba0aef&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "From Cartoon Apes to Reddit Mania: Why Crowds Lose Their Minds With Money",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/From-Cartoon-Apes-to-Reddit-Mania-Why-Crowds-Lose-Their-Minds-With-Money-e3p9q3k",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO1952456835.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -175,30 +248,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "published_at": "2026-09-22T06:30:56+00:00",
-      "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "summary": "crowning a new Chinese frontier lab",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "published_at": "2026-09-21T22:13:49+00:00",
-      "url": "https://www.latent.space/p/jev",
-      "summary": "The definitive Jev podcast with its lead creator.",
-      "audio_url": "https://api.substack.com/feed/podcast/216783460/cdf8e02436aa264178bb2aa2c85db57c.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -320,18 +369,6 @@
       "video_id": "44XWk7Oa7bc"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Makes a Consumer AI Product Stick? | Josh Elman",
-      "published_at": "2026-09-19T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W",
-      "summary": "a16z Partner Josh Elman joins Ollie Forsyth on New Economies to discuss the next wave of consumer AI and what separates a product people try once from one that becomes part of their everyday lives. Josh argues that getting attention has actually become easier, but getting consumers to stick is harder than ever. He explains what he looks for in consumer products, why the best ones start with a narrow wedge and earn the right to do more, and why trust becomes increasingly important as AI agents gain access to more of our personal lives. They also explore personal AI agents, the future of shopping and entertainment, why we haven’t seen another major social network emerge, and how AI could make technology more social rather than less, including agents that help people spend more time together in the real world. This conversation originally appeared on the New Economies podcast. Resources: Follow Josh Elman on X: https://x.com/jelman Follow New Economies: https://www.youtube.com/@NEWECONOMIESPOD New Economies Substack: https://www.neweconomies.co/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60c2b678-3eec-440d-a9fa-890e85aa5a23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=60c2b678-3eec-440d-a9fa-890e85aa5a23&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -345,19 +382,6 @@
       "video_id": "CZcDJlPJ5NE"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 032 - 300 Datacenter Bans, 6 Projects Delayed: Moratoriums Explained (Datacenter, Energy)",
-      "published_at": "2026-09-18T18:00:17+00:00",
-      "url": "https://www.youtube.com/watch?v=Qv2vMj0Uq3c",
-      "summary": "More than 300 towns, cities, and counties have voted to pause data centers in the past 18 months. Maya Barkin (@mayabarkin) and Reyk Knühtsen (@robotknower) from the SemiAnalysis Data Center, Energy, and Industrials team join Jordan Nanos (@jordannanos) to explain what a moratorium actually is, how they mapped every one of them against the US project pipeline, and why only three projects are being delayed. Plus: the SpaceX de-annexation in Brownsville, New York vs Texas, why politicians love a moratorium, and the surprising amount of alpha in anti-data center Facebook groups. Jeremie Eliahou Ontiveros (@JeremieEO) drops in from Bangkok. Read More: https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums 0:00 Intro 0:36 What Is a Moratorium 4:34 300 Moratoriums, 3 Projects 10:18 Behind the Meter Wins 14:04 Eight Conditions to Delay 17:06 The SpaceX De-Annexation 20:03 Cheap Political Signaling 32:03 New York vs Texas 41:14 City Council Alpha 46:32 Advice for Developers",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Qv2vMj0Uq3c"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -367,42 +391,6 @@
       "summary": "As generative AI hits hardware and latency bottlenecks, Stanford professor, diffusion pioneer, and Inception co-founder and CEO Stefano Ermon is betting on a radical new architecture. Stefano joins Sarah Guo to talk about Inception, and how his team is applying diffusion architecture beyond images and video into discrete text and code generation. Stefano explains the limitations of autoregressive LLMs, as well as why parallel token generation in diffusion models offers superior inference scaling and hardware utilization on standard GPUs. He also shares details about Inception’s Mercury models, real-world voice agent applications, the software stack required to serve diffusion-based models at scale, academia’s role at the frontier of AI innovations, and why the next era of AI competition will be defined by efficiency. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @StefanoErmon | @_inception_ai Chapters: 00:00 – Stefano Ermon Introduction 00:35 – Research Background 02:54 – Starting Inception 05:59 – Why Diffusion Beats Autoregressive 11:10 – Discrete vs. Continuous Modalities 13:19 – Inception Today 16:45 – Where Speed Wins 17:31 – Inception Customer Base 18:49 – Interaction with Hardware Landscape 19:34 – Inception and the Broader Industry 21:41 – Data Compression and Structure 24:45 – Controllability of Diffusion Modeles 27:25 – Emergent Capabilities at Scale 29:02 – Future Workload Split Between Diffusion vs. Traditional 30:03 – Adoption Challenges 31:44 – Hiring and Team Organization 32:50 – Recursive Self Improvement 34:02 – Resource Allocation 35:10 – Impact of Academia 38:13 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP7720707490.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
-      "published_at": "2026-09-17T15:38:13+00:00",
-      "url": "https://www.dwarkesh.com/p/noam-brown",
-      "summary": "“We never want to be in a situation again where we underestimate the AI.”",
-      "audio_url": "https://api.substack.com/feed/podcast/216149332/f2a0b2822d2e56d34cc2d70eda999c70.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Stock Picking Is a Temperament Game | Ian Cassel",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Stock-Picking-Is-a-Temperament-Game--Ian-Cassel-e3ouoi1",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO6676778960.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-      "published_at": "2026-09-17T00:40:49+00:00",
-      "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
-      "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/andrew-scull-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Andrew’s Website (UCSD faculty page): https://sociology.ucsd.edu/people/faculty/emeritus/andrew-scull.html Desperate Remedies (book): https://amzn.to/4vmBquI Madness in Civilization (book): https://amzn.to/3SZhd0I SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Shopify: Sell stuff online. Go to https://shopify.com/lex BetterHelp: Online therapy and counseling. Go to https://betterhelp.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:07) – Sponsors, Comments, and Reflections (08:10) – Crisis in Psychiatry (37:48) – Categories of Mental Illness (45:07) – Asylums, Eugenics, and the Nazis (57:13) – The Ice Pick Lobotomy (1:03:26) – Malaria “Cure” for Syphilis (1:21:42) – Insulin Coma Therapy (1:29:34) – Electroconvulsive Therapy (ECT) (1:49:03) – One Flew Over the Cuckoo’s Nest (2:06:35) – Freud and Psychoanalysis (2:36:30) – WWII and Cognitive behavioral therapy (CBT) (2:57:04) – Antipsychotics (3:20:24) – Antidepressants (3:33:18) – Future of Psychiatry PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://spoti.fi/2nEwCF8 – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_andrew_scull.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
       "source_type": "rss"
     }
   ],
