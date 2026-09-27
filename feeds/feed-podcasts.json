@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-09-26T00:19:52.768844+00:00",
+  "generated_at": "2026-09-27T00:08:17.133540+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 30,
+  "item_count": 29,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+      "published_at": "2026-09-26T17:54:02+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+      "summary": "Community Wisdom 300",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+      "published_at": "2026-09-26T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/aaron-levie-steven-sinofsky-martin-casado-how-do-you-secure-a-world-of-ai-agents-v8Q401cc",
+      "summary": "Erik Torenberg sits down with Box CEO Aaron Levie, and a16z’s Martin Casado, and Steven Sinofsky to debate how the AI industry should think about safety, security, and regulation as increasingly capable agents move into the real world. They argue that much of today’s conversation is happening before we have clearly defined the risks we’re trying to regulate. Drawing on earlier waves of computing, from computer viruses and the early internet to aviation and automobiles, they ask what AI can learn from industries that developed safety standards only after understanding how their technologies actually failed. The conversation then gets concrete: agents don’t get tired, can operate at enormous scale, and can probe systems in ways human employees never could. That could require rethinking permissions, authentication, operating systems, and the security stack itself. They also discuss why AI innovation may increasingly move beyond the frontier labs and into the software built around the models. Resources: Follow Aaron Levie on X: https://x.com/levie Follow Martin Casado on X: https://x.com/martin_casado Follow Steven Sinofsky on X: https://x.com/stevesi Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2d196828-25c3-4974-8a6d-7710746e6966/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2d196828-25c3-4974-8a6d-7710746e6966&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "published_at": "2026-09-26T02:02:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
+      "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07:58) Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure (1:27:13) Anthropic's bio research and \"wet lab\" in SF Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.deepseek.com/en/news/deepseek-v4-1-flash https://x.com/XiaomiMiMo/status/2102138559952290106 https://x.com/0x0SojalSec/status/2101738277049131358 https://prismml.com https://x.com/SenSanders/status/2102827319123693689 https://x.com/yipitdata/status/2102781268974793023 https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/ https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc https://polymarket.com/event/ipos-before-2027 https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo https://x.com/rauchg/status/2101186741042663579 https://www.anthropic.com/constitution https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://x.com/mustafasuleyman/status/2100223594534150428 https://freebeacon.com/america/suicidal-compassion-meet-the-anthropic-officials-who-think-ai-might-be-justified-in-going-rogue-against-the-humans-enslaving-it https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -272,18 +308,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Safety Language Is Destroying the Debate | Steven Sinofsky",
-      "published_at": "2026-09-21T18:05:35+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ai-safety-language-is-destroying-the-debate-steven-sinofsky-p7Rb9M_7",
-      "summary": "a16z Board Partner and former Microsoft Windows president Steven Sinofsky joins Theo Jaffee and Sofia Puccini on MTS to argue that the language we use to describe AI failures is making it harder to understand what’s actually going wrong. Steven takes aim at terms like “alignment,” “goal-seeking,” and “rogue agents,” arguing that they can anthropomorphize problems that software engineers have dealt with for decades. His framing is simpler: when software doesn’t do what it’s supposed to do, it has a bug. And as AI becomes more widely deployed, labs need the same kind of telemetry, debugging, incident reporting, and operational discipline that previous generations of software eventually developed. Drawing on everything from early computer hacking and Microsoft’s response to major software failures to Y2K and cybersecurity standards, Steven makes the case for treating AI reliability as an engineering problem. They also discuss what AI labs can learn from CVE reporting, why industry has a responsibility to make its systems safer, and how confusing terminology can lead to equally confused regulation. Resources: Follow Steven Sinofsky on X: https://x.com/stevesi Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on X: https://x.com/schisofrenia Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4a13c8b0-2462-4960-9b99-fcf8bb40551c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4a13c8b0-2462-4960-9b99-fcf8bb40551c&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -292,18 +316,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
       "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-      "published_at": "2026-09-21T12:04:11+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
-      "audio_url": "https://api.substack.com/feed/podcast/215710129/8d665b46d4581cf6b5b5d6a46f95ddc6.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
@@ -342,31 +354,6 @@
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.02_-_Andre_Perold_FINAL.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
-      "published_at": "2026-09-20T20:49:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "summary": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents change people's shopping (20:00) How a lean team beats the giants, margin moats & building in China Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Adam_Foroughi_AIS26_AUDIO_v88.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "More than 300 US local governments have voted to pause datacenters in the past 18 months, and the pa",
-      "published_at": "2026-09-19T21:01:29+00:00",
-      "url": "https://www.youtube.com/shorts/44XWk7Oa7bc",
-      "summary": "More than 300 US local governments have voted to pause datacenters in the past 18 months, and the pace picked up sharply this summer. Most of them are buying time. \"A datacenter moratorium is a temporary legal pause, usually enacted by a local government. It halts approval, permitting, and construction of new datacenters. It doesn't affect existing datacenters.\" \"These can last anywhere from months to a year, and can often be revoked, replaced by new regulation, or extended.\" \"Many zoning codes were written before anyone was considering those huge 100-plus megawatt to multiple gigawatt facilities, so a pause buys time to write datacenter-specific rules and assess infrastructure needs. It's also a low-cost way for elected officials to answer local opposition.\"",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "44XWk7Oa7bc"
     }
   ],
   "errors": []
