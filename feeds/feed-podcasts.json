@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-09-27T00:08:17.133540+00:00",
+  "generated_at": "2026-09-28T00:15:34.598820+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 29,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "published_at": "2026-09-27T12:32:18+00:00",
+      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
+      "audio_url": "https://api.substack.com/feed/podcast/214070196/a2fa19b5bc369946869da1db60e349bd.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building a Team at AI Speed | Harvey’s Maggie Landers",
+      "published_at": "2026-09-27T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/building-a-team-at-ai-speed-harveys-maggie-landers-1mxeFqtp",
+      "summary": "a16z’s Katie Kirsch sits down with Harvey VP of Talent Maggie Landers to discuss what happens inside a company growing at AI speed, and how you preserve culture while adding more than 1,000 employees in a year. Maggie explains why Harvey prioritizes progress over perfection, how its values of simplicity, decisiveness, and “job’s not finished” shape the way people work, and why moving quickly requires giving employees significant trust and autonomy. For people accustomed to being the “A student,” that can mean learning to experiment, make mistakes, and course-correct quickly. They also get into how Harvey identifies people who can thrive in that environment, what changes when most of your company is relatively new, the role its founders play in maintaining culture, and why judgment becomes increasingly important when employees are given the freedom to move fast. Resources: Follow Maggie Landers on LinkedIn: linkedin.com/in/maggiecohenlanders Follow Katie Kirsch on X: https://x.com/katiekirsch Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa2d03fd-277b-4e4f-9bdc-153aca2190a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa2d03fd-277b-4e4f-9bdc-153aca2190a0&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -260,18 +284,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why a16z is Building a New School for the AI Era | Ben Horowitz",
-      "published_at": "2026-09-22T12:05:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-a16z-is-building-a-new-school-for-the-ai-era-ben-horowitz-yv3mnCj_",
-      "summary": "Ben Horowitz and Erik Torenberg sit down with Gagan Biyani to introduce the Horowitz and Andreessen Academy and discuss a bigger question: what should education look like when AI is rapidly changing the skills people need to build, work, and create? Ben and Gagan explain why they believe learning should be more focused on doing rather than studying about doing, with students building real projects, developing people skills, and working alongside companies and builders in San Francisco. The goal isn’t to replace college for everyone, but to create a different path for young people who already know they want to build. They also discuss why AI could make this an unusually powerful time to be young, how project-based learning changes when everyone has access to powerful tools, why failure can be valuable when it produces real learning, and what it takes to develop the judgment and people skills that can't simply be learned from a textbook. Resources: Follow Gagan Biyani on X: https://x.com/gaganbiyani Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/53980240-caa0-48e0-a6c5-3a16498749e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=53980240-caa0-48e0-a6c5-3a16498749e9&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -305,18 +317,6 @@
       "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-      "published_at": "2026-09-21T15:03:51+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
