@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-28T00:15:34.598820+00:00",
+  "generated_at": "2026-09-29T01:24:59.303385+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 29,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+      "published_at": "2026-09-28T22:16:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
+      "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the Stardoll origin story Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+      "published_at": "2026-09-28T15:03:13+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+      "published_at": "2026-09-28T12:05:00+00:00",
+      "url": "https://colossus.com/episode/instinct-the-personal-agent/",
+      "summary": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend. We discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents coordinate directly, and what Noah has learned about how long it takes users to trust an agent with their credit card, inbox, and calendar. He explains why he refuses to build an ad model and why he believes a personal agent should never influence users against their own interests. We also cover the take rate model behind the more than $1 billion a year now flowing through the platform, how travel and food delivery businesses should prepare for a world of agents, why he spends 40% of his time thinking about compute, and why he believes all of software will eventually collapse into one simple interface. Please enjoy my conversation with Noah Shinn. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Timestamps: (00:00:00) The Most Exciting Software Race Ever (00:00:49) What Instinct Is (00:04:11) The Wildest Things Users Have Done With Instinct (00:07:15) The Instinct to Instinct Trusted Network (00:13:24) How Agents Will Reorder the Internet (00:14:44) Reinventing Restaurant Reservations (00:17:23) Travel and $1 Billion in Transaction Volume (00:21:00) How Users Learn to Trust an Agent (00:23:25) Keeping Sensitive Data Safe (00:26:08) Alignment and the Business Model (00:31:07) Take Rates and the Payments Stack (00:34:52) When Incumbents Push Back on Agents (00:40:46) How Businesses Should Prepare for Agents (00:44:43) Designing for Understandability (00:48:15) Taste Versus Data (00:50:03) Invite-Only Growth at 10% a Day (00:54:46) How Far Ahead to Buy Compute (00:56:58) The Cost to Serve Each User (00:59:24) How Much Compute Proactive Agents Will Need (01:02:30) Thoughts on Muse (01:03:59) Mistakes and Staying Proactive (01:05:34) The Future of Security (01:08:32) Where the Interface Goes Next (01:12:35) Agents That Pursue Goals (01:14:35) Personality and the Movie Her (01:16:27) Why It's Called Instinct (01:17:34) Allies, Enemies, and Distribution Channels (01:18:43) Raising Capital (01:20:34) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS4620503535.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jev for beginners: how to use it and what to build",
+      "published_at": "2026-09-28T12:03:04+00:00",
+      "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "summary": "Watch now (26 mins) | 🎙️ Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I’ve ever put in a pipeline—and this week I shipped three real projects with it",
+      "audio_url": "https://api.substack.com/feed/podcast/217276787/bbbdb644d146a9502f51a217a7dcb87a.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Can Write Code. Why Isn’t Software Better?",
+      "published_at": "2026-09-28T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ai-can-write-code-why-isnt-software-better-je38wEkC",
+      "summary": "a16z’s Ben Horowitz and Martin Casado sit down with TypeSafe AI founder Diogo Almeida to ask a simple question: AI has become remarkably capable, so where is all the automation? Diogo argues that coding agents may help us write software faster, but the software they produce still largely works the way software always has. TypeSafe is taking a different approach with Jev: putting intelligence inside software itself, so developers can build programs that reason about intent and make probabilistic decisions rather than simply generate text for a human to interpret. They discuss why reliability is the key to making AI genuinely programmable, how this could open a new era of probabilistic software, and why established SaaS companies may be particularly well positioned to benefit. Ultimately, Diogo’s goal is straightforward: technology that can reliably “do what I mean.” Resources: Follow Diogo Almeida: https://x.com/CompleteSkeptic Learn more about TypeSafe AI: https://typesafe.ai/ Follow TypeSafe AI: https://x.com/typesafeai Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a874c8b0-6ca6-4359-9d91-084c2ed8cd29/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a874c8b0-6ca6-4359-9d91-084c2ed8cd29&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Nancy Zimmerman – People, Process, and Fixed Income Arbitrage at Bracebridge (EP.517)",
+      "published_at": "2026-09-28T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/nancy-zimmerman-people-process-and-fixed-income-arbitrage-at-bracebridge-ep517",
+      "summary": "Nancy Zimmerman is the co-founder and Managing Partner of Bracebridge Capital, a $13 billion alternative asset manager specializing in fixed income arbitrage that she founded over 30 years ago, in 1994, alongside Gabe Sunshine with capital from David Swensen at Yale. Our conversation traces Nancy's evolution from pricing securities to investing and the enduring sources of inefficiency in fixed income markets. We discuss the nature of arbitrage opportunities and their persistence over time and then turn to hunting for mispricings today across developed market rates, structured credit, corporates, and emerging markets. Along the way, we cover Bracebridge's process for sourcing ideas, assessing relative value, determining position sizes, constructing a portfolio, and managing risk. We close with building a team, aligning the organization and its clients, investing in today's exciting and unusual environment, and transferring investment knowledge to work on the investment committee and brain science research at Nancy's alma mater, Brown University. Nancy is among the sharpest, most curious, funny, and deeply experienced investors in the hedge fund world. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.517_Nancy_Zimmerman_-_AUDIO_V1.2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -224,18 +296,6 @@
       "video_id": "gO7oczGh9qE"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Amjad Masad on Rethinking College for the AI Era",
-      "published_at": "2026-09-23T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ",
-      "summary": "Erik Torenberg sits down with Replit founder and CEO Amjad Masad and Horowitz and Andreessen Academy co-founder and CEO Gagan Biyani to ask what education should look like for a generation growing up with AI. Amjad argues that one of the most valuable things young people bring to society is their willingness to question deeply held assumptions. They discuss how education could create more room for that instinct through project-based learning, intellectual side quests, and giving students the freedom to follow an idea deeply rather than optimizing around grades and credentials. They also explore whether young founders are being pushed to professionalize too early, why Amjad thinks starting a company can sometimes be a form of “premature optimization,” and how curiosity led him from learning chess to experimenting with AI that can conduct machine-learning research. Finally, they discuss trust, judgment, and what it means to develop as a person, not just a builder, including why being contrarian and ambitious still needs to be balanced with the ability to work with other people. Resources: Follow Amjad Masad on X: https://x.com/amasad Follow Gagan Biyani on X: https://x.com/gaganbiyani Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7314ee9a-9c50-4ba1-b44e-55c00ea1f608/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7314ee9a-9c50-4ba1-b44e-55c00ea1f608&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -256,30 +316,6 @@
       "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
       "summary": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
       "audio_url": "https://api.substack.com/feed/podcast/216986081/4e28f684cb755ce703f7e39c9b492e85.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "I left Claude for months. Opus 5.5 is why I'm back",
-      "published_at": "2026-09-22T19:06:40+00:00",
-      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "summary": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
-      "audio_url": "https://api.substack.com/feed/podcast/216949144/18479e36b6288c9b1639e0f61d72a7ab.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-      "published_at": "2026-09-22T12:45:14+00:00",
-      "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "summary": "Why you should never skip error discovery",
-      "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
@@ -305,54 +341,6 @@
       "summary": "Gabe Stengel is the co-founder and CEO of Rogo, the AI platform for finance. He believes the best investors will spend the next several years reinventing their firms around AI, and Rogo is trying to build the infrastructure that allows them to do it. We discuss how Rogo evolved alongside the frontier models, why the last mile and the harness around the models matter so much, what happens when every portfolio manager can deploy thousands of agents against a problem, and how AI could transform the way capital is raised, assets are priced, and deals get done. We also cover which investing skills become more valuable as AI improves, the move from seat-based to outcome-based pricing, Rogo’s internal company brain called Shrek, the 40 investor rejections Gabe received before his Series A, why building in applied AI requires extraordinary aggression, and what it takes to become a black hole for talent and capital. Please enjoy my conversation with Gabe Stengel. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:01:24) The Model Eras of Rogo (00:04:15) Why the Last Mile Mattered (00:06:14) Who’s Using Rogo Right Now (00:10:55) Which Investor Skills Still Matter (00:12:23) Inside Rogo's Data Stack (00:14:33) Competing With the Frontier Labs (00:16:57) Why the Harness Matters Most (00:18:05) What Makes a Vertical AI Winner (00:22:00) How Firms Buy AI Software (00:23:43) From Seats to Outcome Pricing (00:31:19) Auditability Beats Accuracy (00:32:55) Scaling Enterprise Sales Fast (00:34:48) Meet Shrek, Rogo's Company Brain (00:35:49) The Pitch to Great Talent (00:39:37) What Chewing Glass Feels Like (00:42:18) Forty Investor Rejections (00:47:41) Finance's Innovator's Dilemma (00:50:22) Questions Every Firm Should Ask (00:53:09) What Remains Most Uncertain (00:56:46) Becoming a Black Hole for Talent (00:57:56) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS7922860814.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
-      "published_at": "2026-09-21T21:03:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
-      "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind of machine (19:46) Chamath joins: the path to product, porting existing models & building the team Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "André Perold – Investing Through Exponential Change (EP.516)",
-      "published_at": "2026-09-21T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/andr-perold-investing-through-exponential-change-ep516",
-      "summary": "André Perold is the co-founder and CIO of HighVista Strategies, an alternative asset manager overseeing $14 billion that searches for alpha opportunities in structurally inefficient markets. André has twice been a past guest on the show, starting way back with episode #2 and both conversations are replayed on the feed. This conversation starts with André's assessment of the most exciting and unusual investment environment he has experienced, alongside his thoughts on how to build capabilities and construct portfolios to navigate exponential change. We then turn to the beautifully inefficient markets where HighVista has built core capabilities across biotech, lower middle-market buyouts, early-stage venture, and specialty private credit. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.516_Andre_Perold_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "[REPLAY] André Perold – Pockets of Inefficiency at HighVista Strategies (EP.169)",
-      "published_at": "2026-09-21T07:50:00+00:00",
-      "url": "https://tedseides.libsyn.com/replay-andr-perold-pockets-of-inefficiency-at-highvista-strategies-ep169",
-      "summary": "André Perold, the Co-Managing Partner and Chief Investment Officer of HighVista Strategies, a $4B firm with roots in endowment-style investing that searches for inefficiencies across asset classes. André was the 2nd guest on the show, where we discussed his background as a renowned investment professor at HBS and the founding of HighVista. Our second conversation covers the evolution of HighVista over the last few years. We discuss changes in the business and the firm's response by focusing on inefficient markets. We then dive into examples of opportunities in biotech, private credit and litigation finance, and close with a perspective on active management and private markets. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.169_-_Andre_Perold_FINAL.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "[REPLAY] André Perold – Academic Practitioner (EP.02)",
-      "published_at": "2026-09-21T07:40:00+00:00",
-      "url": "https://tedseides.libsyn.com/replay-andr-perold-academic-practitioner-ep02",
-      "summary": "André Perold is the Chief Investment Officer and Co-Managing Partner at HighVista Strategies, where for the last dozen years he has sat at the helm of a now $3 billion fund that takes a multi-asset class, endowment-like approach emphasizing broad diversification and risk management. Over this period, André has definitively rebuffed the cliché that those who can't do, teach. In his prior career, he spent over 30 years teaching at the HBS, where he is the George Gund Professor of Finance and Banking, Emeritus. André had a distinguished career teaching investment management at Harvard and is a legendary master of the case study classroom. Just about everyone in the investment profession with Harvard Business School on their resume took a seat in his classroom at one point in time. André received numerous awards for teaching excellence, including being voted the School's most outstanding professor in a Business Week student survey. While at Harvard, André authored and co-authored 27 articles in financial journals, two books, and over 100 case studies, all relating to investment management, capital markets, and the financial system. He literally chronicled the development of modern finance as it occurred through is work at HBS. Among his directorships and trustee roles over the years, André currently is a Board member at The Vanguard Group. In this episode, we spend the first 11:30 talking about teaching at Harvard, and then turn to the practice of investing: the active vs. passive debate, a risk-based approach to asset allocation, and what makes investing so hard. I found it fascinating hearing how André takes all of his academic experience and knowledge and applies it the practice of investing at HighVista. His wisdom and clarity of thought are second to none, and his soothing South African accent only adds to the allure. Learn Mo re Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/REPLAY_9.21_-_EP.02_-_Andre_Perold_FINAL.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],

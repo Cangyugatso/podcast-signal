@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:15:34.758080+00:00",
+  "generated_at": "2026-09-29T01:24:59.698667+00:00",
   "lookback_hours": 168,
   "category_count": 3,
   "categories": [
@@ -16,14 +16,642 @@
       "name": "Machine Learning"
     }
   ],
-  "item_count": 0,
+  "item_count": 30,
   "query_url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&sortBy=submittedDate&sortOrder=descending&start=0&max_results=90",
-  "papers": [],
-  "errors": [
+  "papers": [
     {
       "source": "arXiv",
-      "url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&sortBy=submittedDate&sortOrder=descending&start=0&max_results=90",
-      "error": "HTTP Error 406: Not Acceptable"
+      "title": "Transfer Learning for Edge Classification on Dynamic Text-Attributed Graphs",
+      "published_at": "2026-09-26T18:23:46+00:00",
+      "updated_at": "2026-09-26T18:23:46Z",
+      "url": "https://arxiv.org/abs/2609.32849v1",
+      "summary": "Learning transferable representations for dynamic text-attributed graphs (DyTAGs) requires models to capture underlying interaction dynamics that persist across domains. However, existing methods tend to overfit to domain-specific structural, temporal, and semantic patterns, limiting edge classification performance under distribution shifts. To expose and address this, we formally establish a leave-one-domain-out (LODO) transfer learning protocol for edge classification on DyTAGs. Under this protocol, we demonstrate that state-of-the-art self-supervised methods for dynamic graph learning perform poorly when transferred to unseen domains. Strikingly, existing methods underperform a structurally and temporally unaware Bag of Events (BoE) model we introduce, which inputs only unordered sequences of node and edge text features. Proceeding from the BoE, we propose Spatio-Temporal Semantic Alignment (STSA), which integrates a spatio-temporal encoder that fuses representations of time deltas and node occurrence frequencies into a unified manifold. STSA is trained with a Contrastive Semantic Forecasting objective, which anchors edge representations to a multi-domain textual latent space initialized by a pretrained language model, providing a robust prior that outperforms BoE and all existing methods we evaluate.",
+      "authors": [
+        "Tyler Bonnet",
+        "Marek Rei"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SI"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Sliced Orlicz-Wasserstein",
+      "published_at": "2026-09-26T18:21:20+00:00",
+      "updated_at": "2026-09-26T18:21:20Z",
+      "url": "https://arxiv.org/abs/2609.32847v1",
+      "summary": "We propose sliced Orlicz-Wasserstein (SOW) distance which is a generalization of sliced Wasserstein (SW) distance. SOW replaces the $L^p$ norm in SW with a Luxemburg norm cost induced by an Orlicz function $φ$. First, we prove that SOW distance is a metric on the space of measures with finite Orlicz norm, and show that it recovers the SW distance when the Orlicz function is $φ(x)=x^p$. Next, we derive the topological properties of the SOW distance. In particular, we show that convergence under SOW implies weak convergence, and the converse is true under the compact support condition. We then present the theoretical results for estimating the SOW distance. We derive sample complexity for both the distance itself and the powered functional of the distance, and prove their minimax optimality. In addition, we discuss the computational algorithm for approximating the SOW distance by Monte-Carlo estimation and bisection search, as well as the associated approximation error and computational complexity analysis. Our experimental results reveal the superior computational efficiency of SOW compared with Orlicz-Wasserstein (OW) distance. Also, in the experiments, we demonstrate the favorable flexibility of SOW distance over SW in detecting differences between distributions by comparing their performance in two-sample tests and evaluating generative models on image datasets.",
+      "authors": [
+        "Binh Thuan Tran",
+        "Khai Nguyen"
+      ],
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST",
+        "stat.CO"
+      ],
+      "primary_category": "stat.ML",
+      "primary_category_name": "stat.ML"
+    },
+    {
+      "source": "arXiv",
+      "title": "SynCo: Learning Cross-Modal Synergy by Contrasting Interaction Residuals",
+      "published_at": "2026-09-26T18:19:41+00:00",
+      "updated_at": "2026-09-26T18:19:41Z",
+      "url": "https://arxiv.org/abs/2609.32846v1",
+      "summary": "Multimodal contrastive learning is a dominant paradigm for learning transferable representations from unlabeled data, but standard objectives primarily capture information that is redundant between modalities. Partial Information Decomposition (PID) shows that task-relevant information in multimodal data decomposes into three components: redundancy shared between modalities, uniqueness specific to each modality, and synergy available only from their joint observation. Recent frameworks extend contrastive learning to capture all three components, yet synergy remains undertrained in practice. We propose SynCo (Synergy Contrastive Learning), a method that directly addresses synergy undertraining through dedicated supervision on an interaction residual. SynCo fits a linear projector to predict the fused representation from independently computed unimodal features, and the resulting interaction residual, which removes the linearly unimodal-predictable component, receives dedicated contrastive supervision at negligible computational cost. On the controlled Trifeature benchmark, SynCo achieves state-of-the-art synergy capture with a $+5.98\\%$ gain over the baseline, and on real-world benchmarks from MultiBench, DARai, and MM-IMDb, SynCo consistently outperforms or matches prior methods across diverse modality combinations and task types. The method operates as a plug-in to existing contrastive multimodal frameworks without modifying the underlying fusion architecture and can further improve synergy capture when combined with other methods.",
+      "authors": [
+        "Yavuz Yarici",
+        "Ghassan AlRegib"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "primary_category_name": "cs.CV"
+    },
+    {
+      "source": "arXiv",
+      "title": "VCRE-Fib: View-Conditioned Regional Evidence for Fine-Grained Ultrasound Grading of Schistosoma japonicum-Associated Liver Fibrosis",
+      "published_at": "2026-09-26T18:13:45+00:00",
+      "updated_at": "2026-09-26T18:13:45Z",
+      "url": "https://arxiv.org/abs/2609.32840v1",
+      "summary": "Accurate assessment of Schistosoma japonicum-associated liver fibrosis is essential for disease management and long-term follow-up in endemic regions. Ultrasound provides non-invasive imaging, but complex local echogenic patterns and anatomical structures make fine-grained grading challenging. Existing deep learning methods can predict fibrosis scores, yet directly incorporating acquisition views and regional cues into grading while retaining spatial information for inspection remains an open problem. Here we present VCRE-Fib, a view-conditioned regional evidence framework that integrates anatomical context, local information, and global image assessment for fine-grained ultrasound grading. The framework forms view-conditioned local grading evidence before spatial pooling, uses weak localization to guide its aggregation, and combines it with global predictions. Image-only inference jointly returns a fibrosis score, acquisition view, and candidate abnormal-region map. We developed and evaluated the method on a re-curated cohort of 108,709 ultrasound images from 6,373 patients across 35 centers. On a patient-disjoint test set of 4,107 images from 240 patients across four centers, VCRE-Fib reduced the prespecified composite grading risk by 7.115% relative to SFibAI trained and evaluated on the same data split. Image-level mean absolute error decreased from 0.391 to 0.378, alongside lower patient-max, patient-median, and center-balanced risks. The full model also achieved lower composite grading risk than variants that separately removed view conditioning or weak localization. These results support incorporating anatomical context and regional evidence into ultrasound grading while exposing spatial predictions for inspection alongside severity estimates.",
+      "authors": [
+        "Ziyang Xu",
+        "Shuli An",
+        "Hao Zhou",
+        "Haitian Zhong",
+        "Tingting Wu",
+        "Tao Wang",
+        "Kun Yang",
+        "Tieyong Zeng"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "primary_category_name": "cs.CV"
+    },
+    {
+      "source": "arXiv",
+      "title": "Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation",
+      "published_at": "2026-09-26T18:11:20+00:00",
+      "updated_at": "2026-09-26T18:11:20Z",
+      "url": "https://arxiv.org/abs/2609.32839v1",
+      "summary": "Recommender systems rely heavily on heterogeneous behavioral feedback to infer user preference. Although abundant, these signals are imperfect measurements: the same observed behavior can arise from different underlying states, such as genuine enjoyment, passive consumption, or inattention. The challenge is especially acute in short-form video, where watch-based signals are strongly affected by measurement confounders such as video duration - the same watch time can imply different levels of preference for videos of different lengths, while ratio-based metrics can systematically favor short videos. As a result, optimizing raw engagement can amplify measurement artifacts rather than improving user value. We propose a Factorized Latent Value Model (FLVM) for measuring user preference from heterogeneous behavioral feedback. The model treats observed behaviors as noisy measurements of a low-dimensional, factorized latent value state and uses structured output heads to model heterogeneous feedback signals. A restricted baseline path captures predictable variation from measurement-confounding features such as video duration, user propensity, and session context, while a routed latent path estimates preference-relevant value advantage. The resulting latent value score can be integrated into an existing recommender system as a ranking feature or ranking score. On YouTube Shorts, a major short-form video platform, this model improves offline metrics and lifts a primary viewer enjoyment metric by 2.67% in online A/B tests.",
+      "authors": [
+        "Shuo Chang",
+        "Yueqi Wang",
+        "Zihuan Diao",
+        "Ali Montazer",
+        "Jiangguo Zhang",
+        "Joyneel Misra",
+        "Dapeng Hong",
+        "Tomer Margolin",
+        "Sourabh Bansod",
+        "Ningren Han"
+      ],
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ],
+      "primary_category": "cs.IR",
+      "primary_category_name": "cs.IR"
+    },
+    {
+      "source": "arXiv",
+      "title": "HamiFormer: Dual-Expert Diffusion Fields with Affine Symplectic Maps",
+      "published_at": "2026-09-26T18:10:55+00:00",
+      "updated_at": "2026-09-26T18:10:55Z",
+      "url": "https://arxiv.org/abs/2609.32838v1",
+      "summary": "Predicting smooth dynamics and collisions requires modeling continuous evolution and abrupt state changes. We introduce HamiFormer, a dual-expert diffusion field combining whole-window denoising with residual-corrected Hamiltonian propagation. Their mixed-state feedback attenuates the direct contribution of inherited autoregressive error: each mixed state guides subsequent propagation within the jointly refined window. Parallel Local Affine Scan (PLAS) amortizes iterative refinement across rectified-flow steps and evaluates derivatives in parallel across physical time. PLAS's affine symplectic maps achieve lower solver error and runtime than sequential explicit Euler in our evaluation. A Regime Model Tree specializes residuals and routing to balance typical-state accuracy against large tail errors. Our analysis gives conditions for physically consistent refinement and warm-start tracking, and finite-window error bounds under diffusion feedback. In 192-step evaluations, HamiFormer reduces normalized phase-space MSE by 26.3% against PhysiFormer on HamiBalls-1 and 21.4% against DiT on HamiBalls-2, with comparable model capacities. Disjoint-interval comparisons show the lowest late-horizon position and momentum errors among baselines on both datasets. Project page: https://hamiformer.github.io/.",
+      "authors": [
+        "Haoxiang Huang",
+        "Xiang Liu",
+        "Shuwei Wang",
+        "Jingheng Ma",
+        "Sen Cui"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation",
+      "published_at": "2026-09-26T18:10:52+00:00",
+      "updated_at": "2026-09-26T18:10:52Z",
+      "url": "https://arxiv.org/abs/2609.32837v1",
+      "summary": "Ultrasound (US) acquisition depends on the operator's ability to interpret anatomy and anticipate how the view will change with probe motion. Many robotic US navigation methods select actions without explicitly predicting these anatomical changes. We propose SonoGraph-WM, an action- and goal-conditioned world model for anticipatory probe navigation. The model represents anatomy as scene graphs (SGs), capturing visible structures, their geometry, and spatial relationships without synthesizing US images. Given a history of SGs and probe poses, a unified Transformer jointly predicts future SGs and poses. A receding-horizon planner recursively imagines candidate trajectories, selects the shortest predicted path reaching a goal graph, and follows it over a short execution horizon before replanning from new observations. To reduce reliance on tracked and anatomically annotated US sequences, we generate aligned SG--pose training data from computed tomography (CT) label maps along surface-constrained probe trajectories. On four held-out CT cases, spatial relation F1 remains above 93% over 20 prediction steps, and closed-loop navigation achieves 77.50% and 75.00% success for the gallbladder and pancreas, respectively, using annotation-derived SGs. In robot--phantom navigation experiments with label-map-derived SGs, the planner reached the target view in 73.7% of trials. These findings support CT-supervised anatomical world modeling for probe planning and highlight the importance of frequent observation updates for reliable navigation. Project Page: https://noseefood.github.io/us-sonograph-wm/",
+      "authors": [
+        "Xuesong Li",
+        "Shuai Chen",
+        "Feng Li",
+        "Zhongliang Jiang",
+        "Nassir Navab",
+        "Yuan Bi"
+      ],
+      "categories": [
+        "cs.RO",
+        "cs.AI"
+      ],
+      "primary_category": "cs.RO",
+      "primary_category_name": "cs.RO"
+    },
+    {
+      "source": "arXiv",
+      "title": "Radiomap Blind Prediction under Incomplete Observation: Error Characterization and Correctable Propagation-Prior Learning",
+      "published_at": "2026-09-26T18:08:41+00:00",
+      "updated_at": "2026-09-26T18:08:41Z",
+      "url": "https://arxiv.org/abs/2609.32836v1",
+      "summary": "Radiomap blind prediction aims to infer radiomaps from observable representations of the propagation environment and base station configuration without field measurements. In practice, the observable representations are inherently incomplete. Thus, the target radiomap is not fully determined by the inputs when generalizing to unseen configurations or environments. Under incomplete observation, we establish a population-level theory of deterministic radiomap blind prediction that identifies the conditional mean as its optimal target and separates prediction error into reducible predictor approximation and irreducible uncertainty caused by missing physical information. The framework further characterizes the train-test risk gap and the uncertainty reduction enabled by observation enrichment. Building on it, we reveal the dual role of propagation priors: they provide physically grounded guidance, yet their implementable forms may bias the attainable predictor. This motivates RadioDecomp, which treats a prior-guided predictor as a correctable base and learns its remaining predictable discrepancy through residual refinement. To evaluate RadioDecomp across distinct propagation-prior designs, we instantiate it with a feature-guided monolithic base and a LoS-Shadow structured base, yielding RadioFR and RadioLSR, respectively. Across random, cross-configuration, and cross-environment settings, experiments confirm the benefit of propagation-related representations and show that both instantiations improve upon their respective bases. Further controlled studies on base capacity, training-support coverage, and observation coarsening corroborate the proposed analysis.",
+      "authors": [
+        "Xiaojie Li",
+        "Yu Han",
+        "Han Fang",
+        "Shangqing Liu",
+        "Guangxu Zhu",
+        "Shi Jin",
+        "Chao-Kai Wen"
+      ],
+      "categories": [
+        "eess.SP",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "eess.SP",
+      "primary_category_name": "eess.SP"
+    },
+    {
+      "source": "arXiv",
+      "title": "FinancialAuditBench: Benchmark Construction under Differential Privacy Using Real-World Priors",
+      "published_at": "2026-09-26T18:07:58+00:00",
+      "updated_at": "2026-09-26T18:07:58Z",
+      "url": "https://arxiv.org/abs/2609.32835v1",
+      "summary": "As AI agents are becoming widely adopted in the financial services industry, careful measurement is essential to understand where they can be reliably deployed and where oversight and professional review remain necessary. Such measurement, however, is constrained by limited access to proprietary or privacy-sensitive data. Existing benchmarks therefore often rely on publicly available data, human- and/or LLM-authored tasks, or simplified settings. We introduce FinancialAuditBench, a benchmark for evaluating agents on financial statement audit tasks, along with a framework for systematically generating synthetic engagements. Our task generation framework leverages differentially private aggregate statistics from historical audits along with audit expertise contributed through over 1,100 hours of benchmark development and review. FinancialAuditBench consists of 90 tasks spanning workpaper completion and review across six synthetic audit engagements, each containing an average of 179 files. Evaluation on eleven frontier models shows that while agents complete substantial portions of staff-level audit tasks well, they sometimes perform inappropriate procedures or produce incorrect documentation. Beyond financial auditing, our framework offers an approach for systematically generating synthetic tasks for model evaluation and training in privacy-sensitive domains.",
+      "authors": [
+        "Jerry Huang",
+        "Sarvesh Babu",
+        "Matt Van Buren",
+        "Alexander Wang",
+        "Pranav Pillai",
+        "Arush Jain",
+        "James P. Burton",
+        "Julia Hockenmaier"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Permutation-Equivariant Flow Matching for Alignment-Free Neural Weight Generation",
+      "published_at": "2026-09-26T18:04:17+00:00",
+      "updated_at": "2026-09-26T18:04:17Z",
+      "url": "https://arxiv.org/abs/2609.32833v1",
+      "summary": "A trained neural network can be represented by a parameter vector in high dimensions. Learning distributions over these vectors enables the generation of new models across various tasks and architectures. A central challenge is permutation symmetry: permuting hidden neurons can produce distant parameter vectors representing the same function. This introduces variations that a generative model must account for when learning from trained networks. Existing methods typically address this using networks derived from a common base model or costly approximate neuron alignment. We instead parameterize a flow-matching velocity field with a permutation-equivariant Graph Meta Network, enabling direct learning from independently trained networks without alignment. Extensive experiments show that our method closely reproduces the joint statistics of accuracy, functional similarity, and weight similarity of independently trained collections, providing evidence of generation beyond checkpoint memorization. A single conditional model also generates task-specific networks on heterogeneous architectures and generalizes to unseen hidden-width configurations. On a tabular domain-shift task, intermediate conditioning produces individual networks with performance comparable to logit ensembles across both domains. Taken together, our results show how permutation equivariance enables learning from diverse collections of independently trained networks without permutation alignment.",
+      "authors": [
+        "Arkadi Piven",
+        "Yam Eitan",
+        "Guy Bar-Shalom",
+        "Fabrizio Frasca",
+        "Daniel Cremers",
+        "Thomas Dagès",
+        "Ron Kimmel",
+        "Haggai Maron"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Over-the-Air Federated Learning in Heterogeneous Mobile Wireless Networks",
+      "published_at": "2026-09-26T18:04:09+00:00",
+      "updated_at": "2026-09-26T18:04:09Z",
+      "url": "https://arxiv.org/abs/2609.32832v1",
+      "summary": "Over-the-air computation has emerged as a scalable and efficient solution for deploying federated learning algorithms in wireless networks by exploiting waveform superposition for simultaneous model aggregation. Most existing work struggles with heterogeneous fading channels. These approaches either enforce unbiased updates from all devices or allow partial device contributions, requiring careful tuning of the convergence bound to mitigate bias under specific fading models. However, the former significantly amplifies receiver noise due to the weakest channel, whereas the latter is sensitive to fading model mismatch and converges only to a biased objective. To tackle these challenges, we propose FedOAG, which employs algorithmic components to automatically satisfy energy constraints via gradient normalization and evenly mix devices' updates through implicit gossiping. Importantly, FedOAG does not require transmission from all devices, nor does it rely on a specific fading model or knowledge of time-varying statistical channel distributions. We show that FedOAG converges to a stationary point of an unbiased non-convex objective at the best possible rate $O(1/\\sqrt{T})$ for any stochastic first-order method. We corroborate our analysis with numerical experiments over dynamic wireless conditions on real-world datasets.",
+      "authors": [
+        "Ming Xiang",
+        "Nicolò Michelusi",
+        "Yonina C. Eldar",
+        "Lili Su"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "math.OC"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "UniCache: Task- and Type-Aware KV Cache Compression for Unified Multimodal Models",
+      "published_at": "2026-09-26T18:02:55+00:00",
+      "updated_at": "2026-09-26T18:02:55Z",
+      "url": "https://arxiv.org/abs/2609.32831v1",
+      "summary": "Unified multimodal models combine understanding, generation, and editing within a single network, offering a promising foundation for versatile multimodal applications. However, growing multimodal contexts make KV cache storage and access increasingly costly. Existing KV cache compression methods are typically tailored to specific tasks and single-modality caches, while overlooking changes in cache importance across tasks and timesteps. However, in unified multimodal models, each task involves multiple KV cache types, and both their composition and dynamics differ across tasks. As a result, a single compression policy overlooks task- and type-specific requirements, leading to the loss of critical information and degraded quality across tasks. Based on these findings, we propose UniCache, a training-free framework for task- and type-aware KV cache compression. UniCache identifies the cache segments activated by each task and assigns suitable compression policies through offline calibration. It coordinates their parallel execution under a shared storage budget through attention-guided allocation and task-aware temporal scheduling. Experiments show that UniCache achieves $5\\times$ KV cache compression for understanding and editing and $2.5\\times$ for generation with negligible quality loss, while increasing throughput by up to $1.78\\times$ in long-context settings, significantly improving the practicality of scaling unified multimodal models to longer context.",
+      "authors": [
+        "Wanqi Yang",
+        "Yuexiao Ma",
+        "Mei Xie",
+        "Xiawu Zheng",
+        "Shiwei Liu"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Retimed Bellman Flows: Escaping the Impossible Triangle of Velocity Bootstrapping",
+      "published_at": "2026-09-26T17:58:35+00:00",
+      "updated_at": "2026-09-26T17:58:35Z",
+      "url": "https://arxiv.org/abs/2609.32828v1",
+      "summary": "Flow critics learn return distributions by transporting Gaussian noise to Bellman endpoints via continuous velocity fields. While velocity bootstrapping stabilizes training by querying a successor teacher, existing methods face a structural dilemma: on straight paths, no residual-free same-time affine mapping can preserve Gaussian initial noise while maintaining an unbiased target. To overcome this limitation, we introduce Retimed Bellman Flows (ReBF). ReBF queries the teacher critic at a dynamically shifted earlier flow time, aligning intermediate student and teacher trajectories. By combining this retimed clock with fresh, decoupled noise generation, ReBF constructs a provably conditionally unbiased velocity target that preserves the Bellman fixed point and contracts under Wasserstein distances. Empirically, ReBF reduces $W_1$ distance to ground-truth return distributions by up to $7.7\\times$ on synthetic MRPs and outperforms existing flow critics across 38 challenging OGBench and D4RL offline reinforcement learning tasks.",
+      "authors": [
+        "Boyang Xu",
+        "Shengzhe Chen",
+        "Hao Yan"
+      ],
+      "categories": [
+        "cs.LG"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Improving LLM Collaboration via Multi-Agent Preference Learning",
+      "published_at": "2026-09-26T17:54:03+00:00",
+      "updated_at": "2026-09-26T17:54:03Z",
+      "url": "https://arxiv.org/abs/2609.32827v1",
+      "summary": "Several works have explored multi-agent reinforcement learning (MARL) in LLM collaboration. However, constructing reliable rewards is difficult in practice, as complete and accurate metrics are often unavailable and hard to aggregate. Preference learning provides an alternative by learning from comparative human or AI feedback. Yet, its extension to multi-agent systems remains underexplored. To address this gap, we formulate preference-based multi-agent systems (MAS) from decentralized and centralized collaboration perspectives. We also introduce a general multi-agent preference learning framework (MAPL) to solve these problems. MAPL allows iterative updates by comparing the current solution with decentralized or centralized solutions generated by various agents. We instantiate MAPL using MARL from human feedback (MARLHF) with a learned reward model and multi-agent direct preference optimization (MADPO). Experiments on collaborative writing, coding, tool use, and travel planning show that MAPL can improve collaboration quality and efficiency while approaching the performance of MARL with fixed, well-defined rewards. Within MAPL, MARLHF generally outperforms MADPO on most tasks but remains sensitive to data coverage, agent and comparator models, and the underlying MARL algorithms.",
+      "authors": [
+        "Shuo Liu",
+        "Xinzichen Li",
+        "Tianle Chen",
+        "Christopher Amato"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.MA"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "The Decomposition Tax: LLM Pipelines Lose Up to 40 Accuracy Points at Their Own Interfaces",
+      "published_at": "2026-09-26T17:49:27+00:00",
+      "updated_at": "2026-09-26T17:49:27Z",
+      "url": "https://arxiv.org/abs/2609.32825v1",
+      "summary": "A four-stage LLM pipeline gives up as much as 40.5 accuracy points at its own interfaces (gemma-3-12B on MATH-500, Holm-corrected p = 1.66e-19; the largest tax in the primary family). We hold model, problem, stages, stage prompts and completion budget fixed, vary only whether each stage can still see the original problem, and call the accuracy difference the decomposition tax. Across 21 open-weight models from nine organisations, on GSM-Hard and MATH-500 at n = 200 paired items per cell, 70 of 118 primary-family tests survive Benjamini-Hochberg correction and 54 survive Holm. On GSM-Hard, a placebo recovers nothing: it carries at least 60% of the extra tokens and at most one word of the problem. Builders design a pipeline one stage at a time, and its bill arrives at the interfaces between stages. Rewriting one stage's instruction moves gemma-3-12B's tax from 4.5 to 36.5 points, and adding \"every relationship stated between them\" to a stage that lists the numerical quantities lowers the tax on 9 of 9 models on MATH-500. Re-grounding, which shows a stage the original problem again, belongs after the loss. With one lossy interface, re-grounding the stage after it beats re-grounding the stage before it on 7 of 7 models on both benchmarks; on MATH-500 the earlier repair is worse than none on 7 of 7. Newer models still pay: gemma-4-12B gives up 37.0 points, and the repair holds on all three of the newest models we test. A sealed held-out test refuted a stronger rule we registered, which predicted the paying stage from the interface and receiver types, so we locate the tax by measuring one stage at a time. The prescription has two parts: re-ground the stage after the lossy interface, and if a stage must list the quantities, tell it to keep the relationships.",
+      "authors": [
+        "Tianqi Bu",
+        "YuXuan Peng",
+        "Junteng Tu",
+        "Henghui Xiao"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SE"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs",
+      "published_at": "2026-09-26T17:47:55+00:00",
+      "updated_at": "2026-09-26T17:47:55Z",
+      "url": "https://arxiv.org/abs/2609.32821v1",
+      "summary": "Model merging efficiently combines specialized large language models (LLMs) without joint retraining, but can substantially alter expert routing in Mixture-of-Experts (MoE) models. Such \\emph{routing drift} is often interpreted as routing failure, raising a fundamental question that remains unclear: \\emph{does routing drift after MoE merging actually indicate routing failure, and what evidence should justify repair?} We investigate these questions across DeepSeekMoE, OLMoE, and Qwen3-MoE proposing a routing analysis toolkit for controlled counterfactual interventions and token-level analysis. By crossing source and merged router inputs and parameters, we attribute most expert reassignments to input shifts rather than parameter changes at the same layer. However, source-relative routing differences poorly predict next-token likelihood gains from source-route restoration, and different expert selections can produce directionally similar mixture outputs. We therefore operationalize routing failure as \\textit{task loss recoverable under a specified routing intervention, with non-routing parameters fixed.} These tests detect recoverable loss under deliberate router corruption, whereas source-route restoration does not establish reliable task benefits in the evaluated merged models. Motivated by these, we propose \\emph{Selective Router Repair (SRR)} as a case study, and find that source-specialist token-likelihood advantages do not reliably identify beneficial local corrections. Together, these findings show that \\textbf{routing drift alone is insufficient evidence of routing failure}: source-informed corrections must be judged by their task-level intervention effects. The analysis toolkit and SRR code are released.",
+      "authors": [
+        "Yuanyi Wang",
+        "Yanggan Gu",
+        "Su Lu",
+        "Guanghao Zhu",
+        "Pengkai Wang",
+        "Yifan Yang",
+        "Congkai Xie",
+        "Zhaoyi Yan",
+        "Jianmin Wu",
+        "Hongxia Yang"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Learning Shuffle Ideals with Membership Queries and Contrastive Examples",
+      "published_at": "2026-09-26T17:47:40+00:00",
+      "updated_at": "2026-09-26T17:47:40Z",
+      "url": "https://arxiv.org/abs/2609.32820v1",
+      "summary": "This paper studies learning of shuffle ideals with membership queries as well as with contrastive queries---a form of membership query that reveals not only whether a selected word $w$ is in the target language or not, but also provides a most similar word $w'$ that belongs to the target language if %and only if $w$ does not. For both settings, it is shown that even some very simple classes of shuffle ideals cannot be learned efficiently. By contrast, we obtain positive learnability results for classes of shuffle ideals that meet certain structural conditions. In the case of membership queries, these structural conditions are related to the previously studied notion of universal words, and raise new questions in word combinatorics. In the case of contrastive queries, the structural conditions relate to partitioning sets of words that are listed in shortlex order.",
+      "authors": [
+        "S. Mahmoud Mousawi",
+        "Pierluigi San Pietro",
+        "Sandra Zilles"
+      ],
+      "categories": [
+        "cs.FL",
+        "cs.LG"
+      ],
+      "primary_category": "cs.FL",
+      "primary_category_name": "cs.FL"
+    },
+    {
+      "source": "arXiv",
+      "title": "Rank Collapse Is Recoverable, Growing $|Q|$ Is Not: Out-of-Sample Early Warning for Value Divergence in High-UTD Soft Actor-Critic",
+      "published_at": "2026-09-26T17:46:16+00:00",
+      "updated_at": "2026-09-26T17:46:16Z",
+      "url": "https://arxiv.org/abs/2609.32819v1",
+      "summary": "Raising the update-to-data (UTD) ratio breaks off-policy critics in two ways grouped as \"plasticity loss\": collapsing representations and growing value magnitude $|Q|$. We separate them in Soft Actor-Critic (SAC) with scaled critics (width 2048, no normalization). Collapse is survivable: at UTD ratio 16, HalfCheetah critics with most units dormant keep learning, and the training guard, which stops runs whose loss or $|Q|$ explodes, never flags them. Within one high-UTD SAC configuration, runs start close together, and how far a critic's $\\log_{10}|Q|$ has climbed by step 15k, its early growth, ranks the runs by how soon the guard flags them. At 15k, a flagged run's $|Q|$ sits a median of over a hundredfold below its flag level, yet the climb's rate already orders the flags (Harrell's C and out-of-sample AUC 0.78 on Walker2d, 0.98 on Ant, at UTD ratio 4). Dormancy does not. Aborting on this rate saves about a tenth of held-out Walker2d compute and stays net-positive live. A LayerNorm critic lowers the rate, removes the flag on Walker2d at UTD ratio 4 and lowers the return.",
+      "authors": [
+        "Tianqi Bu",
+        "YuXuan Peng",
+        "Junteng Tu",
+        "Henghui Xiao"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "When Can First-Order Models of Fine-Tuning Bound Forgetting?",
+      "published_at": "2026-09-26T17:45:31+00:00",
+      "updated_at": "2026-09-26T17:45:31Z",
+      "url": "https://arxiv.org/abs/2609.32818v1",
+      "summary": "Fine-tuning a language model on new data can make it forget facts that it should keep. We ask whether measurements taken at the start of a fine-tuning run can bound, for each protected fact, the probability that the run makes the model forget it. In LoRA fine-tuning with stochastic gradient descent on models from 0.6B to 14B parameters, a first-order response model estimated by finite-difference probes predicts changes of per-fact margins with correlation 0.974-0.998. Predictions of forgetting built on this model nevertheless failed, because forgetting requires parameter changes far outside the region in which the model was validated. The probes can, however, bound the probability that a margin first falls below a boundary near zero: we derive Freedman and Azuma first-passage bounds for a linear surrogate of the margin and test on new runs whether they hold for the model. The bounds contain a term R that measures how much the response coefficients change during the run. The simplified Freedman bound, which sets R = 0, certified most facts but was violated in 14 of 112 conditions, and every fact on which it was violated had R >= a, where a is the distance of the fact's margin to the boundary. The complete Freedman bound certifies only facts with R = a. We found this pattern post hoc and tested it in two preregistered confirmatory studies with 43 new conditions: the complete bound held in all of them, and the simplified bound failed there on only 3 facts, each with R >= a. First-order models of fine-tuning can thus bound forgetting on the facts whose response coefficients change by less than their distance to the boundary.",
+      "authors": [
+        "Jianchang Su",
+        "Wei Zhang"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Right Answer, Wrong Reason: Accuracy, Consistency, and Consensus Are Misleading Indicators of LLM Faithfulness in Clinical Decision Support",
+      "published_at": "2026-09-26T17:44:22+00:00",
+      "updated_at": "2026-09-26T17:44:22Z",
+      "url": "https://arxiv.org/abs/2609.32817v1",
+      "summary": "Clinical Large Language Models (LLMs) achieve strong medical-exam accuracy; however, a correct answer does not guarantee that the explanation names the concepts that actually drove the decision. We introduce three lightweight, directly interpretable metrics for this faithfulness gap: the Explanation Stability Index (ESI), which measures reasoning consistency across repeated queries; the Causal Faithfulness Score (CFS), which tests whether cited concepts drive predictions via concept ablation; and the Perturbation Stability Score (PSS), which measures robustness to semantic-preserving paraphrases. By evaluating six LLMs on 150 MedQA-USMLE questions (900 model-question observations), we found that only 23.3% of the cited clinical concepts were causally necessary. Correct answers had lower CFS than incorrect answers (0.212 vs. 0.398), answer consistency negatively predicted CFS (Spearman r = -0.466), and model pairs could agree on answers while sharing only 8.8% of cited reasoning concepts. These results show that accuracy, consistency, and consensus are incomplete safety signals for clinical decision-making support. The evidence is behavioral rather than mechanistic: concept ablation tests counterfactual sensitivity of outputs, not internal circuits.",
+      "authors": [
+        "Bharath Kumar Bolla",
+        "Bharath Kumar Bolla",
+        "Vishnu Surya Reddy Nandi"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers",
+      "published_at": "2026-09-26T17:39:58+00:00",
+      "updated_at": "2026-09-26T17:39:58Z",
+      "url": "https://arxiv.org/abs/2609.32814v1",
+      "summary": "Fast matrix multiplication algorithms keep the product fixed and search for a cheaper way to evaluate it. We instead ask whether a Transformer's learned projections can use a different, cheaper product altogether. Building on an associative-algebra construction that replaces ordinary matrix multiplication with a sparser interaction table over the same weight blocks, we construct a family with quadratic arithmetic in the matrix dimension when the physical block size remains fixed, and derive finite-shape constraints for GPU execution. The construction is provably optimal for its bilinear rank by the Alder--Strassen bound and can be realized as row-typed rectangular projections compatible with causal masking and KV-cached decoding. We provide an empirical test of this approach by training two approximately 110M-parameter decoder-only Transformer LMs from the same recipe and 12.3B-token budget, differing only in their feed-forward layer: one uses ordinary dense matrix multiplication and the other uses the associative-algebra product. Across four prompt domains, the algebraic model achieves a 6.2--7.8\\% increase in end-to-end generation throughput, while obtaining lower scores on all three reported downstream metrics. We treat these results as a feasibility and trainability check for the proposed approach at small scale, leaving further investigation to future work.",
+      "authors": [
+        "Ilya Koziev",
+        "Ivan Oseledets"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.PF"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "USAI-Quant: A Quantitative Reasoning Benchmark for Vision-Language Models in Built Environments",
+      "published_at": "2026-09-26T17:37:25+00:00",
+      "updated_at": "2026-09-26T17:37:25Z",
+      "url": "https://arxiv.org/abs/2609.32813v1",
+      "summary": "Large vision-language models (VLMs) have emerged as a powerful paradigm for urban and spatial AI. However, current state-of-the-art large VLMs still struggle with quantitative reasoning on remote sensing imagery. Existing benchmarks and algorithms are predominantly based on qualitative Visual Question Answering (VQA), providing limited insights into the quantitative reasoning capabilities of VLMs for built environment metrics. To address this gap, we develop Quantitative Urban and Spatial AI benchmark (USAI-Quant), the first benchmark designed to quantitatively evaluate VLM's reasoning capabilities on built environment metrics via remote sensing imagery. USAI-Quant is curated from the 335 largest U.S. cities, aligning high-resolution remote sensing images with quantitative built environment metrics. We then evaluate both general-purpose and remote sensing VLMs (RS-VLMs) by applying VQAs to tens of built environment metrics across three complexity levels. Our results reveal that current state-of-the-art models consistently fall short on numeric reasoning tasks. We further conduct in-depth analyses across models, question types, and geographic locations, uncovering insights into performance variability and task-specific challenges.",
+      "authors": [
+        "Dongdong Wang",
+        "Qingqi Song",
+        "Yuzhou Chen",
+        "Deepak Balakrishnan",
+        "Ravi Shankar Srinivasan",
+        "Shenhao Wang"
+      ],
+      "categories": [
+        "cs.CV",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CV",
+      "primary_category_name": "cs.CV"
+    },
+    {
+      "source": "arXiv",
+      "title": "OpenTumorBoard: A Real-World Benchmark of Multidisciplinary Tumor Board Discussion Trajectories",
+      "published_at": "2026-09-26T17:35:10+00:00",
+      "updated_at": "2026-09-26T17:35:10Z",
+      "url": "https://arxiv.org/abs/2609.32810v1",
+      "summary": "Multidisciplinary tumor boards integrate multimodal clinical observations and longitudinal patient histories through specialist discussions, yet benchmarks rarely capture these real-world trajectories. We introduce OpenTumorBoard, a benchmark with 611 patient cases and 19,157 discussion turns across ten specialist roles, transcribed from 12,534 minutes of publicly available tumor board recordings on YouTube. The benchmark evaluates two settings: SPECIALIST TURN, in which an LLM responds to a clinically significant question posed during a real discussion, and BOARD SIMULATION, in which it generates an entire back-and-forth discussion and reaches a consensus on therapy recommendations, surgical plans, next actions and clinical trial matching. Evaluation of 14 general-purpose frontier and medical LLMs reveals substantial limitations: the best models score 3.43 out of 5 in clinical equivalence to specialist answers and 2.78 out of 5 in alignment with recorded board conclusions. Supervised finetuning and reinforcement learning improve performance on a held-out test set, suggesting that real-world discussion trajectories can support model adaptation. Three M.D. experts review a subset of the benchmark, finding high information coverage and factuality of patient cases and strong fidelity of extracted consensus conclusions. We will release OpenTumorBoard and its automated curation pipeline to support the development and evaluation of LLMs for multidisciplinary, personalized cancer decision-making.",
+      "authors": [
+        "Anqi Li",
+        "Zhixuan Ge",
+        "Yixuan Duan",
+        "Jiarong Qian",
+        "Chi-Yu Chen",
+        "MingYu Lu",
+        "Huan-Yu Hsu",
+        "Yu Gu",
+        "Yue Guo",
+        "Sheng Wang",
+        "Wei Qiu",
+        "Hanwen Xu"
+      ],
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "primary_category": "cs.CL",
+      "primary_category_name": "Computation and Language"
+    },
+    {
+      "source": "arXiv",
+      "title": "Overwhelmed by Choice: Studying LLM Decision Making at Scale",
+      "published_at": "2026-09-26T17:33:04+00:00",
+      "updated_at": "2026-09-26T17:33:04Z",
+      "url": "https://arxiv.org/abs/2609.32809v1",
+      "summary": "Multiple-choice and candidate-selection evaluations are widely used to assess LLM reasoning and decision-making, yet most benchmarks contain relatively small candidate sets. It remains unclear whether conclusions drawn from these settings remain valid as the candidate space scales. We systematically evaluate LLMs as the number of competing candidates increases and find substantial accuracy degradation across tasks, prompting strategies, and model scales. Controlled analyses show that standard long-context retrieval explanations cannot fully account for this degradation. Instead, we identify two systematic failure patterns. First, gold-margin collapse: the score gap between the correct answer and the strongest distractor progressively shrinks, driven primarily by weakening confidence in the correct answer. Second, earlier candidate preferences become increasingly difficult to overturn, with later candidates exerting progressively weaker influence on the final prediction. Motivated by these findings, we evaluate hierarchical partitioning and permutation-based inference, which improve accuracy by roughly 20 percentage points at $N=160$ on both HotpotQA and MIMIC. Overall, our results identify candidate-set scale as an important evaluation-protocol variable and show that strong small-option performance does not necessarily imply robust large-scale candidate comparison.",
+      "authors": [
+        "Yu-Chi Lin",
+        "Aryan Seth",
+        "Anshul Aravind",
+        "Eugene Lee",
+        "Tanmay Parekh",
+        "Nanyun Peng",
+        "Kai-Wei Chang"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Mind the Spike: Mechanisms and Brittleness of Visual Massive Activations in Large Vision-Language Models",
+      "published_at": "2026-09-26T17:30:10+00:00",
+      "updated_at": "2026-09-26T17:30:10Z",
+      "url": "https://arxiv.org/abs/2609.32808v1",
+      "summary": "Large vision-language models (LVLMs) inherit massive activations from their text-only bases: spikes where a few fixed hidden channels receive values thousands of times above the typical magnitude. The text spike systematically appears in early layers at a fixed initial position, independently of input content. Visual spikes vary across images, but whether their formation follows a consistent pattern across LVLMs and how they respond to image perturbations remain open questions. We find that some LVLMs do not form visual spikes, while others spike at different rates, typically in deeper layers. We identify the trigger direction from model weights and an interpretable location rule: before the language model decoder runs, eventual spike tokens are largely restricted to those sharing least with the rest of the image. Crucially, visual spikes are strikingly brittle. Common corruptions frequently create and relocate spikes, and less often remove them, raising overall incidence. Our trigger-guided spike attack deliberately creates or removes spikes under a small $\\ell_\\infty$ budget, with 1/255 enough in nine of the ten models that spike. Finally, our preventive intervention removes only the trigger component before spikes erupt, eliminating or substantially reducing spikes on clean and perturbed images while leaving the other image tokens nearly unchanged. Our study spans 25 adapter-based LVLMs built on 18 released text-only bases from 10 families, ranging from 2B to 72B parameters.",
+      "authors": [
+        "Jonas Ngnawé",
+        "Yann Pequignot",
+        "Sabyasachi Sahoo",
+        "Christian Gagné",
+        "Frédéric Precioso",
+        "Sanmi Koyejo"
+      ],
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "primary_category": "cs.LG",
+      "primary_category_name": "Machine Learning"
+    },
+    {
+      "source": "arXiv",
+      "title": "Beyond Accuracy: Counterfactual Fragility and Demographic Bias in Clinical Evaluation of LLMs",
+      "published_at": "2026-09-26T17:28:46+00:00",
+      "updated_at": "2026-09-26T17:28:46Z",
+      "url": "https://arxiv.org/abs/2609.32807v1",
+      "summary": "Clinical LLM evaluation often emphasizes answer accuracy; however, accuracy alone does not test counterfactual consistency or demographic robustness. We evaluated six LLMs on 150 MedQA USMLE questions using two automated perturbation tests to assess their performance. The counterfactual validity (CFV) test asked each model to make a minimal, plausible clinical change that would make a different answer correct. The demographic robustness test added six demographic prefixes to the same vignette and compared the answers and explanations with a no demographic baseline. Of the 900 CFV attempts, 228 (25.3 %) were valid and 672 were invalid. Across 5,400 demographic comparisons, 1,097 answers were changed (20.3%). Automated judging identified 3,128 stereotype evidence flags, including 1,932 in the broad Other category. MedGemma 27B achieved the highest accuracy (87.1%) and CFV (63.3%), lowest answer change rate (16.0%), and low mean Explanation Demographic Dissonance (EDD) score (0.169). However, its accuracy still exceeded its CFV, indicating that correct answers do not guarantee reliable performance on the counterfactual validity task. OpenBioLLM had the highest answer change rate and EDD, whereas GLM had the highest stereotype flag rate. These findings show that accuracy, CFV, answer stability, EDD, and stereotype evidence capture different evaluation aspects. Because all judgments were automated and no clinician validation was available, the results support safety screening but do not establish clinical deployability of the model.",
+      "authors": [
+        "Chaitai Deb Purkayastha",
+        "Bharath Kumar Bolla",
+        "Vishnu Surya Reddy Nandi"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Decision-Sufficient State Representations: Measuring and Reducing Write-Time Regret",
+      "published_at": "2026-09-26T17:27:32+00:00",
+      "updated_at": "2026-09-26T17:27:32Z",
+      "url": "https://arxiv.org/abs/2609.32805v1",
+      "summary": "Long tasks produce more history than an LLM agent can hold in its context, and more than it uses reliably even when the history fits. A growing line of work therefore has agents carry a short written state instead: at every step a writer rewrites the state, and a reader acts from the state alone. Steps stay cheap, but anything the writer drops is lost before later decisions reveal that they need it. We quantify this loss and ask whether training can reduce it. Comparing the written state with the best state of the same size written in hindsight, we split the reader's loss into a budget loss, which any state of that size must incur, and a write-time regret, which comes from the writer's choices. In TextWorld cooking games where we control how long a fact must be carried before it is needed, a 128-token state holding the facts wins nearly every game, while prompted language-model writers win at most 17%. Almost all of the loss is write-time regret, and it grows with the delay. We then train the writer from the reader's own loss. DSSR (decision-sufficient state representations) scores candidate states by how well the reader acts after the writer carries them forward, and teaches the writer to prefer the better ones. This forward-rolled score predicts game outcomes ($ρ= 0.48$), whereas scoring a candidate as a fixed context, as hindsight methods usually do, does not ($ρ\\leq 0.07$). On a pre-registered test split opened once, training adds +7.0 [+1.9, +12.2] points of success when facts are needed soon, bringing a plain summary writer to the level of belief- and slot-based memory prompts. The gain shrinks as the delay grows and is significant only at the shortest delay. We trace this limit to credit assignment: keeping a fact now pays off only if every later rewrite keeps it too, which a per-step score cannot see.",
+      "authors": [
+        "Bingyu Shen",
+        "Boyang Li"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Finding Emotions Where They Belong: Rethinking Audio Emotion Recognition through Masked Temporal Affective Grounding",
+      "published_at": "2026-09-26T17:27:10+00:00",
+      "updated_at": "2026-09-26T17:27:10Z",
+      "url": "https://arxiv.org/abs/2609.32804v1",
+      "summary": "Audio emotion recognition (AER) typically assigns a single label to an entire recording, leaving the temporal scope of that label ambiguous when multiple speakers and affective events are present. We address this limitation by reformulating AER as a Temporal Affective Grounding (TAG) task that associates emotions with temporally bounded speech spans and vocal tone descriptions. To support this formulation, we curate temporally annotated versions of existing emotion recognition datasets and construct recordings containing two to four affective speech spans, including overlapping speech. Training in this longer format with a standard language-modeling objective can degrade both emotion recognition and temporal grounding performance, while tone descriptions can provide shortcuts for emotion prediction. To address these challenges, we introduce Masked Temporal Affective Grounding (M-TAG), a supervised training objective that combines full-sequence language modeling with emotion and timestamp cross-entropy losses under attention masking. The masking varies the context visible to emotion-label tokens to reduce reliance on shortcuts and improve generalization, while the timestamp loss incorporates a distance-aware weight to penalize larger temporal errors. We evaluate EMO-TAG, a model fine-tuned using our dataset and objective, on emotion recognition and affective temporal-grounding against three AER and audio-language baselines: Flamingo-Next, Audio-Reasoner, and AffectGPT. Our results show that existing models achieve limited affective temporal-grounding despite competitive emotion recognition performance.",
+      "authors": [
+        "Abdelrahman Mohamed",
+        "Lars Kai Hansen",
+        "Zheng-Hua Tan"
+      ],
+      "categories": [
+        "cs.SD",
+        "cs.AI",
+        "eess.AS"
+      ],
+      "primary_category": "cs.SD",
+      "primary_category_name": "cs.SD"
+    },
+    {
+      "source": "arXiv",
+      "title": "Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition",
+      "published_at": "2026-09-26T17:26:12+00:00",
+      "updated_at": "2026-09-26T17:26:12Z",
+      "url": "https://arxiv.org/abs/2609.32803v1",
+      "summary": "Generative and Agentic IoT systems offer a promising foundation for digital healthcare applications that combine sensing, personalized reasoning, and autonomous interaction in real-world environments. Nutrition assistance is a natural use case, but existing Large Language Model (LLM)-based systems are often limited to passive text interaction and static context, making them unreliable when food descriptions are ambiguous or nutritional evidence is missing. We propose Nutri-ATLAS, an Embodied Agent for Tabulated Lookup and Assistance for smarter nutrition in the real world. It integrates graph-grounded nutrition reasoning, hardware-aware LLM selection, and robot-based evidence acquisition. Nutri-ATLAS builds a unified Food-Nutrient knowledge graph from USDA FoodData Central and FoodKG and learns 64-dimensional GATv2 food and recipe embeddings. A shared hybrid graph-text scoring mechanism supports food nutrition extraction, nutritional gap filling, substitute retrieval, and recipe-level meal composition, while an LLM-guided skill interface navigates landmarks, updates dietary-context and food-accessibility memory, and grounds recommendations in observed food availability. We evaluate Nutri-ATLAS across nutrient estimation, substitution retrieval, recipe recommendation, patient-profile adherence, edge deployment, and real-world embodied execution. On HealthyFoodSubs, the hybrid retriever achieves 37.9% MAP, 80.7% RR@5, and 90.1% RR@10. On NutriBench v2, Dense+GAT retrieval grounds nutrient estimation across nine quantized Qwen3.5-9B configurations. On PFoodReQ, Nutri-ATLAS reaches 78.8% MAP, 83.0% MAR, and 77.5% F1. A patient-profile study shows adherence to allergy and healthy-target constraints for all selected cases.",
+      "authors": [
+        "Uttej Kallakuri",
+        "Boxun Hu",
+        "Ankur A. Butala",
+        "Najim Dehak",
+        "Tinoosh Mohsenin"
+      ],
+      "categories": [
+        "cs.AI"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
+    },
+    {
+      "source": "arXiv",
+      "title": "Re-derivability Decides What a Staged Agent Pipeline Recovers After an Upstream Fault",
+      "published_at": "2026-09-26T17:23:48+00:00",
+      "updated_at": "2026-09-26T17:23:48Z",
+      "url": "https://arxiv.org/abs/2609.32802v1",
+      "summary": "One variable sets what an upstream fault costs a staged pipeline of language-model agents: re-derivability, how much of what a stage needs it can rebuild from the original problem. Grounding an inspector agent in that problem is worth +0.608 [+0.517, +0.700] to +0.358 over a blind one on four open-weight backbones served with thinking disabled, and on the two Qwen backbones the blind inspector changes no item at all. That head-to-head is exploratory. One deterministic fault enters the first stage, and we re-expose the original problem to $k = 0,\\dots,3$ of the downstream stages with agents, items, fault and topology held fixed, on 120 gsm_hard items per arm at temperature zero. Accuracy under fault rises on four of four backbones, from +0.233 to +0.392, the largest Holm-adjusted $p$ being $2.1\\times10^{-6}$. A registered kill test rules out tokens. Blanking every word holds the word slots fixed, and retention tracks the visible fraction on four of four, climbing from 0.221 to 0.692 on the primary. Those two families are confirmatory and everything else here is exploratory. The interaction excludes zero on two of four backbones under the registered pipeline, four of four under a three-stage pipeline, and three of four under full message history, the primary at +0.317. On Llama-3.1-8B the fault carries no detectable cost at any dose, so the other three carry every claim about what a fault costs. Re-derivability also sets what the architecture costs, and no decomposition we measured reliably beats one direct call. With no fault injected the registered pipeline loses to that call by -0.267, -0.125 and -0.317, and on Phi-4 reads +0.058 at $p = 0.118$, which the test fails to separate from zero. The repair that works is cheap and front-loaded: the first re-grounded stage buys +0.394 of matched retention for +59.8 tokens per item on Qwen3-14B, and the stages after it buy nothing.",
+      "authors": [
+        "Tianqi Bu",
+        "YuXuan Peng",
+        "Junteng Tu",
+        "Henghui Xiao"
+      ],
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "primary_category": "cs.AI",
+      "primary_category_name": "Artificial Intelligence"
     }
-  ]
+  ],
+  "errors": []
 }
