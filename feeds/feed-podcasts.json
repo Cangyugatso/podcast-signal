@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-09-29T01:24:59.303385+00:00",
+  "generated_at": "2026-09-30T00:58:34.314902+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "All of the Lenny & Friends Summit talks are now online!",
+      "published_at": "2026-09-29T13:15:57+00:00",
+      "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "summary": "Plus, some reflections and takeaways from the day",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Personal Agent Race Is Here | Anish Acharya & David Pawlan",
+      "published_at": "2026-09-29T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-personal-agent-race-is-here-anish-acharya-david-pawlan-ZNslbKZk",
+      "summary": "a16z General Partner Anish Acharya sits down with Assistant Benchmark creator David Pawlan to unpack the sudden explosion of personal AI agents and what it will take for one to become part of everyday life. David has been testing dozens of assistants across real-world tasks, from managing email and booking travel to handling financial admin. They discuss why the most useful agents may become increasingly invisible, proactively checking you into flights, finding refunds, filing reimbursements, or simply handling the small tasks that pile up across everyday life. They also explore whether the winning interface is an app, text thread, voice, or wearable; how much autonomy consumers will actually give their agents; and what happens when agents start interacting with other agents. From commerce and restaurant reservations to entirely new agent-native services, Anish and David ask what the internet looks like when software starts acting on our behalf. This episode was recorded on September 24, 2026. Resources: Follow David Pawlan on X: https://x.com/DavidPawlan Follow Anish Acharya on X: https://x.com/illscience Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/db7a374f-e7e8-4561-875a-fde28e631933/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=db7a374f-e7e8-4561-875a-fde28e631933&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "The most basic test SemiAnalysis applies to a GPU cluster health check is whether it could possibly",
+      "published_at": "2026-09-29T03:00:46+00:00",
+      "url": "https://www.youtube.com/shorts/zqywDKcTgUQ",
+      "summary": "The most basic test SemiAnalysis applies to a GPU cluster health check is whether it could possibly work on paper. Several could not. \"We've been through a few of these clusters where there's no way it could possibly work. These are health checks so bad they're worse than no health checks, because they're actively interfering with jobs.\" \"On Amazon HyperPod Slurm, the first time we tested, there was a health check that needed the node to be healthy before it could run. It could only run once the node was back in the fleet, and it was needed to bring the node back into the fleet.\" \"There are probably five or ten examples of this throughout testing where the health check never had a chance. It makes you wonder whether these people are really putting it through the paces before they hand it off to customers.\" Watch it now on YouTube. Read the ClusterMAX article, Link Bio.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zqywDKcTgUQ"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "published_at": "2026-09-29T02:55:27+00:00",
+      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "summary": "Congrats team!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "published_at": "2026-09-29T02:44:29+00:00",
+      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "summary": "a rare feature of a capability",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+      "published_at": "2026-09-29T01:48:18+00:00",
+      "url": "https://www.latent.space/p/thariq",
+      "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+      "audio_url": "https://api.substack.com/feed/podcast/217893105/b910afe71a4c96e14fd7271715a2cd15.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -173,18 +246,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-      "published_at": "2026-09-25T01:30:57+00:00",
-      "url": "https://www.latent.space/p/runway",
-      "summary": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
-      "audio_url": "https://api.substack.com/feed/podcast/217289983/80ecbf8ba268d83a6cde12d5f719e123.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -198,18 +259,6 @@
       "video_id": "NpPvKvaVRpg"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Foundries vs Navigators: Lowering the Cost of Science",
-      "published_at": "2026-09-24T15:03:16+00:00",
-      "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "summary": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -219,30 +268,6 @@
       "summary": "Can AI transform legacy incumbents rather than replacing them? Sequence Holdings co-founder and CEO Michael Lee joins Sarah Guo to discuss how holding company structures and engineering integrations are reshaping market leaders from the inside out. Michael details Sequence’s $7.7 billion take-private transaction of Baldwin alongside Dell Family Office (DFO), and shares his thesis on why traditional consulting models and software sales fall short for real enterprise AI transformations. They also talk about why permanent holding company structures are good for long-term compounding, real-world results from applying frontier engineering to BankSouth, and Michael’s lessons from his time in public investing, private equity, and operating at the intersection of market incumbents and AI. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @mjlee_2014 | @seqholdings Chapters: 00:34 – Michael Lee Introduction 01:03 – Sequence Holdings and Baldwin 01:54 – Idea for Sequence 04:36 – Incumbents in the AI Era 06:32 – Why a Holding Company 11:21 – Recruiting Top Engineers 13:08 – Investing in BankSouth 17:46 – Why an Insurance Brokerage 20:17 – Atlas Platform Explained 23:53 – Traditional Private Equity Limitations 27:23 – What Sequence Looks For in Management Teams 31:04 – Accomplishments at BankSouth 34:45 – Founder Lessons 36:08 – Story of Dell Partnership 37:10 – Career and Investment Approach 40:00 – Value of Exceptional People 42:23 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP3274846886.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-      "published_at": "2026-09-24T08:12:59+00:00",
-      "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "summary": "Team Zuck is absolutely on fire.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Case Against an AI Pause | Eddy Lazzarin",
-      "published_at": "2026-09-24T07:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-case-against-an-ai-pause-eddy-lazzarin-oPay7sAU",
-      "summary": "a16z crypto General Partner Eddy Lazzarin joins Theo Jaffee on MTS to debate the increasingly prominent calls to slow AI development and whether the current safety conversation is conflating very different kinds of risk. Eddy argues that the debate puts too much emphasis on speculative superintelligence and not enough on the costs of delaying useful technology. Rather than treating every AI failure as evidence of an alignment problem, he makes the case for familiar tools like cybersecurity, accountability, liability, market incentives, and stronger technical controls. They also discuss whether AI models can develop reputations for trustworthiness, the risks of concentrating oversight among a small group of evaluators, and why Eddy thinks the collision between Silicon Valley’s AI debates and broader politics could fundamentally reshape the conversation over the next year. Resources: Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Theo Jaffee on X: https://x.com/theojaffee Follow MTS on X: https://x.com/mtslive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c4640152-7d44-401d-a3a0-eea1a7ba0aef/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c4640152-7d44-401d-a3a0-eea1a7ba0aef&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -305,42 +330,6 @@
       "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually reward (36:54) Ballot harvesting, voter ID & whether the system is rigged or just legal (47:13) The Palisades: the empty reservoirs, suing the state & what Spencer does next Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "published_at": "2026-09-22T23:12:49+00:00",
-      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "summary": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
-      "audio_url": "https://api.substack.com/feed/podcast/216986081/4e28f684cb755ce703f7e39c9b492e85.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
-      "published_at": "2026-09-22T09:00:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine",
-      "summary": "(0:00) Welcome Blake Scholl! (5:11) Solving the sonic boom & legalizing supersonic flight (7:59) The pivot to powering data centers (10:38) Jason joins: data center demand, private jets & what winning looks like Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Blake_Scholl_AIS26_AUDIO_v99.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
-      "published_at": "2026-09-22T08:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/CLS7922860814.mp3",
-      "summary": "Gabe Stengel is the co-founder and CEO of Rogo, the AI platform for finance. He believes the best investors will spend the next several years reinventing their firms around AI, and Rogo is trying to build the infrastructure that allows them to do it. We discuss how Rogo evolved alongside the frontier models, why the last mile and the harness around the models matter so much, what happens when every portfolio manager can deploy thousands of agents against a problem, and how AI could transform the way capital is raised, assets are priced, and deals get done. We also cover which investing skills become more valuable as AI improves, the move from seat-based to outcome-based pricing, Rogo’s internal company brain called Shrek, the 40 investor rejections Gabe received before his Series A, why building in applied AI requires extraordinary aggression, and what it takes to become a black hole for talent and capital. Please enjoy my conversation with Gabe Stengel. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Welcome to Invest Like The Best (00:01:24) The Model Eras of Rogo (00:04:15) Why the Last Mile Mattered (00:06:14) Who’s Using Rogo Right Now (00:10:55) Which Investor Skills Still Matter (00:12:23) Inside Rogo's Data Stack (00:14:33) Competing With the Frontier Labs (00:16:57) Why the Harness Matters Most (00:18:05) What Makes a Vertical AI Winner (00:22:00) How Firms Buy AI Software (00:23:43) From Seats to Outcome Pricing (00:31:19) Auditability Beats Accuracy (00:32:55) Scaling Enterprise Sales Fast (00:34:48) Meet Shrek, Rogo's Company Brain (00:35:49) The Pitch to Great Talent (00:39:37) What Chewing Glass Feels Like (00:42:18) Forty Investor Rejections (00:47:41) Finance's Innovator's Dilemma (00:50:22) Questions Every Firm Should Ask (00:53:09) What Remains Most Uncertain (00:56:46) Becoming a Black Hole for Talent (00:57:56) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS7922860814.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
