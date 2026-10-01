@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-09-30T00:58:34.314902+00:00",
+  "generated_at": "2026-10-01T01:01:47.977385+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "published_at": "2026-09-30T22:23:40+00:00",
+      "url": "https://www.latent.space/p/devday-2026",
+      "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
+      "audio_url": "https://api.substack.com/feed/podcast/218243619/4623bf38297ddb16dba4460b8b439140.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs",
+      "published_at": "2026-09-30T21:00:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
+      "summary": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fame helps or hurts & the non-obvious bets (46:10) Riding winners, getting cash back to investors & spotting bubble behavior Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenAI Dev Day 2026: The releases that actually matter",
+      "published_at": "2026-09-30T14:45:15+00:00",
+      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+      "summary": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
+      "audio_url": "https://api.substack.com/feed/podcast/218186983/9c2ff1653183e44db01f0a6716124cf3.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+      "published_at": "2026-09-30T12:04:27+00:00",
+      "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "summary": "Watch now (46 mins) | 🎙️ Educator and developer John Lindquist shares eight Jev demos, from live voice classification and deduplication to agent routing, showing how low costs make once-impractical ideas worth trying",
+      "audio_url": "https://api.substack.com/feed/podcast/218050591/ad574beedfa0c67fe39e8b4b552ca024.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The $1 Trillion AI Buildout | State of Markets",
+      "published_at": "2026-09-30T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1",
+      "summary": "a16z’s David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez unpack 25 key charts from the latest State of Markets presentation, from the scale of the AI infrastructure buildout to what adoption looks like inside companies today. They examine why rising markets have so far been supported by earnings rather than multiple expansion, why hyperscaler CapEx is approaching $1 trillion annually, and why demand for compute continues to outrun supply. They also look at the downstream effects of that spending across chips, power, construction, and physical infrastructure. State of Markets Then they move up the stack: OpenAI and Anthropic’s revenue growth, the gap between AI deployment and measurable enterprise impact, the rise of agents, falling inference costs, and what all of this means for SaaS. They close with where the team is spending time next, including consumer agents, robotics, autonomy, AI and biology, personal health, defense, and the continued diffusion of AI across the enterprise. State of Markets Resources: Follow David George on X: https://x.com/DavidGeorge83 Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Alex Immerman on X: https://x.com/aleximm Follow Santiago Rodriguez on X: https://x.com/santiago__rdz Read David’s piece ‘There are only two paths left for software’: https://a16z.com/there-are-only-two-paths-left-for-software/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "published_at": "2026-09-30T05:53:10+00:00",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "summary": "the most confident DevDay yet.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -150,18 +222,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-      "published_at": "2026-09-27T12:32:18+00:00",
-      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-      "summary": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
-      "audio_url": "https://api.substack.com/feed/podcast/214070196/a2fa19b5bc369946869da1db60e349bd.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -171,18 +231,6 @@
       "summary": "a16z’s Katie Kirsch sits down with Harvey VP of Talent Maggie Landers to discuss what happens inside a company growing at AI speed, and how you preserve culture while adding more than 1,000 employees in a year. Maggie explains why Harvey prioritizes progress over perfection, how its values of simplicity, decisiveness, and “job’s not finished” shape the way people work, and why moving quickly requires giving employees significant trust and autonomy. For people accustomed to being the “A student,” that can mean learning to experiment, make mistakes, and course-correct quickly. They also get into how Harvey identifies people who can thrive in that environment, what changes when most of your company is relatively new, the role its founders play in maintaining culture, and why judgment becomes increasingly important when employees are given the freedom to move fast. Resources: Follow Maggie Landers on LinkedIn: linkedin.com/in/maggiecohenlanders Follow Katie Kirsch on X: https://x.com/katiekirsch Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa2d03fd-277b-4e4f-9bdc-153aca2190a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa2d03fd-277b-4e4f-9bdc-153aca2190a0&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
-      "published_at": "2026-09-26T17:54:02+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
-      "summary": "Community Wisdom 300",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
@@ -207,42 +255,6 @@
       "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07:58) Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure (1:27:13) Anthropic's bio research and \"wet lab\" in SF Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.deepseek.com/en/news/deepseek-v4-1-flash https://x.com/XiaomiMiMo/status/2102138559952290106 https://x.com/0x0SojalSec/status/2101738277049131358 https://prismml.com https://x.com/SenSanders/status/2102827319123693689 https://x.com/yipitdata/status/2102781268974793023 https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/ https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc https://polymarket.com/event/ipos-before-2027 https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo https://x.com/rauchg/status/2101186741042663579 https://www.anthropic.com/constitution https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://x.com/mustafasuleyman/status/2100223594534150428 https://freebeacon.com/america/suicidal-compassion-meet-the-anthropic-officials-who-think-ai-might-be-justified-in-going-rogue-against-the-humans-enslaving-it https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-      "published_at": "2026-09-25T23:14:41+00:00",
-      "url": "https://www.latent.space/p/openrouter",
-      "summary": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
-      "audio_url": "https://api.substack.com/feed/podcast/217456046/69e6d188059a812b68e47c97b6495374.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Reputation Graph of Silicon Valley | Introducing Cosign",
-      "published_at": "2026-09-25T14:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-reputation-graph-of-silicon-valley-introducing-cosign-qLcU00IT",
-      "summary": "a16z’s Erik Torenberg sits down with Josh Elman, Olivia Moore, and David Booth to introduce Cosign, a new product built around professional reputation and the people, companies, and products you’re willing to put your name behind. They unpack a simple idea at the heart of Silicon Valley: some of the most valuable professional signals aren’t credentials, but who believes in you. From the mentor who shaped your career to the colleague you’d work with anywhere or the young builder you think everyone should be watching, Cosign is an attempt to make those signals more visible and durable. They also discuss why human endorsements may become more valuable as AI makes outreach and information abundant, what existing professional networks get right and miss, and how making reputation more legible could help talented people get discovered earlier, find collaborators, and carry the work they’ve done behind the scenes into whatever they do next. Resources: Follow Josh Elman on X: https://x.com/joshelman Follow Olivia Moore on X: https://x.com/omooretweets Follow David Booth on X: https://x.com/david__booth Follow Cosign: https://x.com/cosign_build Read more about Cosign: https://www.a16z.news/how-silicon-valley-knows-its-people Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8edd75ff-d524-4b42-805a-b2a89a86f10d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8edd75ff-d524-4b42-805a-b2a89a86f10d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] The Future of Latent Space",
-      "published_at": "2026-09-25T05:37:00+00:00",
-      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "summary": "A quiet day lets us discuss the work behind the scenes - now open for business!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -280,56 +292,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO1952456835.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
-      "published_at": "2026-09-23T23:00:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
-      "summary": "(0:00) Luca Ferrari joins the Besties! (1:56) Crashing an AI startup, the $40,000 restart & buying product market fit (4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard (9:55) Debt as an accelerant, what happens if rates rise & who else is bidding (14:58) Inside the deal desk: what gets acquired, why they don't build & the founder question (20:22) Building a tech giant out of Milan, Europe's talent pool & the outsider advantage Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Luca_Ferrari_AIS26_AUDIO_v88.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "$7 trillion is about to get spent on GPU clouds, and every provider is being asked to get 100x bigge",
-      "published_at": "2026-09-23T22:58:23+00:00",
-      "url": "https://www.youtube.com/shorts/SCDiwsubNp8",
-      "summary": "$7 trillion is about to get spent on GPU clouds, and every provider is being asked to get 100x bigger overnight. ClusterMAX 3.0 spent three months finding out who actually can. Ep. 033 of SemiAnalysis Weekly is live. Jordan Nanos sits down with Sam Harshe and Pratt Bhatt fresh off testing 77 GPU clouds: the new rankings, health checks, cache hit rates, NCCL, agents on clusters, a Linux kernel bug, security, financing and backstops, H100s, and hosted RL training. \"It's my first time seeing sunlight today, actually, since testing began.\" \"This time we rank 77 providers.\" \"Just about everyone in the industry looks like a genius right now.\" \"No way. I thought you could just earn 80% margins on the inference business, right?\" \"Who are you going to trust for your Vera Rubin going into next year?\" Watch it Now on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "SCDiwsubNp8"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 033 - ClusterMAX 3.0 Is Here! Neoclouds Ranked (Neoclouds, GPUs)",
-      "published_at": "2026-09-23T22:54:46+00:00",
-      "url": "https://www.youtube.com/watch?v=gO7oczGh9qE",
-      "summary": "ClusterMAX 3.0 is here. Sam Harshe (@sharshe02) and Pratt Bhatt (@PrathmeshBhat19) join Jordan Nanos (@jordannanos) after months of testing 77 GPU clouds. Somebody moved up. Somebody moved down. You'll have to listen. Health checks, cache hit rates, NCCL recipes, agentic coding on clusters, a Linux kernel bug, neocloud security, SLAs and financing, NVIDIA's backstops, five-year-old H100s, and hosted RL training. Read the full ClusterMAX 3.0 report: https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard ClusterMAX inquiries: ⁠clustermax@semianalysis.com⁠ 0:00 Cold Open 1:32 The Rankings 6:58 Health Checks 13:26 Endpoint Cache Misses 16:40 Networking and NCCL 22:52 Vibe-Coded Infra 31:27 Bug Hunting 38:36 Security 45:43 Financing Neoclouds 56:33 Hosted Training and RL",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "gO7oczGh9qE"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
-      "published_at": "2026-09-23T01:44:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
-      "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living pitch & the case against Becerra (21:46) Spencer Pratt joins: the message that cut through & the LA race that flipped (26:58) The city up close: the parks, small business & who the rules actually reward (36:54) Ballot harvesting, voter ID & whether the system is rigged or just legal (47:13) The Palisades: the empty reservoirs, suing the state & what Spencer does next Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/HilstonPratt_AIS26_AUDIO_v200.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
