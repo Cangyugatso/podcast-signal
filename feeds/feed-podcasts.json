@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-01T01:01:47.977385+00:00",
+  "generated_at": "2026-10-02T01:15:09.610386+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Academia is for Ambition — Alex Zhang, MIT",
+      "published_at": "2026-10-02T00:28:04+00:00",
+      "url": "https://www.latent.space/p/rlm",
+      "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+      "audio_url": "https://api.substack.com/feed/podcast/218414422/044c92ee79bb60914986e42706d74969.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "published_at": "2026-10-01T16:38:11+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Learn how invisible, mathematical watermarks help trace AI provenance, protect against misuse, and safeguard protein sequence design without impacting biological function. Timecodes: 00:00 Introduction 00:34 What is a watermark? 04:35 SynthID 15:16 Images and video 19:28 SynthID Bio 28:00 Future of resilience Learn more about SynthID Bio: https://deepmind.google/blog/introducing-synthid-bio/ Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/83783c09-9840-410b-8653-84a9a446ea98/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=83783c09-9840-410b-8653-84a9a446ea98&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
+      "published_at": "2026-10-01T16:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA",
+      "summary": "a16z’s Joel de la Garza sits down with DoxxNet founder Barrett Lyon to discuss what it would take to rebuild the internet around privacy, direct communication, and less dependence on centralized intermediaries. Barrett explains why he thinks traditional VPNs only solve part of the problem and how DoxxNet is building a parallel mesh network where users can communicate peer-to-peer, transfer large files, make calls, and message without routing those interactions through a central application server. He also explains why the company owns its infrastructure and runs its AI systems locally rather than relying on third-party inference providers. doxxnet_assembly They also get into the growing amount of tracking embedded across the internet, what happens when that data can be analyzed by increasingly capable AI, and why Barrett believes the underlying protocols of the internet are due for another wave of experimentation. Along the way, he shares lessons from decades of building internet infrastructure, from fighting early DDoS attacks to mapping the internet and building global networks. Resources: Learn more about DoxxNet: https://doxx.net Follow Barrett Lyon on X: https://x.com/BarrettLyon Follow Joel de la Garza on LinkedIn: linkedin.com/in/3448827723723234 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f388d562-3c7e-4342-ba98-05729b8c29e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f388d562-3c7e-4342-ba98-05729b8c29e8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "published_at": "2026-10-01T15:28:28+00:00",
+      "url": "https://www.dwarkesh.com/p/si-sheppard",
+      "summary": "Fall of the Incas & Aztecs.",
+      "audio_url": "https://api.substack.com/feed/podcast/218345956/a16d196884ff2477b2958c2fa132858d.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Great Companies, Beaten-Down Stocks: Booking & Pool Corp with Jonathan Boyar",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Great-Companies--Beaten-Down-Stocks-Booking--Pool-Corp-with-Jonathan-Boyar-e3pl0jv",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO2122058813.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "published_at": "2026-10-01T06:45:05+00:00",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "summary": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -126,30 +198,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Opus 5.5 is good at explainer videos",
-      "published_at": "2026-09-29T02:44:29+00:00",
-      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "summary": "a rare feature of a capability",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "published_at": "2026-09-29T01:48:18+00:00",
-      "url": "https://www.latent.space/p/thariq",
-      "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
-      "audio_url": "https://api.substack.com/feed/podcast/217893105/b910afe71a4c96e14fd7271715a2cd15.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -234,18 +282,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
-      "published_at": "2026-09-26T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/aaron-levie-steven-sinofsky-martin-casado-how-do-you-secure-a-world-of-ai-agents-v8Q401cc",
-      "summary": "Erik Torenberg sits down with Box CEO Aaron Levie, and a16z’s Martin Casado, and Steven Sinofsky to debate how the AI industry should think about safety, security, and regulation as increasingly capable agents move into the real world. They argue that much of today’s conversation is happening before we have clearly defined the risks we’re trying to regulate. Drawing on earlier waves of computing, from computer viruses and the early internet to aviation and automobiles, they ask what AI can learn from industries that developed safety standards only after understanding how their technologies actually failed. The conversation then gets concrete: agents don’t get tired, can operate at enormous scale, and can probe systems in ways human employees never could. That could require rethinking permissions, authentication, operating systems, and the security stack itself. They also discuss why AI innovation may increasingly move beyond the frontier labs and into the software built around the models. Resources: Follow Aaron Levie on X: https://x.com/levie Follow Martin Casado on X: https://x.com/martin_casado Follow Steven Sinofsky on X: https://x.com/stevesi Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2d196828-25c3-4974-8a6d-7710746e6966/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2d196828-25c3-4974-8a6d-7710746e6966&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -255,43 +291,6 @@
       "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07:58) Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure (1:27:13) Anthropic's bio research and \"wet lab\" in SF Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.deepseek.com/en/news/deepseek-v4-1-flash https://x.com/XiaomiMiMo/status/2102138559952290106 https://x.com/0x0SojalSec/status/2101738277049131358 https://prismml.com https://x.com/SenSanders/status/2102827319123693689 https://x.com/yipitdata/status/2102781268974793023 https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/ https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc https://polymarket.com/event/ipos-before-2027 https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo https://x.com/rauchg/status/2101186741042663579 https://www.anthropic.com/constitution https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://x.com/mustafasuleyman/status/2100223594534150428 https://freebeacon.com/america/suicidal-compassion-meet-the-anthropic-officials-who-think-ai-might-be-justified-in-going-rogue-against-the-humans-enslaving-it https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Agentic coding puts a kind of stress on GPU clusters that providers are struggling to handle. SemiAn",
-      "published_at": "2026-09-24T23:00:49+00:00",
-      "url": "https://www.youtube.com/shorts/NpPvKvaVRpg",
-      "summary": "Agentic coding puts a kind of stress on GPU clusters that providers are struggling to handle. SemiAnalysis runs it on the clusters it rates anyway, with an open-source CLI in front. \"A lot of our ClusterMAX testing, we lead with our CLI, cmax. It's open source. Feel free to try it out on your managed cluster.\" \"We do use agentic coding for testing all these clusters, and the workload is very different. The workload is very stressful on these systems.\" \"That's why we have cmax CLI as a front end, and the agent is just a wrap around it. If there are any issues cmax CLI faces, the agent debugs into it and understands what's going on.\"",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "NpPvKvaVRpg"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
-      "published_at": "2026-09-24T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP3274846886.mp3",
-      "summary": "Can AI transform legacy incumbents rather than replacing them? Sequence Holdings co-founder and CEO Michael Lee joins Sarah Guo to discuss how holding company structures and engineering integrations are reshaping market leaders from the inside out. Michael details Sequence’s $7.7 billion take-private transaction of Baldwin alongside Dell Family Office (DFO), and shares his thesis on why traditional consulting models and software sales fall short for real enterprise AI transformations. They also talk about why permanent holding company structures are good for long-term compounding, real-world results from applying frontier engineering to BankSouth, and Michael’s lessons from his time in public investing, private equity, and operating at the intersection of market incumbents and AI. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @mjlee_2014 | @seqholdings Chapters: 00:34 – Michael Lee Introduction 01:03 – Sequence Holdings and Baldwin 01:54 – Idea for Sequence 04:36 – Incumbents in the AI Era 06:32 – Why a Holding Company 11:21 – Recruiting Top Engineers 13:08 – Investing in BankSouth 17:46 – Why an Insurance Brokerage 20:17 – Atlas Platform Explained 23:53 – Traditional Private Equity Limitations 27:23 – What Sequence Looks For in Management Teams 31:04 – Accomplishments at BankSouth 34:45 – Founder Lessons 36:08 – Story of Dell Partnership 37:10 – Career and Investment Approach 40:00 – Value of Exceptional People 42:23 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP3274846886.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "From Cartoon Apes to Reddit Mania: Why Crowds Lose Their Minds With Money",
-      "published_at": "2026-09-24T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/From-Cartoon-Apes-to-Reddit-Mania-Why-Crowds-Lose-Their-Minds-With-Money-e3p9q3k",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO1952456835.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
