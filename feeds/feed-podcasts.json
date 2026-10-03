@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-10-02T01:15:09.610386+00:00",
+  "generated_at": "2026-10-03T00:53:07.833558+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Are GPUs money printers?",
+      "published_at": "2026-10-02T23:30:31+00:00",
+      "url": "https://www.youtube.com/shorts/BFhXLcv2-rw",
+      "summary": "Are GPUs money printers? The InferenceX team breaks down Engram memory offloading, AgentX’s profit calculator, TPU v7, Vera Rubin vs. Blackwell, and whether faster tokens are worth the premium. Plus: TileRT is pushing NVIDIA GPUs further. What does that mean for specialized chips? Jordan Nanos is joined by Cam Quilici, Bryan Shan, and Alec Ibarra for a new SemiAnalysis Weekly.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "BFhXLcv2-rw"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+      "published_at": "2026-10-02T22:30:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
+      "summary": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging (45:22) Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more (1:00:24) Midterm predictions, 2028 look ahead (1:09:28) Media coverage of attempted terrorist hijacking Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/WhiteHouse/status/2105292669303791687 https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://www.reuters.com/world/us/us-second-quarter-gdp-revised-higher-amid-robust-consumer-spending-2026-09-30 https://www.atlantafed.org/research-and-data/data/gdpnow https://www.bls.gov/opub/ted/2026/payroll-employment-rose-162000-in-august-2026.htm https://www.wsj.com/opinion/u-s-economy-gdp-commerce-upward-revision-aee8692e https://www.investing.com/news/economic-indicators/chicago-pmi-surges-signals-robust-manufacturing-expansion-93CH4925362 https://www.reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30 https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel https://polymarket.com/predictions/midterms https://x.com/OliaOnX/status/2105333178814832963 https://x.com/NYTimesPR/status/2105328158379856153",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 034 - The Fight for Fast Tokens, TPU v7, Vera Rubin, and Engrams (AI Supply Chain, InferenceX)",
+      "published_at": "2026-10-02T21:00:09+00:00",
+      "url": "https://www.youtube.com/watch?v=NcqHQmpNjr0",
+      "summary": "The InferenceX team is back after two months. Jordan Nanos (@JordanNanos) is joined by Cam Quilici (@noslawextratost), Bryan Shan, and Alec Ibarra to discuss Engram and DRAM offloading, the AgentX benchmark and its profit calculator, TPU v7 on InferenceX, Vera Rubin vs Blackwell, fast tokens, and TileRT on NVIDIA GPUs. 0:00 Intro 0:31 Engrams 12:27 AgentX Benchmark 16:36 Profit Calculator 23:40 TPU v7 32:03 Vera Rubin 40:49 Fast Tokens 49:33 TileRT 54:00 Chip Startups 1:01:31 Wrap Up",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "NcqHQmpNjr0"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "published_at": "2026-10-02T14:04:49+00:00",
+      "url": "https://www.latent.space/p/airbnb",
+      "summary": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why AI Agents Can Beat the Incumbents",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-ai-agents-can-beat-the-incumbents-fcyhpbT6",
+      "summary": "a16z’s Seema Amble and Elena Burger sit down with Lio co-founder and CEO Vladimir Keil to ask where AI-native startups have an advantage when incumbent software companies already own the customer, the data, and the system of record. Their answer comes down to the work that happens outside those systems. In procurement, a final price in an ERP can hide hundreds of emails, spreadsheets, supplier conversations, engineering analyses, and decisions across legal, finance, and operations. Vlad explains how Lio uses multi-agent systems to take on more of that end-to-end work, from sourcing and RFQs to negotiation, shipment tracking, and invoices. They also discuss how enterprises learn to trust agents with increasingly consequential decisions, why the last 20% of an internal AI build can require most of the effort, and what happens when both buyers and suppliers have agents working on their behalf. Resources: Follow Vladimir Keil on X: https://x.com/askvladi?lang=en Follow Vladimir Keil on LinkedIn: https://www.linkedin.com/in/vladimir-keil/ Follow Seema Amble on X: https://x.com/seema_amble Learn more about Lio: https://www.lio.ai/ Seema Amble’s “Investing in Lio” article: https://a16z.com/announcement/investing-in-lio/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/63755eda-ff93-4095-8822-e8bcb95a06a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=63755eda-ff93-4095-8822-e8bcb95a06a6&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
+      "summary": "Founder and CEO of full-stack AI chip company Fractile, Walter Goodwin, joins Sarah Guo to discuss the bets he’s made on the future of the chip market as other major players like Broadcom, NVIDIA, and AMD try to accelerate their workloads. They discuss the difference in Fractile’s newer approach on model architecture with a full-stack team in the current chip landscape and the technical bets they’re making in that direction. Walter also talks about compressing the gap between the chip design cycle and its payoff period, and making a generational leap in AI inference to realize the bet in volume against the value to be captured. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @goodwin_ml | @fractile_ai Chapters: 00:46 – Walter Goodwin and Fractile Introduction 02:29 – The Chip Landscape Now 04:56 – Common Handoffs From Architecture-Focused Players 07:18 – Full Stack Approach and Team Setup 09:49 – Fractile’s Most Important Technical Bets 15:32 – Workload Predictions and Compressing the Chip Design Cycle 23:03 – Architect Intent to Output Bottlenecks and Accelerating Trials 28:16 – Workload Bets on Model Architectural Shifts 31:20 – The Future of AI Chip Players and Market Structure 35:14 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+      "published_at": "2026-10-02T06:40:53+00:00",
+      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+      "summary": "the minimalist harness goes stable... and TypeScript!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -137,18 +223,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-      "published_at": "2026-09-30T05:53:10+00:00",
-      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-      "summary": "the most confident DevDay yet.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -184,18 +258,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "zqywDKcTgUQ"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "published_at": "2026-09-29T02:55:27+00:00",
-      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "summary": "Congrats team!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
     },
     {
       "source": "All-In Podcast",
@@ -267,18 +329,6 @@
       "summary": "Nancy Zimmerman is the co-founder and Managing Partner of Bracebridge Capital, a $13 billion alternative asset manager specializing in fixed income arbitrage that she founded over 30 years ago, in 1994, alongside Gabe Sunshine with capital from David Swensen at Yale. Our conversation traces Nancy's evolution from pricing securities to investing and the enduring sources of inefficiency in fixed income markets. We discuss the nature of arbitrage opportunities and their persistence over time and then turn to hunting for mispricings today across developed market rates, structured credit, corporates, and emerging markets. Along the way, we cover Bracebridge's process for sourcing ideas, assessing relative value, determining position sizes, constructing a portfolio, and managing risk. We close with building a team, aligning the organization and its clients, investing in today's exciting and unusual environment, and transferring investment knowledge to work on the investment committee and brain science research at Nancy's alma mater, Brown University. Nancy is among the sharpest, most curious, funny, and deeply experienced investors in the hedge fund world. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.517_Nancy_Zimmerman_-_AUDIO_V1.2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building a Team at AI Speed | Harvey’s Maggie Landers",
-      "published_at": "2026-09-27T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/building-a-team-at-ai-speed-harveys-maggie-landers-1mxeFqtp",
-      "summary": "a16z’s Katie Kirsch sits down with Harvey VP of Talent Maggie Landers to discuss what happens inside a company growing at AI speed, and how you preserve culture while adding more than 1,000 employees in a year. Maggie explains why Harvey prioritizes progress over perfection, how its values of simplicity, decisiveness, and “job’s not finished” shape the way people work, and why moving quickly requires giving employees significant trust and autonomy. For people accustomed to being the “A student,” that can mean learning to experiment, make mistakes, and course-correct quickly. They also get into how Harvey identifies people who can thrive in that environment, what changes when most of your company is relatively new, the role its founders play in maintaining culture, and why judgment becomes increasingly important when employees are given the freedom to move fast. Resources: Follow Maggie Landers on LinkedIn: linkedin.com/in/maggiecohenlanders Follow Katie Kirsch on X: https://x.com/katiekirsch Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa2d03fd-277b-4e4f-9bdc-153aca2190a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa2d03fd-277b-4e4f-9bdc-153aca2190a0&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
