@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-10-03T00:53:07.833558+00:00",
+  "generated_at": "2026-10-04T00:20:17.279107+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+      "published_at": "2026-10-03T17:00:49+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "summary": "Community Wisdom 301",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Beyond the God Model | Alex Atallah & Amjad Masad",
+      "published_at": "2026-10-03T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE",
+      "summary": "A16z’s Erik Torenberg sits down with OpenRouter’s Alex Atallah and Replit founder and CEO Amjad Masad to discuss why the future of AI may look less like one all-purpose model and more like an ecosystem of specialized models working together. Alex explains why OpenRouter is betting on “neurodiversity”: different models trained in different ways, routed and combined based on the job at hand. Amjad makes a similar case from inside the enterprise, where companies increasingly need to own their AI capabilities rather than depend entirely on a single model provider. They explore what happens when general-purpose agents give way to teams of specialized agents, why smaller models can sometimes be cheaper, safer, and easier to control, and how routing and model fusion could deliver frontier-level performance at lower cost. They also get into agent-to-agent communication, AI security, and why the next generation of companies may need an independence layer across models, clouds, and data. Resources: Follow Alex Atallah on X: https://x.com/alexatallah Follow Amjad Masad on X: https://x.com/amasad Learn more about OpenRouter: https://openrouter.ai Learn more about Replit: https://replit.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cc5d9775-0204-484c-97b5-e29f4efc2c9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cc5d9775-0204-484c-97b5-e29f4efc2c9e&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-10-03T08:45:15+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "summary": "a quiet day.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -163,18 +199,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-      "published_at": "2026-09-30T22:23:40+00:00",
-      "url": "https://www.latent.space/p/devday-2026",
-      "summary": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform.",
-      "audio_url": "https://api.substack.com/feed/podcast/218243619/4623bf38297ddb16dba4460b8b439140.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -296,30 +320,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jev for beginners: how to use it and what to build",
-      "published_at": "2026-09-28T12:03:04+00:00",
-      "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "summary": "Watch now (26 mins) | 🎙️ Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I’ve ever put in a pipeline—and this week I shipped three real projects with it",
-      "audio_url": "https://api.substack.com/feed/podcast/217276787/bbbdb644d146a9502f51a217a7dcb87a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Can Write Code. Why Isn’t Software Better?",
-      "published_at": "2026-09-28T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ai-can-write-code-why-isnt-software-better-je38wEkC",
-      "summary": "a16z’s Ben Horowitz and Martin Casado sit down with TypeSafe AI founder Diogo Almeida to ask a simple question: AI has become remarkably capable, so where is all the automation? Diogo argues that coding agents may help us write software faster, but the software they produce still largely works the way software always has. TypeSafe is taking a different approach with Jev: putting intelligence inside software itself, so developers can build programs that reason about intent and make probabilistic decisions rather than simply generate text for a human to interpret. They discuss why reliability is the key to making AI genuinely programmable, how this could open a new era of probabilistic software, and why established SaaS companies may be particularly well positioned to benefit. Ultimately, Diogo’s goal is straightforward: technology that can reliably “do what I mean.” Resources: Follow Diogo Almeida: https://x.com/CompleteSkeptic Learn more about TypeSafe AI: https://typesafe.ai/ Follow TypeSafe AI: https://x.com/typesafeai Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a874c8b0-6ca6-4359-9d91-084c2ed8cd29/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a874c8b0-6ca6-4359-9d91-084c2ed8cd29&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -329,18 +329,6 @@
       "summary": "Nancy Zimmerman is the co-founder and Managing Partner of Bracebridge Capital, a $13 billion alternative asset manager specializing in fixed income arbitrage that she founded over 30 years ago, in 1994, alongside Gabe Sunshine with capital from David Swensen at Yale. Our conversation traces Nancy's evolution from pricing securities to investing and the enduring sources of inefficiency in fixed income markets. We discuss the nature of arbitrage opportunities and their persistence over time and then turn to hunting for mispricings today across developed market rates, structured credit, corporates, and emerging markets. Along the way, we cover Bracebridge's process for sourcing ideas, assessing relative value, determining position sizes, constructing a portfolio, and managing risk. We close with building a team, aligning the organization and its clients, investing in today's exciting and unusual environment, and transferring investment knowledge to work on the investment committee and brain science research at Nancy's alma mater, Brown University. Nancy is among the sharpest, most curious, funny, and deeply experienced investors in the hedge fund world. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.517_Nancy_Zimmerman_-_AUDIO_V1.2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
-      "published_at": "2026-09-26T02:02:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
-      "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for frontier companies (29:22) Anthropic and OpenAI postpone IPOs: liquidity risk and open source pressure (53:11) Political reactions to \"Pacing the Frontier\": Bernie's AI ban, Trump, Bessent, Obama (1:07:58) Meta launches Muse, AI \"alignment,\" Oracle's Force Majeure (1:27:13) Anthropic's bio research and \"wet lab\" in SF Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.deepseek.com/en/news/deepseek-v4-1-flash https://x.com/XiaomiMiMo/status/2102138559952290106 https://x.com/0x0SojalSec/status/2101738277049131358 https://prismml.com https://x.com/SenSanders/status/2102827319123693689 https://x.com/yipitdata/status/2102781268974793023 https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/ https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc https://polymarket.com/event/ipos-before-2027 https://www.theinformation.com/articles/anthropic-seeks-palantir-style-voting-control-seven-co-founders-ahead-ipo https://x.com/rauchg/status/2101186741042663579 https://www.anthropic.com/constitution https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://x.com/mustafasuleyman/status/2100223594534150428 https://freebeacon.com/america/suicidal-compassion-meet-the-anthropic-officials-who-think-ai-might-be-justified-in-going-rogue-against-the-humans-enslaving-it https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E290_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
