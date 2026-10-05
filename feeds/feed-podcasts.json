@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-04T00:20:17.279107+00:00",
+  "generated_at": "2026-10-05T00:23:47.966329+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
+      "published_at": "2026-10-04T12:32:47+00:00",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
+      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
+      "audio_url": "https://api.substack.com/feed/podcast/217274136/c23e92a6cc478dbff494fdb2430bfdd5.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+      "published_at": "2026-10-04T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion-bFIBGYtV",
+      "summary": "a16z General Partner David George joins Jack Altman on Uncapped to make the case that many of the biggest debates in AI are framed the wrong way. Frontier models or open source? Labs or applications? David’s answer is often “and.” With AI adoption still concentrated among a relatively small group of heavy users, he argues there could be room for multiple layers of the stack to grow at once. David and Jack discuss why demand for compute continues to outstrip supply, why applications can thrive even as frontier labs expand into new products, and why consumer AI may still be at the beginning of its biggest shift, from reactive chatbots to proactive assistants that can act on our behalf. They also zoom out to autonomy, robotics, healthcare, and the next generation of technology companies, before turning to venture itself: why David believes today’s product cycle is unusually strong, how capital can accelerate AI companies in ways it couldn’t during the SaaS era, and why founders and narrative become increasingly important as companies scale. This conversation originally appeared on Jack Altman’s Uncapped. Resources: Follow David George on X: https://x.com/DavidGeorge83 Follow Jack Altman: https://x.com/jaltma Listen to more from Uncapped : https://www.youtube.com/@uncappedpod Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f7d0e381-40ba-4655-bdfe-afe618282935/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f7d0e381-40ba-4655-bdfe-afe618282935&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -259,18 +283,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Personal Agent Race Is Here | Anish Acharya & David Pawlan",
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-personal-agent-race-is-here-anish-acharya-david-pawlan-ZNslbKZk",
-      "summary": "a16z General Partner Anish Acharya sits down with Assistant Benchmark creator David Pawlan to unpack the sudden explosion of personal AI agents and what it will take for one to become part of everyday life. David has been testing dozens of assistants across real-world tasks, from managing email and booking travel to handling financial admin. They discuss why the most useful agents may become increasingly invisible, proactively checking you into flights, finding refunds, filing reimbursements, or simply handling the small tasks that pile up across everyday life. They also explore whether the winning interface is an app, text thread, voice, or wearable; how much autonomy consumers will actually give their agents; and what happens when agents start interacting with other agents. From commerce and restaurant reservations to entirely new agent-native services, Anish and David ask what the internet looks like when software starts acting on our behalf. This episode was recorded on September 24, 2026. Resources: Follow David Pawlan on X: https://x.com/DavidPawlan Follow Anish Acharya on X: https://x.com/illscience Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/db7a374f-e7e8-4561-875a-fde28e631933/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=db7a374f-e7e8-4561-875a-fde28e631933&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -293,18 +305,6 @@
       "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the Stardoll origin story Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
-      "published_at": "2026-09-28T15:03:13+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
