@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-05T00:23:47.966329+00:00",
+  "generated_at": "2026-10-06T02:01:34.937204+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "published_at": "2026-10-05T15:03:24+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Building the Total Portfolio at Ontario Teachers – Stephen McLennan (EP.518)",
+      "published_at": "2026-10-05T14:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/building-the-total-portfolio-at-ontario-teachers-stephen-mclennan-ep518",
+      "summary": "Stephen McLennan is the Co-Chief Investment Officer of the Ontario Teachers' Pension Plan, where he oversees asset allocation for the $300 billion fund responsible for the retirement security of 346,000 teachers. Stephen joined OTPP in 2003 and worked across credit, natural resources, infrastructure, and Total Fund Management, before splitting the CIO seat with Gillian Brown in 2024 — a dual-CIO structure that is unique among Canada's largest pension funds. Our conversation traces that path and discusses OTPP's total portfolio strategy, including the balance of top-down asset allocation with bottom-up investing, role of active management, liquidity, leverage, and internal and external management. We cover where private equity, credit, infrastructure, hedge funds, and inflation-sensitive assets earn their place in the portfolio, how AI-driven concentration risk factors into portfolio resilience, and the evolution of the Canadian model, with both enduring edges and eroding competitive advantages. Register for TomorrowX using the Capital Allocators discount here . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.518_Stephen_McLennan_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "published_at": "2026-10-05T12:04:54+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "summary": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+      "audio_url": "https://api.substack.com/feed/podcast/218411890/aa07f9195211ebc3f9d97bb380bb7bbb.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Top 100 Consumer AI Apps: Who’s Actually Paying?",
+      "published_at": "2026-10-05T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-top-100-consumer-ai-apps-whos-actually-paying-PdmgSeRQ",
+      "summary": "a16z Editorial Partner Elena Burger sits down with investing partners Olivia Moore and Josh Elman to unpack the seventh edition of a16z’s Top 100 Consumer AI Apps, including a new dimension this time: what consumers are actually paying for. The data reveals a striking power-user economy. Only a small share of consumers currently pay for AI, but among those who do, spending is heavily concentrated at the top. Olivia and Josh discuss why developers, creators, and other power users dominate spending today, and why subscriptions may not be the business model that ultimately brings consumer AI to everyone. They also dig into the rise of personal agents, the different trajectories of ChatGPT, Claude, and Gemini, how ads could reshape AI economics, and the enormous amount of consumer white space still left to build, from shopping and entertainment to social, dating, and marketplaces. Resources: Read the Top 100 Consumer AI Apps, Seventh Edition: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh Follow Olivia Moore: https://x.com/omooretweets Follow Josh Elman: https://x.com/joshelman Follow Elena Burger: https://x.com/VirtualElena Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/15cd7eea-99bc-4db9-b027-1fdb2500162c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=15cd7eea-99bc-4db9-b027-1fdb2500162c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -65,19 +113,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Are GPUs money printers?",
-      "published_at": "2026-10-02T23:30:31+00:00",
-      "url": "https://www.youtube.com/shorts/BFhXLcv2-rw",
-      "summary": "Are GPUs money printers? The InferenceX team breaks down Engram memory offloading, AgentX’s profit calculator, TPU v7, Vera Rubin vs. Blackwell, and whether faster tokens are worth the premium. Plus: TileRT is pushing NVIDIA GPUs further. What does that mean for specialized chips? Jordan Nanos is joined by Cam Quilici, Bryan Shan, and Alec Ibarra for a new SemiAnalysis Weekly.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "BFhXLcv2-rw"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -88,19 +123,6 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 034 - The Fight for Fast Tokens, TPU v7, Vera Rubin, and Engrams (AI Supply Chain, InferenceX)",
-      "published_at": "2026-10-02T21:00:09+00:00",
-      "url": "https://www.youtube.com/watch?v=NcqHQmpNjr0",
-      "summary": "The InferenceX team is back after two months. Jordan Nanos (@JordanNanos) is joined by Cam Quilici (@noslawextratost), Bryan Shan, and Alec Ibarra to discuss Engram and DRAM offloading, the AgentX benchmark and its profit calculator, TPU v7 on InferenceX, Vera Rubin vs Blackwell, fast tokens, and TileRT on NVIDIA GPUs. 0:00 Intro 0:31 Engrams 12:27 AgentX Benchmark 16:36 Profit Calculator 23:40 TPU v7 32:03 Vera Rubin 40:49 Fast Tokens 49:33 TileRT 54:00 Chip Startups 1:01:31 Wrap Up",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "NcqHQmpNjr0"
     },
     {
       "source": "Latent Space",
@@ -245,92 +267,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/218186983/9c2ff1653183e44db01f0a6716124cf3.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-      "published_at": "2026-09-30T12:04:27+00:00",
-      "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-      "summary": "Watch now (46 mins) | 🎙️ Educator and developer John Lindquist shares eight Jev demos, from live voice classification and deduplication to agent routing, showing how low costs make once-impractical ideas worth trying",
-      "audio_url": "https://api.substack.com/feed/podcast/218050591/ad574beedfa0c67fe39e8b4b552ca024.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The $1 Trillion AI Buildout | State of Markets",
-      "published_at": "2026-09-30T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1",
-      "summary": "a16z’s David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez unpack 25 key charts from the latest State of Markets presentation, from the scale of the AI infrastructure buildout to what adoption looks like inside companies today. They examine why rising markets have so far been supported by earnings rather than multiple expansion, why hyperscaler CapEx is approaching $1 trillion annually, and why demand for compute continues to outrun supply. They also look at the downstream effects of that spending across chips, power, construction, and physical infrastructure. State of Markets Then they move up the stack: OpenAI and Anthropic’s revenue growth, the gap between AI deployment and measurable enterprise impact, the rise of agents, falling inference costs, and what all of this means for SaaS. They close with where the team is spending time next, including consumer agents, robotics, autonomy, AI and biology, personal health, defense, and the continued diffusion of AI across the enterprise. State of Markets Resources: Follow David George on X: https://x.com/DavidGeorge83 Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Alex Immerman on X: https://x.com/aleximm Follow Santiago Rodriguez on X: https://x.com/santiago__rdz Read David’s piece ‘There are only two paths left for software’: https://a16z.com/there-are-only-two-paths-left-for-software/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "All of the Lenny & Friends Summit talks are now online!",
-      "published_at": "2026-09-29T13:15:57+00:00",
-      "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "summary": "Plus, some reflections and takeaways from the day",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "The most basic test SemiAnalysis applies to a GPU cluster health check is whether it could possibly",
-      "published_at": "2026-09-29T03:00:46+00:00",
-      "url": "https://www.youtube.com/shorts/zqywDKcTgUQ",
-      "summary": "The most basic test SemiAnalysis applies to a GPU cluster health check is whether it could possibly work on paper. Several could not. \"We've been through a few of these clusters where there's no way it could possibly work. These are health checks so bad they're worse than no health checks, because they're actively interfering with jobs.\" \"On Amazon HyperPod Slurm, the first time we tested, there was a health check that needed the node to be healthy before it could run. It could only run once the node was back in the fleet, and it was needed to bring the node back into the fleet.\" \"There are probably five or ten examples of this throughout testing where the health check never had a chance. It makes you wonder whether these people are really putting it through the paces before they hand it off to customers.\" Watch it now on YouTube. Read the ClusterMAX article, Link Bio.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zqywDKcTgUQ"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
-      "published_at": "2026-09-28T22:16:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
-      "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, and why US healthcare waits until you're sick (36:04) AI: Tech's failure to sell the upside, open vs. closed models, and regulating compute (44:24) Back to Spotify: Podcasting's open standards and the Stardoll origin story Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.3565131ALLIN/B36182939.452362736;dc_trk_aid=646454825;dc_trk_cid=260464105;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1 Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_1k_Daniel_Ek_Int.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
-      "published_at": "2026-09-28T12:05:00+00:00",
-      "url": "https://colossus.com/episode/instinct-the-personal-agent/",
-      "summary": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend. We discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents coordinate directly, and what Noah has learned about how long it takes users to trust an agent with their credit card, inbox, and calendar. He explains why he refuses to build an ad model and why he believes a personal agent should never influence users against their own interests. We also cover the take rate model behind the more than $1 billion a year now flowing through the platform, how travel and food delivery businesses should prepare for a world of agents, why he spends 40% of his time thinking about compute, and why he believes all of software will eventually collapse into one simple interface. Please enjoy my conversation with Noah Shinn. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Timestamps: (00:00:00) The Most Exciting Software Race Ever (00:00:49) What Instinct Is (00:04:11) The Wildest Things Users Have Done With Instinct (00:07:15) The Instinct to Instinct Trusted Network (00:13:24) How Agents Will Reorder the Internet (00:14:44) Reinventing Restaurant Reservations (00:17:23) Travel and $1 Billion in Transaction Volume (00:21:00) How Users Learn to Trust an Agent (00:23:25) Keeping Sensitive Data Safe (00:26:08) Alignment and the Business Model (00:31:07) Take Rates and the Payments Stack (00:34:52) When Incumbents Push Back on Agents (00:40:46) How Businesses Should Prepare for Agents (00:44:43) Designing for Understandability (00:48:15) Taste Versus Data (00:50:03) Invite-Only Growth at 10% a Day (00:54:46) How Far Ahead to Buy Compute (00:56:58) The Cost to Serve Each User (00:59:24) How Much Compute Proactive Agents Will Need (01:02:30) Thoughts on Muse (01:03:59) Mistakes and Staying Proactive (01:05:34) The Future of Security (01:08:32) Where the Interface Goes Next (01:12:35) Agents That Pursue Goals (01:14:35) Personality and the Movie Her (01:16:27) Why It's Called Instinct (01:17:34) Allies, Enemies, and Distribution Channels (01:18:43) Raising Capital (01:20:34) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS4620503535.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Nancy Zimmerman – People, Process, and Fixed Income Arbitrage at Bracebridge (EP.517)",
-      "published_at": "2026-09-28T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/nancy-zimmerman-people-process-and-fixed-income-arbitrage-at-bracebridge-ep517",
-      "summary": "Nancy Zimmerman is the co-founder and Managing Partner of Bracebridge Capital, a $13 billion alternative asset manager specializing in fixed income arbitrage that she founded over 30 years ago, in 1994, alongside Gabe Sunshine with capital from David Swensen at Yale. Our conversation traces Nancy's evolution from pricing securities to investing and the enduring sources of inefficiency in fixed income markets. We discuss the nature of arbitrage opportunities and their persistence over time and then turn to hunting for mispricings today across developed market rates, structured credit, corporates, and emerging markets. Along the way, we cover Bracebridge's process for sourcing ideas, assessing relative value, determining position sizes, constructing a portfolio, and managing risk. We close with building a team, aligning the organization and its clients, investing in today's exciting and unusual environment, and transferring investment knowledge to work on the investment committee and brain science research at Nancy's alma mater, Brown University. Nancy is among the sharpest, most curious, funny, and deeply experienced investors in the hedge fund world. Take our audience survey . Tell us more about you, how you listen, and what we can do to make the podcast and platform better. Try ALEX by Admired Leadership. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.517_Nancy_Zimmerman_-_AUDIO_V1.2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
