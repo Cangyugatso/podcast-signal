@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-10-06T02:01:34.937204+00:00",
+  "generated_at": "2026-10-07T01:11:07.600326+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building Defense for the Agentic Era: Kevin Mandia",
+      "published_at": "2026-10-06T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/building-defense-for-the-agentic-era-kevin-mandia-4ylPD1X6",
+      "summary": "a16z General Partner David George sits down with Armadin founder and CEO Kevin Mandia to discuss what happens to cybersecurity when attackers can operate at machine speed. After 30 years in security and building Mandiant, Kevin says AI convinced him to get back on the field. He explains how AI changes the economics of cyberattacks, allowing attackers to probe thousands of paths simultaneously, and why that means defense will ultimately need to become autonomous too. They also unpack Armadin’s approach: continuously attacking customers’ systems with AI to find exploitable vulnerabilities before adversaries do, then building toward autonomous defenses that can respond in real time. Kevin shares what Armadin has learned from finding more than 90 zero-days in production environments this year, why humans can’t remain in the detect-and-respond loop, and how the entire security stack could change over the next few years. Resources: Learn more about Kevin Mandia and Armadin: https://www.armadin.com/team-members/kevin-mandia Follow David George on X: https://x.com/DavidGeorge83 Learn more about Armadin: https://www.armadin.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/24f18a48-5a9a-44ed-905a-34359aaf1190/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=24f18a48-5a9a-44ed-905a-34359aaf1190&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
+      "published_at": "2026-10-06T08:00:00+00:00",
+      "url": "http://colossus.com/episode/reading-and-writing-the-brain/",
+      "summary": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols. Most of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. He explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved. Please enjoy my conversation with Andrew Huberman. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Energy as the Bottleneck for Top Performers (00:06:20) How to Downshift and Fall Asleep (00:14:06) Neurotech for Sleep and Focus (00:17:57) The State of Public Health Discourse (00:22:07) The Biggest Problem in Neuroscience (00:23:30) Why AI Companies Will Become Biotech Companies (00:26:18) How We Read Brain Activity (00:42:07) Crossing the Cyborg Line (00:43:30) Measuring the Nervous System Directly (00:57:34) The CRISPR Babies Story (01:00:24) Embryo Screening and Genetic Engineering (01:03:01) Understanding Waking Brain States (01:06:12) Technologists Becoming Neuroscientists (01:09:35) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "published_at": "2026-10-06T06:28:43+00:00",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "summary": "A small win for US open source",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -197,18 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
-      "published_at": "2026-10-01T16:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA",
-      "summary": "a16z’s Joel de la Garza sits down with DoxxNet founder Barrett Lyon to discuss what it would take to rebuild the internet around privacy, direct communication, and less dependence on centralized intermediaries. Barrett explains why he thinks traditional VPNs only solve part of the problem and how DoxxNet is building a parallel mesh network where users can communicate peer-to-peer, transfer large files, make calls, and message without routing those interactions through a central application server. He also explains why the company owns its infrastructure and runs its AI systems locally rather than relying on third-party inference providers. doxxnet_assembly They also get into the growing amount of tracking embedded across the internet, what happens when that data can be analyzed by increasingly capable AI, and why Barrett believes the underlying protocols of the internet are due for another wave of experimentation. Along the way, he shares lessons from decades of building internet infrastructure, from fighting early DDoS attacks to mapping the internet and building global networks. Resources: Learn more about DoxxNet: https://doxx.net Follow Barrett Lyon on X: https://x.com/BarrettLyon Follow Joel de la Garza on LinkedIn: linkedin.com/in/3448827723723234 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f388d562-3c7e-4342-ba98-05729b8c29e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f388d562-3c7e-4342-ba98-05729b8c29e8&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -230,18 +254,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO2122058813.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-      "published_at": "2026-10-01T06:45:05+00:00",
-      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "summary": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
