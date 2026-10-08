@@ -1,9 +1,71 @@
 {
-  "generated_at": "2026-10-07T01:11:07.600326+00:00",
+  "generated_at": "2026-10-08T01:31:27.351522+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "A $200 AI subscription can be worth $12,000 in tokens. Which plan delivers it is not close.",
+      "published_at": "2026-10-07T21:46:55+00:00",
+      "url": "https://www.youtube.com/shorts/hpwpdQn9QYE",
+      "summary": "A $200 AI subscription can be worth $12,000 in tokens. Which plan delivers it is not close. \"They're selling to willing buyers at the fair market price. This is capitalism.\" \"You can pay $200 for a Claude plan and get $12,000 of Opus 5.5 tokens at API pricing. So that's obviously a good deal.\" \"You have to say the $200 plan, when running a particular workload on a particular model, gives you some dollar amount. But then you also have 5.5, which is a beast. $6K or $5,000 worth of value.\" \"And when you do that comparison, it's not even a question of who's providing more value. ChatGPT versus Anthropic subscriptions.\" Max Kan and Andrew Megalaa join Jordan Nanos this week",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "hpwpdQn9QYE"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 036 - $200 Buys $12,000 of Opus Tokens, We Bought Every Plan (Tokenomics)",
+      "published_at": "2026-10-07T21:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=2NviLP2SwZI",
+      "summary": "Pay Anthropic $200 a month and you can pull $12,000 of Opus 5.5 tokens at API pricing. Max Kan (@maxkan) and Andrew Megalaa bought every plan, OpenAI, Meta, xAI, MiniMax, Moonshot, Z.ai, Cursor, and measured every token type to find the ceiling. The catch isn't subsidy. Anthropic still books 50 to 60% gross margins on these plans, which means the API itself is the price gouge. 0:00 Cold Open 1:03 Subsidies and Credits 5:23 Token Types and Cache 14:08 Model Value Charts 20:51 Test Methodology 26:54 Other Plans 31:26 Utilization and Limits 36:24 Token Efficiency 41:24 Open Models 44:22 Cyber and Capture Read More: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "2NviLP2SwZI"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "published_at": "2026-10-07T14:10:45+00:00",
+      "url": "https://www.latent.space/p/stacklok",
+      "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Valon Rebuilt a $13 Trillion Industry From Scratch",
+      "published_at": "2026-10-07T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe",
+      "summary": "a16z General Partner Angela Strange sits down with Valon’s Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies heavily on systems designed before the internet. Linda and Andrew explain why Valon chose the hardest path: becoming a regulated mortgage servicer, translating decades of federal and state regulation into software, and proving the platform on its own loans before selling it to the industry. That foundation made Valon roughly three times as efficient as traditional servicing and created the system of record it is now using to bring AI into complex mortgage workflows. They also discuss what AI makes possible on top of that infrastructure, from agents handling long-tail servicing tasks to voice interfaces and more personalized customer experiences. And they explain why deploying the technology into large regulated enterprises is ultimately as much a change-management challenge as a technical one. Resources: Follow Angela Strange: https://x.com/astrange Follow Andrew Wang: https://www.linkedin.com/in/wangandrewd Follow Linda Du: https://www.linkedin.com/in/xlindadu/ Learn more about Valon: https://valon.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "published_at": "2026-10-07T04:55:44+00:00",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "summary": "Our head hurts.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -41,6 +103,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "What four weeks of SemiAnalysis consulting can do to a company",
+      "published_at": "2026-10-05T15:15:28+00:00",
+      "url": "https://www.youtube.com/shorts/_X7P9mvnf_A",
+      "summary": "What four weeks of SemiAnalysis consulting can do to a company “There are a lot of things that I can’t say publicly.” Abhilash tells Jordan to discuss neocloud DDs, SLA insurance, 100MW in 6 months, and how client asks became the AI Cloud TCO model. Watch Now on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "_X7P9mvnf_A"
+    },
+    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -51,6 +126,19 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 035 - Tech DD’s, Performance Projections, Supply Chain, Investment Thesis (Consulting)",
+      "published_at": "2026-10-05T15:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=u4qyDSJuYEk",
+      "summary": "Jordan (@JordanNanos) and Abhilash (@AbhilashJain17) discuss the clients SemiAnalysis consulting serves, custom projects like the inference simulator, how client work turns into research products, neocloud due diligence, and why SLAs decide who gets funded. They also discuss Feynman specs, de-specced memory, and a 20-trillion-parameter OpenAI model. 0:00 Intro and Overview 2:27 Client Types 5:24 Custom Projects 9:47 Strategy Work 12:27 Consulting to Products 14:33 Neocloud Due Diligence 18:40 SLAs and Insurance 22:32 Risk Assessments 26:45 Build vs Buy 29:19 Favorites and Outlook",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "u4qyDSJuYEk"
     },
     {
       "source": "Capital Allocators",
@@ -149,6 +237,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Are GPUs money printers?",
+      "published_at": "2026-10-02T23:30:31+00:00",
+      "url": "https://www.youtube.com/shorts/BFhXLcv2-rw",
+      "summary": "Are GPUs money printers? The InferenceX team breaks down Engram memory offloading, AgentX’s profit calculator, TPU v7, Vera Rubin vs. Blackwell, and whether faster tokens are worth the premium. Plus: TileRT is pushing NVIDIA GPUs further. What does that mean for specialized chips? Jordan Nanos is joined by Cam Quilici, Bryan Shan, and Alec Ibarra for a new SemiAnalysis Weekly.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "BFhXLcv2-rw"
+    },
+    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -173,18 +274,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AI Agents Can Beat the Incumbents",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-ai-agents-can-beat-the-incumbents-fcyhpbT6",
-      "summary": "a16z’s Seema Amble and Elena Burger sit down with Lio co-founder and CEO Vladimir Keil to ask where AI-native startups have an advantage when incumbent software companies already own the customer, the data, and the system of record. Their answer comes down to the work that happens outside those systems. In procurement, a final price in an ERP can hide hundreds of emails, spreadsheets, supplier conversations, engineering analyses, and decisions across legal, finance, and operations. Vlad explains how Lio uses multi-agent systems to take on more of that end-to-end work, from sourcing and RFQs to negotiation, shipment tracking, and invoices. They also discuss how enterprises learn to trust agents with increasingly consequential decisions, why the last 20% of an internal AI build can require most of the effort, and what happens when both buyers and suppliers have agents working on their behalf. Resources: Follow Vladimir Keil on X: https://x.com/askvladi?lang=en Follow Vladimir Keil on LinkedIn: https://www.linkedin.com/in/vladimir-keil/ Follow Seema Amble on X: https://x.com/seema_amble Learn more about Lio: https://www.lio.ai/ Seema Amble’s “Investing in Lio” article: https://a16z.com/announcement/investing-in-lio/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/63755eda-ff93-4095-8822-e8bcb95a06a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=63755eda-ff93-4095-8822-e8bcb95a06a6&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -194,30 +283,6 @@
       "summary": "Founder and CEO of full-stack AI chip company Fractile, Walter Goodwin, joins Sarah Guo to discuss the bets he’s made on the future of the chip market as other major players like Broadcom, NVIDIA, and AMD try to accelerate their workloads. They discuss the difference in Fractile’s newer approach on model architecture with a full-stack team in the current chip landscape and the technical bets they’re making in that direction. Walter also talks about compressing the gap between the chip design cycle and its payoff period, and making a generational leap in AI inference to realize the bet in volume against the value to be captured. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @goodwin_ml | @fractile_ai Chapters: 00:46 – Walter Goodwin and Fractile Introduction 02:29 – The Chip Landscape Now 04:56 – Common Handoffs From Architecture-Focused Players 07:18 – Full Stack Approach and Team Setup 09:49 – Fractile’s Most Important Technical Bets 15:32 – Workload Predictions and Compressing the Chip Design Cycle 23:03 – Architect Intent to Output Bottlenecks and Accelerating Trials 28:16 – Workload Bets on Model Architectural Shifts 31:20 – The Future of AI Chip Players and Market Structure 35:14 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "published_at": "2026-10-02T06:40:53+00:00",
-      "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "summary": "the minimalist harness goes stable... and TypeScript!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Academia is for Ambition — Alex Zhang, MIT",
-      "published_at": "2026-10-02T00:28:04+00:00",
-      "url": "https://www.latent.space/p/rlm",
-      "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
-      "audio_url": "https://api.substack.com/feed/podcast/218414422/044c92ee79bb60914986e42706d74969.mp3",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -255,37 +320,7 @@
       "audio_url": "https://traffic.megaphone.fm/APO2122058813.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs",
-      "published_at": "2026-09-30T21:00:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
-      "summary": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why politics is next (20:46) Drew Taggart & Alex Pall join the Besties! (30:35) From artists to investors: picking deals, playing the sixth man & what fame buys (37:33) Advice for famous investors, whether fame helps or hurts & the non-obvious bets (46:10) Riding winners, getting cash back to investors & spotting bubble behavior Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_88_PaulChainsmokers_AIS26.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenAI Dev Day 2026: The releases that actually matter",
-      "published_at": "2026-09-30T14:45:15+00:00",
-      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "summary": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
-      "audio_url": "https://api.substack.com/feed/podcast/218186983/9c2ff1653183e44db01f0a6716124cf3.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
