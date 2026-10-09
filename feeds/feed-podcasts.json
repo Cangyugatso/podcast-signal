@@ -1,9 +1,82 @@
 {
-  "generated_at": "2026-10-08T01:31:27.351522+00:00",
+  "generated_at": "2026-10-09T01:41:14.372931+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-10-08T23:29:43+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "summary": "a quiet day.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "published_at": "2026-10-08T16:27:54+00:00",
+      "url": "https://www.latent.space/p/periodic",
+      "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+      "audio_url": "https://api.substack.com/feed/podcast/219146438/4de3baad7036438bcc048cc532556c6a.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Open-source models are already taking the easier tasks. The bull case for frontier labs rests on one",
+      "published_at": "2026-10-08T14:30:31+00:00",
+      "url": "https://www.youtube.com/shorts/zrsNwHueOoE",
+      "summary": "Open-source models are already taking the easier tasks. The bull case for frontier labs rests on one question. \"A lot of software engineering, white-collar work in general, does not need Fable 5.1 or Astra 6 level intelligence.\" \"A lot of businesses, especially lower gross margin businesses, are very rationally making the decision to start offloading some of the easier tasks to these increasingly capable open-source models.\" \"So whether the frontier labs are a durable business model really comes down to your belief on whether the TAM of new things you can do with increasingly smarter frontier intelligence will outgrow the portion of tasks being offloaded to these cheaper models.\" \"If you were to magically spawn 100 million superintelligent PhDs who are experts in every field and don't need to eat or sleep, do you think the economy would be able to absorb that relatively quickly and still get high ROI?\"",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zrsNwHueOoE"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building the Cloud for an Agentic World | AWS CEO Matt Garman",
+      "published_at": "2026-10-08T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC",
+      "summary": "a16z’s Raghu Raghuram sits down with AWS CEO Matt Garman to discuss how AI is reshaping the cloud, from the needs of AI-native startups to infrastructure increasingly designed for agents. Matt explains how AWS is adapting as agents write code and manage infrastructure, why it’s reserving scarce GPU capacity for startups, and where custom chips like Trainium and Graviton fit into the AI stack. They also discuss Amazon's $220 billion capital investment, the shifting bottlenecks in the infrastructure buildout, what enterprises need to trust autonomous agents, and how AWS's own teams are building with agents. Resources: Follow Matt Garman on X: https://x.com/mattsgarman Follow Matt Garman on LinkedIn: https://www.linkedin.com/in/mattgarman Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Learn more about AWS: https://aws.amazon.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1b4fcb1-9600-4c7b-a712-186a9c63f2fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1b4fcb1-9600-4c7b-a712-186a9c63f2fd&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519)",
+      "published_at": "2026-10-08T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519",
+      "summary": "Charlie Rose is the Global Head of Real Estate Credit at Invesco, where he oversees an $85 billion global platform. Before joining Invesco, Charlie worked in real estate as an academic researcher, jack-of-all-trades through the financial crisis, and investor up and down the capital stack for eight years at Canyon Partners. Our conversation covers Invesco's \"credit over yield\" approach, property-first underwriting, collaborative work inside the firm, and relationship-based focus. We discuss sourcing through repeat borrowers, risk management, portfolio construction, contrarian calls, including avoiding data centers and AI exposure, and \"sheds and beds\" theme of industrial and multifamily loans. We close with lessons from the 2022–23 real estate correction, managing troubled loans, and how Invesco is using AI to improve investment decisions. See full disclaimer here . Register for TomorrowX using the Capital Allocators discount here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "published_at": "2026-10-08T07:27:51+00:00",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "summary": "yay small models",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -21,7 +94,7 @@
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "Ep. 036 - $200 Buys $12,000 of Opus Tokens, We Bought Every Plan (Tokenomics)",
+      "title": "Ep. 036 - Anthropic Subscriptions Beat OpenAI 5x, Depending on Your Workload (Tokenomics)",
       "published_at": "2026-10-07T21:00:06+00:00",
       "url": "https://www.youtube.com/watch?v=2NviLP2SwZI",
       "summary": "Pay Anthropic $200 a month and you can pull $12,000 of Opus 5.5 tokens at API pricing. Max Kan (@maxkan) and Andrew Megalaa bought every plan, OpenAI, Meta, xAI, MiniMax, Moonshot, Z.ai, Cursor, and measured every token type to find the ceiling. The catch isn't subsidy. Anthropic still books 50 to 60% gross margins on these plans, which means the API itself is the price gouge. 0:00 Cold Open 1:03 Subsidies and Credits 5:23 Token Types and Cache 14:08 Model Value Charts 20:51 Test Methodology 26:54 Other Plans 31:26 Utilization and Limits 36:24 Token Efficiency 41:24 Open Models 44:22 Cyber and Capture Read More: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
@@ -88,18 +161,6 @@
       "summary": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols. Most of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. He explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved. Please enjoy my conversation with Andrew Huberman. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Energy as the Bottleneck for Top Performers (00:06:20) How to Downshift and Fall Asleep (00:14:06) Neurotech for Sleep and Focus (00:17:57) The State of Public Health Discourse (00:22:07) The Biggest Problem in Neuroscience (00:23:30) Why AI Companies Will Become Biotech Companies (00:26:18) How We Read Brain Activity (00:42:07) Crossing the Cyborg Line (00:43:30) Measuring the Nervous System Directly (00:57:34) The CRISPR Babies Story (01:00:24) Embryo Screening and Genetic Engineering (01:03:01) Understanding Waking Brain States (01:06:12) Technologists Becoming Neuroscientists (01:09:35) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "published_at": "2026-10-06T06:28:43+00:00",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "summary": "A small win for US open source",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -213,43 +274,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Beyond the God Model | Alex Atallah & Amjad Masad",
-      "published_at": "2026-10-03T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE",
-      "summary": "A16z’s Erik Torenberg sits down with OpenRouter’s Alex Atallah and Replit founder and CEO Amjad Masad to discuss why the future of AI may look less like one all-purpose model and more like an ecosystem of specialized models working together. Alex explains why OpenRouter is betting on “neurodiversity”: different models trained in different ways, routed and combined based on the job at hand. Amjad makes a similar case from inside the enterprise, where companies increasingly need to own their AI capabilities rather than depend entirely on a single model provider. They explore what happens when general-purpose agents give way to teams of specialized agents, why smaller models can sometimes be cheaper, safer, and easier to control, and how routing and model fusion could deliver frontier-level performance at lower cost. They also get into agent-to-agent communication, AI security, and why the next generation of companies may need an independence layer across models, clouds, and data. Resources: Follow Alex Atallah on X: https://x.com/alexatallah Follow Amjad Masad on X: https://x.com/amasad Learn more about OpenRouter: https://openrouter.ai Learn more about Replit: https://replit.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cc5d9775-0204-484c-97b5-e29f4efc2c9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cc5d9775-0204-484c-97b5-e29f4efc2c9e&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-10-03T08:45:15+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "summary": "a quiet day.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Are GPUs money printers?",
-      "published_at": "2026-10-02T23:30:31+00:00",
-      "url": "https://www.youtube.com/shorts/BFhXLcv2-rw",
-      "summary": "Are GPUs money printers? The InferenceX team breaks down Engram memory offloading, AgentX’s profit calculator, TPU v7, Vera Rubin vs. Blackwell, and whether faster tokens are worth the premium. Plus: TileRT is pushing NVIDIA GPUs further. What does that mean for specialized chips? Jordan Nanos is joined by Cam Quilici, Bryan Shan, and Alec Ibarra for a new SemiAnalysis Weekly.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "BFhXLcv2-rw"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -262,18 +286,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "published_at": "2026-10-02T14:04:49+00:00",
-      "url": "https://www.latent.space/p/airbnb",
-      "summary": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -283,42 +295,6 @@
       "summary": "Founder and CEO of full-stack AI chip company Fractile, Walter Goodwin, joins Sarah Guo to discuss the bets he’s made on the future of the chip market as other major players like Broadcom, NVIDIA, and AMD try to accelerate their workloads. They discuss the difference in Fractile’s newer approach on model architecture with a full-stack team in the current chip landscape and the technical bets they’re making in that direction. Walter also talks about compressing the gap between the chip design cycle and its payoff period, and making a generational leap in AI inference to realize the bet in volume against the value to be captured. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @goodwin_ml | @fractile_ai Chapters: 00:46 – Walter Goodwin and Fractile Introduction 02:29 – The Chip Landscape Now 04:56 – Common Handoffs From Architecture-Focused Players 07:18 – Full Stack Approach and Team Setup 09:49 – Fractile’s Most Important Technical Bets 15:32 – Workload Predictions and Compressing the Chip Design Cycle 23:03 – Architect Intent to Output Bottlenecks and Accelerating Trials 28:16 – Workload Bets on Model Architectural Shifts 31:20 – The Future of AI Chip Players and Market Structure 35:14 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "published_at": "2026-10-01T16:38:11+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Learn how invisible, mathematical watermarks help trace AI provenance, protect against misuse, and safeguard protein sequence design without impacting biological function. Timecodes: 00:00 Introduction 00:34 What is a watermark? 04:35 SynthID 15:16 Images and video 19:28 SynthID Bio 28:00 Future of resilience Learn more about SynthID Bio: https://deepmind.google/blog/introducing-synthid-bio/ Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/83783c09-9840-410b-8653-84a9a446ea98/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=83783c09-9840-410b-8653-84a9a446ea98&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
-      "published_at": "2026-10-01T15:28:28+00:00",
-      "url": "https://www.dwarkesh.com/p/si-sheppard",
-      "summary": "Fall of the Incas & Aztecs.",
-      "audio_url": "https://api.substack.com/feed/podcast/218345956/a16d196884ff2477b2958c2fa132858d.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Great Companies, Beaten-Down Stocks: Booking & Pool Corp with Jonathan Boyar",
-      "published_at": "2026-10-01T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Great-Companies--Beaten-Down-Stocks-Booking--Pool-Corp-with-Jonathan-Boyar-e3pl0jv",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO2122058813.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
