@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-10-09T01:41:14.372931+00:00",
+  "generated_at": "2026-10-10T01:26:49.650699+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 19,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "published_at": "2026-10-10T00:31:26+00:00",
+      "url": "https://www.latent.space/p/biohub-deepmind",
+      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
+      "audio_url": "https://api.substack.com/feed/podcast/219666029/a55c7eb779368b4623e64d0933a07f0f.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
+      "published_at": "2026-10-09T17:24:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
+      "summary": "Is the future of frontier AI open or closed? ReflectionAI co-founder and CEO Misha Laskin joins Sarah Guo and Elad Gil to discuss the launch of Beam, the company’s 500 billion parameter open-weight reasoning model. Misha breaks down the pre-training and reinforcement learning required to produce Beam’s reasoning efficiency, the shift in enterprise compute from renting to owning intelligence, and how he believes that open models will capture the majority of global token demand. He also talks about the open model ecosystem in China and why competition with China’s models is a good thing, safety considerations around open models, and how frontier-level open models may accelerate the pace of scientific discovery. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MishaLaskin | @reflection_ai Chapters: 00:42 – Misha Laskin Introduction 00:59 – Latest with ReflectionAI 02:07 – Challenges Building an Open Model 03:56 – ReflectionAI’s Agentic Shift 07:37 – Resources for Model Training 10:09 – Scaling Efficiency 12:18 – Training Beam 16:51 – Where Model Value Comes From 19:55 – Beam’s Reasoning Efficiency 22:35 – Monetizing Open Weight Models 25:03 – Future of Open Versus Closed Tokens 31:29 – Competition with Open Models 34:38 – Chinese Open Source Model Ecosystem 38:40 – Will Chinese Models Remain Open 44:44 – Safety and Open Models 53:02 – Debating Access to Powerful Tools 57:16 – AI and Scientific Progress 01:00:36 – Data Centers and Jobs 01:02:07 – Beam and Scientific Research 01:05:37 – Research Head Count to Compute Ratio 01:10:29 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Chips, Memory, and Power | Pat Gelsinger",
+      "published_at": "2026-10-09T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU",
+      "summary": "a16z's Raghu Raghuram and Guido Appenzeller sit down with Playground Global General Partner and former Intel CEO Pat Gelsinger to discuss the next wave of semiconductor innovation and the physical constraints shaping the AI buildout. Drawing on his experience designing Intel's 386 and 486 processors, Pat explains how AI could transform chip design, but also why faster design alone won't solve the industry's biggest problems. They examine the bottlenecks in manufacturing, memory bandwidth, advanced packaging, and power, and why today's explosion of specialized AI chips may eventually consolidate around a smaller number of architectures. They also discuss the potential for new memory technologies, the shift from copper to optical networking, and why energy capacity could become a major constraint on AI growth. Finally, they revisit Pat's VMware years to ask what virtualization might look like when infrastructure is built for agents rather than humans. Resources: Follow Pat Gelsinger on X: https://x.com/PGelsinger Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Follow Guido Appenzeller: https://x.com/appenz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -27,19 +63,6 @@
       "audio_url": "https://api.substack.com/feed/podcast/219146438/4de3baad7036438bcc048cc532556c6a.mp3",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Open-source models are already taking the easier tasks. The bull case for frontier labs rests on one",
-      "published_at": "2026-10-08T14:30:31+00:00",
-      "url": "https://www.youtube.com/shorts/zrsNwHueOoE",
-      "summary": "Open-source models are already taking the easier tasks. The bull case for frontier labs rests on one question. \"A lot of software engineering, white-collar work in general, does not need Fable 5.1 or Astra 6 level intelligence.\" \"A lot of businesses, especially lower gross margin businesses, are very rationally making the decision to start offloading some of the easier tasks to these increasingly capable open-source models.\" \"So whether the frontier labs are a durable business model really comes down to your belief on whether the TAM of new things you can do with increasingly smarter frontier intelligence will outgrow the portion of tasks being offloaded to these cheaper models.\" \"If you were to magically spawn 100 million superintelligent PhDs who are experts in every field and don't need to eat or sleep, do you think the economy would be able to absorb that relatively quickly and still get high ROI?\"",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zrsNwHueOoE"
     },
     {
       "source": "a16z",
@@ -78,30 +101,16 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
       "language": "en",
-      "title": "A $200 AI subscription can be worth $12,000 in tokens. Which plan delivers it is not close.",
-      "published_at": "2026-10-07T21:46:55+00:00",
-      "url": "https://www.youtube.com/shorts/hpwpdQn9QYE",
-      "summary": "A $200 AI subscription can be worth $12,000 in tokens. Which plan delivers it is not close. \"They're selling to willing buyers at the fair market price. This is capitalism.\" \"You can pay $200 for a Claude plan and get $12,000 of Opus 5.5 tokens at API pricing. So that's obviously a good deal.\" \"You have to say the $200 plan, when running a particular workload on a particular model, gives you some dollar amount. But then you also have 5.5, which is a beast. $6K or $5,000 worth of value.\" \"And when you do that comparison, it's not even a question of who's providing more value. ChatGPT versus Anthropic subscriptions.\" Max Kan and Andrew Megalaa join Jordan Nanos this week",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "hpwpdQn9QYE"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 036 - Anthropic Subscriptions Beat OpenAI 5x, Depending on Your Workload (Tokenomics)",
-      "published_at": "2026-10-07T21:00:06+00:00",
-      "url": "https://www.youtube.com/watch?v=2NviLP2SwZI",
-      "summary": "Pay Anthropic $200 a month and you can pull $12,000 of Opus 5.5 tokens at API pricing. Max Kan (@maxkan) and Andrew Megalaa bought every plan, OpenAI, Meta, xAI, MiniMax, Moonshot, Z.ai, Cursor, and measured every token type to find the ceiling. The catch isn't subsidy. Anthropic still books 50 to 60% gross margins on these plans, which means the API itself is the price gouge. 0:00 Cold Open 1:03 Subsidies and Credits 5:23 Token Types and Cache 14:08 Model Value Charts 20:51 Test Methodology 26:54 Other Plans 31:26 Utilization and Limits 36:24 Token Efficiency 41:24 Open Models 44:22 Cyber and Capture Read More: https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "2NviLP2SwZI"
+      "title": "Small Caps Are About to Have Their Moment | Jeff Weniger",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Small-Caps-Are-About-to-Have-Their-Moment--Jeff-Weniger-e3q3dqq",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom) is now available via https://link.amazon/B04hl5L95 ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO5334235917.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
     },
     {
       "source": "Latent Space",
@@ -125,18 +134,6 @@
       "summary": "a16z General Partner Angela Strange sits down with Valon’s Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies heavily on systems designed before the internet. Linda and Andrew explain why Valon chose the hardest path: becoming a regulated mortgage servicer, translating decades of federal and state regulation into software, and proving the platform on its own loans before selling it to the industry. That foundation made Valon roughly three times as efficient as traditional servicing and created the system of record it is now using to bring AI into complex mortgage workflows. They also discuss what AI makes possible on top of that infrastructure, from agents handling long-tail servicing tasks to voice interfaces and more personalized customer experiences. And they explain why deploying the technology into large regulated enterprises is ultimately as much a change-management challenge as a technical one. Resources: Follow Angela Strange: https://x.com/astrange Follow Andrew Wang: https://www.linkedin.com/in/wangandrewd Follow Linda Du: https://www.linkedin.com/in/xlindadu/ Learn more about Valon: https://valon.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "published_at": "2026-10-07T04:55:44+00:00",
-      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "summary": "Our head hurts.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -164,19 +161,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "What four weeks of SemiAnalysis consulting can do to a company",
-      "published_at": "2026-10-05T15:15:28+00:00",
-      "url": "https://www.youtube.com/shorts/_X7P9mvnf_A",
-      "summary": "What four weeks of SemiAnalysis consulting can do to a company “There are a lot of things that I can’t say publicly.” Abhilash tells Jordan to discuss neocloud DDs, SLA insurance, 100MW in 6 months, and how client asks became the AI Cloud TCO model. Watch Now on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "_X7P9mvnf_A"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -187,19 +171,6 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 035 - Tech DD’s, Performance Projections, Supply Chain, Investment Thesis (Consulting)",
-      "published_at": "2026-10-05T15:00:03+00:00",
-      "url": "https://www.youtube.com/watch?v=u4qyDSJuYEk",
-      "summary": "Jordan (@JordanNanos) and Abhilash (@AbhilashJain17) discuss the clients SemiAnalysis consulting serves, custom projects like the inference simulator, how client work turns into research products, neocloud due diligence, and why SLAs decide who gets funded. They also discuss Feynman specs, de-specced memory, and a 20-trillion-parameter OpenAI model. 0:00 Intro and Overview 2:27 Client Types 5:24 Custom Projects 9:47 Strategy Work 12:27 Consulting to Products 14:33 Neocloud Due Diligence 18:40 SLAs and Insurance 22:32 Risk Assessments 26:45 Build vs Buy 29:19 Favorites and Outlook",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "u4qyDSJuYEk"
     },
     {
       "source": "Capital Allocators",
@@ -250,18 +221,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
-      "published_at": "2026-10-04T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion-bFIBGYtV",
-      "summary": "a16z General Partner David George joins Jack Altman on Uncapped to make the case that many of the biggest debates in AI are framed the wrong way. Frontier models or open source? Labs or applications? David’s answer is often “and.” With AI adoption still concentrated among a relatively small group of heavy users, he argues there could be room for multiple layers of the stack to grow at once. David and Jack discuss why demand for compute continues to outstrip supply, why applications can thrive even as frontier labs expand into new products, and why consumer AI may still be at the beginning of its biggest shift, from reactive chatbots to proactive assistants that can act on our behalf. They also zoom out to autonomy, robotics, healthcare, and the next generation of technology companies, before turning to venture itself: why David believes today’s product cycle is unusually strong, how capital can accelerate AI companies in ways it couldn’t during the SaaS era, and why founders and narrative become increasingly important as companies scale. This conversation originally appeared on Jack Altman’s Uncapped. Resources: Follow David George on X: https://x.com/DavidGeorge83 Follow Jack Altman: https://x.com/jaltma Listen to more from Uncapped : https://www.youtube.com/@uncappedpod Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f7d0e381-40ba-4655-bdfe-afe618282935/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f7d0e381-40ba-4655-bdfe-afe618282935&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -272,31 +231,13 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
-      "published_at": "2026-10-02T22:30:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
-      "summary": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov, coordinated doomer messaging (45:22) Recent economic data: GDP, jobs, diesel, inflation, rates, manufacturing, poverty, and more (1:00:24) Midterm predictions, 2028 look ahead (1:09:28) Media coverage of attempted terrorist hijacking Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/WhiteHouse/status/2105292669303791687 https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd https://www.reuters.com/world/us/us-second-quarter-gdp-revised-higher-amid-robust-consumer-spending-2026-09-30 https://www.atlantafed.org/research-and-data/data/gdpnow https://www.bls.gov/opub/ted/2026/payroll-employment-rose-162000-in-august-2026.htm https://www.wsj.com/opinion/u-s-economy-gdp-commerce-upward-revision-aee8692e https://www.investing.com/news/economic-indicators/chicago-pmi-surges-signals-robust-manufacturing-expansion-93CH4925362 https://www.reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30 https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel https://polymarket.com/predictions/midterms https://x.com/OliaOnX/status/2105333178814832963 https://x.com/NYTimesPR/status/2105328158379856153",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E291_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
-      "published_at": "2026-10-02T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
-      "summary": "Founder and CEO of full-stack AI chip company Fractile, Walter Goodwin, joins Sarah Guo to discuss the bets he’s made on the future of the chip market as other major players like Broadcom, NVIDIA, and AMD try to accelerate their workloads. They discuss the difference in Fractile’s newer approach on model architecture with a full-stack team in the current chip landscape and the technical bets they’re making in that direction. Walter also talks about compressing the gap between the chip design cycle and its payoff period, and making a generational leap in AI inference to realize the bet in volume against the value to be captured. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @goodwin_ml | @fractile_ai Chapters: 00:46 – Walter Goodwin and Fractile Introduction 02:29 – The Chip Landscape Now 04:56 – Common Handoffs From Architecture-Focused Players 07:18 – Full Stack Approach and Team Setup 09:49 – Fractile’s Most Important Technical Bets 15:32 – Workload Predictions and Compressing the Chip Design Cycle 23:03 – Architect Intent to Output Bottlenecks and Accelerating Trials 28:16 – Workload Bets on Model Architectural Shifts 31:20 – The Future of AI Chip Players and Market Structure 35:14 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP7579412568.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
