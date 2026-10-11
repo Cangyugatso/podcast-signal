@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-10T01:26:49.650699+00:00",
+  "generated_at": "2026-10-11T00:38:06.658338+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 19,
+  "item_count": 20,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+      "published_at": "2026-10-10T22:07:17+00:00",
+      "url": "https://www.latent.space/p/nyc2026",
+      "summary": "Tomorrow and Tuesday. If you see this you’re in!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "published_at": "2026-10-10T14:04:11+00:00",
+      "url": "https://www.latent.space/p/standard-bots",
+      "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+      "published_at": "2026-10-10T13:01:38+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+      "summary": "Community Wisdom 301",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Makes a Great Entrepreneur? | Ben Horowitz on Vintage x Vintage",
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-makes-a-great-entrepreneur-ben-horowitz-on-vintage-x-vintage-FiiBzjgE",
+      "summary": "a16z co-founder and General Partner Ben Horowitz joins James Norman on the inaugural episode of Vintage x Vintage for a conversation spanning entrepreneurship, investing, hip-hop, and what changes when AI makes building dramatically easier. Ben reflects on going from Netscape to becoming a first-time CEO, why every founder eventually hits a “we’re fucked, it’s over” moment, and what he learned from building a16z around the needs of entrepreneurs. He explains why great investors should look for world-class strengths rather than an absence of weaknesses, and why expanding the ways we recognize talent can raise the bar rather than lower it. They also look at the current AI cycle, why Ben believes it is bigger than the internet, how AI changes who can become a builder, and why the infrastructure beneath today’s models may need to be rebuilt from the ground up. Resources: Follow Ben Horowitz on X: https://x.com/bhorowitz Follow James Norman on LinkedIn: https://www.linkedin.com/in/motown/ Learn more about Paid in Full: https://paidinfullfoundation.org Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e56d3db2-edb1-4f5a-a918-c165823f4160/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e56d3db2-edb1-4f5a-a918-c165823f4160&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "published_at": "2026-10-10T06:45:57+00:00",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "summary": "Wow.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+      "published_at": "2026-10-10T02:06:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/is-claude-conscious-pope-rejects-model-welfare-movement-openais-math-backlash-france-riots",
+      "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html https://www.anthropic.com/constitution https://x.com/andrewcurran_/status/2108244808494154089 https://www.economist.com/the-world-in-brief/2026/10/03/388af69b-8327-40a3-af5a-13c0ede56800 https://www.lesswrong.com/users/eliezer_yudkowsky https://www.amazon.com/Anyone-Builds-Everyone-Dies-Superhuman/dp/0316595640 https://en.wikipedia.org/wiki/Roko%27s_basilisk https://www.nytimes.com/2026/10/06/science/openai-math-problems.html https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/ https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents https://scottaaronson.blog/?p=10169 https://x.com/imjustnewatai/status/2107601711032373333 https://x.com/skdh/status/2107848423726555204 https://x.com/friedberg/status/2107856770609844491 https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273 https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html https://www.nytimes.com/2026/10/08/business/france-bond-yields.html https://x.com/LucAuffret/status/2108217923101683737 https://polymarket.com/event/next-french-presidential-election https://polymarket.com/event/another-fed-rate-hike-in-2026 https://x.com/nikitabier/status/2108262529571144176",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -53,18 +125,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "published_at": "2026-10-08T16:27:54+00:00",
-      "url": "https://www.latent.space/p/periodic",
-      "summary": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
-      "audio_url": "https://api.substack.com/feed/podcast/219146438/4de3baad7036438bcc048cc532556c6a.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -89,18 +149,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "published_at": "2026-10-08T07:27:51+00:00",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "summary": "yay small models",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -110,18 +158,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom) is now available via https://link.amazon/B04hl5L95 ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO5334235917.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-      "published_at": "2026-10-07T14:10:45+00:00",
-      "url": "https://www.latent.space/p/stacklok",
-      "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -197,18 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Top 100 Consumer AI Apps: Who’s Actually Paying?",
-      "published_at": "2026-10-05T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-top-100-consumer-ai-apps-whos-actually-paying-PdmgSeRQ",
-      "summary": "a16z Editorial Partner Elena Burger sits down with investing partners Olivia Moore and Josh Elman to unpack the seventh edition of a16z’s Top 100 Consumer AI Apps, including a new dimension this time: what consumers are actually paying for. The data reveals a striking power-user economy. Only a small share of consumers currently pay for AI, but among those who do, spending is heavily concentrated at the top. Olivia and Josh discuss why developers, creators, and other power users dominate spending today, and why subscriptions may not be the business model that ultimately brings consumer AI to everyone. They also dig into the rise of personal agents, the different trajectories of ChatGPT, Claude, and Gemini, how ads could reshape AI economics, and the enormous amount of consumer white space still left to build, from shopping and entertainment to social, dating, and marketplaces. Resources: Read the Top 100 Consumer AI Apps, Seventh Edition: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh Follow Olivia Moore: https://x.com/omooretweets Follow Josh Elman: https://x.com/joshelman Follow Elena Burger: https://x.com/VirtualElena Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/15cd7eea-99bc-4db9-b027-1fdb2500162c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=15cd7eea-99bc-4db9-b027-1fdb2500162c&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -219,25 +243,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/217274136/c23e92a6cc478dbff494fdb2430bfdd5.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-      "published_at": "2026-10-03T17:00:49+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
-      "summary": "Community Wisdom 301",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
     }
   ]
 }
