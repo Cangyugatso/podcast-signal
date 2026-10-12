@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-11T00:38:06.658338+00:00",
+  "generated_at": "2026-10-12T00:54:55.869622+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 20,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "published_at": "2026-10-11T12:31:59+00:00",
+      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "summary": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
+      "audio_url": "https://api.substack.com/feed/podcast/216810191/cd6b71ea3c31023c957a24b2c468ce30.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Nick Bostrom: How Should We Navigate Superintelligence?",
+      "published_at": "2026-10-11T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/nick-bostrom-how-should-we-navigate-superintelligence-COJSBboX",
+      "summary": "Nick Bostrom joins Theo Jaffee and Sofia Puccini on MTS to revisit the ideas about superintelligence and existential risk that he helped bring into the mainstream, now that increasingly capable AI systems actually exist. Nick discusses why reinforcement learning may be pushing models toward more goal-seeking behavior, what recent agent experiments tell us about instrumental convergence, and why he favors preserving the ability to slow frontier development rather than committing now to a broad or indefinite AI pause. He also makes the case that the risks of AI need to be weighed alongside its potential upside, from advances in medicine and longer lifespans to entirely new ways of being human. They also get into whether today's models could already have some form of consciousness, the tradeoffs of open-source AI, whether machines can do original philosophy, mind uploading, and what the simulation hypothesis might mean for the superintelligence we create. Resources: Nick Bostrom / Macrostrategy Research Initiative: https://nickbostrom.com/ Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on LinkedIn: https://www.linkedin.com/in/sofiapuccini/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/eca4cc70-0fd7-4623-bf6f-be7c72d6ed85/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=eca4cc70-0fd7-4623-bf6f-be7c72d6ed85&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -173,18 +197,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building Defense for the Agentic Era: Kevin Mandia",
-      "published_at": "2026-10-06T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/building-defense-for-the-agentic-era-kevin-mandia-4ylPD1X6",
-      "summary": "a16z General Partner David George sits down with Armadin founder and CEO Kevin Mandia to discuss what happens to cybersecurity when attackers can operate at machine speed. After 30 years in security and building Mandiant, Kevin says AI convinced him to get back on the field. He explains how AI changes the economics of cyberattacks, allowing attackers to probe thousands of paths simultaneously, and why that means defense will ultimately need to become autonomous too. They also unpack Armadin’s approach: continuously attacking customers’ systems with AI to find exploitable vulnerabilities before adversaries do, then building toward autonomous defenses that can respond in real time. Kevin shares what Armadin has learned from finding more than 90 zero-days in production environments this year, why humans can’t remain in the detect-and-respond loop, and how the entire security stack could change over the next few years. Resources: Learn more about Kevin Mandia and Armadin: https://www.armadin.com/team-members/kevin-mandia Follow David George on X: https://x.com/DavidGeorge83 Learn more about Armadin: https://www.armadin.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/24f18a48-5a9a-44ed-905a-34359aaf1190/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=24f18a48-5a9a-44ed-905a-34359aaf1190&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -231,25 +243,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/218411890/aa07f9195211ebc3f9d97bb380bb7bbb.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux",
-      "published_at": "2026-10-04T12:32:47+00:00",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
-      "summary": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
-      "audio_url": "https://api.substack.com/feed/podcast/217274136/c23e92a6cc478dbff494fdb2430bfdd5.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
     }
   ]
 }
