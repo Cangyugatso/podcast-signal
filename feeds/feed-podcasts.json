@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-12T00:54:55.869622+00:00",
+  "generated_at": "2026-10-13T02:48:25.891249+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 20,
+  "item_count": 21,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "published_at": "2026-10-12T18:18:17+00:00",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "published_at": "2026-10-12T15:49:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
+      "summary": "(0:00) Martin Shkreli joins the Besties! (0:55) Why quantum computing is a one-trick business and why he's betting against it (7:42) The drugs big pharma sells too cheap and his journey from hedge fund trader to pharma (11:37) AI, drug discovery, and who actually wins (21:32) Brilliance and rule-breaking, the gifted-kid trap & what prison taught him Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Martin_Shkrely_AIS26_NO_VIVEK_AUDIO_100.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "published_at": "2026-10-12T15:00:38+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "published_at": "2026-10-12T12:03:55+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "summary": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/219332317/4404418704e8f2d872514c6b545013a7.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Race to Recursive Self-Improving AI",
+      "published_at": "2026-10-12T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-race-to-recursive-self-improving-ai-OPuX1TcP",
+      "summary": "a16z General Partner Martin Casado sits down with MakerMaker.AI co-founders Dhaval Adjodah and Owen He to unpack recursive self-improvement, or RSI, and separate the increasingly popular term from what it would actually mean for an AI system to improve itself. Dhaval and Owen distinguish true RSI from simply using AI to automate pieces of AI development. Their goal is a closed loop where the system being improved is also doing the improving, across components including models, harnesses, and eventually more of the AI stack. They explain why closing that loop still doesn’t guarantee runaway “takeoff,” and why measuring real progress requires accounting for both capability gains and the resources required to achieve them. They also share what they’re seeing in their own research, including early signs that self-improving systems can increase performance while improving efficiency. And they dig into the practical challenges of proving those gains are real, from variance and reward hacking to the enormous difficulty of distinguishing genuine improvement from noise. Resources: Follow Dhaval Adjodah on LinkedIn: https://www.linkedin.com/in/rand0m Follow Owen He on LinkedIn: https://www.linkedin.com/in/owen-he-b7b064279/ Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/082b16db-6860-47bf-83ca-c3bfaeb02f49/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=082b16db-6860-47bf-83ca-c3bfaeb02f49&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)",
+      "published_at": "2026-10-12T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-ep520",
+      "summary": "Our next guest on the Senior Decision Makers series is Erlina Yeo Terwelp, a Managing Director at Columbia Investment Management Company, where she oversees the endowment's private markets portfolio. Erlina's path spans investment banking, private equity, growth equity, and family office investing before she joined Columbia nearly a decade ago. Our conversation covers her evolution as an allocator, how she thinks about manager selection and portfolio construction, the growing role of leadership and team development in her seat, and her perspective on generalist versus specialist team models after working within both. Erlina is candid, thoughtful, and funny — with a deep commitment to intellectual honesty, an openness to changing her mind, and a willingness to continually put herself in situations that force her to grow. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.520_SDM_Erlina_Yeo_Terwelp_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -137,18 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-10-08T23:29:43+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "summary": "a quiet day.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -185,18 +245,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Valon Rebuilt a $13 Trillion Industry From Scratch",
-      "published_at": "2026-10-07T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe",
-      "summary": "a16z General Partner Angela Strange sits down with Valon’s Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies heavily on systems designed before the internet. Linda and Andrew explain why Valon chose the hardest path: becoming a regulated mortgage servicer, translating decades of federal and state regulation into software, and proving the platform on its own loans before selling it to the industry. That foundation made Valon roughly three times as efficient as traditional servicing and created the system of record it is now using to bring AI into complex mortgage workflows. They also discuss what AI makes possible on top of that infrastructure, from agents handling long-tail servicing tasks to voice interfaces and more personalized customer experiences. And they explain why deploying the technology into large regulated enterprises is ultimately as much a change-management challenge as a technical one. Resources: Follow Angela Strange: https://x.com/astrange Follow Andrew Wang: https://www.linkedin.com/in/wangandrewd Follow Linda Du: https://www.linkedin.com/in/xlindadu/ Learn more about Valon: https://valon.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -206,42 +254,6 @@
       "summary": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols. Most of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. He explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved. Please enjoy my conversation with Andrew Huberman. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Energy as the Bottleneck for Top Performers (00:06:20) How to Downshift and Fall Asleep (00:14:06) Neurotech for Sleep and Focus (00:17:57) The State of Public Health Discourse (00:22:07) The Biggest Problem in Neuroscience (00:23:30) Why AI Companies Will Become Biotech Companies (00:26:18) How We Read Brain Activity (00:42:07) Crossing the Cyborg Line (00:43:30) Measuring the Nervous System Directly (00:57:34) The CRISPR Babies Story (01:00:24) Embryo Screening and Genetic Engineering (01:03:01) Understanding Waking Brain States (01:06:12) Technologists Becoming Neuroscientists (01:09:35) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
-      "published_at": "2026-10-05T15:03:24+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Building the Total Portfolio at Ontario Teachers – Stephen McLennan (EP.518)",
-      "published_at": "2026-10-05T14:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/building-the-total-portfolio-at-ontario-teachers-stephen-mclennan-ep518",
-      "summary": "Stephen McLennan is the Co-Chief Investment Officer of the Ontario Teachers' Pension Plan, where he oversees asset allocation for the $300 billion fund responsible for the retirement security of 346,000 teachers. Stephen joined OTPP in 2003 and worked across credit, natural resources, infrastructure, and Total Fund Management, before splitting the CIO seat with Gillian Brown in 2024 — a dual-CIO structure that is unique among Canada's largest pension funds. Our conversation traces that path and discusses OTPP's total portfolio strategy, including the balance of top-down asset allocation with bottom-up investing, role of active management, liquidity, leverage, and internal and external management. We cover where private equity, credit, infrastructure, hedge funds, and inflation-sensitive assets earn their place in the portfolio, how AI-driven concentration risk factors into portfolio resilience, and the evolution of the Canadian model, with both enduring edges and eroding competitive advantages. Register for TomorrowX using the Capital Allocators discount here . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.518_Stephen_McLennan_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-      "published_at": "2026-10-05T12:04:54+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "summary": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
-      "audio_url": "https://api.substack.com/feed/podcast/218411890/aa07f9195211ebc3f9d97bb380bb7bbb.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
