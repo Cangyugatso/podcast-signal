@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-10-13T02:48:25.891249+00:00",
+  "generated_at": "2026-10-14T00:49:03.800226+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 21,
+  "item_count": 22,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+      "published_at": "2026-10-13T22:25:55+00:00",
+      "url": "https://www.latent.space/p/dyna",
+      "summary": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
+      "audio_url": "https://api.substack.com/feed/podcast/220234130/c77b90e7331c0fabae60105d2325e9a0.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How to tell if a startup has a moat",
+      "published_at": "2026-10-13T12:45:41+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "summary": "A framework for assessing whether the company you’re considering joining is built to last",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can AI Break Cryptography? What the Experts Actually Think",
+      "published_at": "2026-10-13T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC",
+      "summary": "Could AI break the cryptography protecting everything from crypto wallets and banking to private messages? Recent advances in AI-driven mathematical research have sparked new warnings about the security of today's encryption systems, but how much of the concern is supported by evidence? a16z crypto's Liz Harkavy is joined by Stanford cryptographer Dan Boneh, a16z crypto General Partner Eddy Lazzarin, and Research Partner Justin Thaler to separate what we know from what remains speculation. They explain why modern cryptography relies on mathematical assumptions, what OpenAI's recent results do and don't demonstrate, and how the potential threat from AI differs from quantum computing. They also discuss why existing security practices and cryptographic alternatives offer reasons for confidence, the importance of building systems that can adapt if an assumption fails, and how AI could ultimately help researchers and developers make software more secure. Resources: Watch the original a16z crypto discussion: https://www.youtube.com/watch?v=k_CoOoDsZ5Y Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Dan Boneh: https://x.com/danboneh Follow Justin Thaler: https://x.com/SuccinctJT Follow Liz Harkavy: https://x.com/liz_harkavy Learn more about a16z crypto: https://a16zcrypto.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ded4b58e-4303-418c-807e-fffaeb59a92c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ded4b58e-4303-418c-807e-fffaeb59a92c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "published_at": "2026-10-13T09:37:04+00:00",
+      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "summary": "MSL’s emergence as a frontier lab is finally complete.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
+      "published_at": "2026-10-13T08:00:00+00:00",
+      "url": "https://colossus.com/episode/david-v-goliath/",
+      "summary": "David Vélez is the founder and CEO of Nubank, which serves 140 million customers across Latin America. David believes the industry is still in its Blockbuster era, with most of the world's banking still running through branches and incumbent banks, and that AI will make digital banks dramatically more efficient than the incumbents they compete with. He explains how Nubank rebuilt its entire organization around AI after missing the moment the technology started working, and why he is now bringing Nubank to the US, a market he says is still dominated by big incumbent banks. Please enjoy my conversation with David Vélez. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Banking Is Still In Its Blockbuster Era (00:02:52) 140 Million Customers, 10,000 Employees (00:04:53) What Banks Could Do in Five Years (00:06:31) The $600 Billion Tax on Deposits (00:08:06) A Private Banker for Everyone (00:12:21) How a Startup Would Attack Nubank (00:14:56) When Nubank Took AI Seriously (00:17:08) Data as a Moat (00:21:29) How Global Finance Will Change (00:25:20) Stablecoins and the End of Cash (00:28:45) Creating Creditworthiness (00:32:35) Where Fintech Opportunities Remain (00:34:19) Nubank Comes to the US (00:41:11) Lessons From Disney and Amazon (00:43:44) How to Sell AI to Nubank (00:46:51) Agents as a Customer Segment (00:48:39) How AI Changed Nubank (01:01:33) What Motivates Him Now (01:06:21) Founder Versus CEO (01:14:01) What Latin America Needs (01:15:40) The Bear Case for Nubank (01:19:42) Finding the Right Mission",
+      "audio_url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -149,18 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "published_at": "2026-10-10T06:45:57+00:00",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "summary": "Wow.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -170,18 +218,6 @@
       "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html https://www.anthropic.com/constitution https://x.com/andrewcurran_/status/2108244808494154089 https://www.economist.com/the-world-in-brief/2026/10/03/388af69b-8327-40a3-af5a-13c0ede56800 https://www.lesswrong.com/users/eliezer_yudkowsky https://www.amazon.com/Anyone-Builds-Everyone-Dies-Superhuman/dp/0316595640 https://en.wikipedia.org/wiki/Roko%27s_basilisk https://www.nytimes.com/2026/10/06/science/openai-math-problems.html https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/ https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents https://scottaaronson.blog/?p=10169 https://x.com/imjustnewatai/status/2107601711032373333 https://x.com/skdh/status/2107848423726555204 https://x.com/friedberg/status/2107856770609844491 https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273 https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html https://www.nytimes.com/2026/10/08/business/france-bond-yields.html https://x.com/LucAuffret/status/2108217923101683737 https://polymarket.com/event/next-french-presidential-election https://polymarket.com/event/another-fed-rate-hike-in-2026 https://x.com/nikitabier/status/2108262529571144176",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "published_at": "2026-10-10T00:31:26+00:00",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
-      "audio_url": "https://api.substack.com/feed/podcast/219666029/a55c7eb779368b4623e64d0933a07f0f.mp3",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -209,18 +245,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building the Cloud for an Agentic World | AWS CEO Matt Garman",
-      "published_at": "2026-10-08T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC",
-      "summary": "a16z’s Raghu Raghuram sits down with AWS CEO Matt Garman to discuss how AI is reshaping the cloud, from the needs of AI-native startups to infrastructure increasingly designed for agents. Matt explains how AWS is adapting as agents write code and manage infrastructure, why it’s reserving scarce GPU capacity for startups, and where custom chips like Trainium and Graviton fit into the AI stack. They also discuss Amazon's $220 billion capital investment, the shifting bottlenecks in the infrastructure buildout, what enterprises need to trust autonomous agents, and how AWS's own teams are building with agents. Resources: Follow Matt Garman on X: https://x.com/mattsgarman Follow Matt Garman on LinkedIn: https://www.linkedin.com/in/mattgarman Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Learn more about AWS: https://aws.amazon.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1b4fcb1-9600-4c7b-a712-186a9c63f2fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1b4fcb1-9600-4c7b-a712-186a9c63f2fd&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -242,18 +266,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom) is now available via https://link.amazon/B04hl5L95 ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
       "audio_url": "https://traffic.megaphone.fm/APO5334235917.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
-      "published_at": "2026-10-06T08:00:00+00:00",
-      "url": "http://colossus.com/episode/reading-and-writing-the-brain/",
-      "summary": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols. Most of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. He explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the problem he most wants to see solved. Please enjoy my conversation with Andrew Huberman. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Energy as the Bottleneck for Top Performers (00:06:20) How to Downshift and Fall Asleep (00:14:06) Neurotech for Sleep and Focus (00:17:57) The State of Public Health Discourse (00:22:07) The Biggest Problem in Neuroscience (00:23:30) Why AI Companies Will Become Biotech Companies (00:26:18) How We Read Brain Activity (00:42:07) Crossing the Cyborg Line (00:43:30) Measuring the Nervous System Directly (00:57:34) The CRISPR Babies Story (01:00:24) Embryo Screening and Genetic Engineering (01:03:01) Understanding Waking Brain States (01:06:12) Technologists Becoming Neuroscientists (01:09:35) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS1239827470.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
