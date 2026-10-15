@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-10-14T00:49:03.800226+00:00",
+  "generated_at": "2026-10-15T00:15:45.266192+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 22,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "published_at": "2026-10-14T21:40:52+00:00",
+      "url": "https://www.latent.space/p/crossing-the-threshold",
+      "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+      "published_at": "2026-10-14T20:35:09+00:00",
+      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+      "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+      "audio_url": "https://api.substack.com/feed/podcast/220316507/088d386ca7b830a53c64e1cd2678e427.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "published_at": "2026-10-14T12:04:05+00:00",
+      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "summary": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
+      "audio_url": "https://api.substack.com/feed/podcast/220246515/6e8b700eff7a5a1dc20b8d93589bf144.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can Open Models Keep Up With the AI Frontier? | Nathan Lambert",
+      "published_at": "2026-10-14T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-open-models-keep-up-with-the-ai-frontier-nathan-lambert-WqIVvxfv",
+      "summary": "a16z Partner Lisha Li sits down with AI researcher and Trillium founder Nathan Lambert to ask how durable the gap really is between frontier AI labs and open models. Nathan argues that OpenAI and Anthropic have structural advantages in compute, capital, and the ability to pioneer new training paradigms, but open-model labs, particularly in China, have proven remarkably capable of following close behind. They unpack how much of that comes from distillation versus technical talent, why compute remains a major constraint, and how data, RL environments, and post-training are increasingly shaping model progress. They also discuss Nathan’s new nonprofit research lab, Trillium, and its plans to open up parts of AI research that are increasingly difficult to study from the outside. That includes releasing RL environments and documenting how AI is actually being used to automate AI research, with the goal of demystifying recursive self-improvement and giving researchers and policymakers a clearer picture of what frontier systems can and cannot do. Resources: Learn more about Trillium: https://trilliumlabs.org/ Follow Nathan Lambert on X: https://x.com/natolambert Nathan Lambert’s Newsletter: https://www.interconnects.ai/ Follow Lisha Li on X: https://x.com/lishali88 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9faf0f04-b106-4419-94b2-7882faca15c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9faf0f04-b106-4419-94b2-7882faca15c2&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "published_at": "2026-10-14T05:40:28+00:00",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -62,18 +122,6 @@
       "summary": "David Vélez is the founder and CEO of Nubank, which serves 140 million customers across Latin America. David believes the industry is still in its Blockbuster era, with most of the world's banking still running through branches and incumbent banks, and that AI will make digital banks dramatically more efficient than the incumbents they compete with. He explains how Nubank rebuilt its entire organization around AI after missing the moment the technology started working, and why he is now bringing Nubank to the US, a market he says is still dominated by big incumbent banks. Please enjoy my conversation with David Vélez. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Banking Is Still In Its Blockbuster Era (00:02:52) 140 Million Customers, 10,000 Employees (00:04:53) What Banks Could Do in Five Years (00:06:31) The $600 Billion Tax on Deposits (00:08:06) A Private Banker for Everyone (00:12:21) How a Startup Would Attack Nubank (00:14:56) When Nubank Took AI Seriously (00:17:08) Data as a Moat (00:21:29) How Global Finance Will Change (00:25:20) Stablecoins and the End of Cash (00:28:45) Creating Creditworthiness (00:32:35) Where Fintech Opportunities Remain (00:34:19) Nubank Comes to the US (00:41:11) Lessons From Disney and Amazon (00:43:44) How to Sell AI to Nubank (00:46:51) Agents as a Customer Segment (00:48:39) How AI Changed Nubank (01:01:33) What Motivates Him Now (01:06:21) Founder Versus CEO (01:14:01) What Latin America Needs (01:15:40) The Bear Case for Nubank (01:19:42) Finding the Right Mission",
       "audio_url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "published_at": "2026-10-12T18:18:17+00:00",
-      "url": "https://www.latent.space/p/claude-dynamic-workflows",
-      "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -161,42 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-      "published_at": "2026-10-10T22:07:17+00:00",
-      "url": "https://www.latent.space/p/nyc2026",
-      "summary": "Tomorrow and Tuesday. If you see this you’re in!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "published_at": "2026-10-10T14:04:11+00:00",
-      "url": "https://www.latent.space/p/standard-bots",
-      "summary": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-      "published_at": "2026-10-10T13:01:38+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-      "summary": "Community Wisdom 301",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -230,18 +242,6 @@
       "summary": "Is the future of frontier AI open or closed? ReflectionAI co-founder and CEO Misha Laskin joins Sarah Guo and Elad Gil to discuss the launch of Beam, the company’s 500 billion parameter open-weight reasoning model. Misha breaks down the pre-training and reinforcement learning required to produce Beam’s reasoning efficiency, the shift in enterprise compute from renting to owning intelligence, and how he believes that open models will capture the majority of global token demand. He also talks about the open model ecosystem in China and why competition with China’s models is a good thing, safety considerations around open models, and how frontier-level open models may accelerate the pace of scientific discovery. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MishaLaskin | @reflection_ai Chapters: 00:42 – Misha Laskin Introduction 00:59 – Latest with ReflectionAI 02:07 – Challenges Building an Open Model 03:56 – ReflectionAI’s Agentic Shift 07:37 – Resources for Model Training 10:09 – Scaling Efficiency 12:18 – Training Beam 16:51 – Where Model Value Comes From 19:55 – Beam’s Reasoning Efficiency 22:35 – Monetizing Open Weight Models 25:03 – Future of Open Versus Closed Tokens 31:29 – Competition with Open Models 34:38 – Chinese Open Source Model Ecosystem 38:40 – Will Chinese Models Remain Open 44:44 – Safety and Open Models 53:02 – Debating Access to Powerful Tools 57:16 – AI and Scientific Progress 01:00:36 – Data Centers and Jobs 01:02:07 – Beam and Scientific Research 01:05:37 – Research Head Count to Compute Ratio 01:10:29 – Conclusion",
       "audio_url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Chips, Memory, and Power | Pat Gelsinger",
-      "published_at": "2026-10-09T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU",
-      "summary": "a16z's Raghu Raghuram and Guido Appenzeller sit down with Playground Global General Partner and former Intel CEO Pat Gelsinger to discuss the next wave of semiconductor innovation and the physical constraints shaping the AI buildout. Drawing on his experience designing Intel's 386 and 486 processors, Pat explains how AI could transform chip design, but also why faster design alone won't solve the industry's biggest problems. They examine the bottlenecks in manufacturing, memory bandwidth, advanced packaging, and power, and why today's explosion of specialized AI chips may eventually consolidate around a smaller number of architectures. They also discuss the potential for new memory technologies, the shift from copper to optical networking, and why energy capacity could become a major constraint on AI growth. Finally, they revisit Pat's VMware years to ask what virtualization might look like when infrastructure is built for agents rather than humans. Resources: Follow Pat Gelsinger on X: https://x.com/PGelsinger Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Follow Guido Appenzeller: https://x.com/appenz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
