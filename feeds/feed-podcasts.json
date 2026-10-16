@@ -1,9 +1,108 @@
 {
-  "generated_at": "2026-10-15T00:15:45.266192+00:00",
+  "generated_at": "2026-10-16T00:01:22.865497+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the SemiAnalysis STEEL Lab",
+      "published_at": "2026-10-15T21:23:46+00:00",
+      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
+      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zRG78s5hKz0"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "STEEL: From product to transistor | SemiAnalysis Model Overview",
+      "published_at": "2026-10-15T19:17:55+00:00",
+      "url": "https://www.youtube.com/watch?v=Qbisw2y-d_Q",
+      "summary": "From product to transistor. Andrew Wagner of SemiAnalysis STEEL walks through our teardown lab in Hillsboro, Oregon in two minutes: what it does, how it works, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/steel-lab",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Qbisw2y-d_Q"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "The AI buildout, quantified | SemiAnalysis",
+      "published_at": "2026-10-15T19:04:07+00:00",
+      "url": "https://www.youtube.com/watch?v=xS88sEoNcQg",
+      "summary": "Every time you ask a machine something, somewhere, something answers. That answer is made of tokens, and every token has a price. SemiAnalysis is the definitive source on the world's most important industry. Institutional-grade intelligence for semiconductors, AI infrastructure, and datacenter economics. ▸ 180,000+ subscribers · The #1 technology newsletter on Substack ▸ Global datacenter capacity tracker covering 6,500+ structures ▸ 84 GPU clouds rated \"It's one of my most important and most-cited resources on Stratechery.\" — Ben Thompson, Stratechery Explore everything → https://semianalysis.com",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "xS88sEoNcQg"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "published_at": "2026-10-15T10:08:08+00:00",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "summary": "Sandboxes are all you need.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "When AI Agents Start Spending Your Money | Alex Rampell & Terry Angelos",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh",
+      "summary": "a16z General Partner Alex Rampell sits down with VGS Executive Board Member, Terry Angelos, to unpack what happens to payments when AI agents go from recommending what to buy to actually making the purchase. Terry explains the infrastructure required to safely give agents access to payment credentials, why wallets like PayPal, Shop Pay, and Link are competing to become the default payment layer for agents, and how new agentic tokens could preserve the chargebacks, identity checks, and merchant relationships that make today's payment networks work. VGS, which already secures payment credentials across a significant share of e-commerce, is now provisioning millions of these agentic tokens each week. They also discuss what happens when merchants don't want to transact with agents, how delegated authority changes liability when an agent makes a mistake, and why AI could simultaneously increase consumer spending while eliminating the subscriptions, fees, and other forms of economic \"breakage\" that depend on people not paying attention. Resources: Follow Terry Angelos on X: https://x.com/terryangelos Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6234b162-a09d-4e3e-8647-37199663e239/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6234b162-a09d-4e3e-8647-37199663e239&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP1628614600.mp3",
+      "summary": "Technology has always been the fundamental driver of improvement for human quality of life. And with the recent rollout of advanced frontier models, like OpenAI’s GPT-6, humanity can now massively accelerate scientific discovery for its benefit. Sarah Guo and Elad Gil are joined by OpenAI President and co-founder Greg Brockman to discuss the company’s rapid progress across frontier models, cybersecurity, and scientific discovery. Greg shares how nearly 400 century-old math problems have been solved using its AI agents, and how the technology has the potential to transform other fields like biology in the realm of drug discovery. He also talks about how proactive, always-on AI agents like Dots impact modern productivity, why he believes the best UI is no UI at all, how cybersecurity is in a critical window of time to use peak intelligence to find and fix vulnerabilities in systems, and why OpenAI remains committed to keeping humans in the driver’s seat even as models surpass us in capability. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @gdb | @OpenAI Chapters: 00:42 – Trailer 00:59 – Greg Brockman Introduction 01:11 – AI and Advancements in Mathematics 05:55 – AI Communication and Oversight 07:45 – AI for Overcoming Biology Data Bottlenecks 11:28 – Revolutionizing Drug Discovery 14:18 – Changing Regulations to Accelerate Progress 16:51 – Dots the Proactive Agent 19:19 – Unifying Work and Consumer Agents 22:02 – How UI Will Evolve 26:08 – Cybersecurity in the AI Age 32:55 – Shift in Security Investment 35:49 – OpenAI’s Human-Centric Ethos 38:28 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP1628614600.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠ is now available via ⁠https://link.amazon/B04hl5L95⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: https://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
+      "audio_url": "https://traffic.megaphone.fm/APO5981912181.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+      "published_at": "2026-10-15T01:54:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/elizabeth-holmes-husband-billy-evans-the-trial-prison-nathan-fielders-documentary",
+      "summary": "(0:00) Billy Evans joins Friedberg (3:38) How they met, Elizabeth the person vs the headlines, indictment (11:02) Life on trial, having a child, where she went wrong in fundraising (19:28) Understanding the verdict, sentencing, and the mistake of staying silent (26:09) Elizabeth calls from prison, her life in jail (31:34) Why they did the documentary with Nathan Fielder (35:47) The road home, restitution math, why his new company is not Theranos 2.0 Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Billy_Evans_AIS26_AUDIO_88.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -39,6 +138,32 @@
       "audio_url": "https://api.substack.com/feed/podcast/220246515/6e8b700eff7a5a1dc20b8d93589bf144.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Is GLM 5.3 worth sounding the alarms? 🚨",
+      "published_at": "2026-10-14T11:01:19+00:00",
+      "url": "https://www.youtube.com/shorts/uBMyOhHrSFk",
+      "summary": "Is GLM 5.3 worth sounding the alarms? 🚨 “As long as you have the budget, it will write faster kernels than humans.” Kimbo and Wenyao join Jordan this week to unpack sparse attention, the memory bottleneck nobody’s pricing in, and why cheaper tokens might mean more HBM, not less. Watch Now on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "uBMyOhHrSFk"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 038 - Is GLM 5.3 a Mythos-Class Cyber Model From China? (InferenceX)",
+      "published_at": "2026-10-14T11:00:14+00:00",
+      "url": "https://www.youtube.com/watch?v=5OwUwMSkO4Y",
+      "summary": "GLM 5.3 only attends to the tokens that matter. It still has to keep every one of them. Kimbo Chen (@kimbochen) and Wenyao Gao (@gao_wenyao) join Jordan Nanos (@JordanNanos) to dig into AMD catching NVIDIA on InferenceX, how post-training alone pushed an open-weight model within reach of Mythos, and whether Z.ai quietly tuned it for Chinese chips. The team also looks at how GLM 5.3 became a fallback when Claude and GPT refuse security work. Chapters: 0:00 Cold Open 0:37 Sparse Attention 101 4:46 HiCache and HiSparse 10:13 AMD Catches NVIDIA 12:54 Capacity vs Bandwidth 18:44 The Frankenstein Flash 20:09 Mythos-Class From China? 22:52 Post-Training Pipeline 32:32 Chinese Chips, Day One 39:54 GLM 5.4 and Beyond Read the full article: How GLM 5.3 Sparse Attention Affects HBM Memory Usage https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "5OwUwMSkO4Y"
     },
     {
       "source": "a16z",
@@ -98,18 +223,6 @@
       "summary": "Could AI break the cryptography protecting everything from crypto wallets and banking to private messages? Recent advances in AI-driven mathematical research have sparked new warnings about the security of today's encryption systems, but how much of the concern is supported by evidence? a16z crypto's Liz Harkavy is joined by Stanford cryptographer Dan Boneh, a16z crypto General Partner Eddy Lazzarin, and Research Partner Justin Thaler to separate what we know from what remains speculation. They explain why modern cryptography relies on mathematical assumptions, what OpenAI's recent results do and don't demonstrate, and how the potential threat from AI differs from quantum computing. They also discuss why existing security practices and cryptographic alternatives offer reasons for confidence, the importance of building systems that can adapt if an assumption fails, and how AI could ultimately help researchers and developers make software more secure. Resources: Watch the original a16z crypto discussion: https://www.youtube.com/watch?v=k_CoOoDsZ5Y Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Dan Boneh: https://x.com/danboneh Follow Justin Thaler: https://x.com/SuccinctJT Follow Liz Harkavy: https://x.com/liz_harkavy Learn more about a16z crypto: https://a16zcrypto.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ded4b58e-4303-418c-807e-fffaeb59a92c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ded4b58e-4303-418c-807e-fffaeb59a92c&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "published_at": "2026-10-13T09:37:04+00:00",
-      "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "summary": "MSL’s emergence as a frontier lab is finally complete.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -209,18 +322,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Makes a Great Entrepreneur? | Ben Horowitz on Vintage x Vintage",
-      "published_at": "2026-10-10T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-makes-a-great-entrepreneur-ben-horowitz-on-vintage-x-vintage-FiiBzjgE",
-      "summary": "a16z co-founder and General Partner Ben Horowitz joins James Norman on the inaugural episode of Vintage x Vintage for a conversation spanning entrepreneurship, investing, hip-hop, and what changes when AI makes building dramatically easier. Ben reflects on going from Netscape to becoming a first-time CEO, why every founder eventually hits a “we’re fucked, it’s over” moment, and what he learned from building a16z around the needs of entrepreneurs. He explains why great investors should look for world-class strengths rather than an absence of weaknesses, and why expanding the ways we recognize talent can raise the bar rather than lower it. They also look at the current AI cycle, why Ben believes it is bigger than the internet, how AI changes who can become a builder, and why the infrastructure beneath today’s models may need to be rebuilt from the ground up. Resources: Follow Ben Horowitz on X: https://x.com/bhorowitz Follow James Norman on LinkedIn: https://www.linkedin.com/in/motown/ Learn more about Paid in Full: https://paidinfullfoundation.org Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e56d3db2-edb1-4f5a-a918-c165823f4160/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e56d3db2-edb1-4f5a-a918-c165823f4160&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -243,37 +344,13 @@
       "audio_url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
       "feed_url": "https://feeds.megaphone.fm/nopriors",
       "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519)",
-      "published_at": "2026-10-08T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519",
-      "summary": "Charlie Rose is the Global Head of Real Estate Credit at Invesco, where he oversees an $85 billion global platform. Before joining Invesco, Charlie worked in real estate as an academic researcher, jack-of-all-trades through the financial crisis, and investor up and down the capital stack for eight years at Canyon Partners. Our conversation covers Invesco's \"credit over yield\" approach, property-first underwriting, collaborative work inside the firm, and relationship-based focus. We discuss sourcing through repeat borrowers, risk management, portfolio construction, contrarian calls, including avoiding data centers and AI exposure, and \"sheds and beds\" theme of industrial and multifamily loans. We close with lessons from the 2022–23 real estate correction, managing troubled loans, and how Invesco is using AI to improve investment decisions. See full disclaimer here . Register for TomorrowX using the Capital Allocators discount here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Small Caps Are About to Have Their Moment | Jeff Weniger",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Small-Caps-Are-About-to-Have-Their-Moment--Jeff-Weniger-e3q3dqq",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom) is now available via https://link.amazon/B04hl5L95 ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations.We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: ttps://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO5334235917.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+      "source": "Lex Fridman",
+      "url": "https://lexfridman.com/feed/podcast/",
+      "error": "https://lexfridman.com/feed/podcast/: request timed out"
     }
   ]
 }
