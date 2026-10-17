@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-10-17T00:07:13.170507+00:00",
+  "generated_at": "2026-10-17T23:42:49.009690+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 22,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "GLM 5.3’s biggest leap came from post-training alone.",
+      "published_at": "2026-10-17T21:32:47+00:00",
+      "url": "https://www.youtube.com/shorts/gWJ5fmB1nN8",
+      "summary": "GLM 5.3’s biggest leap came from post-training alone. “GLM 5.3 was built entirely by post-training the previous model. For me, that was a wake-up call.” “Post-training is far more GPU-efficient than pre-training from scratch. Plenty of companies can’t afford to train a model from scratch, but they have proprietary data. They can post-train themselves and beat some of the closed models.” “There’s still so much juice left to squeeze from post-training. We compared GLM 5.3’s cyber capabilities with 5.2, and it’s a night and day difference. That’s all just post-training.” Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "gWJ5fmB1nN8"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "published_at": "2026-10-17T13:53:57+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "summary": "Community Wisdom 302",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz",
+      "published_at": "2026-10-17T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B",
+      "summary": "Why is booking a doctor's appointment still so difficult, and can AI finally change that? Zocdoc CEO Oliver Kharraz argues that the real problem isn't finding doctors, but connecting patients to accurate availability and making appointments bookable wherever they start their search. Oliver joins a16z General Partner Julie Yoo to discuss how Zocdoc spent nearly 20 years building the infrastructure behind online scheduling, and why it's now opening that technology to AI agents, insurers, and other platforms. They explore Zocdoc's partnership with Gemini, why patients shouldn't be locked into a single healthcare platform, and how surfacing last-minute availability can reduce appointment wait times from weeks to days. They also discuss what happens when AI becomes a new front door to healthcare and why Oliver believes the future of Zocdoc extends far beyond its own app. Resources: Follow Oliver Kharraz on LinkedIn: https://www.linkedin.com/in/kharraz Follow Julie Yoo: https://x.com/julesyoo Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60df6c4d-a29a-4c66-994e-bbd659a2e577/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=60df6c4d-a29a-4c66-994e-bbd659a2e577&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] High Taste Testers Ep. 1",
+      "published_at": "2026-10-17T07:47:38+00:00",
+      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+      "summary": "a quiet day lets us pilot a new show",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "MGM and VICI: Finding Value in the Las Vegas Selloff | Value Options Podcast",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/MGM-and-VICI-Finding-Value-in-the-Las-Vegas-Selloff--Value-Options-Podcast-e3qjvn6",
+      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠ is now available via ⁠⁠https://link.amazon/B04hl5L95⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES SEE OUR FREE DEEP VALUE STOCK SCREENER FOLLOW TOBIAS Acquirers Multiple Acquirers Funds Twitter LinkedIn Facebook ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently Crash Test Dummy . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO3624614107.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "published_at": "2026-10-17T01:51:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
+      "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/chamath/status/2110128893680378299 https://www.google.com/finance/quote/CRWV:NASDAQ https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html https://247wallst.com/investing/2026/10/14/coreweave-falls-10-as-bond-yield-touches-15-and-elon-musk-says-yikes-nebius-drops-6-oracle-slips https://polymarket.com/event/coreweave-announces-bankruptcy-by https://x.com/FearedBuck/status/2109443893955567694 https://polymarket.com/event/ipos-before-2027 https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo https://www.anthropic.com/research/self-replicating-ai https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks https://x.com/DavidSacks/status/2109849209742450696 https://www.anthropic.com/research/distillation-defenses https://x.com/brian_armstrong/status/2109412046244913643",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Sparse attention fixes memory bandwidth, not memory capacity.",
+      "published_at": "2026-10-16T16:16:04+00:00",
+      "url": "https://www.youtube.com/shorts/72kg-Y9HPv8",
+      "summary": "Sparse attention fixes memory bandwidth, not memory capacity. “The whole idea of HiCache is trying to offload KV cache from the HBM to a lower tier, higher capacity but lower bandwidth memory, and only load the most relevant set of tokens during computation.” “Sparse attention doesn’t mitigate the memory capacity bottleneck. It’s a technique that helps a lot with memory bandwidth.” “During the sparse attention computation, you still need to select the tokens. So you still have to keep all the tokens in context, and you cannot discard them. At some point, it still has to be loaded into HBM.” “That’s where HiSparse becomes useful, because it can apply the typical caching rules so that you could load the most relevant parts into HBM.” Watch Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "72kg-Y9HPv8"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -27,6 +113,45 @@
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the SemiAnalysis STEEL Lab",
+      "published_at": "2026-10-15T21:23:46+00:00",
+      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
+      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zRG78s5hKz0"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "STEEL: From product to transistor | SemiAnalysis Model Overview",
+      "published_at": "2026-10-15T19:17:55+00:00",
+      "url": "https://www.youtube.com/watch?v=Qbisw2y-d_Q",
+      "summary": "From product to transistor. Andrew Wagner of SemiAnalysis STEEL walks through our teardown lab in Hillsboro, Oregon in two minutes: what it does, how it works, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/steel-lab",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Qbisw2y-d_Q"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "The AI buildout, quantified | SemiAnalysis",
+      "published_at": "2026-10-15T19:04:07+00:00",
+      "url": "https://www.youtube.com/watch?v=xS88sEoNcQg",
+      "summary": "Every time you ask a machine something, somewhere, something answers. That answer is made of tokens, and every token has a price. SemiAnalysis is the definitive source on the world's most important industry. Institutional-grade intelligence for semiconductors, AI infrastructure, and datacenter economics. ▸ 180,000+ subscribers · The #1 technology newsletter on Substack ▸ Global datacenter capacity tracker covering 6,500+ structures ▸ 84 GPU clouds rated \"It's one of my most important and most-cited resources on Stratechery.\" — Ben Thompson, Stratechery Explore everything → https://semianalysis.com",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "xS88sEoNcQg"
     },
     {
       "source": "Latent Space",
@@ -137,18 +262,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "published_at": "2026-10-14T05:40:28+00:00",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -221,18 +334,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Race to Recursive Self-Improving AI",
-      "published_at": "2026-10-12T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-race-to-recursive-self-improving-ai-OPuX1TcP",
-      "summary": "a16z General Partner Martin Casado sits down with MakerMaker.AI co-founders Dhaval Adjodah and Owen He to unpack recursive self-improvement, or RSI, and separate the increasingly popular term from what it would actually mean for an AI system to improve itself. Dhaval and Owen distinguish true RSI from simply using AI to automate pieces of AI development. Their goal is a closed loop where the system being improved is also doing the improving, across components including models, harnesses, and eventually more of the AI stack. They explain why closing that loop still doesn’t guarantee runaway “takeoff,” and why measuring real progress requires accounting for both capability gains and the resources required to achieve them. They also share what they’re seeing in their own research, including early signs that self-improving systems can increase performance while improving efficiency. And they dig into the practical challenges of proving those gains are real, from variance and reward hacking to the enormous difficulty of distinguishing genuine improvement from noise. Resources: Follow Dhaval Adjodah on LinkedIn: https://www.linkedin.com/in/rand0m Follow Owen He on LinkedIn: https://www.linkedin.com/in/owen-he-b7b064279/ Follow Martin Casado on X: https://x.com/martin_casado Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/082b16db-6860-47bf-83ca-c3bfaeb02f49/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=082b16db-6860-47bf-83ca-c3bfaeb02f49&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -243,37 +344,7 @@
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.520_SDM_Erlina_Yeo_Terwelp_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "published_at": "2026-10-11T12:31:59+00:00",
-      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "summary": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
-      "audio_url": "https://api.substack.com/feed/podcast/216810191/cd6b71ea3c31023c957a24b2c468ce30.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
-      "published_at": "2026-10-10T02:06:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/is-claude-conscious-pope-rejects-model-welfare-movement-openais-math-backlash-france-riots",
-      "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash (1:02:03) Riots in France, Friedberg's socialism metric, bond market (1:21:41) Grok Bot goes headless, OpenAI launches Dots, is IP worthless? Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html https://www.anthropic.com/constitution https://x.com/andrewcurran_/status/2108244808494154089 https://www.economist.com/the-world-in-brief/2026/10/03/388af69b-8327-40a3-af5a-13c0ede56800 https://www.lesswrong.com/users/eliezer_yudkowsky https://www.amazon.com/Anyone-Builds-Everyone-Dies-Superhuman/dp/0316595640 https://en.wikipedia.org/wiki/Roko%27s_basilisk https://www.nytimes.com/2026/10/06/science/openai-math-problems.html https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/ https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents https://scottaaronson.blog/?p=10169 https://x.com/imjustnewatai/status/2107601711032373333 https://x.com/skdh/status/2107848423726555204 https://x.com/friedberg/status/2107856770609844491 https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273 https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html https://www.nytimes.com/2026/10/08/business/france-bond-yields.html https://x.com/LucAuffret/status/2108217923101683737 https://polymarket.com/event/next-french-presidential-election https://polymarket.com/event/another-fed-rate-hike-in-2026 https://x.com/nikitabier/status/2108262529571144176",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
