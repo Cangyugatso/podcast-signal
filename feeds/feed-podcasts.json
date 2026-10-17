@@ -1,47 +1,32 @@
 {
-  "generated_at": "2026-10-16T00:01:22.865497+00:00",
+  "generated_at": "2026-10-17T00:07:13.170507+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 22,
   "podcasts": [
     {
-      "source": "SemiAnalysis",
+      "source": "a16z",
       "domain": "ai",
       "language": "en",
-      "title": "Inside the SemiAnalysis STEEL Lab",
-      "published_at": "2026-10-15T21:23:46+00:00",
-      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
-      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zRG78s5hKz0"
+      "title": "AI Can Write the Code. Can It Run the System? | Grepr CEO Jad Naous",
+      "published_at": "2026-10-16T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2",
+      "summary": "a16z General Partner Martin Casado sits down with Grepr CEO Jad Naous to ask what comes after AI learns to write code: can it also debug and operate the systems that code creates? Jad shares how AI has transformed engineering inside his 10-person team, cutting some projects from six months to just 10 days. But operating production systems is a harder challenge, with unpredictable workloads, failures, and countless possible states. They discuss whether AI can learn to diagnose problems, test hypotheses, and debug systems like a human engineer. They also explore AI SREs, security, query optimization, and why the best engineers may be gaining the most leverage from coding agents. Resources: Follow Jad Naous on X: https://x.com/jadtnaous Follow Martin Casado on X: https://x.com/martin_casado Learn more about Grepr: https://www.grepr.ai/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c4bfed20-4c94-4742-8309-801df20c4cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c4bfed20-4c94-4742-8309-801df20c4cb9&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
+      "source": "Latent Space",
       "domain": "ai",
       "language": "en",
-      "title": "STEEL: From product to transistor | SemiAnalysis Model Overview",
-      "published_at": "2026-10-15T19:17:55+00:00",
-      "url": "https://www.youtube.com/watch?v=Qbisw2y-d_Q",
-      "summary": "From product to transistor. Andrew Wagner of SemiAnalysis STEEL walks through our teardown lab in Hillsboro, Oregon in two minutes: what it does, how it works, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/steel-lab",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "published_at": "2026-10-16T04:16:45+00:00",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "summary": "Nick Cammarata out of nowhere with some major claims!",
       "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Qbisw2y-d_Q"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "The AI buildout, quantified | SemiAnalysis",
-      "published_at": "2026-10-15T19:04:07+00:00",
-      "url": "https://www.youtube.com/watch?v=xS88sEoNcQg",
-      "summary": "Every time you ask a machine something, somewhere, something answers. That answer is made of tokens, and every token has a price. SemiAnalysis is the definitive source on the world's most important industry. Institutional-grade intelligence for semiconductors, AI infrastructure, and datacenter economics. ▸ 180,000+ subscribers · The #1 technology newsletter on Substack ▸ Global datacenter capacity tracker covering 6,500+ structures ▸ 84 GPU clouds rated \"It's one of my most important and most-cited resources on Stratechery.\" — Ben Thompson, Stratechery Explore everything → https://semianalysis.com",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "xS88sEoNcQg"
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
     },
     {
       "source": "Latent Space",
@@ -140,32 +125,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is GLM 5.3 worth sounding the alarms? 🚨",
-      "published_at": "2026-10-14T11:01:19+00:00",
-      "url": "https://www.youtube.com/shorts/uBMyOhHrSFk",
-      "summary": "Is GLM 5.3 worth sounding the alarms? 🚨 “As long as you have the budget, it will write faster kernels than humans.” Kimbo and Wenyao join Jordan this week to unpack sparse attention, the memory bottleneck nobody’s pricing in, and why cheaper tokens might mean more HBM, not less. Watch Now on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "uBMyOhHrSFk"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 038 - Is GLM 5.3 a Mythos-Class Cyber Model From China? (InferenceX)",
-      "published_at": "2026-10-14T11:00:14+00:00",
-      "url": "https://www.youtube.com/watch?v=5OwUwMSkO4Y",
-      "summary": "GLM 5.3 only attends to the tokens that matter. It still has to keep every one of them. Kimbo Chen (@kimbochen) and Wenyao Gao (@gao_wenyao) join Jordan Nanos (@JordanNanos) to dig into AMD catching NVIDIA on InferenceX, how post-training alone pushed an open-weight model within reach of Mythos, and whether Z.ai quietly tuned it for Chinese chips. The team also looks at how GLM 5.3 became a fallback when Claude and GPT refuse security work. Chapters: 0:00 Cold Open 0:37 Sparse Attention 101 4:46 HiCache and HiSparse 10:13 AMD Catches NVIDIA 12:54 Capacity vs Bandwidth 18:44 The Frankenstein Flash 20:09 Mythos-Class From China? 22:52 Post-Training Pipeline 32:32 Chinese Chips, Day One 39:54 GLM 5.4 and Beyond Read the full article: How GLM 5.3 Sparse Attention Affects HBM Memory Usage https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "5OwUwMSkO4Y"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -186,18 +145,6 @@
       "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
       "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
       "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "published_at": "2026-10-13T22:25:55+00:00",
-      "url": "https://www.latent.space/p/dyna",
-      "summary": "Our first robotics pod with Dyna’s Chief Scientist on their big bet on World Action Models & the Next Frontier of Physical AI",
-      "audio_url": "https://api.substack.com/feed/podcast/220234130/c77b90e7331c0fabae60105d2325e9a0.mp3",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
@@ -310,18 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Nick Bostrom: How Should We Navigate Superintelligence?",
-      "published_at": "2026-10-11T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/nick-bostrom-how-should-we-navigate-superintelligence-COJSBboX",
-      "summary": "Nick Bostrom joins Theo Jaffee and Sofia Puccini on MTS to revisit the ideas about superintelligence and existential risk that he helped bring into the mainstream, now that increasingly capable AI systems actually exist. Nick discusses why reinforcement learning may be pushing models toward more goal-seeking behavior, what recent agent experiments tell us about instrumental convergence, and why he favors preserving the ability to slow frontier development rather than committing now to a broad or indefinite AI pause. He also makes the case that the risks of AI need to be weighed alongside its potential upside, from advances in medicine and longer lifespans to entirely new ways of being human. They also get into whether today's models could already have some form of consciousness, the tradeoffs of open-source AI, whether machines can do original philosophy, mind uploading, and what the simulation hypothesis might mean for the superintelligence we create. Resources: Nick Bostrom / Macrostrategy Research Initiative: https://nickbostrom.com/ Follow Theo Jaffee on X: https://x.com/theojaffee Follow Sofia Puccini on LinkedIn: https://www.linkedin.com/in/sofiapuccini/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/eca4cc70-0fd7-4623-bf6f-be7c72d6ed85/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=eca4cc70-0fd7-4623-bf6f-be7c72d6ed85&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -332,25 +267,13 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E292_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
-      "published_at": "2026-10-09T17:24:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
-      "summary": "Is the future of frontier AI open or closed? ReflectionAI co-founder and CEO Misha Laskin joins Sarah Guo and Elad Gil to discuss the launch of Beam, the company’s 500 billion parameter open-weight reasoning model. Misha breaks down the pre-training and reinforcement learning required to produce Beam’s reasoning efficiency, the shift in enterprise compute from renting to owning intelligence, and how he believes that open models will capture the majority of global token demand. He also talks about the open model ecosystem in China and why competition with China’s models is a good thing, safety considerations around open models, and how frontier-level open models may accelerate the pace of scientific discovery. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MishaLaskin | @reflection_ai Chapters: 00:42 – Misha Laskin Introduction 00:59 – Latest with ReflectionAI 02:07 – Challenges Building an Open Model 03:56 – ReflectionAI’s Agentic Shift 07:37 – Resources for Model Training 10:09 – Scaling Efficiency 12:18 – Training Beam 16:51 – Where Model Value Comes From 19:55 – Beam’s Reasoning Efficiency 22:35 – Monetizing Open Weight Models 25:03 – Future of Open Versus Closed Tokens 31:29 – Competition with Open Models 34:38 – Chinese Open Source Model Ecosystem 38:40 – Will Chinese Models Remain Open 44:44 – Safety and Open Models 53:02 – Debating Access to Powerful Tools 57:16 – AI and Scientific Progress 01:00:36 – Data Centers and Jobs 01:02:07 – Beam and Scientific Research 01:05:37 – Research Head Count to Compute Ratio 01:10:29 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP1028435739.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
-      "source": "Lex Fridman",
-      "url": "https://lexfridman.com/feed/podcast/",
-      "error": "https://lexfridman.com/feed/podcast/: request timed out"
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
     }
   ]
 }

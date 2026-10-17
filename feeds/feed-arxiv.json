@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:01:23.096627+00:00",
+  "generated_at": "2026-10-17T00:07:25.172591+00:00",
   "lookback_hours": 168,
   "category_count": 3,
   "categories": [
@@ -23,7 +23,7 @@
     {
       "source": "arXiv",
       "url": "https://export.arxiv.org/api/query?search_query=cat%3Acs.AI+OR+cat%3Acs.CL+OR+cat%3Acs.LG&sortBy=submittedDate&sortOrder=descending&start=0&max_results=90",
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "request timed out"
     }
   ]
 }
