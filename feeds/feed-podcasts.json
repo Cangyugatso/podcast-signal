@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-10-17T23:42:49.009690+00:00",
+  "generated_at": "2026-10-18T23:52:13.487447+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 28,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "published_at": "2026-10-18T12:31:36+00:00",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "audio_url": "https://api.substack.com/feed/podcast/219139599/eec213eb065b870b843f049939de6fc2.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim",
+      "summary": "What changes when an AI mistake doesn’t just hurt a benchmark score, but affects someone’s housing or healthcare? EliseAI Head of Applied Research Mario Martone argues that deploying AI in essential industries requires a very different standard of reliability. Mario joins MTS to explain how EliseAI handles roughly 5 million phone calls a month, why LLMs aren’t the right solution for every problem, and how the team combines language models, traditional machine learning, neural networks, and internally built evaluations to decide what actually works in production. Drawing on 15 years studying theoretical physics, Mario also explains how the scientific method shapes EliseAI’s research culture, from testing new models against its own benchmarks to fine-tuning open-source models and automating increasingly complex workflows across housing and healthcare. And he makes the case that applying AI to the real world can produce problems every bit as intellectually difficult as the ones he encountered studying string theory. Resources: Learn more about EliseAI: https://www.eliseai.com/ Follow Mario Martone on LinkedIn: https://www.linkedin.com/in/mcmartone/ Follow MTS: https://www.mts.now/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85a52844-6698-4658-9957-0133eabffba6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=85a52844-6698-4658-9957-0133eabffba6&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -274,18 +298,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can AI Break Cryptography? What the Experts Actually Think",
-      "published_at": "2026-10-13T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC",
-      "summary": "Could AI break the cryptography protecting everything from crypto wallets and banking to private messages? Recent advances in AI-driven mathematical research have sparked new warnings about the security of today's encryption systems, but how much of the concern is supported by evidence? a16z crypto's Liz Harkavy is joined by Stanford cryptographer Dan Boneh, a16z crypto General Partner Eddy Lazzarin, and Research Partner Justin Thaler to separate what we know from what remains speculation. They explain why modern cryptography relies on mathematical assumptions, what OpenAI's recent results do and don't demonstrate, and how the potential threat from AI differs from quantum computing. They also discuss why existing security practices and cryptographic alternatives offer reasons for confidence, the importance of building systems that can adapt if an assumption fails, and how AI could ultimately help researchers and developers make software more secure. Resources: Watch the original a16z crypto discussion: https://www.youtube.com/watch?v=k_CoOoDsZ5Y Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Dan Boneh: https://x.com/danboneh Follow Justin Thaler: https://x.com/SuccinctJT Follow Liz Harkavy: https://x.com/liz_harkavy Learn more about a16z crypto: https://a16zcrypto.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ded4b58e-4303-418c-807e-fffaeb59a92c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ded4b58e-4303-418c-807e-fffaeb59a92c&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -318,18 +330,6 @@
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
       "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-      "published_at": "2026-10-12T12:03:55+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "summary": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
-      "audio_url": "https://api.substack.com/feed/podcast/219332317/4404418704e8f2d872514c6b545013a7.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
