@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-10-18T23:52:13.487447+00:00",
+  "generated_at": "2026-10-20T00:52:36.504432+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+      "published_at": "2026-10-19T20:43:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity",
+      "summary": "(0:00) Dylan Field joins the show: Figma's origin story and mission (3:16) Adobe's $20B deal blocked: inside the antitrust fight (12:29) Is AI killing SaaS? Frontier Companies vs. Figma, the \"SaaS apocalypse\" (18:52) Creativity in the AI era: why taste and boldness win (36:02) Human agency, AI's promise, and what comes next Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. Learn more at: https://CreativePlanning.com/AllIn With over nine million acres protected across all fifty states, The Conservation Fund secures the irreplaceable lands we love. Learn more at http://conservationfund.org Follow Dylan: https://x.com/zoink Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_200_Dylan_Field_INT_1.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "published_at": "2026-10-19T15:03:35+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "published_at": "2026-10-19T12:04:52+00:00",
+      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "summary": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+      "audio_url": "https://api.substack.com/feed/podcast/220274495/c63ab3b7444e594c14b97aac7c3e862b.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Happens When Al Agents Can Spend Your Money?",
+      "published_at": "2026-10-19T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH",
+      "summary": "Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't intelligence, but making AI useful to people who don't have the time or technical skills to build their own automations. Jean-Denis joins a16z General Partner Alex Rampell to share why he pivoted Town from tax software to a personal AI assistant built around email, calendars, and the workflows that run businesses. They discuss why consumer-grade experiences may win in enterprise AI, how Town discovers and automates tasks users wouldn't think to delegate, and why model neutrality and data ownership matter as AI labs increasingly compete with application companies. They also explore what happens when agents begin acting on our behalf, from managing everyday work to shopping and commerce, and why the next generation of software may need to adapt to each user rather than the other way around. Resources: Follow Alex Rampell on X: https://x.com/arampell Follow Jean-Denis Greze: https://x.com/jgreze Learn more about Town: https://town.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c3d1e5f9-5c39-4faf-8b09-0939ca33695d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c3d1e5f9-5c39-4faf-8b09-0939ca33695d&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Building a Berkshire for the Middle Market – Tracy Britt Cool (EP.521)",
+      "published_at": "2026-10-19T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/building-a-berkshire-for-the-middle-market-tracy-britt-cool-ep521",
+      "summary": "My guest on today's show is Tracy Britt Cool, co-founder of Kanbrick, a long-term investment partnership that provides owners of family-owned, midsized businesses with a differentiated option from traditional private equity. Tracy launched the business after spending ten years at Berkshire Hathaway as one of Warren Buffett's few deputies. She started out of business school as a financial assistant to Buffett, served as Chair of several Berkshire portfolio companies, and later became CEO of Pampered Chef. Our conversation covers Tracy's journey, including lessons from Buffett and the value of operating experience. We turn to the application of those lessons at Kanbrick across its strategy, sourcing, deal dynamics, operational improvements, and long-term holding periods, all supported by the firm's creation of a community of 4,000 executives who share best practices in hiring, operations, excellence, and growth. AlphaSense free trial for Capital Allocators listeners here . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.521_Tracy_Britt_Cool_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -27,19 +87,6 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85a52844-6698-4658-9957-0133eabffba6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=85a52844-6698-4658-9957-0133eabffba6&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "GLM 5.3’s biggest leap came from post-training alone.",
-      "published_at": "2026-10-17T21:32:47+00:00",
-      "url": "https://www.youtube.com/shorts/gWJ5fmB1nN8",
-      "summary": "GLM 5.3’s biggest leap came from post-training alone. “GLM 5.3 was built entirely by post-training the previous model. For me, that was a wake-up call.” “Post-training is far more GPU-efficient than pre-training from scratch. Plenty of companies can’t afford to train a model from scratch, but they have proprietary data. They can post-train themselves and beat some of the closed models.” “There’s still so much juice left to squeeze from post-training. We compared GLM 5.3’s cyber capabilities with 5.2, and it’s a night and day difference. That’s all just post-training.” Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "gWJ5fmB1nN8"
     },
     {
       "source": "Lenny's Podcast",
@@ -102,19 +149,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Sparse attention fixes memory bandwidth, not memory capacity.",
-      "published_at": "2026-10-16T16:16:04+00:00",
-      "url": "https://www.youtube.com/shorts/72kg-Y9HPv8",
-      "summary": "Sparse attention fixes memory bandwidth, not memory capacity. “The whole idea of HiCache is trying to offload KV cache from the HBM to a lower tier, higher capacity but lower bandwidth memory, and only load the most relevant set of tokens during computation.” “Sparse attention doesn’t mitigate the memory capacity bottleneck. It’s a technique that helps a lot with memory bandwidth.” “During the sparse attention computation, you still need to select the tokens. So you still have to keep all the tokens in context, and you cannot discard them. At some point, it still has to be loaded into HBM.” “That’s where HiSparse becomes useful, because it can apply the typical caching rules so that you could load the most relevant parts into HBM.” Watch Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "72kg-Y9HPv8"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -137,45 +171,6 @@
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside the SemiAnalysis STEEL Lab",
-      "published_at": "2026-10-15T21:23:46+00:00",
-      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
-      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zRG78s5hKz0"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "STEEL: From product to transistor | SemiAnalysis Model Overview",
-      "published_at": "2026-10-15T19:17:55+00:00",
-      "url": "https://www.youtube.com/watch?v=Qbisw2y-d_Q",
-      "summary": "From product to transistor. Andrew Wagner of SemiAnalysis STEEL walks through our teardown lab in Hillsboro, Oregon in two minutes: what it does, how it works, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/steel-lab",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Qbisw2y-d_Q"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "The AI buildout, quantified | SemiAnalysis",
-      "published_at": "2026-10-15T19:04:07+00:00",
-      "url": "https://www.youtube.com/watch?v=xS88sEoNcQg",
-      "summary": "Every time you ask a machine something, somewhere, something answers. That answer is made of tokens, and every token has a price. SemiAnalysis is the definitive source on the world's most important industry. Institutional-grade intelligence for semiconductors, AI infrastructure, and datacenter economics. ▸ 180,000+ subscribers · The #1 technology newsletter on Substack ▸ Global datacenter capacity tracker covering 6,500+ structures ▸ 84 GPU clouds rated \"It's one of my most important and most-cited resources on Stratechery.\" — Ben Thompson, Stratechery Explore everything → https://semianalysis.com",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "xS88sEoNcQg"
     },
     {
       "source": "Latent Space",
@@ -274,30 +269,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can Open Models Keep Up With the AI Frontier? | Nathan Lambert",
-      "published_at": "2026-10-14T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-open-models-keep-up-with-the-ai-frontier-nathan-lambert-WqIVvxfv",
-      "summary": "a16z Partner Lisha Li sits down with AI researcher and Trillium founder Nathan Lambert to ask how durable the gap really is between frontier AI labs and open models. Nathan argues that OpenAI and Anthropic have structural advantages in compute, capital, and the ability to pioneer new training paradigms, but open-model labs, particularly in China, have proven remarkably capable of following close behind. They unpack how much of that comes from distillation versus technical talent, why compute remains a major constraint, and how data, RL environments, and post-training are increasingly shaping model progress. They also discuss Nathan’s new nonprofit research lab, Trillium, and its plans to open up parts of AI research that are increasingly difficult to study from the outside. That includes releasing RL environments and documenting how AI is actually being used to automate AI research, with the goal of demystifying recursive self-improvement and giving researchers and policymakers a clearer picture of what frontier systems can and cannot do. Resources: Learn more about Trillium: https://trilliumlabs.org/ Follow Nathan Lambert on X: https://x.com/natolambert Nathan Lambert’s Newsletter: https://www.interconnects.ai/ Follow Lisha Li on X: https://x.com/lishali88 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9faf0f04-b106-4419-94b2-7882faca15c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9faf0f04-b106-4419-94b2-7882faca15c2&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How to tell if a startup has a moat",
-      "published_at": "2026-10-13T12:45:41+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "summary": "A framework for assessing whether the company you’re considering joining is built to last",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -308,43 +279,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
-      "published_at": "2026-10-12T15:49:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
-      "summary": "(0:00) Martin Shkreli joins the Besties! (0:55) Why quantum computing is a one-trick business and why he's betting against it (7:42) The drugs big pharma sells too cheap and his journey from hedge fund trader to pharma (11:37) AI, drug discovery, and who actually wins (21:32) Brilliance and rule-breaking, the gifted-kid trap & what prison taught him Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Martin_Shkrely_AIS26_NO_VIVEK_AUDIO_100.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-      "published_at": "2026-10-12T15:00:38+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Senior Decision Makers: Erlina Yeo Terwelp, Columbia Investment Management Company (EP.520)",
-      "published_at": "2026-10-12T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/senior-decision-makers-erlina-yeo-terwelp-columbia-investment-management-ep520",
-      "summary": "Our next guest on the Senior Decision Makers series is Erlina Yeo Terwelp, a Managing Director at Columbia Investment Management Company, where she oversees the endowment's private markets portfolio. Erlina's path spans investment banking, private equity, growth equity, and family office investing before she joined Columbia nearly a decade ago. Our conversation covers her evolution as an allocator, how she thinks about manager selection and portfolio construction, the growing role of leadership and team development in her seat, and her perspective on generalist versus specialist team models after working within both. Erlina is candid, thoughtful, and funny — with a deep commitment to intellectual honesty, an openness to changing her mind, and a willingness to continually put herself in situations that force her to grow. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https: //thepodcastconsultant.com⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.520_SDM_Erlina_Yeo_Terwelp_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
