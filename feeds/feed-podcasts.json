@@ -1,9 +1,83 @@
 {
-  "generated_at": "2026-10-20T00:52:36.504432+00:00",
+  "generated_at": "2026-10-21T00:20:38.040037+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 28,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "published_at": "2026-10-20T19:31:57+00:00",
+      "url": "https://www.latent.space/p/sfcompute2",
+      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "audio_url": "https://api.substack.com/feed/podcast/221372257/7df8338a8bb8d4ac8abb9702a0be2372.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Is 50 GW in a single year too aggressive?",
+      "published_at": "2026-10-20T15:55:12+00:00",
+      "url": "https://www.youtube.com/shorts/PcQxVUdAgM4",
+      "summary": "Is 50 GW in a single year too aggressive? \"Dear Brad called us out publicly and cut our forecast in half.\" So Jeremie and Reyk came on with Jordan to show their work. They go site by site from satellite and explain why haircutting the number double counts the delays already baked in. Plus moratoriums, 9-month modular builds, and why 2028 is the year to watch. Watch The Full Pod on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "PcQxVUdAgM4"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 039 - [EMERGENCY] Brad Gerstner Cut Our 2027 Forecast in Half. We Raised It. (Datacenters)",
+      "published_at": "2026-10-20T15:08:40+00:00",
+      "url": "https://www.youtube.com/watch?v=I3tNGNjYcDw",
+      "summary": "Brad Gerstner put our 43 gigawatt forecast for 2027 on All-In, then again in his BG2 sit-down with Jensen, and called it too aggressive. The consensus counter sits near 25 GW, built on moratorium headlines and grid connection fears. Jordan Nanos (@JordanNanos) sits down with Jeremie Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower), who have been tracking the same capacity curve since March 2024, and it has barely moved across every model revision. So they aren't cutting it. They're raising it. Read the article: https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration 0:00 Cold Open 1:17 The 2027 Forecast Debate 2:21 Model Track Record 5:27 Where the Pushback Comes From 8:16 Delays and Haircuts 12:31 The Top 40 Sites 15:23 Leading Indicators 20:40 Modular Builds 25:41 Chips vs Datacenters 27:53 Responding to Brad Gerstner",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "I3tNGNjYcDw"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
+      "published_at": "2026-10-20T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T",
+      "summary": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks that’s only the beginning: the longer-term goal is AI that can help people navigate their health proactively, while making trustworthy medical intelligence dramatically more accessible. Karan joins a16z Partner Jay Rughani to explain why OpenAI trains healthcare expertise directly into its general-purpose frontier models, how it works with hundreds of medical experts to evaluate safety and disagreement, and why the company sees AI as a complement to doctors rather than a replacement for medical care. They also discuss integrations with Epic, AI copilots for clinicians, and what happens as personal agents begin navigating appointments, health records, and other fragmented parts of the healthcare system. Looking further ahead, Karan makes the case that the cost of medical intelligence could continue to fall dramatically, allowing AI to act as a safety net for patients and clinicians, surface insights from years of health data, and potentially accelerate the discovery and validation of new treatments. Resources: Follow Karan Singhal on X: https://x.com/thekaransinghal Follow Jay Rughani on X: https://x.com/JayRughani Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e451186f-f0cc-49a5-b14c-c146b2c680bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e451186f-f0cc-49a5-b14c-c146b2c680bf&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+      "published_at": "2026-10-20T08:00:00+00:00",
+      "url": "https://colossus.com/episode/becoming-a-category-winner/",
+      "summary": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance. Five years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users. We also explore the changing economics of software, the war for exceptional talent, AI's impact on cybersecurity, and what it takes to build an enduring company in Silicon Valley's rapidly changing environment. Please enjoy my conversation with Christina Cacioppo. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) How Vanta Won a Crowded Category (00:03:12) Living Through the Software Selloff (00:05:41) Building an Agent-First Product (00:07:39) Why Vanta Eats the Cost of AI (00:10:35) The Search for Outcome Pricing (00:14:31) Getting People to Actually Use AI (00:17:46) Why Comp for Top People Is Up 10X (00:22:13) Valuations, Tenders, and the Endgame (00:24:20) What’s Overhyped and Underhyped (00:27:54) The Problem With FDEs (00:29:34) Why French Startups Use Chinese Models (00:30:22) Vanta as a Security Company (00:36:57) What Makes a Great Talk (00:40:14) Where She Would Invest Today (00:45:19) The Billboard War (00:49:35) The AI Trust Crisis (00:51:39) Security Five Years From Now",
+      "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] not much happened today",
+      "published_at": "2026-10-20T05:21:52+00:00",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -89,6 +163,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "GLM 5.3’s biggest leap came from post-training alone.",
+      "published_at": "2026-10-17T21:32:47+00:00",
+      "url": "https://www.youtube.com/shorts/gWJ5fmB1nN8",
+      "summary": "GLM 5.3’s biggest leap came from post-training alone. “GLM 5.3 was built entirely by post-training the previous model. For me, that was a wake-up call.” “Post-training is far more GPU-efficient than pre-training from scratch. Plenty of companies can’t afford to train a model from scratch, but they have proprietary data. They can post-train themselves and beat some of the closed models.” “There’s still so much juice left to squeeze from post-training. We compared GLM 5.3’s cyber capabilities with 5.2, and it’s a night and day difference. That’s all just post-training.” Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "gWJ5fmB1nN8"
+    },
+    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -149,6 +236,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Sparse attention fixes memory bandwidth, not memory capacity.",
+      "published_at": "2026-10-16T16:16:04+00:00",
+      "url": "https://www.youtube.com/shorts/72kg-Y9HPv8",
+      "summary": "Sparse attention fixes memory bandwidth, not memory capacity. “The whole idea of HiCache is trying to offload KV cache from the HBM to a lower tier, higher capacity but lower bandwidth memory, and only load the most relevant set of tokens during computation.” “Sparse attention doesn’t mitigate the memory capacity bottleneck. It’s a technique that helps a lot with memory bandwidth.” “During the sparse attention computation, you still need to select the tokens. So you still have to keep all the tokens in context, and you cannot discard them. At some point, it still has to be loaded into HBM.” “That’s where HiSparse becomes useful, because it can apply the typical caching rules so that you could load the most relevant parts into HBM.” Watch Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "72kg-Y9HPv8"
+    },
+    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -173,6 +273,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the SemiAnalysis STEEL Lab",
+      "published_at": "2026-10-15T21:23:46+00:00",
+      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
+      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zRG78s5hKz0"
+    },
+    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -182,18 +295,6 @@
       "summary": "Sandboxes are all you need.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "When AI Agents Start Spending Your Money | Alex Rampell & Terry Angelos",
-      "published_at": "2026-10-15T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh",
-      "summary": "a16z General Partner Alex Rampell sits down with VGS Executive Board Member, Terry Angelos, to unpack what happens to payments when AI agents go from recommending what to buy to actually making the purchase. Terry explains the infrastructure required to safely give agents access to payment credentials, why wallets like PayPal, Shop Pay, and Link are competing to become the default payment layer for agents, and how new agentic tokens could preserve the chargebacks, identity checks, and merchant relationships that make today's payment networks work. VGS, which already secures payment credentials across a significant share of e-commerce, is now provisioning millions of these agentic tokens each week. They also discuss what happens when merchants don't want to transact with agents, how delegated authority changes liability when an agent makes a mistake, and why AI could simultaneously increase consumer spending while eliminating the subscriptions, fees, and other forms of economic \"breakage\" that depend on people not paying attention. Resources: Follow Terry Angelos on X: https://x.com/terryangelos Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6234b162-a09d-4e3e-8647-37199663e239/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6234b162-a09d-4e3e-8647-37199663e239&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -233,30 +334,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "published_at": "2026-10-14T21:40:52+00:00",
-      "url": "https://www.latent.space/p/crossing-the-threshold",
-      "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "published_at": "2026-10-14T20:35:09+00:00",
-      "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
-      "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
-      "audio_url": "https://api.substack.com/feed/podcast/220316507/088d386ca7b830a53c64e1cd2678e427.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -267,25 +344,7 @@
       "audio_url": "https://api.substack.com/feed/podcast/220246515/6e8b700eff7a5a1dc20b8d93589bf144.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
-      "published_at": "2026-10-13T08:00:00+00:00",
-      "url": "https://colossus.com/episode/david-v-goliath/",
-      "summary": "David Vélez is the founder and CEO of Nubank, which serves 140 million customers across Latin America. David believes the industry is still in its Blockbuster era, with most of the world's banking still running through branches and incumbent banks, and that AI will make digital banks dramatically more efficient than the incumbents they compete with. He explains how Nubank rebuilt its entire organization around AI after missing the moment the technology started working, and why he is now bringing Nubank to the US, a market he says is still dominated by big incumbent banks. Please enjoy my conversation with David Vélez. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Banking Is Still In Its Blockbuster Era (00:02:52) 140 Million Customers, 10,000 Employees (00:04:53) What Banks Could Do in Five Years (00:06:31) The $600 Billion Tax on Deposits (00:08:06) A Private Banker for Everyone (00:12:21) How a Startup Would Attack Nubank (00:14:56) When Nubank Took AI Seriously (00:17:08) Data as a Moat (00:21:29) How Global Finance Will Change (00:25:20) Stablecoins and the End of Cash (00:28:45) Creating Creditworthiness (00:32:35) Where Fintech Opportunities Remain (00:34:19) Nubank Comes to the US (00:41:11) Lessons From Disney and Amazon (00:43:44) How to Sell AI to Nubank (00:46:51) Agents as a Customer Segment (00:48:39) How AI Changed Nubank (01:01:33) What Motivates Him Now (01:06:21) Founder Versus CEO (01:14:01) What Latin America Needs (01:15:40) The Bear Case for Nubank (01:19:42) Finding the Right Mission",
-      "audio_url": "https://traffic.megaphone.fm/CLS2134103794.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
