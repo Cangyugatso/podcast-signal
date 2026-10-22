@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-21T00:20:38.040037+00:00",
+  "generated_at": "2026-10-22T00:22:37.695422+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 28,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+      "published_at": "2026-10-21T23:42:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse",
+      "summary": "(0:00) Arvind Krishna & Nikesh Arora talk about Quantum Computing's Threat to Encryption (9:07) Open Weight vs. Frontier AI Models (18:07) AI and Cyber Warfare (21:14) AI Regulation and the Global AI Arms Race (30:32) Vertical Integration and Software Consolidation Follow Nikesh: https://x.com/nikesharora Follow Arvind: https://x.com/ArvindKrishna Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "published_at": "2026-10-21T20:25:18+00:00",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "summary": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+      "audio_url": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "published_at": "2026-10-21T13:04:19+00:00",
+      "url": "https://www.latent.space/p/claude-mods",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
+      "published_at": "2026-10-21T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM",
+      "summary": "AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably understand. Reducto co-founder and CEO Adit Abraham argues that solving this document layer is essential if agents are going to take on consequential work in healthcare, legal, finance, and insurance. Adit joins a16z General Partner Jennifer Li to explain why traditional OCR breaks down on messy real-world documents, how Reducto combines vision-language models with specialized infrastructure to reach high accuracy without sacrificing cost or latency, and why frontier models can silently drop information on long extraction tasks. Reducto now processes billions of pages each month, including its seven billionth page the morning of the recording. They also discuss Reducto’s R1 model, agents that can review and correct their own document extraction, and the company’s push beyond simply reading files toward letting agents reliably work with and edit them. Underneath it all is a higher-stakes problem: when a misread word can affect a healthcare claim or financial decision, getting the input right matters just as much as making the model smarter. Resources: Learn more about Reducto: https://reducto.ai Follow Adit Abraham on X: https://x.com/aditabrm Follow Jennifer Li on X: https://x.com/JenniferHli Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "published_at": "2026-10-21T06:54:09+00:00",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "summary": "An open source “bomb” drops from China",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "published_at": "2026-10-21T05:01:26+00:00",
+      "url": "https://www.latent.space/p/tenex",
+      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+      "audio_url": "https://api.substack.com/feed/podcast/221403684/69e655f2eacf6772a7f2575bbbbf9b0d.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -15,32 +87,6 @@
       "audio_url": "https://api.substack.com/feed/podcast/221372257/7df8338a8bb8d4ac8abb9702a0be2372.mp3",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is 50 GW in a single year too aggressive?",
-      "published_at": "2026-10-20T15:55:12+00:00",
-      "url": "https://www.youtube.com/shorts/PcQxVUdAgM4",
-      "summary": "Is 50 GW in a single year too aggressive? \"Dear Brad called us out publicly and cut our forecast in half.\" So Jeremie and Reyk came on with Jordan to show their work. They go site by site from satellite and explain why haircutting the number double counts the delays already baked in. Plus moratoriums, 9-month modular builds, and why 2028 is the year to watch. Watch The Full Pod on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "PcQxVUdAgM4"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 039 - [EMERGENCY] Brad Gerstner Cut Our 2027 Forecast in Half. We Raised It. (Datacenters)",
-      "published_at": "2026-10-20T15:08:40+00:00",
-      "url": "https://www.youtube.com/watch?v=I3tNGNjYcDw",
-      "summary": "Brad Gerstner put our 43 gigawatt forecast for 2027 on All-In, then again in his BG2 sit-down with Jensen, and called it too aggressive. The consensus counter sits near 25 GW, built on moratorium headlines and grid connection fears. Jordan Nanos (@JordanNanos) sits down with Jeremie Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower), who have been tracking the same capacity curve since March 2024, and it has barely moved across every model revision. So they aren't cutting it. They're raising it. Read the article: https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration 0:00 Cold Open 1:17 The 2027 Forecast Debate 2:21 Model Track Record 5:27 Where the Pushback Comes From 8:16 Delays and Haircuts 12:31 The Top 40 Sites 15:23 Leading Indicators 20:40 Modular Builds 25:41 Chips vs Datacenters 27:53 Responding to Brad Gerstner",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "I3tNGNjYcDw"
     },
     {
       "source": "a16z",
@@ -163,19 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "GLM 5.3’s biggest leap came from post-training alone.",
-      "published_at": "2026-10-17T21:32:47+00:00",
-      "url": "https://www.youtube.com/shorts/gWJ5fmB1nN8",
-      "summary": "GLM 5.3’s biggest leap came from post-training alone. “GLM 5.3 was built entirely by post-training the previous model. For me, that was a wake-up call.” “Post-training is far more GPU-efficient than pre-training from scratch. Plenty of companies can’t afford to train a model from scratch, but they have proprietary data. They can post-train themselves and beat some of the closed models.” “There’s still so much juice left to squeeze from post-training. We compared GLM 5.3’s cyber capabilities with 5.2, and it’s a night and day difference. That’s all just post-training.” Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "gWJ5fmB1nN8"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -200,18 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "published_at": "2026-10-17T07:47:38+00:00",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "summary": "a quiet day lets us pilot a new show",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -233,68 +254,6 @@
       "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/chamath/status/2110128893680378299 https://www.google.com/finance/quote/CRWV:NASDAQ https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html https://247wallst.com/investing/2026/10/14/coreweave-falls-10-as-bond-yield-touches-15-and-elon-musk-says-yikes-nebius-drops-6-oracle-slips https://polymarket.com/event/coreweave-announces-bankruptcy-by https://x.com/FearedBuck/status/2109443893955567694 https://polymarket.com/event/ipos-before-2027 https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo https://www.anthropic.com/research/self-replicating-ai https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks https://x.com/DavidSacks/status/2109849209742450696 https://www.anthropic.com/research/distillation-defenses https://x.com/brian_armstrong/status/2109412046244913643",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Sparse attention fixes memory bandwidth, not memory capacity.",
-      "published_at": "2026-10-16T16:16:04+00:00",
-      "url": "https://www.youtube.com/shorts/72kg-Y9HPv8",
-      "summary": "Sparse attention fixes memory bandwidth, not memory capacity. “The whole idea of HiCache is trying to offload KV cache from the HBM to a lower tier, higher capacity but lower bandwidth memory, and only load the most relevant set of tokens during computation.” “Sparse attention doesn’t mitigate the memory capacity bottleneck. It’s a technique that helps a lot with memory bandwidth.” “During the sparse attention computation, you still need to select the tokens. So you still have to keep all the tokens in context, and you cannot discard them. At some point, it still has to be loaded into HBM.” “That’s where HiSparse becomes useful, because it can apply the typical caching rules so that you could load the most relevant parts into HBM.” Watch Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "72kg-Y9HPv8"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Can Write the Code. Can It Run the System? | Grepr CEO Jad Naous",
-      "published_at": "2026-10-16T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2",
-      "summary": "a16z General Partner Martin Casado sits down with Grepr CEO Jad Naous to ask what comes after AI learns to write code: can it also debug and operate the systems that code creates? Jad shares how AI has transformed engineering inside his 10-person team, cutting some projects from six months to just 10 days. But operating production systems is a harder challenge, with unpredictable workloads, failures, and countless possible states. They discuss whether AI can learn to diagnose problems, test hypotheses, and debug systems like a human engineer. They also explore AI SREs, security, query optimization, and why the best engineers may be gaining the most leverage from coding agents. Resources: Follow Jad Naous on X: https://x.com/jadtnaous Follow Martin Casado on X: https://x.com/martin_casado Learn more about Grepr: https://www.grepr.ai/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c4bfed20-4c94-4742-8309-801df20c4cb9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c4bfed20-4c94-4742-8309-801df20c4cb9&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "published_at": "2026-10-16T04:16:45+00:00",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "summary": "Nick Cammarata out of nowhere with some major claims!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside the SemiAnalysis STEEL Lab",
-      "published_at": "2026-10-15T21:23:46+00:00",
-      "url": "https://www.youtube.com/shorts/zRG78s5hKz0",
-      "summary": "Andrew Wagner shows how SemiAnalysis STEEL tears products down from the box to the transistor, and what clients learn from it. More on the lab: https://semianalysis.com/steel-lab Subscribe for more. #shorts #semiconductors #teardown #SemiAnalysis",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zRG78s5hKz0"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "published_at": "2026-10-15T10:08:08+00:00",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "summary": "Sandboxes are all you need.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -332,19 +291,13 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Billy_Evans_AIS26_AUDIO_88.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-      "published_at": "2026-10-14T12:04:05+00:00",
-      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-      "summary": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
-      "audio_url": "https://api.substack.com/feed/podcast/220246515/6e8b700eff7a5a1dc20b8d93589bf144.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
