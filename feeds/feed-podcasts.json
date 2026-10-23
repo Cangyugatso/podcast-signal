@@ -1,9 +1,117 @@
 {
-  "generated_at": "2026-10-22T00:22:37.695422+00:00",
+  "generated_at": "2026-10-23T00:21:02.085475+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "published_at": "2026-10-22T17:40:57+00:00",
+      "url": "https://www.latent.space/p/modal-d",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "audio_url": "https://api.substack.com/feed/podcast/221647996/5d4e5f71cd623bb63fd2aff5db9a1836.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Frontier Ideas a16z Wants to Fund | Marc Andreessen, Ben Horowitz & Chris Dixon",
+      "published_at": "2026-10-22T16:07:57+00:00",
+      "url": "https://a16z.simplecast.com/episodes/tbc-gRs50MgP",
+      "summary": "a16z is expanding a16z crypto into a16z Frontier, a broader mandate to back founders building at the edges of what's possible. Chris Dixon joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to explain why founders should increasingly ask not “is this too ambitious?” but “is this ambitious enough?” — and how AI could pull decades of technological progress forward across hardware, robotics, entertainment, science, and entirely new forms of media. They also explore the coming internet of AI agents, why open source matters as AI becomes more powerful, and why some of the most important companies of the next decade may combine technologies and business models that previously belonged in separate categories. Resources: Follow Chris Dixon on X: https://x.com/cdixon Follow Marc Andreessen on X: https://x.com/pmarca Follow Ben Horowitz on X: https://x.com/bhorowitz Learn more about a16z Frontier: https://a16zfrontier.com https://a16zfrontier.substack.com https://x.com/a16zfrontier Stay Updated: If you enjoyed this episode, be sure to like, subscribe, and share with your friends! Find a16z on X: https://twitter.com/a16z Find a16z on LinkedIn: https://www.linkedin.com/company/a16z Listen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX Listen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711 Follow our host: https://x.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see http://a16z.com/disclosures . Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/46e9084f-65b6-47f8-8aa3-1c8505c30008/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=46e9084f-65b6-47f8-8aa3-1c8505c30008&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "What will computer chips look like in 2045?",
+      "published_at": "2026-10-22T15:02:21+00:00",
+      "url": "https://www.dwarkesh.com/p/intel-tour",
+      "summary": "What I learned from touring Intel’s most advanced fab and talking to its leadership.",
+      "audio_url": "https://api.substack.com/feed/podcast/221632772/1f987bf69581b5c8ba0fd37b77cdeb71.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "You are the Team — Anekha Sokhal, Moshi",
+      "published_at": "2026-10-22T14:03:40+00:00",
+      "url": "https://www.latent.space/p/moshi",
+      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "audio_url": "https://api.substack.com/feed/podcast/221404681/24bc30266ea9e301325cdc415de8189b.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP8573582914.mp3",
+      "summary": "Adversaries are already running AI agents, and the fastest attacks now play out in seconds. Sarah Guo and Elad Gil sit down with CrowdStrike president and CEO George Kurtz on what AI-equipped attackers mean for enterprise security. George explains how agents are flattening the adversary pyramid by putting advanced tradecraft in the hands of low-skill attackers, and why CrowdStrike and Nvidia are building a frontier-style lab of their own to train security models. They also get into how open-weight and closed models compare on security, where CrowdStrike is directing its platform investment, lessons from the recent Hugging Face incident, and why George sees AI, like every platform shift before it, as a net creator of opportunity. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @CrowdStrike | @George_Kurtz Chapters: 00:00 – Trailer 00:59 – George Kurtz Introduction 01:24 – Agentic Landscape 02:45 – AI and Adversaries 04:51 – Open Weight Models and Adversarial Attacks 06:37 – Adversary Geography 08:34 – Attacker Capability in Context 11:24 – Hugging Face Takeaways 13:59 – CrowdStrike Frontier Security Models 16:32 – CrowdStrike Key Offerings 19:51 – What Differentiates CrowdStrike’s Models 23:57 – Near Term State of Security World 25:46 – State of Model Distillation 27:53 – Open Weight Model Importance and Cost 29:59 – Assessing Real Agent Threat 32:40 – Areas to Watch in AI 35:02 – Case for Defense Dominance 39:15 – Executive Advice 43:16 – Shifts Create Opportunity 45:27 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP8573582914.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "AI Tools for the Investment Firm – Ben Harrison (EP.522)",
+      "published_at": "2026-10-22T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/ai-in-the-investment-firm-ben-harrison-ep522",
+      "summary": "Ben Harrison is President of Industries at Intapp, a leading provider of software solutions to professional and financial services firms. Ben first joined me three years ago to discuss DealCloud, Intapp's platform serving the private capital community. Since then, Intapp has nearly tripled in size, and the rapid development of AI has created an entirely new opportunity for the business. Our conversation explores what Ben calls \"firm AI\" — moving beyond using AI to conduct research, build models, or create presentations to deploying agents that draw on a firm's institutional memory and execute its workflows. We discuss how AI is changing sourcing and origination, fundraising, deal lifecycle management, and the staffing of investment firms. We also cover the critical importance of governance and security, lessons from the combination of DealCloud and Intapp, and Ben's perspective on the next leg of growth for the business. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.522_Intapp_Sponsored_Ben_Harrison_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "[REPLAY] DealCloud - Ben Harrison (Dealcloud), (S3. Sponsored Insight)",
+      "published_at": "2026-10-22T07:50:00+00:00",
+      "url": "https://tedseides.libsyn.com/replay-dealcloud-ben-harrison-dealcloud-s3-sponsored-insight",
+      "summary": "This Sponsored Insight features Ben Harrison, Founder and Co-President of DealCloud, our sponsor for Season 3 of Private Equity Deals. Ben discusses how DealCloud's vertical software supports alternative investment professionals through deal sourcing, relationship and pipeline management, and workflow efficiencies. We are incredibly grateful of DealCloud for sponsoring Private Equity Deals, and we are eager to highlight their value to the alternative investment community. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠https://thepodcastconsultant.com⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/S03EP0X_Ben_DealCloud_enhanced_FINAL-replay.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "published_at": "2026-10-22T07:42:44+00:00",
+      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "summary": "The Big Hardening begins",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "The End Is Nigh. Buy Here?",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-End-Is-Nigh--Buy-Here-e3qrt4m",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠ is now available via ⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l My new book ⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠ is now available via ⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠SEE LATEST EPISODES⁠ ⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠ FOLLOW TOBIAS ⁠Acquirers Multiple⁠ ⁠Acquirers Funds⁠ ⁠Twitter⁠ ⁠LinkedIn⁠ ⁠Facebook⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠Crash Test Dummy⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO4084624539.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -65,30 +173,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "published_at": "2026-10-21T05:01:26+00:00",
-      "url": "https://www.latent.space/p/tenex",
-      "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
-      "audio_url": "https://api.substack.com/feed/podcast/221403684/69e655f2eacf6772a7f2575bbbbf9b0d.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "published_at": "2026-10-20T19:31:57+00:00",
-      "url": "https://www.latent.space/p/sfcompute2",
-      "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
-      "audio_url": "https://api.substack.com/feed/podcast/221372257/7df8338a8bb8d4ac8abb9702a0be2372.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -110,18 +194,6 @@
       "summary": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance. Five years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users. We also explore the changing economics of software, the war for exceptional talent, AI's impact on cybersecurity, and what it takes to build an enduring company in Silicon Valley's rapidly changing environment. Please enjoy my conversation with Christina Cacioppo. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) How Vanta Won a Crowded Category (00:03:12) Living Through the Software Selloff (00:05:41) Building an Agent-First Product (00:07:39) Why Vanta Eats the Cost of AI (00:10:35) The Search for Outcome Pricing (00:14:31) Getting People to Actually Use AI (00:17:46) Why Comp for Top People Is Up 10X (00:22:13) Valuations, Tenders, and the Endgame (00:24:20) What’s Overhyped and Underhyped (00:27:54) The Problem With FDEs (00:29:34) Why French Startups Use Chinese Models (00:30:22) Vanta as a Security Company (00:36:57) What Makes a Great Talk (00:40:14) Where She Would Invest Today (00:45:19) The Billboard War (00:49:35) The AI Trust Crisis (00:51:39) Security Five Years From Now",
       "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] not much happened today",
-      "published_at": "2026-10-20T05:21:52+00:00",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-      "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -221,18 +293,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz",
-      "published_at": "2026-10-17T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B",
-      "summary": "Why is booking a doctor's appointment still so difficult, and can AI finally change that? Zocdoc CEO Oliver Kharraz argues that the real problem isn't finding doctors, but connecting patients to accurate availability and making appointments bookable wherever they start their search. Oliver joins a16z General Partner Julie Yoo to discuss how Zocdoc spent nearly 20 years building the infrastructure behind online scheduling, and why it's now opening that technology to AI agents, insurers, and other platforms. They explore Zocdoc's partnership with Gemini, why patients shouldn't be locked into a single healthcare platform, and how surfacing last-minute availability can reduce appointment wait times from weeks to days. They also discuss what happens when AI becomes a new front door to healthcare and why Oliver believes the future of Zocdoc extends far beyond its own app. Resources: Follow Oliver Kharraz on LinkedIn: https://www.linkedin.com/in/kharraz Follow Julie Yoo: https://x.com/julesyoo Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/60df6c4d-a29a-4c66-994e-bbd659a2e577/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=60df6c4d-a29a-4c66-994e-bbd659a2e577&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -253,42 +313,6 @@
       "url": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
       "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/chamath/status/2110128893680378299 https://www.google.com/finance/quote/CRWV:NASDAQ https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html https://247wallst.com/investing/2026/10/14/coreweave-falls-10-as-bond-yield-touches-15-and-elon-musk-says-yikes-nebius-drops-6-oracle-slips https://polymarket.com/event/coreweave-announces-bankruptcy-by https://x.com/FearedBuck/status/2109443893955567694 https://polymarket.com/event/ipos-before-2027 https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo https://www.anthropic.com/research/self-replicating-ai https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks https://x.com/DavidSacks/status/2109849209742450696 https://www.anthropic.com/research/distillation-defenses https://x.com/brian_armstrong/status/2109412046244913643",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
-      "published_at": "2026-10-15T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP1628614600.mp3",
-      "summary": "Technology has always been the fundamental driver of improvement for human quality of life. And with the recent rollout of advanced frontier models, like OpenAI’s GPT-6, humanity can now massively accelerate scientific discovery for its benefit. Sarah Guo and Elad Gil are joined by OpenAI President and co-founder Greg Brockman to discuss the company’s rapid progress across frontier models, cybersecurity, and scientific discovery. Greg shares how nearly 400 century-old math problems have been solved using its AI agents, and how the technology has the potential to transform other fields like biology in the realm of drug discovery. He also talks about how proactive, always-on AI agents like Dots impact modern productivity, why he believes the best UI is no UI at all, how cybersecurity is in a critical window of time to use peak intelligence to find and fix vulnerabilities in systems, and why OpenAI remains committed to keeping humans in the driver’s seat even as models surpass us in capability. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @gdb | @OpenAI Chapters: 00:42 – Trailer 00:59 – Greg Brockman Introduction 01:11 – AI and Advancements in Mathematics 05:55 – AI Communication and Oversight 07:45 – AI for Overcoming Biology Data Bottlenecks 11:28 – Revolutionizing Drug Discovery 14:18 – Changing Regulations to Accelerate Progress 16:51 – Dots the Proactive Agent 19:19 – Unifying Work and Consumer Agents 22:02 – How UI Will Evolve 26:08 – Cybersecurity in the AI Age 32:55 – Shift in Security Investment 35:49 – OpenAI’s Human-Centric Ethos 38:28 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP1628614600.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠ is now available via ⁠https://link.amazon/B04hl5L95⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES https://acquirersmultiple.com/podcast/ SEE OUR FREE DEEP VALUE STOCK SCREENER https://acquirersmultiple.com/screener/ FOLLOW TOBIAS Website: https://acquirersmultiple.com/ Firm: https://acquirersfunds.com/ Twitter: https://twitter.com/Greenbackd LinkedIn: https://www.linkedin.com/in/tobycarlisle Facebook: https://www.facebook.com/tobiascarlisle Instagram: https://www.instagram.com/tobias_carlisle ABOUT TOBIAS CARLISLE Tobias Carlisle is the founder of The Acquirer’s Multiple®, and Acquirers Funds®. He is best known as the author of the #1 new release in Amazon’s Business and Finance The Acquirer’s Multiple: How the Billionaire Contrarians of Deep Value Beat the Market, the Amazon best-sellers Deep Value: Why Activists Investors and Other Contrarians Battle for Control of Losing Corporations (2014) (https://amzn.to/2VwvAGF), Quantitative Value: A Practitioner’s Guide to Automating Intelligent Investment and Eliminating Behavioral Errors (2012) (https://amzn.to/2SDDxrN), and Concentrated Investing: Strategies of the World’s Greatest Concentrated Value Investors (2016) (https://amzn.to/2SEEjVn). He has extensive experience in investment management, business valuation, public company corporate governance, and corporate law.Prior to founding the forerunner to Acquirers Funds in 2010, Tobias was an analyst at an activist hedge fund, general counsel of a company listed on the Australian Stock Exchange, and a corporate advisory lawyer. As a lawyer specializing in mergers and acquisitions he has advised on transactions across a variety of industries in the United States, the United Kingdom, China, Australia, Singapore, Bermuda, Papua New Guinea, New Zealand, and Guam. He is a graduate of the University of Queensland in Australia with degrees in Law (2001) and Business (Management) (1999).",
-      "audio_url": "https://traffic.megaphone.fm/APO5981912181.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
-      "published_at": "2026-10-15T01:54:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/elizabeth-holmes-husband-billy-evans-the-trial-prison-nathan-fielders-documentary",
-      "summary": "(0:00) Billy Evans joins Friedberg (3:38) How they met, Elizabeth the person vs the headlines, indictment (11:02) Life on trial, having a child, where she went wrong in fundraising (19:28) Understanding the verdict, sentencing, and the mistake of staying silent (26:09) Elizabeth calls from prison, her life in jail (31:34) Why they did the documentary with Nathan Fielder (35:47) The road home, restitution math, why his new company is not Theranos 2.0 Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute and software for AI training and inference. https://iren.com/ Oracle connects the data, applications, and infrastructure that turn AI into business outcomes—with the flexibility, choice, and control to optimize as AI evolves. http://oracle.com/ai EY helps tech innovators scale from startup to exit to megacap. You build the future. We'll handle the rest. http://www.ey.com Meta believes the future is for everyone. We're focused on giving every person the tools to reach their full potential and making sure the benefits of technology are distributed to all. http://www.meta.com Keel Infrastructure owns the power, land, and connectivity that HPC and AI run on - backed by secured energy assets and established grid interconnections across North America. https://keelinfra.com/ Airwallex - Agentic Global Business Accounts. Open local accounts in 70+ countries to accept payments, earn yield, pay globally, and manage spend. http://airwallex.com PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. For more information, visit https://www.paypal.com Google for Startups connects founders with the right people, products, and best practices to help startups build faster and go further. https://startup.google.com/ Explore ideas, industries, and technologies worth understanding with Chamath every week on Learn with Me: https://research.socialcapital.com/allin Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Billy_Evans_AIS26_AUDIO_88.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
