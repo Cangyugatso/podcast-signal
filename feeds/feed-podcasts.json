@@ -1,9 +1,71 @@
 {
-  "generated_at": "2026-10-24T00:11:34.608404+00:00",
+  "generated_at": "2026-10-24T23:57:04.567832+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 33,
+  "item_count": 31,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Export controls are only speeding up China’s chip self-sufficiency.",
+      "published_at": "2026-10-24T17:46:18+00:00",
+      "url": "https://www.youtube.com/shorts/9UQ9FylLIc4",
+      "summary": "Export controls are only speeding up China’s chip self-sufficiency. “Starting this year, China’s self-sufficiency push has moved from state-led to coordinated between the toolmakers and the fabs themselves. They’re working together to design and build semicap equipment and EDA from the ground up, because what China needs could be different from the rest of the world, given its constraints.” “We believe this effort won’t be affected by export controls. In fact, as we’ve seen with China’s semicap localization rate over the past few years, export controls could accelerate it and give them more motivation to work harder.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "9UQ9FylLIc4"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+      "published_at": "2026-10-24T15:11:42+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "summary": "Community Wisdom 303",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What It Takes to Win as a Founder | Ben Horowitz",
+      "published_at": "2026-10-24T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY",
+      "summary": "What does it take to build a company when AI is changing the rules this quickly? Ben Horowitz argues that technology may make companies easier to start, but the hardest parts of entrepreneurship, making decisions under uncertainty, building momentum, and managing your own doubts, aren't going away. Speedrun's Andrew Chen sits down with Ben to discuss why AI feels different from previous technology shifts, whether billion-dollar companies can be built with tiny teams, and why Ben thinks the application itself may eventually become less important as agents work directly against data. They also get into defensibility in AI, what founders should look for in an investor, how venture capital is changing, and why the best entrepreneurs aren't defined by a lack of weaknesses, but by having a strength or insight that's genuinely exceptional. Resources: Follow Ben Horowitz on X: https://x.com/bhorowitz Follow Andrew Chen on X: https://x.com/andrewchen Learn more about Speedrun: https://speedrun.a16z.com/apply Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/d9bff268-e096-49a4-a2a0-3ad436b025be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=d9bff268-e096-49a4-a2a0-3ad436b025be&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "published_at": "2026-10-24T07:18:29+00:00",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "summary": "We have Fable at home... or so we are being told by paid shills",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "ASML is bringing lithography-grade precision to hybrid bonding.",
+      "published_at": "2026-10-24T02:02:13+00:00",
+      "url": "https://www.youtube.com/shorts/2P7DuasEnkU",
+      "summary": "ASML is bringing lithography-grade precision to hybrid bonding. “BESI, ASMPT and others come from a pick-and-place background. They’re very good at overlaying each die onto the base wafer and placing it down. The bond itself forms later, during the anneal.” “ASML is coming at it from the front end. Its tools already do sub-nanometer overlay for lithography, easily an order of magnitude more precise. And as hybrid bond pitches get finer, how many signals you can fit per square millimeter between two dies matters more and more.” “Overlay isn’t ASML’s problem. The challenge is building a system that brings the dies to the wafer, or in this case, the wafer to the die.” Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "2P7DuasEnkU"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -188,18 +250,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "published_at": "2026-10-22T07:42:44+00:00",
-      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-      "summary": "The Big Hardening begins",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -246,32 +296,6 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Is 50 GW in a single year too aggressive?",
-      "published_at": "2026-10-20T15:55:12+00:00",
-      "url": "https://www.youtube.com/shorts/PcQxVUdAgM4",
-      "summary": "Is 50 GW in a single year too aggressive? \"Dear Brad called us out publicly and cut our forecast in half.\" So Jeremie and Reyk came on with Jordan to show their work. They go site by site from satellite and explain why haircutting the number double counts the delays already baked in. Plus moratoriums, 9-month modular builds, and why 2028 is the year to watch. Watch The Full Pod on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "PcQxVUdAgM4"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 039 - [EMERGENCY] Brad Gerstner Cut Our 2027 Forecast in Half. We Raised It. (Datacenters)",
-      "published_at": "2026-10-20T15:08:40+00:00",
-      "url": "https://www.youtube.com/watch?v=I3tNGNjYcDw",
-      "summary": "Brad Gerstner put our 43 gigawatt forecast for 2027 on All-In, then again in his BG2 sit-down with Jensen, and called it too aggressive. The consensus counter sits near 25 GW, built on moratorium headlines and grid connection fears. Jordan Nanos (@JordanNanos) sits down with Jeremie Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower), who have been tracking the same capacity curve since March 2024, and it has barely moved across every model revision. So they aren't cutting it. They're raising it. Read the article: https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration 0:00 Cold Open 1:17 The 2027 Forecast Debate 2:21 Model Track Record 5:27 Where the Pushback Comes From 8:16 Delays and Haircuts 12:31 The Top 40 Sites 15:23 Leading Indicators 20:40 Modular Builds 25:41 Chips vs Datacenters 27:53 Responding to Brad Gerstner",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "I3tNGNjYcDw"
     },
     {
       "source": "a16z",
@@ -334,18 +358,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Happens When Al Agents Can Spend Your Money?",
-      "published_at": "2026-10-19T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH",
-      "summary": "Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't intelligence, but making AI useful to people who don't have the time or technical skills to build their own automations. Jean-Denis joins a16z General Partner Alex Rampell to share why he pivoted Town from tax software to a personal AI assistant built around email, calendars, and the workflows that run businesses. They discuss why consumer-grade experiences may win in enterprise AI, how Town discovers and automates tasks users wouldn't think to delegate, and why model neutrality and data ownership matter as AI labs increasingly compete with application companies. They also explore what happens when agents begin acting on our behalf, from managing everyday work to shopping and commerce, and why the next generation of software may need to adapt to each user rather than the other way around. Resources: Follow Alex Rampell on X: https://x.com/arampell Follow Jean-Denis Greze: https://x.com/jgreze Learn more about Town: https://town.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c3d1e5f9-5c39-4faf-8b09-0939ca33695d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c3d1e5f9-5c39-4faf-8b09-0939ca33695d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -367,42 +379,6 @@
       "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
       "audio_url": "https://api.substack.com/feed/podcast/219139599/eec213eb065b870b843f049939de6fc2.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
-      "published_at": "2026-10-17T13:53:57+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
-      "summary": "Community Wisdom 302",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "MGM and VICI: Finding Value in the Las Vegas Selloff | Value Options Podcast",
-      "published_at": "2026-10-17T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/MGM-and-VICI-Finding-Value-in-the-Las-Vegas-Selloff--Value-Options-Podcast-e3qjvn6",
-      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠ is now available via ⁠⁠https://link.amazon/B04hl5L95⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. SEE LATEST EPISODES SEE OUR FREE DEEP VALUE STOCK SCREENER FOLLOW TOBIAS Acquirers Multiple Acquirers Funds Twitter LinkedIn Facebook ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently Crash Test Dummy . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO3624614107.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
-      "published_at": "2026-10-17T01:51:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
-      "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mixed reactions (1:03:45) Psyop Corner: Anthropic warns about self-replicating models on IoT devices (1:22:19) Understanding Bill Gates the Doomer Follow Ben: https://x.com/bhorowitz Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://x.com/chamath/status/2110128893680378299 https://www.google.com/finance/quote/CRWV:NASDAQ https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html https://247wallst.com/investing/2026/10/14/coreweave-falls-10-as-bond-yield-touches-15-and-elon-musk-says-yikes-nebius-drops-6-oracle-slips https://polymarket.com/event/coreweave-announces-bankruptcy-by https://x.com/FearedBuck/status/2109443893955567694 https://polymarket.com/event/ipos-before-2027 https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo https://www.anthropic.com/research/self-replicating-ai https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks https://x.com/DavidSacks/status/2109849209742450696 https://www.anthropic.com/research/distillation-defenses https://x.com/brian_armstrong/status/2109412046244913643",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E293_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
