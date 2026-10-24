@@ -1,18 +1,104 @@
 {
-  "generated_at": "2026-10-23T00:21:02.085475+00:00",
+  "generated_at": "2026-10-24T00:11:34.608404+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 26,
+  "item_count": 33,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+      "published_at": "2026-10-23T23:08:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
+      "summary": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the brink: Riots, immigration referendum, debt crisis (1:31:49) Trump's second half strategy, Press Secretary J-Cal? Follow Nikesh: https://x.com/nikesharora Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now https://x.com/chamath/status/2112757725369348417 https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718 https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security https://x.com/eastdakota/status/2113079352682570051 https://x.com/nsacyber/status/2112903220209098897 https://abliteration.ai https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html https://www.reuters.com/world/europe/french-10-year-bond-yields-hit-5-highest-since-2002-2026-10-21 https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd https://x.com/visegrad24/status/2111542897598455888 https://polymarket.com/event/france-declares-state-of-emergency-byptptpt https://polymarket.com/event/moodys-or-sp-downgrades-france-byptptpt https://x.com/GOP_is_Gutless/status/2112157762981347373",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "published_at": "2026-10-23T15:19:48+00:00",
+      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 040 - ASML Is Building a Hybrid Bonding Tool, and We Have the Patents (AI Supply Chain)",
+      "published_at": "2026-10-23T11:00:39+00:00",
+      "url": "https://www.youtube.com/watch?v=4WCasOsS5-4",
+      "summary": "Every hybrid bonder on the market today brings the die to the wafer. ASML's patents bring the wafer to the die. Sherry Zhang and Howie join Jordan Nanos (@jordananos) to dig into the patents behind ASML's die-to-wafer hybrid bonder, why a track-based design could beat Besi on alignment and particle control, and why HBM won't adopt die-to-wafer hybrid bonding before 2029. The team also looks at how China is using hybrid bonding to keep scaling past its lithography limits, and what larger photomasks mean for High-NA EUV. Chapters: 0:00 The Patent Tip-Off 1:53 Hybrid Bonding 101 4:06 Die-to-Wafer vs Wafer-to-Wafer 5:43 Back End vs Front End 8:05 Why HBM Waits Until 2029 13:45 Everything Comes to the Die 18:26 Alignment and Cleanliness 22:48 Bonding Instead of Shrinking 25:49 China's Toolmakers Step Up 28:25 Bigger Masks for High-NA 33:29 Two Tool Stacks? Read the full article: ASML Is Building a Hybrid Bonding Tool! https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "4WCasOsS5-4"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Black October",
+      "published_at": "2026-10-23T10:09:29+00:00",
+      "url": "https://latent.space/p/ainews-black-october/",
+      "summary": "the Cyber onslaught continues.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
+      "published_at": "2026-10-23T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK",
+      "summary": "Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving meaningful AI demand on the table.** He believes the buildout could ultimately help make AWS a $1 trillion annual run-rate business. Andy joins a16z co-founder Ben Horowitz and Erik Torenberg to discuss why AI demand is growing so quickly, how Amazon decides how much infrastructure to build, and why lower inference costs could unlock broader enterprise adoption. They also discuss how AI is reshaping Amazon itself, from smaller teams building products faster to reimagining Alexa, and why Andy sees cybersecurity, human judgment, and critical thinking as increasingly important in the AI era. Resources: Follow Andy Jassy on X: https://x.com/ajassy Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1185d26-c41a-40d4-9210-eca5adab915a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1185d26-c41a-40d4-9210-eca5adab915a&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+      "published_at": "2026-10-23T10:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP2314551616.mp3",
+      "summary": "In the transition to the agentic web, security has become an afterthought. Now, organizations are racing to figure out what AI security means, and how to keep their data safe. Live from Cloudflare Connect, Sarah Guo sits down with Cloudflare CTO Dane Knecht to discuss the changing attacker landscape, and how his company is allocating its engineering resources to meet this emerging security challenge. Dane explains how enterprises that have moved away from castle-and-moat infrastructure to more of a zero trust infrastructure for security are in better positions than those who haven’t. He also discusses the challenges of patching 70 years of software and why the software development lifecycle will need to change for security for the agentic web, why he sees token spend in the next 18 months primarily going towards security rather than engineering, how the current web is in a ‘messy middle’ state where humans and agents are riding the same ‘rails’ on the internet, Cloudflare’s conference monetization gateway release as well as its Signals project with OpenAI, the rationale behind the release of Cloudflare OS, and the thinking behind a recent company restructuring. Plus, why Cloudflare hired one thousand interns, and why curiosity about AI is required to be successful at Cloudflare. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Cloudflare | @dok2001 Chapters: 00:00 – Trailer 00:55 – Cloudflare CTO Top Priorities 05:03 – Today’s Attacker Landscape 06:16 – State of Internet Infrastructure 07:31 – Shift Towards Security Spend 08:39 – Road to Better Software and Internet Security 09:50 – Building Secure Production Software 11:41 – Reducing Surface Area 12:54 – Near Future of the Web 17:27 – Monetization and Signals 19:13 – Success for Content Creators 20:07 – Workplace OS and Use Cases 24:07 – Restructuring for AI-First 27:11 – Token Budgeting 29:32 – Cloudflare’s Intern Strategy 33:39 – Importance of Curiosity 35:29 – Attacking the Legacy Software Security Problem 37:08 – Engineering Team Prioritization 38:25 – Open vs. Closed Models 39:43 – Democratizing Security for Everyone 41:29 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP2314551616.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Accelerator & HBM: From wafer starts to installed FLOPS | SemiAnalysis Model Overview",
+      "published_at": "2026-10-22T19:01:55+00:00",
+      "url": "https://www.youtube.com/shorts/vQNUzgD6_RA",
+      "summary": "From wafer starts to installed FLOPS. Myron Xie, who leads the SemiAnalysis Accelerator & HBM Model, walks through it in two minutes: what it tracks, the team behind it, how every accelerator flows back to wafers, CoWoS and HBM, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/accelerator-hbm-model",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "vQNUzgD6_RA"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "published_at": "2026-10-22T17:40:57+00:00",
-      "url": "https://www.latent.space/p/modal-d",
+      "url": "https://latent.space/p/modal-d/",
       "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
-      "audio_url": "https://api.substack.com/feed/podcast/221647996/5d4e5f71cd623bb63fd2aff5db9a1836.mp3",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a16579-8537-79c0-86b7-c9fb7a723041/01a16579-85f9-7405-b65b-7eeb25ff90b0.mp3",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
@@ -27,6 +113,19 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/46e9084f-65b6-47f8-8aa3-1c8505c30008/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=46e9084f-65b6-47f8-8aa3-1c8505c30008&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Accelerator & HBM: From wafer starts to installed FLOPS | SemiAnalysis Model Overview",
+      "published_at": "2026-10-22T15:13:55+00:00",
+      "url": "https://www.youtube.com/watch?v=Oens3GBKi9A",
+      "summary": "From wafer starts to installed FLOPS. Myron Xie, who leads the SemiAnalysis Accelerator & HBM Model, walks through it in two minutes: what it tracks, the team behind it, how every accelerator flows back to wafers, CoWoS and HBM, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/accelerator-hbm-model",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Oens3GBKi9A"
     },
     {
       "source": "Dwarkesh Patel",
@@ -46,9 +145,9 @@
       "language": "en",
       "title": "You are the Team — Anekha Sokhal, Moshi",
       "published_at": "2026-10-22T14:03:40+00:00",
-      "url": "https://www.latent.space/p/moshi",
+      "url": "https://latent.space/p/moshi/",
       "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
-      "audio_url": "https://api.substack.com/feed/podcast/221404681/24bc30266ea9e301325cdc415de8189b.mp3",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1641c-6022-751d-84e7-ce1521a0983d/01a1641c-605f-7675-a60f-8606f3ed51a6.mp3",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
@@ -94,7 +193,7 @@
       "language": "en",
       "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "published_at": "2026-10-22T07:42:44+00:00",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
       "summary": "The Big Hardening begins",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
@@ -137,18 +236,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "published_at": "2026-10-21T13:04:19+00:00",
-      "url": "https://www.latent.space/p/claude-mods",
-      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -161,16 +248,30 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
+      "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "published_at": "2026-10-21T06:54:09+00:00",
-      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "summary": "An open source “bomb” drops from China",
+      "title": "Is 50 GW in a single year too aggressive?",
+      "published_at": "2026-10-20T15:55:12+00:00",
+      "url": "https://www.youtube.com/shorts/PcQxVUdAgM4",
+      "summary": "Is 50 GW in a single year too aggressive? \"Dear Brad called us out publicly and cut our forecast in half.\" So Jeremie and Reyk came on with Jordan to show their work. They go site by site from satellite and explain why haircutting the number double counts the delays already baked in. Plus moratoriums, 9-month modular builds, and why 2028 is the year to watch. Watch The Full Pod on YouTube.",
       "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "PcQxVUdAgM4"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 039 - [EMERGENCY] Brad Gerstner Cut Our 2027 Forecast in Half. We Raised It. (Datacenters)",
+      "published_at": "2026-10-20T15:08:40+00:00",
+      "url": "https://www.youtube.com/watch?v=I3tNGNjYcDw",
+      "summary": "Brad Gerstner put our 43 gigawatt forecast for 2027 on All-In, then again in his BG2 sit-down with Jensen, and called it too aggressive. The consensus counter sits near 25 GW, built on moratorium headlines and grid connection fears. Jordan Nanos (@JordanNanos) sits down with Jeremie Ontiveros (@JeremieEO) and Reyk Knuhtsen (@robotknower), who have been tracking the same capacity curve since March 2024, and it has barely moved across every model revision. So they aren't cutting it. They're raising it. Read the article: https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration 0:00 Cold Open 1:17 The 2027 Forecast Debate 2:21 Model Track Record 5:27 Where the Pushback Comes From 8:16 Delays and Haircuts 12:31 The Top 40 Sites 15:23 Leading Indicators 20:40 Modular Builds 25:41 Chips vs Datacenters 27:53 Responding to Brad Gerstner",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "I3tNGNjYcDw"
     },
     {
       "source": "a16z",
@@ -269,18 +370,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone",
-      "published_at": "2026-10-18T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim",
-      "summary": "What changes when an AI mistake doesn’t just hurt a benchmark score, but affects someone’s housing or healthcare? EliseAI Head of Applied Research Mario Martone argues that deploying AI in essential industries requires a very different standard of reliability. Mario joins MTS to explain how EliseAI handles roughly 5 million phone calls a month, why LLMs aren’t the right solution for every problem, and how the team combines language models, traditional machine learning, neural networks, and internally built evaluations to decide what actually works in production. Drawing on 15 years studying theoretical physics, Mario also explains how the scientific method shapes EliseAI’s research culture, from testing new models against its own benchmarks to fine-tuning open-source models and automating increasingly complex workflows across housing and healthcare. And he makes the case that applying AI to the real world can produce problems every bit as intellectually difficult as the ones he encountered studying string theory. Resources: Learn more about EliseAI: https://www.eliseai.com/ Follow Mario Martone on LinkedIn: https://www.linkedin.com/in/mcmartone/ Follow MTS: https://www.mts.now/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85a52844-6698-4658-9957-0133eabffba6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=85a52844-6698-4658-9957-0133eabffba6&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -317,11 +406,5 @@
       "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
