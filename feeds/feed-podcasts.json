@@ -1,21 +1,32 @@
 {
-  "generated_at": "2026-10-24T23:57:04.567832+00:00",
+  "generated_at": "2026-10-25T23:43:58.442345+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 31,
+  "item_count": 27,
   "podcasts": [
     {
-      "source": "SemiAnalysis",
+      "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
-      "title": "Export controls are only speeding up China’s chip self-sufficiency.",
-      "published_at": "2026-10-24T17:46:18+00:00",
-      "url": "https://www.youtube.com/shorts/9UQ9FylLIc4",
-      "summary": "Export controls are only speeding up China’s chip self-sufficiency. “Starting this year, China’s self-sufficiency push has moved from state-led to coordinated between the toolmakers and the fabs themselves. They’re working together to design and build semicap equipment and EDA from the ground up, because what China needs could be different from the rest of the world, given its constraints.” “We believe this effort won’t be affected by export controls. In fact, as we’ve seen with China’s semicap localization rate over the past few years, export controls could accelerate it and give them more motivation to work harder.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "9UQ9FylLIc4"
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "published_at": "2026-10-25T12:31:34+00:00",
+      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "audio_url": "https://api.substack.com/feed/podcast/216929530/9a3287d5d680878b81bdf250edf88394.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The New Startup Playbook | Box CEO Aaron Levie",
+      "published_at": "2026-10-25T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv",
+      "summary": "Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giving small teams a level of leverage that simply wasn't economically possible before, creating a window for startups to outrun incumbents. In this episode of Speedrun Office Hours, Aaron explains why founders are shifting from doing the work themselves to orchestrating agents, and why that puts a new premium on strategy, taste, and knowing exactly what to build. He makes the case that nearly every industry and job function could support specialized AI agents, potentially creating hundreds of new billion-dollar companies. They also discuss why enterprise AI may capture much of the next wave of model improvements, how dramatically cheaper AI labor could unlock demand that doesn't exist today, and one thing Aaron thinks AI won't change: distribution. If you build it, they still won't necessarily come. Resources: Watch the original Speedrun Office Hours episode: https://www.youtube.com/watch?v=wZ1joGIUyK8 Learn more about Speedrun: https://speedrun.a16z.com/ Follow Speedrun on X: https://x.com/speedrun Follow Aaron Levie on X: https://x.com/levie Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cf152414-3a4b-46e0-a3ab-13cdcf42822e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cf152414-3a4b-46e0-a3ab-13cdcf42822e&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
     },
     {
       "source": "Lenny's Podcast",
@@ -54,17 +65,16 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
       "language": "en",
-      "title": "ASML is bringing lithography-grade precision to hybrid bonding.",
-      "published_at": "2026-10-24T02:02:13+00:00",
-      "url": "https://www.youtube.com/shorts/2P7DuasEnkU",
-      "summary": "ASML is bringing lithography-grade precision to hybrid bonding. “BESI, ASMPT and others come from a pick-and-place background. They’re very good at overlaying each die onto the base wafer and placing it down. The bond itself forms later, during the anneal.” “ASML is coming at it from the front end. Its tools already do sub-nanometer overlay for lithography, easily an order of magnitude more precise. And as hybrid bond pitches get finer, how many signals you can fit per square millimeter between two dies matters more and more.” “Overlay isn’t ASML’s problem. The challenge is building a system that brings the dies to the wafer, or in this case, the wafer to the die.” Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "2P7DuasEnkU"
+      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
+      "published_at": "2026-10-24T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
+      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠ is now available via ⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠SEE LATEST EPISODES⁠ ⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠ FOLLOW TOBIAS ⁠Acquirers Multiple⁠ ⁠Acquirers Funds⁠ ⁠Twitter⁠ ⁠LinkedIn⁠ ⁠Facebook⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠Crash Test Dummy⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO8697323700.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
     },
     {
       "source": "All-In Podcast",
@@ -89,19 +99,6 @@
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 040 - ASML Is Building a Hybrid Bonding Tool, and We Have the Patents (AI Supply Chain)",
-      "published_at": "2026-10-23T11:00:39+00:00",
-      "url": "https://www.youtube.com/watch?v=4WCasOsS5-4",
-      "summary": "Every hybrid bonder on the market today brings the die to the wafer. ASML's patents bring the wafer to the die. Sherry Zhang and Howie join Jordan Nanos (@jordananos) to dig into the patents behind ASML's die-to-wafer hybrid bonder, why a track-based design could beat Besi on alignment and particle control, and why HBM won't adopt die-to-wafer hybrid bonding before 2029. The team also looks at how China is using hybrid bonding to keep scaling past its lithography limits, and what larger photomasks mean for High-NA EUV. Chapters: 0:00 The Patent Tip-Off 1:53 Hybrid Bonding 101 4:06 Die-to-Wafer vs Wafer-to-Wafer 5:43 Back End vs Front End 8:05 Why HBM Waits Until 2029 13:45 Everything Comes to the Die 18:26 Alignment and Cleanliness 22:48 Bonding Instead of Shrinking 25:49 China's Toolmakers Step Up 28:25 Bigger Masks for High-NA 33:29 Two Tool Stacks? Read the full article: ASML Is Building a Hybrid Bonding Tool! https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "4WCasOsS5-4"
     },
     {
       "source": "Latent Space",
@@ -140,19 +137,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Accelerator & HBM: From wafer starts to installed FLOPS | SemiAnalysis Model Overview",
-      "published_at": "2026-10-22T19:01:55+00:00",
-      "url": "https://www.youtube.com/shorts/vQNUzgD6_RA",
-      "summary": "From wafer starts to installed FLOPS. Myron Xie, who leads the SemiAnalysis Accelerator & HBM Model, walks through it in two minutes: what it tracks, the team behind it, how every accelerator flows back to wafers, CoWoS and HBM, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/accelerator-hbm-model",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "vQNUzgD6_RA"
-    },
-    {
       "source": "Latent Space",
       "domain": "ai",
       "language": "en",
@@ -175,19 +159,6 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/46e9084f-65b6-47f8-8aa3-1c8505c30008/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=46e9084f-65b6-47f8-8aa3-1c8505c30008&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Accelerator & HBM: From wafer starts to installed FLOPS | SemiAnalysis Model Overview",
-      "published_at": "2026-10-22T15:13:55+00:00",
-      "url": "https://www.youtube.com/watch?v=Oens3GBKi9A",
-      "summary": "From wafer starts to installed FLOPS. Myron Xie, who leads the SemiAnalysis Accelerator & HBM Model, walks through it in two minutes: what it tracks, the team behind it, how every accelerator flows back to wafers, CoWoS and HBM, and what clients get from it. Learn more and talk to our team: https://semianalysis.com/accelerator-hbm-model",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Oens3GBKi9A"
     },
     {
       "source": "Dwarkesh Patel",
@@ -298,18 +269,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
-      "published_at": "2026-10-20T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T",
-      "summary": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks that’s only the beginning: the longer-term goal is AI that can help people navigate their health proactively, while making trustworthy medical intelligence dramatically more accessible. Karan joins a16z Partner Jay Rughani to explain why OpenAI trains healthcare expertise directly into its general-purpose frontier models, how it works with hundreds of medical experts to evaluate safety and disagreement, and why the company sees AI as a complement to doctors rather than a replacement for medical care. They also discuss integrations with Epic, AI copilots for clinicians, and what happens as personal agents begin navigating appointments, health records, and other fragmented parts of the healthcare system. Looking further ahead, Karan makes the case that the cost of medical intelligence could continue to fall dramatically, allowing AI to act as a safety net for patients and clinicians, surface insights from years of health data, and potentially accelerate the discovery and validation of new treatments. Resources: Follow Karan Singhal on X: https://x.com/thekaransinghal Follow Jay Rughani on X: https://x.com/JayRughani Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e451186f-f0cc-49a5-b14c-c146b2c680bf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e451186f-f0cc-49a5-b14c-c146b2c680bf&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -368,19 +327,13 @@
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.521_Tracy_Britt_Cool_-_AUDIO_V1.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-      "published_at": "2026-10-18T12:31:36+00:00",
-      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
-      "audio_url": "https://api.substack.com/feed/podcast/219139599/eec213eb065b870b843f049939de6fc2.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
