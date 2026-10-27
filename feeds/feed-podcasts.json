@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-10-25T23:43:58.442345+00:00",
+  "generated_at": "2026-10-27T01:03:18.662197+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lex Fridman",
+      "domain": "ai",
+      "language": "en",
+      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+      "published_at": "2026-10-26T22:52:28+00:00",
+      "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+      "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working in theoretical computer science, who can speak to the unique games conjecture, complexity theory and the mathematics of how AI learns. Steven Brunton is a mathematician and fluid dynamics expert at UW, who can speak to Navier-Stokes, turbulence and machine learning for fluid dynamics. Alex Kontorovich is a mathematician at Rutgers specializing in number theory, who can speak to the Riemann hypothesis, Lean and machine-checked proofs. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep503-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/math-ai-crisis-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Ankur’s Website: https://people.csail.mit.edu/moitra/ Alex’s X: https://x.com/AlexKontorovich Alex’s Website: https://sites.math.rutgers.edu/~alexk/ Steven’s X: https://x.com/eigensteve Steven’s YouTube: https://youtube.com/@Eigensteve Steven’s Website: https://eigensteve.com Lean: https://lean-lang.org/ SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Blitzy: AI agent for large enterprise codebases. Go to https://blitzy.com/lex Shopify: Sell stuff online. Go to https://shopify.com/lex NetSuite: Business management software. Go to https://netsuite.ai/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:58) – Sponsors, Comments, and Reflections (09:53) – Crisis moment in mathematics (18:10) – Will AI “solve” mathematics? (34:21) – Can AI create new math? (1:13:53) – Riemann hypothesis (1:37:45) – Navier-Stokes (2:03:42) – How nature computes (2:12:35) – Unique Games Conjecture and complexity theory (2:27:28) – How mathematicians think (2:41:05) – Is math invented or discovered? (2:47:13) – Can AI solve P vs NP? (2:57:28) – Why LLMs work so well (3:11:54) – Problems AI can’t solve yet (3:16:23) – Grigori Perelman (3:25:41) – Advice for young people",
+      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
+      "feed_url": "https://lexfridman.com/feed/podcast/",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+      "published_at": "2026-10-26T15:00:53+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+      "published_at": "2026-10-26T12:04:20+00:00",
+      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "summary": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
+      "audio_url": "https://api.substack.com/feed/podcast/221505216/55d5970917db6ba6a6d3eb0000f1bcc3.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenAI: When AI Agents Use Computers Faster Than You",
+      "published_at": "2026-10-26T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt",
+      "summary": "AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface itself into a universal way for AI to interact with software. OpenAI’s Ari Weinstein and James Sun argue that computer use is now entering its scaling moment, as better models, faster execution, and stronger safety controls make agents practical for more consumer and enterprise work. Ari and James join a16z’s Seema Amble and Fabrizio Serafini to explain how computer-using agents are already navigating legacy ERPs, reconciling financial data, handling procurement, and operating software without APIs or custom integrations. They also discuss why the harness around the model can matter as much as model intelligence, how enterprises can set deterministic guardrails around agent behavior, and why computer use could simultaneously extend the life of legacy software and accelerate the arrival of new AI-native applications. Looking ahead, they make the case for a more proactive and fluid relationship with computers, where agents work in the background, collaborate with users in real time, and increasingly adapt to us rather than requiring us to learn how to use them. Resources: Follow Seema Amble on X: https://x.com/seema_amble Follow Fabrizio Serafini on X: https://x.com/fabserafini Follow Ari Weinstein on X: https://x.com/AriX Follow James Sun on X: https://x.com/JamesZmSun Related a16z research from Seema Amble and Fabrizio Serafini: Can Agents Use a Computer Yet? We’ve Got the Data Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c129b5d-535b-4c40-a104-2d0a66853196/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2c129b5d-535b-4c40-a104-2d0a66853196&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Continuation Vehicles from the LP Seat – Scott Ramsower (EP.523)",
+      "published_at": "2026-10-26T08:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/continuation-vehicles-from-the-lp-seat-scott-ramsower-ep523",
+      "summary": "My guest on today 's show is Scott Ramsower, Head of Private Equity Funds at the Teacher Retirement System of Texas, where a 27-person team manages $33 billion in private equity for the $250 billion pension plan. Scott started his LP career at AlpInvest and joined Texas Teachers sixteen years ago, when the private equity program was six people and $7 billion. He also chairs the board of ILPA. Our conversation covers Scott's path from equity research to the LP seat and the growth of the Texas Teachers program. We then turn to continuation vehicles and the reasons LPs have grown wary of them, from conflicted pricing and misaligned economics to the loss of the right tail. We close with zombie funds, retail capital in private equity, and how a slower exit market is changing the way LPs underwrite their GPs. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com /signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.523_Scott_Ramsower_-_AUDIO_V1.2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -257,18 +317,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
-      "published_at": "2026-10-21T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM",
-      "summary": "AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably understand. Reducto co-founder and CEO Adit Abraham argues that solving this document layer is essential if agents are going to take on consequential work in healthcare, legal, finance, and insurance. Adit joins a16z General Partner Jennifer Li to explain why traditional OCR breaks down on messy real-world documents, how Reducto combines vision-language models with specialized infrastructure to reach high accuracy without sacrificing cost or latency, and why frontier models can silently drop information on long extraction tasks. Reducto now processes billions of pages each month, including its seven billionth page the morning of the recording. They also discuss Reducto’s R1 model, agents that can review and correct their own document extraction, and the company’s push beyond simply reading files toward letting agents reliably work with and edit them. Underneath it all is a higher-stakes problem: when a misread word can affect a healthcare claim or financial decision, getting the input right matters just as much as making the model smarter. Resources: Learn more about Reducto: https://reducto.ai Follow Adit Abraham on X: https://x.com/aditabrm Follow Jennifer Li on X: https://x.com/JenniferHli Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9d496dca-083d-42c6-a9ba-c003aba257b9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9d496dca-083d-42c6-a9ba-c003aba257b9&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -279,61 +327,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
-      "published_at": "2026-10-19T20:43:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity",
-      "summary": "(0:00) Dylan Field joins the show: Figma's origin story and mission (3:16) Adobe's $20B deal blocked: inside the antitrust fight (12:29) Is AI killing SaaS? Frontier Companies vs. Figma, the \"SaaS apocalypse\" (18:52) Creativity in the AI era: why taste and boldness win (36:02) Human agency, AI's promise, and what comes next Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. Learn more at: https://CreativePlanning.com/AllIn With over nine million acres protected across all fifty states, The Conservation Fund secures the irreplaceable lands we love. Learn more at http://conservationfund.org Follow Dylan: https://x.com/zoink Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_200_Dylan_Field_INT_1.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-      "published_at": "2026-10-19T15:03:35+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-      "published_at": "2026-10-19T12:04:52+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "summary": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
-      "audio_url": "https://api.substack.com/feed/podcast/220274495/c63ab3b7444e594c14b97aac7c3e862b.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Building a Berkshire for the Middle Market – Tracy Britt Cool (EP.521)",
-      "published_at": "2026-10-19T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/building-a-berkshire-for-the-middle-market-tracy-britt-cool-ep521",
-      "summary": "My guest on today's show is Tracy Britt Cool, co-founder of Kanbrick, a long-term investment partnership that provides owners of family-owned, midsized businesses with a differentiated option from traditional private equity. Tracy launched the business after spending ten years at Berkshire Hathaway as one of Warren Buffett's few deputies. She started out of business school as a financial assistant to Buffett, served as Chair of several Berkshire portfolio companies, and later became CEO of Pampered Chef. Our conversation covers Tracy's journey, including lessons from Buffett and the value of operating experience. We turn to the application of those lessons at Kanbrick across its strategy, sourcing, deal dynamics, operational improvements, and long-term holding periods, all supported by the firm's creation of a community of 4,000 executives who share best practices in hiring, operations, excellence, and growth. AlphaSense free trial for Capital Allocators listeners here . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.521_Tracy_Britt_Cool_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
     }
   ]
 }
