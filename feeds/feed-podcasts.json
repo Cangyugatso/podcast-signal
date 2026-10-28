@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-10-27T01:03:18.662197+00:00",
+  "generated_at": "2026-10-28T00:54:48.194179+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "published_at": "2026-10-27T18:53:10+00:00",
+      "url": "https://latent.space/p/opus55/",
+      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "published_at": "2026-10-27T18:40:19+00:00",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a17e24-16fc-71e3-bdc8-f0c1aeee546c/01a17e24-18bb-7daa-afc4-3f3bfdc294d7.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "published_at": "2026-10-27T14:41:25+00:00",
+      "url": "https://latent.space/p/offline-coding/",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg",
+      "published_at": "2026-10-27T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu",
+      "summary": "What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt argues the answer isn’t to fill the extra time with more academics, but to redesign school around the skills traditional classrooms struggle to teach: agency, teamwork, entrepreneurship, communication, and doing hard things. Joe joins Erik Torenberg and Horowitz and Andreessen Academy co-founder Gagan Biyani to discuss Alpha’s model, where students spend two hours a day on core academics and the rest developing real-world skills through projects. They explore what that approach can teach higher education, why motivation may matter more than curriculum, and how HAA is applying similar principles to college-age students by putting building, relationships, and real-world experience at the center of the learning experience. They also discuss what parents need to believe before choosing a new educational model, why Joe expects AI to drive an explosion in entrepreneurship, and why the most important question for students may not be which field is safest from AI, but what they care enough about to build. Resources: Learn more about Horowitz and Andreessen Academy: https://www.theacademysf.com/ Learn more about Alpha School: https://alpha.school/joe-liemandt-and-the-future-of-education/ Follow Joe Liemandt on X: https://x.com/jliemandt Follow Gagan Biyani: on X https://x.com/gaganbiyani Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2967fdc6-98e7-4e58-83f8-6ebcb4e41546/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2967fdc6-98e7-4e58-83f8-6ebcb4e41546&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+      "published_at": "2026-10-27T08:00:00+00:00",
+      "url": "https://colossus.com/episode/the-limits-of-intelligence/",
+      "summary": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana. We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs. We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock. Please enjoy my conversation with Cliff Sosin. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Why Intelligence Has Limits (00:02:34) Chaos Theory and the Butterfly Effect (00:04:59) A 200 IQ Team in Every Pocket (00:07:33) Meta as Personalized TV (00:11:18) The Frontier Labs as Businesses (00:14:59) Jevons Paradox and the Limits of Demand (00:18:47) Automated Labs and the Speed Limits of Experiments (00:20:39) Why He Stays Away from the AI Build-Out (00:22:28) Why the Best Entrepreneurs Are Building Supply (00:24:22) Lessons from Past Capital Cycles (00:26:05) TSMC and Physical Moats (00:27:03) AI Agents and the Low-Cost Producer (00:29:44) Will AI Replace Investors? (00:32:01) Price as a Signal Wrapped in an Incentive (00:34:16) America’s Underrated Capital Markets (00:37:05) Why America Dominates Risk-Taking (00:38:36) What Higher Rates Are Telling Us (00:39:24) The AI Speech He Gives His Companies (00:41:45) The Best Time to Start a Company (00:43:03) Corporate Margins and Vertical Stacks (00:45:16) AI and the Income Distribution (00:48:13) Letting AI Size the Portfolio (00:50:56) Why He Holds So Much Carvana (00:52:22) Educating Kids in the Age of AI",
+      "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "published_at": "2026-10-27T07:24:59+00:00",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "summary": "The S-1, the numbers, and the reactions.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lex Fridman",
       "domain": "ai",
@@ -149,30 +221,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "published_at": "2026-10-23T15:19:48+00:00",
-      "url": "https://latent.space/p/ai-is-getting-good-at-math/",
-      "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Black October",
-      "published_at": "2026-10-23T10:09:29+00:00",
-      "url": "https://latent.space/p/ainews-black-october/",
-      "summary": "the Cyber onslaught continues.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -197,30 +245,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "published_at": "2026-10-22T17:40:57+00:00",
-      "url": "https://latent.space/p/modal-d/",
-      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a16579-8537-79c0-86b7-c9fb7a723041/01a16579-85f9-7405-b65b-7eeb25ff90b0.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Frontier Ideas a16z Wants to Fund | Marc Andreessen, Ben Horowitz & Chris Dixon",
-      "published_at": "2026-10-22T16:07:57+00:00",
-      "url": "https://a16z.simplecast.com/episodes/tbc-gRs50MgP",
-      "summary": "a16z is expanding a16z crypto into a16z Frontier, a broader mandate to back founders building at the edges of what's possible. Chris Dixon joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to explain why founders should increasingly ask not “is this too ambitious?” but “is this ambitious enough?” — and how AI could pull decades of technological progress forward across hardware, robotics, entertainment, science, and entirely new forms of media. They also explore the coming internet of AI agents, why open source matters as AI becomes more powerful, and why some of the most important companies of the next decade may combine technologies and business models that previously belonged in separate categories. Resources: Follow Chris Dixon on X: https://x.com/cdixon Follow Marc Andreessen on X: https://x.com/pmarca Follow Ben Horowitz on X: https://x.com/bhorowitz Learn more about a16z Frontier: https://a16zfrontier.com https://a16zfrontier.substack.com https://x.com/a16zfrontier Stay Updated: If you enjoyed this episode, be sure to like, subscribe, and share with your friends! Find a16z on X: https://twitter.com/a16z Find a16z on LinkedIn: https://www.linkedin.com/company/a16z Listen to the a16z Show on Spotify: https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX Listen to the a16z Show on Apple Podcasts: https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711 Follow our host: https://x.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see http://a16z.com/disclosures . Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/46e9084f-65b6-47f8-8aa3-1c8505c30008/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=46e9084f-65b6-47f8-8aa3-1c8505c30008&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -230,18 +254,6 @@
       "summary": "What I learned from touring Intel’s most advanced fab and talking to its leadership.",
       "audio_url": "https://api.substack.com/feed/podcast/221632772/1f987bf69581b5c8ba0fd37b77cdeb71.mp3",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "You are the Team — Anekha Sokhal, Moshi",
-      "published_at": "2026-10-22T14:03:40+00:00",
-      "url": "https://latent.space/p/moshi/",
-      "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1641c-6022-751d-84e7-ce1521a0983d/01a1641c-605f-7675-a60f-8606f3ed51a6.mp3",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -315,25 +327,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "url": "https://colossus.com/episode/becoming-a-category-winner/",
-      "summary": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance. Five years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users. We also explore the changing economics of software, the war for exceptional talent, AI's impact on cybersecurity, and what it takes to build an enduring company in Silicon Valley's rapidly changing environment. Please enjoy my conversation with Christina Cacioppo. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) How Vanta Won a Crowded Category (00:03:12) Living Through the Software Selloff (00:05:41) Building an Agent-First Product (00:07:39) Why Vanta Eats the Cost of AI (00:10:35) The Search for Outcome Pricing (00:14:31) Getting People to Actually Use AI (00:17:46) Why Comp for Top People Is Up 10X (00:22:13) Valuations, Tenders, and the Endgame (00:24:20) What’s Overhyped and Underhyped (00:27:54) The Problem With FDEs (00:29:34) Why French Startups Use Chinese Models (00:30:22) Vanta as a Security Company (00:36:57) What Makes a Great Talk (00:40:14) Where She Would Invest Today (00:45:19) The Billboard War (00:49:35) The AI Trust Crisis (00:51:39) Security Five Years From Now",
-      "audio_url": "https://traffic.megaphone.fm/CLS1049065818.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
     }
   ]
 }
