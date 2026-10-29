@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-28T00:54:48.194179+00:00",
+  "generated_at": "2026-10-29T01:29:01.198444+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 26,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why Agents Love Supabase",
+      "published_at": "2026-10-28T19:48:05+00:00",
+      "url": "https://latent.space/p/supabase/",
+      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1794a-94ec-7f36-ab76-412cdc9ed579/01a183eb-8968-7863-ad65-64165119cad1.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "published_at": "2026-10-28T12:04:22+00:00",
+      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "summary": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
+      "audio_url": "https://api.substack.com/feed/podcast/222355930/adf2414c3ca97ff75d30e83f1da02d82.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
+      "published_at": "2026-10-28T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe",
+      "summary": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off. Mark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs. They also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking. Resources: Follow Mark Cuban on X: https://x.com/mcuban Follow Julie Yoo: https://x.com/julesyoo Mark Cuban Cost Plus Drug Company: https://costplusdrugs.com/ Cost Plus Wellness: https://costpluswellness.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/1046e742-22c8-45f7-a3c2-e8b93f091783/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=1046e742-22c8-45f7-a3c2-e8b93f091783&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "published_at": "2026-10-28T08:50:30+00:00",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "summary": "Since coding is solved, why code for the job?",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -62,18 +110,6 @@
       "summary": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana. We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs. We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock. Please enjoy my conversation with Cliff Sosin. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Why Intelligence Has Limits (00:02:34) Chaos Theory and the Butterfly Effect (00:04:59) A 200 IQ Team in Every Pocket (00:07:33) Meta as Personalized TV (00:11:18) The Frontier Labs as Businesses (00:14:59) Jevons Paradox and the Limits of Demand (00:18:47) Automated Labs and the Speed Limits of Experiments (00:20:39) Why He Stays Away from the AI Build-Out (00:22:28) Why the Best Entrepreneurs Are Building Supply (00:24:22) Lessons from Past Capital Cycles (00:26:05) TSMC and Physical Moats (00:27:03) AI Agents and the Low-Cost Producer (00:29:44) Will AI Replace Investors? (00:32:01) Price as a Signal Wrapped in an Incentive (00:34:16) America’s Underrated Capital Markets (00:37:05) Why America Dominates Risk-Taking (00:38:36) What Higher Rates Are Telling Us (00:39:24) The AI Speech He Gives His Companies (00:41:45) The Best Time to Start a Company (00:43:03) Corporate Margins and Vertical Stacks (00:45:16) AI and the Income Distribution (00:48:13) Letting AI Size the Portfolio (00:50:56) Why He Holds So Much Carvana (00:52:22) Educating Kids in the Age of AI",
       "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "published_at": "2026-10-27T07:24:59+00:00",
-      "url": "https://latent.space/p/ainews-anthropic-s1/",
-      "summary": "The S-1, the numbers, and the reactions.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -185,18 +221,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "published_at": "2026-10-24T07:18:29+00:00",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "summary": "We have Fable at home... or so we are being told by paid shills",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -218,18 +242,6 @@
       "summary": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the brink: Riots, immigration referendum, debt crisis (1:31:49) Trump's second half strategy, Press Secretary J-Cal? Follow Nikesh: https://x.com/nikesharora Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now https://x.com/chamath/status/2112757725369348417 https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718 https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security https://x.com/eastdakota/status/2113079352682570051 https://x.com/nsacyber/status/2112903220209098897 https://abliteration.ai https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html https://www.reuters.com/world/europe/french-10-year-bond-yields-hit-5-highest-since-2002-2026-10-21 https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd https://x.com/visegrad24/status/2111542897598455888 https://polymarket.com/event/france-declares-state-of-emergency-byptptpt https://polymarket.com/event/moodys-or-sp-downgrades-france-byptptpt https://x.com/GOP_is_Gutless/status/2112157762981347373",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK",
-      "summary": "Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving meaningful AI demand on the table.** He believes the buildout could ultimately help make AWS a $1 trillion annual run-rate business. Andy joins a16z co-founder Ben Horowitz and Erik Torenberg to discuss why AI demand is growing so quickly, how Amazon decides how much infrastructure to build, and why lower inference costs could unlock broader enterprise adoption. They also discuss how AI is reshaping Amazon itself, from smaller teams building products faster to reimagining Alexa, and why Andy sees cybersecurity, human judgment, and critical thinking as increasingly important in the AI era. Resources: Follow Andy Jassy on X: https://x.com/ajassy Follow Ben Horowitz on X: https://x.com/bhorowitz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1185d26-c41a-40d4-9210-eca5adab915a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e1185d26-c41a-40d4-9210-eca5adab915a&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -303,37 +315,13 @@
       "audio_url": "https://traffic.megaphone.fm/APO4084624539.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
-      "published_at": "2026-10-21T23:42:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse",
-      "summary": "(0:00) Arvind Krishna & Nikesh Arora talk about Quantum Computing's Threat to Encryption (9:07) Open Weight vs. Frontier AI Models (18:07) AI and Cyber Warfare (21:14) AI Regulation and the Global AI Arms Race (30:32) Vertical Integration and Software Consolidation Follow Nikesh: https://x.com/nikesharora Follow Arvind: https://x.com/ArvindKrishna Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Duet is beautiful. I still forgot to use it",
-      "published_at": "2026-10-21T20:25:18+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-      "summary": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
-      "audio_url": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
     }
   ]
 }
