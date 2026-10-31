@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-10-30T01:30:05.743996+00:00",
+  "generated_at": "2026-10-31T01:22:44.466637+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+      "published_at": "2026-10-30T21:44:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+      "summary": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.semafor.com/article/10/28/2026/all-in-podcast-cools-on-super-intelligence https://x.com/AndrewBenson/status/2115458726396310008 https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676 https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20 https://x.com/rdominguezibar/status/2114785991462428811 https://x.com/jaminball/status/2115121906630238287 https://www.vox.com/future-perfect/507875/anthropic-ipo-stop-ai-race-safety https://www.anthropic.com/institute/measuring-pace-of-ai-development https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322 https://x.com/EconomyApp/status/2115539079999971384 https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative https://x.com/Couch_Investor/status/2115541399898571180 https://x.com/Geiger_Capital/status/2112702741995037179 https://x.com/PatrickRuffini/status/2089729804941594660 https://x.com/maxanderson/status/2080229375773941871 https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Robert Caro – The master biographer reflects at 91",
+      "published_at": "2026-10-30T16:56:02+00:00",
+      "url": "https://www.dwarkesh.com/p/robert-caro",
+      "summary": "\"A lot of the stuff that I cut out, it's tragic that no one knows it.\"",
+      "audio_url": "https://api.substack.com/feed/podcast/222791845/c1cb04aeef87ac39b122e45d5ab19e38.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
+      "published_at": "2026-10-30T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux",
+      "summary": "What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay Madheswaran argues that AI won't just cut costs for law firms. It could expand access to legal representation by making an entirely new class of cases economically viable. Jay joins a16z General Partner Alex Rampell to explain how Eve is automating plaintiff law from the first client call through settlement, and why some firms are already using it to increase the number of clients each attorney can manage from roughly 100 to 500. They also discuss how AI could shift lawyers toward higher-value advocacy, why agents may eventually negotiate with other agents, and what happens to the legal system when bringing a case becomes dramatically cheaper. Resources: Follow Jay Madheswaran on LinkedIn: https://www.linkedin.com/in/jayanth1/ Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/de88968f-40b2-409c-befe-1d337a8ca6a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=de88968f-40b2-409c-befe-1d337a8ca6a9&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "published_at": "2026-10-30T08:24:29+00:00",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -137,18 +185,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-      "published_at": "2026-10-27T18:53:10+00:00",
-      "url": "https://latent.space/p/opus55/",
-      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -245,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The New Startup Playbook | Box CEO Aaron Levie",
-      "published_at": "2026-10-25T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv",
-      "summary": "Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giving small teams a level of leverage that simply wasn't economically possible before, creating a window for startups to outrun incumbents. In this episode of Speedrun Office Hours, Aaron explains why founders are shifting from doing the work themselves to orchestrating agents, and why that puts a new premium on strategy, taste, and knowing exactly what to build. He makes the case that nearly every industry and job function could support specialized AI agents, potentially creating hundreds of new billion-dollar companies. They also discuss why enterprise AI may capture much of the next wave of model improvements, how dramatically cheaper AI labor could unlock demand that doesn't exist today, and one thing Aaron thinks AI won't change: distribution. If you build it, they still won't necessarily come. Resources: Watch the original Speedrun Office Hours episode: https://www.youtube.com/watch?v=wZ1joGIUyK8 Learn more about Speedrun: https://speedrun.a16z.com/ Follow Speedrun on X: https://x.com/speedrun Follow Aaron Levie on X: https://x.com/levie Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cf152414-3a4b-46e0-a3ab-13cdcf42822e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=cf152414-3a4b-46e0-a3ab-13cdcf42822e&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -278,30 +302,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠ is now available via ⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠SEE LATEST EPISODES⁠ ⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠ FOLLOW TOBIAS ⁠Acquirers Multiple⁠ ⁠Acquirers Funds⁠ ⁠Twitter⁠ ⁠LinkedIn⁠ ⁠Facebook⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠Crash Test Dummy⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO8697323700.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
-      "published_at": "2026-10-23T23:08:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
-      "summary": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the brink: Riots, immigration referendum, debt crisis (1:31:49) Trump's second half strategy, Press Secretary J-Cal? Follow Nikesh: https://x.com/nikesharora Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now https://x.com/chamath/status/2112757725369348417 https://abcnews.com/Technology/urgent-security-fix-issued-code-vital-estimated-70/story?id=137447718 https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security https://x.com/eastdakota/status/2113079352682570051 https://x.com/nsacyber/status/2112903220209098897 https://abliteration.ai https://www.nytimes.com/2026/10/21/world/europe/macron-trump-france-protests.html https://www.reuters.com/world/europe/french-10-year-bond-yields-hit-5-highest-since-2002-2026-10-21 https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd https://x.com/visegrad24/status/2111542897598455888 https://polymarket.com/event/france-declares-state-of-emergency-byptptpt https://polymarket.com/event/moodys-or-sp-downgrades-france-byptptpt https://x.com/GOP_is_Gutless/status/2112157762981347373",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E294_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
-      "published_at": "2026-10-23T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP2314551616.mp3",
-      "summary": "In the transition to the agentic web, security has become an afterthought. Now, organizations are racing to figure out what AI security means, and how to keep their data safe. Live from Cloudflare Connect, Sarah Guo sits down with Cloudflare CTO Dane Knecht to discuss the changing attacker landscape, and how his company is allocating its engineering resources to meet this emerging security challenge. Dane explains how enterprises that have moved away from castle-and-moat infrastructure to more of a zero trust infrastructure for security are in better positions than those who haven’t. He also discusses the challenges of patching 70 years of software and why the software development lifecycle will need to change for security for the agentic web, why he sees token spend in the next 18 months primarily going towards security rather than engineering, how the current web is in a ‘messy middle’ state where humans and agents are riding the same ‘rails’ on the internet, Cloudflare’s conference monetization gateway release as well as its Signals project with OpenAI, the rationale behind the release of Cloudflare OS, and the thinking behind a recent company restructuring. Plus, why Cloudflare hired one thousand interns, and why curiosity about AI is required to be successful at Cloudflare. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Cloudflare | @dok2001 Chapters: 00:00 – Trailer 00:55 – Cloudflare CTO Top Priorities 05:03 – Today’s Attacker Landscape 06:16 – State of Internet Infrastructure 07:31 – Shift Towards Security Spend 08:39 – Road to Better Software and Internet Security 09:50 – Building Secure Production Software 11:41 – Reducing Surface Area 12:54 – Near Future of the Web 17:27 – Monetization and Signals 19:13 – Success for Content Creators 20:07 – Workplace OS and Use Cases 24:07 – Restructuring for AI-First 27:11 – Token Budgeting 29:32 – Cloudflare’s Intern Strategy 33:39 – Importance of Curiosity 35:29 – Attacking the Legacy Software Security Problem 37:08 – Engineering Team Prioritization 38:25 – Open vs. Closed Models 39:43 – Democratizing Security for Everyone 41:29 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP2314551616.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
       "source_type": "rss"
     }
   ],
