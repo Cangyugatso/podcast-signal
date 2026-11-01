@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-10-31T01:22:44.466637+00:00",
+  "generated_at": "2026-11-01T00:38:21.251371+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+      "published_at": "2026-10-31T16:14:41+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+      "summary": "Community Wisdom 304",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "published_at": "2026-10-31T16:05:00+00:00",
+      "url": "https://latent.space/p/arca/",
+      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a18ea6-9508-712c-b5ff-54536059aced/01a18eb9-7b8e-7f04-b56a-8580cdb8c207.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can AI Fix Professional Networking? | Inside Cosign",
+      "published_at": "2026-10-31T10:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue",
+      "summary": "What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vouch for you? Cosign is building a professional network around those signals, with the longer-term goal of giving AI agents access to the relationship and reputation data that traditional networks keep locked away. a16z New Media’s David Booth and Dhruv Gupta join MTS to introduce the Cosign Awards, which recognize standout operators, companies, and products based on nominations from the people who know their work. They also unpack the bigger idea behind Cosign: mapping the people and relationships that rarely show up in public data, then making that graph accessible to both humans and agents. Looking ahead, they imagine professional networking where your personal agent can talk directly to a company’s agent, determine whether there’s a potential fit, and only bring the opportunity to you when there’s a genuine “coincidence of intent.” Resources: Follow David Booth on X: https://x.com/david__booth Follow Dhruv Gupta on X: https://x.com/droovg Cosign: https://cosign.co Cosign Awards: https://cosign.co/awards Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fcd03bbe-16a1-453c-a1c0-69adfb573df8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fcd03bbe-16a1-453c-a1c0-69adfb573df8&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Who Pays for the AI Boom? Big Tech’s Financing Problem",
+      "published_at": "2026-10-31T07:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Who-Pays-for-the-AI-Boom--Big-Techs-Financing-Problem-e3re2n8",
+      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO1388693992.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "published_at": "2026-10-31T05:00:48+00:00",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "summary": "It turns out you cannot have your cake AND eat it",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -137,18 +197,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why Agents Love Supabase",
-      "published_at": "2026-10-28T19:48:05+00:00",
-      "url": "https://latent.space/p/supabase/",
-      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1794a-94ec-7f36-ab76-412cdc9ed579/01a183eb-8968-7863-ad65-64165119cad1.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -170,18 +218,6 @@
       "summary": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off. Mark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs. They also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking. Resources: Follow Mark Cuban on X: https://x.com/mcuban Follow Julie Yoo: https://x.com/julesyoo Mark Cuban Cost Plus Drug Company: https://costplusdrugs.com/ Cost Plus Wellness: https://costpluswellness.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/1046e742-22c8-45f7-a3c2-e8b93f091783/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=1046e742-22c8-45f7-a3c2-e8b93f091783&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "published_at": "2026-10-28T08:50:30+00:00",
-      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "summary": "Since coding is solved, why code for the job?",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -245,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "OpenAI: When AI Agents Use Computers Faster Than You",
-      "published_at": "2026-10-26T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt",
-      "summary": "AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface itself into a universal way for AI to interact with software. OpenAI’s Ari Weinstein and James Sun argue that computer use is now entering its scaling moment, as better models, faster execution, and stronger safety controls make agents practical for more consumer and enterprise work. Ari and James join a16z’s Seema Amble and Fabrizio Serafini to explain how computer-using agents are already navigating legacy ERPs, reconciling financial data, handling procurement, and operating software without APIs or custom integrations. They also discuss why the harness around the model can matter as much as model intelligence, how enterprises can set deterministic guardrails around agent behavior, and why computer use could simultaneously extend the life of legacy software and accelerate the arrival of new AI-native applications. Looking ahead, they make the case for a more proactive and fluid relationship with computers, where agents work in the background, collaborate with users in real time, and increasingly adapt to us rather than requiring us to learn how to use them. Resources: Follow Seema Amble on X: https://x.com/seema_amble Follow Fabrizio Serafini on X: https://x.com/fabserafini Follow Ari Weinstein on X: https://x.com/AriX Follow James Sun on X: https://x.com/JamesZmSun Related a16z research from Seema Amble and Fabrizio Serafini: Can Agents Use a Computer Yet? We’ve Got the Data Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c129b5d-535b-4c40-a104-2d0a66853196/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2c129b5d-535b-4c40-a104-2d0a66853196&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -278,30 +302,6 @@
       "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
       "audio_url": "https://api.substack.com/feed/podcast/216929530/9a3287d5d680878b81bdf250edf88394.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
-      "published_at": "2026-10-24T15:11:42+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
-      "summary": "Community Wisdom 303",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
-      "published_at": "2026-10-24T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
-      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠ is now available via ⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠SEE LATEST EPISODES⁠ ⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠ FOLLOW TOBIAS ⁠Acquirers Multiple⁠ ⁠Acquirers Funds⁠ ⁠Twitter⁠ ⁠LinkedIn⁠ ⁠Facebook⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠Crash Test Dummy⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO8697323700.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
