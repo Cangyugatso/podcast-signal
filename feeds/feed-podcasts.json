@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-01T00:38:21.251371+00:00",
+  "generated_at": "2026-11-02T01:11:33.912467+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "published_at": "2026-11-01T13:31:36+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
+      "audio_url": "https://api.substack.com/feed/podcast/222540764/f275dfcf515e562def6dae7092c58a8f.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Bending Spoons Built a $20 Billion Compounder | Luca Ferrari",
+      "published_at": "2026-11-01T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0",
+      "summary": "Can relentless optimization create as much value as breakthrough invention? Bending Spoons CEO Luca Ferrari argues that radical innovation can produce extraordinary outcomes, but systematic improvement can be more dependable, especially when paired with a model designed to compound over decades. Speaking with a16z General Partner Anish Acharya at Wave by Vento, Luca explains how Bending Spoons acquires technology companies, integrates them onto a shared platform, improves their economics, and reinvests the resulting cash into new acquisitions. They discuss the tradeoffs between growth and profitability, how to use debt without putting the company at risk, and why long-term thinking can create an advantage. They also debate whether AI really threatens SaaS, why moats like brand, proprietary data, network effects, and switching costs still matter, and how Bending Spoons is already using AI across coding, customer support, and data analysis. Resources: Recorded at Wave by Vento. Luca Ferrari on LinkedIn: https://it.linkedin.com/in/luca-ferrari-12418318 Follow Anish Acharya on X: https://x.com/illscience Learn more about Bending Spoons: https://bendingspoons.com/ Wave by Vento: https://wavebyvento.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be537ca6-f09e-4793-97fd-a93564022378/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=be537ca6-f09e-4793-97fd-a93564022378&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -221,18 +245,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg",
-      "published_at": "2026-10-27T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu",
-      "summary": "What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt argues the answer isn’t to fill the extra time with more academics, but to redesign school around the skills traditional classrooms struggle to teach: agency, teamwork, entrepreneurship, communication, and doing hard things. Joe joins Erik Torenberg and Horowitz and Andreessen Academy co-founder Gagan Biyani to discuss Alpha’s model, where students spend two hours a day on core academics and the rest developing real-world skills through projects. They explore what that approach can teach higher education, why motivation may matter more than curriculum, and how HAA is applying similar principles to college-age students by putting building, relationships, and real-world experience at the center of the learning experience. They also discuss what parents need to believe before choosing a new educational model, why Joe expects AI to drive an explosion in entrepreneurship, and why the most important question for students may not be which field is safest from AI, but what they care enough about to build. Resources: Learn more about Horowitz and Andreessen Academy: https://www.theacademysf.com/ Learn more about Alpha School: https://alpha.school/joe-liemandt-and-the-future-of-education/ Follow Joe Liemandt on X: https://x.com/jliemandt Follow Gagan Biyani: on X https://x.com/gaganbiyani Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2967fdc6-98e7-4e58-83f8-6ebcb4e41546/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2967fdc6-98e7-4e58-83f8-6ebcb4e41546&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -290,18 +302,6 @@
       "summary": "My guest on today 's show is Scott Ramsower, Head of Private Equity Funds at the Teacher Retirement System of Texas, where a 27-person team manages $33 billion in private equity for the $250 billion pension plan. Scott started his LP career at AlpInvest and joined Texas Teachers sixteen years ago, when the private equity program was six people and $7 billion. He also chairs the board of ILPA. Our conversation covers Scott's path from equity research to the LP seat and the growth of the Texas Teachers program. We then turn to continuation vehicles and the reasons LPs have grown wary of them, from conflicted pricing and misaligned economics to the loss of the right tail. We close with zombie funds, retail capital in private equity, and how a slower exit market is changing the way LPs underwrite their GPs. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com /signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.523_Scott_Ramsower_-_AUDIO_V1.2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
-      "published_at": "2026-10-25T12:31:34+00:00",
-      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
-      "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
-      "audio_url": "https://api.substack.com/feed/podcast/216929530/9a3287d5d680878b81bdf250edf88394.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
