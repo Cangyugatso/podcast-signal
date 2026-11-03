@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-11-02T01:11:33.912467+00:00",
+  "generated_at": "2026-11-03T03:15:29.549038+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "published_at": "2026-11-02T23:01:02+00:00",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "published_at": "2026-11-02T22:54:03+00:00",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a19df0-34a3-7307-96fc-48928908772b/01a19df0-35e0-7c61-90cc-3a37c8983d85.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Robots Already Working in American Factories | Tutor Intelligence",
+      "published_at": "2026-11-02T16:05:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3",
+      "summary": "What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gruenstein argues robotics is a systems problem spanning AI, hardware, manufacturing, and the work itself. Josh joins a16z General Partners Martin Casado and Raghu Raghuram to explain Tutor’s approach: deploy robots into real businesses, use human “tutors” when needed, and turn that work into training data that makes the robots more capable. They discuss Tutor’s 100-robot data factory, robots starting at roughly $16 an hour, advances in spatial reasoning, and what flexible robotic labor could mean for American manufacturing and the physical economy. Resources: Follow Josh Gruenstein on X: https://x.com/joshgruenstein Follow Martin Casado on X: https://x.com/martin_casado Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Learn more about Tutor Intelligence: https://tutorintelligence.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9130a518-123f-457b-8d4e-90650dff71d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9130a518-123f-457b-8d4e-90650dff71d0&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "published_at": "2026-11-02T16:02:08+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "published_at": "2026-11-02T13:04:11+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "summary": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+      "audio_url": "https://api.substack.com/feed/podcast/222585887/bfda41c5e11152421ee6c9867402b579.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Dynamic Allocation and Concentrated Conviction – Zack McGuire (EP.524)",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/dynamic-allocation-and-concentrated-conviction-zack-mcguire-ep524",
+      "summary": "Zack McGuire is Senior Managing Director of Investments at Children's Healthcare of Atlanta. Zack's career spans Citigroup, Emory University, the University of Georgia Foundation, and the Maine Public Employees Retirement System before joining Children's three and a half years ago. His responsibilities extend well beyond investing into team leadership, overseeing the investment process, and strategic initiatives across the broader healthcare system. Our conversation covers how an institution's capital base shapes its investment strategy, CHOA's thematic approach to portfolio construction, empowering a team of generalists, and leveraging investment relationships to support the broader institution. Zack brings humility, curiosity, and conviction to his work, grounded in a belief that resonates deeply with us at Capital Allocators: one of the best ways to compound capital is to compound relationships. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant.com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.524_SDM_Zack_McGuire_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -104,7 +176,7 @@
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
-      "title": "Robert Caro – The master biographer reflects at 91",
+      "title": "What Robert Caro learned about power after studying it for 50 years",
       "published_at": "2026-10-30T16:56:02+00:00",
       "url": "https://www.dwarkesh.com/p/robert-caro",
       "summary": "\"A lot of the stuff that I cut out, it's tragic that no one knows it.\"",
@@ -161,18 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "published_at": "2026-10-29T16:00:00+00:00",
-      "url": "https://latent.space/p/elorian/",
-      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -209,18 +269,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "published_at": "2026-10-29T05:55:19+00:00",
-      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
-      "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -233,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-      "published_at": "2026-10-28T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe",
-      "summary": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask where you’re getting ripped off. Mark joins a16z General Partner Julie Yoo and Erik Torenberg to discuss what he’s learned building Cost Plus Drugs, why trust is its core product, and how greater transparency could put pressure on healthcare costs. They also explore where AI can help, what personalized medicine could look like, how the role of doctors may change, and why Mark believes founders should use AI to learn, not as an excuse to stop thinking. Resources: Follow Mark Cuban on X: https://x.com/mcuban Follow Julie Yoo: https://x.com/julesyoo Mark Cuban Cost Plus Drug Company: https://costplusdrugs.com/ Cost Plus Wellness: https://costpluswellness.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/1046e742-22c8-45f7-a3c2-e8b93f091783/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=1046e742-22c8-45f7-a3c2-e8b93f091783&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -254,54 +290,6 @@
       "summary": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana. We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs. We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock. Please enjoy my conversation with Cliff Sosin. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Why Intelligence Has Limits (00:02:34) Chaos Theory and the Butterfly Effect (00:04:59) A 200 IQ Team in Every Pocket (00:07:33) Meta as Personalized TV (00:11:18) The Frontier Labs as Businesses (00:14:59) Jevons Paradox and the Limits of Demand (00:18:47) Automated Labs and the Speed Limits of Experiments (00:20:39) Why He Stays Away from the AI Build-Out (00:22:28) Why the Best Entrepreneurs Are Building Supply (00:24:22) Lessons from Past Capital Cycles (00:26:05) TSMC and Physical Moats (00:27:03) AI Agents and the Low-Cost Producer (00:29:44) Will AI Replace Investors? (00:32:01) Price as a Signal Wrapped in an Incentive (00:34:16) America’s Underrated Capital Markets (00:37:05) Why America Dominates Risk-Taking (00:38:36) What Higher Rates Are Telling Us (00:39:24) The AI Speech He Gives His Companies (00:41:45) The Best Time to Start a Company (00:43:03) Corporate Margins and Vertical Stacks (00:45:16) AI and the Income Distribution (00:48:13) Letting AI Size the Portfolio (00:50:56) Why He Holds So Much Carvana (00:52:22) Educating Kids in the Age of AI",
       "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
-      "published_at": "2026-10-26T22:52:28+00:00",
-      "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
-      "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems. Ankur Moitra is a mathematician at MIT (visiting the Institute for Advanced Study in Princeton) working in theoretical computer science, who can speak to the unique games conjecture, complexity theory and the mathematics of how AI learns. Steven Brunton is a mathematician and fluid dynamics expert at UW, who can speak to Navier-Stokes, turbulence and machine learning for fluid dynamics. Alex Kontorovich is a mathematician at Rutgers specializing in number theory, who can speak to the Riemann hypothesis, Lean and machine-checked proofs. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep503-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/math-ai-crisis-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Ankur’s Website: https://people.csail.mit.edu/moitra/ Alex’s X: https://x.com/AlexKontorovich Alex’s Website: https://sites.math.rutgers.edu/~alexk/ Steven’s X: https://x.com/eigensteve Steven’s YouTube: https://youtube.com/@Eigensteve Steven’s Website: https://eigensteve.com Lean: https://lean-lang.org/ SPONSORS: To support this podcast, check out our sponsors & get discounts: Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Blitzy: AI agent for large enterprise codebases. Go to https://blitzy.com/lex Shopify: Sell stuff online. Go to https://shopify.com/lex NetSuite: Business management software. Go to https://netsuite.ai/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (01:58) – Sponsors, Comments, and Reflections (09:53) – Crisis moment in mathematics (18:10) – Will AI “solve” mathematics? (34:21) – Can AI create new math? (1:13:53) – Riemann hypothesis (1:37:45) – Navier-Stokes (2:03:42) – How nature computes (2:12:35) – Unique Games Conjecture and complexity theory (2:27:28) – How mathematicians think (2:41:05) – Is math invented or discovered? (2:47:13) – Can AI solve P vs NP? (2:57:28) – Why LLMs work so well (3:11:54) – Problems AI can’t solve yet (3:16:23) – Grigori Perelman (3:25:41) – Advice for young people",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-      "published_at": "2026-10-26T15:00:53+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-      "published_at": "2026-10-26T12:04:20+00:00",
-      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "summary": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
-      "audio_url": "https://api.substack.com/feed/podcast/221505216/55d5970917db6ba6a6d3eb0000f1bcc3.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Continuation Vehicles from the LP Seat – Scott Ramsower (EP.523)",
-      "published_at": "2026-10-26T08:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/continuation-vehicles-from-the-lp-seat-scott-ramsower-ep523",
-      "summary": "My guest on today 's show is Scott Ramsower, Head of Private Equity Funds at the Teacher Retirement System of Texas, where a 27-person team manages $33 billion in private equity for the $250 billion pension plan. Scott started his LP career at AlpInvest and joined Texas Teachers sixteen years ago, when the private equity program was six people and $7 billion. He also chairs the board of ILPA. Our conversation covers Scott's path from equity research to the LP seat and the growth of the Texas Teachers program. We then turn to continuation vehicles and the reasons LPs have grown wary of them, from conflicted pricing and misaligned economics to the loss of the right tail. We close with zombie funds, retail capital in private equity, and how a slower exit market is changing the way LPs underwrite their GPs. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com /signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.523_Scott_Ramsower_-_AUDIO_V1.2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
