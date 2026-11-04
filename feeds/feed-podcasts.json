@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-03T03:15:29.549038+00:00",
+  "generated_at": "2026-11-04T01:51:00.165270+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Lenny’s Newsletter holiday gift guide 2026",
+      "published_at": "2026-11-03T14:45:33+00:00",
+      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "summary": "100+ gift ideas—all things I actually use, love, and recommend",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Andrew Huberman’s Three Rules for Better Health and Focus",
+      "published_at": "2026-11-03T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/andrew-hubermans-three-rules-for-better-health-and-focus-3LRT9Uzz",
+      "summary": "If you could do only three things for your health, what should they be? Andrew Huberman’s answer is surprisingly straightforward: get bright light shortly after waking, resistance train, and make the sleep you can get as high-quality as possible. Andrew joins a16z Partner Daisy Wolf to walk through the protocols he actually follows, from exercise and nutrition to meditation, supplements, and locking his social media phone in a box. He also explains why optimizing every health protocol can be counterproductive if it gets in the way of the rest of your life. And for founders, Andrew makes a different case: identify the hours when your brain does its best work and protect them. They discuss cognitive performance, meditation, sustainable workloads, and emerging neurotechnology that could help us control transitions between sleep, focus, and recovery. Resources: Huberman Lab : https://www.hubermanlab.com/ Follow Andrew Huberman: https://www.youtube.com/@hubermanlab Follow Daisy Wolf: https://x.com/daisydwolf Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a21c67c7-2da7-4431-9d3d-f4e75c87a8a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a21c67c7-2da7-4431-9d3d-f4e75c87a8a2&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "published_at": "2026-11-03T05:35:00+00:00",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -197,18 +233,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "published_at": "2026-10-30T08:24:29+00:00",
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -233,18 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Startups Rebuilding American Industry | The AD50",
-      "published_at": "2026-10-29T13:50:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-startups-rebuilding-american-industry-the-ad50-ZBbH0YCR",
-      "summary": "America’s defense, energy, manufacturing, and robotics booms are increasingly becoming one story: the rebuilding of the country’s industrial base. This year’s AD50 highlights the companies building across that stack, from critical materials and factories to the systems they ultimately power. a16z’s Erin Price-Wright and Connor Love join Elena Burger to unpack what has changed. They discuss how defense demand can help finance manufacturing capacity that ultimately serves much larger commercial markets, why AI is changing the economics of American factories, and how a new generation of founders is applying lessons from SpaceX, Tesla, Anduril, and Palantir to mining, energy, manufacturing, and defense. They also make the case that these companies are no longer simply important to America. With private capital increasingly willing to fund physical infrastructure and production before government demand is guaranteed, they can become some of the most valuable companies in the world. Resources: Explore the AD50 : https://www.a16z.news/p/ad-50-2026-production-is-deterrence Follow Erin Price-Wright: https://x.com/espricewright Follow Connor Love on X: https://x.com/ConnorLoveCA Follow Elena Burger on X: https://x.com/VirtualElena Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7faacce1-573c-4324-a189-ce0ffa16a102/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7faacce1-573c-4324-a189-ce0ffa16a102&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -266,30 +278,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO9841077798.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-      "published_at": "2026-10-28T12:04:22+00:00",
-      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "summary": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
-      "audio_url": "https://api.substack.com/feed/podcast/222355930/43e8e8ad01ac79d11b39b82b1bff4592.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
-      "published_at": "2026-10-27T08:00:00+00:00",
-      "url": "https://colossus.com/episode/the-limits-of-intelligence/",
-      "summary": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana. We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs. We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his portfolio in one stock. Please enjoy my conversation with Cliff Sosin. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) Why Intelligence Has Limits (00:02:34) Chaos Theory and the Butterfly Effect (00:04:59) A 200 IQ Team in Every Pocket (00:07:33) Meta as Personalized TV (00:11:18) The Frontier Labs as Businesses (00:14:59) Jevons Paradox and the Limits of Demand (00:18:47) Automated Labs and the Speed Limits of Experiments (00:20:39) Why He Stays Away from the AI Build-Out (00:22:28) Why the Best Entrepreneurs Are Building Supply (00:24:22) Lessons from Past Capital Cycles (00:26:05) TSMC and Physical Moats (00:27:03) AI Agents and the Low-Cost Producer (00:29:44) Will AI Replace Investors? (00:32:01) Price as a Signal Wrapped in an Incentive (00:34:16) America’s Underrated Capital Markets (00:37:05) Why America Dominates Risk-Taking (00:38:36) What Higher Rates Are Telling Us (00:39:24) The AI Speech He Gives His Companies (00:41:45) The Best Time to Start a Company (00:43:03) Corporate Margins and Vertical Stacks (00:45:16) AI and the Income Distribution (00:48:13) Letting AI Size the Portfolio (00:50:56) Why He Holds So Much Carvana (00:52:22) Educating Kids in the Age of AI",
-      "audio_url": "https://traffic.megaphone.fm/CLS5603610979.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
