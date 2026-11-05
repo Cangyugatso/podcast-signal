@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-11-04T01:51:00.165270+00:00",
+  "generated_at": "2026-11-05T01:57:29.828221+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 24,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "published_at": "2026-11-04T19:17:30+00:00",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The New AI Agents That Shop, Plan, and Gossip",
+      "published_at": "2026-11-04T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd",
+      "summary": "Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our lives? David Pawlan, creator of Assistant Benchmark, returns with Anish Acharya and Josh Elman to take stock of how quickly the agent landscape has changed. David has now tested more than 140 AI assistants, and they unpack what separates them, from memory and judgment to trust, shopping, and social experiences. They also explore what happens when agents start talking to each other, how they could create new kinds of social networks and serendipity, and why the most compelling agents may ultimately do more than save time. They could become a kind of secret superpower. Resources: Follow David Pawlan: https://x.com/DavidPawlan Follow Josh Elman: https://x.com/joshelma Follow Anish Acharya on X: https://x.com/illscience Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/304b6178-d2e4-4447-aae7-810df659e5e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=304b6178-d2e4-4447-aae7-810df659e5e1&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "url": "https://colossus.com/episode/the-productive-investor/",
+      "summary": "My guest today is Martin Casado, General Partner at Andreessen Horowitz. Martin has spent three decades building and investing in technology infrastructure. We discuss why traditional approaches to investing often fail to capture disruptive technologies, how AI is reshaping the economics of software, and why the ability to turn capital directly into technological progress may be the most important change of all. Martin also shares lessons from some of his biggest investments and acquisitions. Please enjoy this conversation with Martin Casado. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) The Four Types of Investors (00:04:58) Why Moats Rarely Matter (00:14:45) The State of AI Infrastructure (00:19:21) Frontier Model Economics (00:24:12) What AI Makes Possible Now (00:29:14) AI and Cybersecurity (00:30:52) Why Money Can Finally Scale Engineering (00:37:21) Neo Clouds, Neo Labs, and Data Centers in Space (00:40:52) Why Private Markets Are Efficient (00:47:23) Lessons From Strategic M&A (00:54:17) How the Role of the Investor Is Changing (00:58:49) Why This Is an Industrial Revolution",
+      "audio_url": "https://traffic.megaphone.fm/CLS7412616378.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -185,18 +221,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-      "published_at": "2026-10-31T05:00:48+00:00",
-      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-      "summary": "It turns out you cannot have your cake AND eat it",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -218,18 +242,6 @@
       "summary": "\"A lot of the stuff that I cut out, it's tragic that no one knows it.\"",
       "audio_url": "https://api.substack.com/feed/podcast/222791845/c1cb04aeef87ac39b122e45d5ab19e38.mp3",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
-      "published_at": "2026-10-30T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-ai-could-turn-small-law-firms-into-billion-dollar-businesses-e8YNZDux",
-      "summary": "What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay Madheswaran argues that AI won't just cut costs for law firms. It could expand access to legal representation by making an entirely new class of cases economically viable. Jay joins a16z General Partner Alex Rampell to explain how Eve is automating plaintiff law from the first client call through settlement, and why some firms are already using it to increase the number of clients each attorney can manage from roughly 100 to 500. They also discuss how AI could shift lawyers toward higher-value advocacy, why agents may eventually negotiate with other agents, and what happens to the legal system when bringing a case becomes dramatically cheaper. Resources: Follow Jay Madheswaran on LinkedIn: https://www.linkedin.com/in/jayanth1/ Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/de88968f-40b2-409c-befe-1d337a8ca6a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=de88968f-40b2-409c-befe-1d337a8ca6a9&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
