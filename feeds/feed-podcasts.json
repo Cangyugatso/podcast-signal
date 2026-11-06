@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-11-05T01:57:29.828221+00:00",
+  "generated_at": "2026-11-06T01:57:35.620795+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 24,
   "podcasts": [
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "The benchmark where AIs have to lie to win",
+      "published_at": "2026-11-05T21:05:50+00:00",
+      "url": "https://www.dwarkesh.com/p/clocktower",
+      "summary": "AIs are now good enough to run a conspiracy",
+      "audio_url": "",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The New CFO: How AI Is Rewriting the Finance Function | Figma CFO Praveer Melwani",
+      "published_at": "2026-11-05T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym",
+      "summary": "AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Figma CFO Praveer Melwani argues that the best finance teams are becoming builders themselves, automating repetitive work so they can spend more time understanding customers, running experiments, and shaping strategy. Praveer joins a16z’s Seema Amble and Ivan Makarov to share what that shift looks like inside Figma, from collections and expense analysis to M&A diligence, where the corp dev team now uses AI to prototype products and simulate how Figma leaders might challenge an investment memo. They discuss why AI “slop” is a real risk, how Figma decides what to build versus buy, and why successful internal experiments eventually need a centralized systems layer to turn one-off agents into reliable infrastructure. They also get into what this means for hiring the next generation of finance leaders. Praveer’s bar isn’t simply whether someone can use AI. It’s whether they can understand the business, interrogate the output, communicate clearly, and use automation without outsourcing their thinking. Resources: Figma: https://www.figma.com/ You Need a New CFO: https://www.a16z.news/p/you-need-a-new-cfo Follow Praveer Melwani on LinkedIn: https://www.linkedin.com/in/praveer-melwani/ Follow Seema Amble on X: https://x.com/seema_amble Follow Ivan Makarov on X: https://x.com/IvanoMakSF Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85b10429-90eb-46ca-ba43-147768966fea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=85b10429-90eb-46ca-ba43-147768966fea&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
+      "published_at": "2026-11-05T11:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP1158596730.mp3",
+      "summary": "What does it mean to build wealth as an individual investor in today’s society, especially as gains continue to get concentrated into smaller groups of VCs or institutional investors? Robinhood’s CEO and co-founder Vlad Tenev has a vision that can be summed up in one word: Ownership. In this episode, Sarah Guo chats with Vlad to get a closer look at how Robinhood has evolved from a simple app to buy stocks at zero commission into a global conglomerate that allows customers to own across a wide variety of surfaces and asset classes. Vlad explains how Robinhood is helping users extend ownership amidst the current economy and ongoing AI revolution through Trump accounts, tokenization of privates, and newer product offerings like Robinhood Chain, Agentic Trading, and Agentic Credit Card. He also talks about how his new mathematical superintelligence startup, Harmonic, is revolutionizing the field and how he hopes it will decentralize new discoveries and inventions. Vlad and Sarah also discuss how prediction markets could tie into the ownership conversation, whether financial infrastructure can be optimized to enable even higher volumes of high-frequency trading, and his advice for maintaining a level head when facing the vagaries of a changing financial market. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @vladtenev | @RobinhoodApp | @HarmonicMath Chapters: 00:46 – Intro to Vlad Tenev, His Background, and Robinhood Today 12:25 – A Revolutionary Future for Mathematics 18:49 – Robinhood’s Vision for Tokenization 26:06 – Monetizing Knowledge via Prediction Markets 28:48 – Impacts of Agentic Trading and Democratizing Trading 33:48 – Safeguarding Financial Infrastructure for a New Load of HFTs 38:30 – Ownership of Private Companies in the AI Revolution 48:34 – Robinhood and Trump Accounts 50:47 – Keeping a Steady Hand and Head as a Leader 53:48 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP1158596730.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Opportunistic Real Estate and Hard Asset Credit at Mavik – Vik Uppal (EP.525)",
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/opportunistic-real-estate-and-hard-asset-credit-at-mavik-vik-uppal-ep525",
+      "summary": "Vik Uppal is the Founder and CIO of Mavik Capital Management, a $2 billion flexible special situations investment firm grounded in commercial real estate and hard assets that operates through a credit lens. Vik began developing properties as a teenager and after a difficult experience during the financial crisis, moved to New York to begin a career as a professional investor. Our conversation covers Vik's path from developer to distressed investor and the principles he built Mavik around: stable capital, alignment, flexibility, and finding opportunities where capital is scarce. We discuss filtering a wide funnel for ideas, creating downside protection, identifying opportunities in commercial real estate, avoiding the AI infrastructure boom, and growing an investment business without losing its edge. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.525_Vik_Uppal_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "The Best Business You've Never Heard Of | Todd Wenning",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
+      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO6382086783.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] It's Swapping Season",
+      "published_at": "2026-11-05T06:24:09+00:00",
+      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+      "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -185,30 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "published_at": "2026-10-31T16:05:00+00:00",
-      "url": "https://latent.space/p/arca/",
-      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a18ea6-9508-712c-b5ff-54536059aced/01a18eb9-7b8e-7f04-b56a-8580cdb8c207.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can AI Fix Professional Networking? | Inside Cosign",
-      "published_at": "2026-10-31T10:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue",
-      "summary": "What if finding your next job, co-founder, or collaborator depended less on a resume and more on who is willing to vouch for you? Cosign is building a professional network around those signals, with the longer-term goal of giving AI agents access to the relationship and reputation data that traditional networks keep locked away. a16z New Media’s David Booth and Dhruv Gupta join MTS to introduce the Cosign Awards, which recognize standout operators, companies, and products based on nominations from the people who know their work. They also unpack the bigger idea behind Cosign: mapping the people and relationships that rarely show up in public data, then making that graph accessible to both humans and agents. Looking ahead, they imagine professional networking where your personal agent can talk directly to a company’s agent, determine whether there’s a potential fit, and only bring the opportunity to you when there’s a genuine “coincidence of intent.” Resources: Follow David Booth on X: https://x.com/david__booth Follow Dhruv Gupta on X: https://x.com/droovg Cosign: https://cosign.co Cosign Awards: https://cosign.co/awards Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fcd03bbe-16a1-453c-a1c0-69adfb573df8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fcd03bbe-16a1-453c-a1c0-69adfb573df8&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -242,54 +290,6 @@
       "summary": "\"A lot of the stuff that I cut out, it's tragic that no one knows it.\"",
       "audio_url": "https://api.substack.com/feed/podcast/222791845/c1cb04aeef87ac39b122e45d5ab19e38.mp3",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
-      "published_at": "2026-10-29T21:26:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight",
-      "summary": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GLP-1 Tracking (34:57) WHOOP vs. the FDA & Competitor Wearables (44:33) Lightning Round & LeBron James becomes a WHOOP Ambassador Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. Learn more at https://CreativePlanning.com/AllIn Starting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at https://www.northwestregisteredagent.com/ALLINFREE Follow Will: https://x.com/willahmed Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_WILL_AHMED_INT.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "What I learned about power from LBJ and Robert Moses",
-      "published_at": "2026-10-29T16:48:39+00:00",
-      "url": "https://www.dwarkesh.com/p/lessons-in-power",
-      "summary": "Preparing to interview Robert Caro.",
-      "audio_url": "https://api.substack.com/feed/podcast/222663001/13a1836e5470ae9f4a2df6ef143eeaa1.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP1665700091.mp3",
-      "summary": "What happens when you put code-generation agents in the hands of enterprise IT teams? With Serval, you get a system where it's easy for everyone to be a builder. Sarah Guo and Elad Gil sit down with Serval co-founder and CEO Jake Stauch to analyze his company’s direct challenge to ServiceNow as the enterprise automation and service management system of record. Jake explains that by building an AI platform for enterprise IT departments with Serval, users can safely build while still safeguarding permissions by strict deterministic approvals and an audit trail. He also talks about ProServal, the company’s team that embeds automation engineers directly with customers in order to provide ongoing support and service. Jake also discusses how AI was the big unlock to taking on ServiceNow, why he’s betting on coding agents getting even better, why consumer is a window into what will happen next in enterprise and why the SaaS-pocalypse might look more like a consolidation, why background agents are still a moonshot in enterprise software, and the importance of hiring product-oriented engineers. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @jakeserval | @getserval Chapters: 00:47 – Jake Stauch Introduction and Serval’s Background 03:00 – Expanding Coding Agents Beyond Engineers 04:40 – Limitations with Personal Agents in Enterprise 06:29 – Deploying Serval Effectively in Large Orgs 07:55 – Day 1 Ambition and Attacking Enterprise Systems of Record 09:51 – Taking on ServiceNow with Workflow Automation Platform 11:01 – Betting on the Evolution of Coding Agents and Building Guardrails in Enterprise 13:48 – Big Risks, Big Rewards, and Big Predictions for Serval and Coding Agents 16:40 – Adopting Different Sets of Building Principles at an Enterprise Level 20:49 – Token Maxing, Long-Term Budget Impacts, and ROI 22:39 – The SaaS-pocalypse and SaaS vs. AI 24:39 – The Mental Model for Delivering Platform-Level Power to the IT User at Enterprise 26:43 – Building Automations with Catalyst and Raising Technical Competence 28:55 – The Next Wave: Background Agents and Autonomy in Enterprise 32:23 – Hiring Velocity and Unlimited Ambition at Serval 34:17 – Keeping Pace with Customers and Fundamental Shifts in Product Function 37:05 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP1665700091.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Tim Melvin: Finding Value Where Wall Street Isn’t Looking",
-      "published_at": "2026-10-29T07:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Tim-Melvin-Finding-Value-Where-Wall-Street-Isnt-Looking-e3r98sb",
-      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO9841077798.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
