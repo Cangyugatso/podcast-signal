@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-06T01:57:35.620795+00:00",
+  "generated_at": "2026-11-07T01:33:06.184105+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 24,
+  "item_count": 23,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "published_at": "2026-11-06T15:10:53+00:00",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1a3f4-4773-7a7d-acdc-731f8540ab5d/01a1b153-728b-7ba1-9c45-88599573e55f.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside Salesforce’s $100 Billion M&A Playbook | John Somorjai",
+      "published_at": "2026-11-06T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/inside-salesforces-100-billion-ma-playbook-john-somorjai-taKdd7nQ",
+      "summary": "What makes a startup worth acquiring when software has never been easier to build? Salesforce’s John Somorjai says the answer goes well beyond technology: the best acquisitions can accelerate a product roadmap, bring in exceptional talent, and put a startup in front of 15,000 Salesforce sales reps almost overnight. John joins a16z General Partner Alex Immerman to unpack the thinking behind nearly $100 billion in acquisitions during his tenure, from Slack and MuleSoft to a new generation of AI-native companies. They discuss Salesforce’s build-versus-buy framework, why outcome-based pricing is replacing seats in parts of enterprise software, and what founders should consider when deciding whether to sell. John also shares what can kill a deal during diligence, why he thinks parts of today’s venture market are overvalued, and how Salesforce Ventures is expanding from enterprise software into frontier AI and robotics. Resources: Follow John Somorjai: https://www.linkedin.com/in/johnsomorjai/ Follow Alex Immerman: https://x.com/aleximm Learn more about Salesforce Ventures: https://salesforceventures.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/81d17d19-a4a7-47b2-a616-cea2299d9189/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=81d17d19-a4a7-47b2-a616-cea2299d9189&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "published_at": "2026-11-06T10:35:21+00:00",
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "summary": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
+      "published_at": "2026-11-06T09:00:00+00:00",
+      "url": "https://colossus.com/episode/trillion-dollar-goalposts/",
+      "summary": "My guest today is Ramtin Naimi, the founder of Abstract Ventures, back for our second conversation. Few people see as many companies as Ramtin and his firm, so this time we zoom in on what they’re seeing right now. The question he keeps coming back to is whether this is 2019 or 2021: early in a run, or at the top of one. Hot rounds now come with a second, pricier tranche for the firms that lost the deal, and he’s seen more term sheets pulled or renegotiated in recent weeks than at any time since 2021. We also get into the neolabs, one of which plans to spend $1 billion on a single training run, how the goalposts for a best-case outcome moved from $10 billion to a trillion dollars, and the biggest mistake he’s made building Abstract. Please enjoy my conversation with Ramtin Naimi. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:00:00) The Speed of Today's Deal Market (00:05:43) How Today Compares to 2021 (00:08:25) Mega Funds and LP Liquidity (00:13:43) New Ways to Pay for Compute (00:17:13) GPU Scarcity and the Neolab Boom (00:20:42) Why Proactive Seed Bets Win (00:27:42) Is Late Stage the Safe Bet? (00:31:58) Data Companies and New Angels (00:34:46) How Abstract Is Evolving (00:38:17) Rating the Market's Froth",
+      "audio_url": "https://traffic.megaphone.fm/CLS7293803007.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
     {
       "source": "Dwarkesh Patel",
       "domain": "ai",
@@ -149,30 +197,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-      "published_at": "2026-11-02T23:01:02+00:00",
-      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "published_at": "2026-11-02T22:54:03+00:00",
-      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-      "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a19df0-34a3-7307-96fc-48928908772b/01a19df0-35e0-7c61-90cc-3a37c8983d85.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -233,18 +257,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Bending Spoons Built a $20 Billion Compounder | Luca Ferrari",
-      "published_at": "2026-11-01T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0",
-      "summary": "Can relentless optimization create as much value as breakthrough invention? Bending Spoons CEO Luca Ferrari argues that radical innovation can produce extraordinary outcomes, but systematic improvement can be more dependable, especially when paired with a model designed to compound over decades. Speaking with a16z General Partner Anish Acharya at Wave by Vento, Luca explains how Bending Spoons acquires technology companies, integrates them onto a shared platform, improves their economics, and reinvests the resulting cash into new acquisitions. They discuss the tradeoffs between growth and profitability, how to use debt without putting the company at risk, and why long-term thinking can create an advantage. They also debate whether AI really threatens SaaS, why moats like brand, proprietary data, network effects, and switching costs still matter, and how Bending Spoons is already using AI across coding, customer support, and data analysis. Resources: Recorded at Wave by Vento. Luca Ferrari on LinkedIn: https://it.linkedin.com/in/luca-ferrari-12418318 Follow Anish Acharya on X: https://x.com/illscience Learn more about Bending Spoons: https://bendingspoons.com/ Wave by Vento: https://wavebyvento.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be537ca6-f09e-4793-97fd-a93564022378/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=be537ca6-f09e-4793-97fd-a93564022378&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -266,30 +278,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO1388693992.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
-      "published_at": "2026-10-30T21:44:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
-      "summary": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: What Went Wrong? (1:14:17) Final Midterms Predictions and Scenarios Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.semafor.com/article/10/28/2026/all-in-podcast-cools-on-super-intelligence https://x.com/AndrewBenson/status/2115458726396310008 https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676 https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20 https://x.com/rdominguezibar/status/2114785991462428811 https://x.com/jaminball/status/2115121906630238287 https://www.vox.com/future-perfect/507875/anthropic-ipo-stop-ai-race-safety https://www.anthropic.com/institute/measuring-pace-of-ai-development https://www.nbcnews.com/business/markets/alphabet-google-stock-ai-advertising-rcna606322 https://x.com/EconomyApp/status/2115539079999971384 https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative https://x.com/Couch_Investor/status/2115541399898571180 https://x.com/Geiger_Capital/status/2112702741995037179 https://x.com/PatrickRuffini/status/2089729804941594660 https://x.com/maxanderson/status/2080229375773941871 https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E295_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Robert Caro learned about power after studying it for 50 years",
-      "published_at": "2026-10-30T16:56:02+00:00",
-      "url": "https://www.dwarkesh.com/p/robert-caro",
-      "summary": "\"A lot of the stuff that I cut out, it's tragic that no one knows it.\"",
-      "audio_url": "https://api.substack.com/feed/podcast/222791845/c1cb04aeef87ac39b122e45d5ab19e38.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
       "source_type": "rss"
     }
   ],
