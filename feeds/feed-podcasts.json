@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-08T01:01:13.556693+00:00",
+  "generated_at": "2026-11-09T01:22:59.456256+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 23,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "published_at": "2026-11-08T21:41:44+00:00",
+      "url": "https://latent.space/p/cs146s/",
+      "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "published_at": "2026-11-08T21:23:29+00:00",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1bcf7-771f-7c67-ba1d-94f856e787b0/01a1bcf7-78db-7028-b115-7c753e3b3b76.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "published_at": "2026-11-08T13:31:32+00:00",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+      "audio_url": "https://api.substack.com/feed/podcast/219474705/5fcf90cae186120b6d62e9a3f792b5f7.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Health Interventions Actually Worth Your Time | Justin Mares",
+      "published_at": "2026-11-08T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_",
+      "summary": "Health advice has become an endless stream of supplements, diets, wearables, and biohacks. Which interventions are actually worth your time? Truemed CEO Justin Mares argues that most people should ignore the extremes and focus on a few fundamentals: better food, movement, sleep, and reducing harmful exposures. Justin joins a16z General Partner Daisy Wolf to walk through his own approach to health, from what he eats and how he exercises to supplements, blood tests, sauna, sleep, and the changes he’s made to his home. They also discuss the larger problem behind Truemed: while chronic disease drives the vast majority of U.S. healthcare spending, relatively little goes toward prevention. Justin explains how Truemed is trying to change that by making it easier for eligible consumers to use tax-free HSA and FSA dollars on qualified lifestyle interventions. Resources: Follow Justin Mares on X: https://x.com/jwmares Follow Daisy Wolf on X: https://x.com/daisydwolf Learn more about TrueMed: https://www.truemed.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ecbf726b-c2a7-4092-acfd-a045ba8e5c30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ecbf726b-c2a7-4092-acfd-a045ba8e5c30&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -161,30 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] It's Swapping Season",
-      "published_at": "2026-11-05T06:24:09+00:00",
-      "url": "https://latent.space/p/ainews-it-s-swapping-season/",
-      "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
-      "published_at": "2026-11-04T19:17:30+00:00",
-      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
-      "summary": "November 3, 2026 — A quiet day lets us share some behind the senes.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -221,18 +245,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Andrew Huberman’s Three Rules for Better Health and Focus",
-      "published_at": "2026-11-03T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/andrew-hubermans-three-rules-for-better-health-and-focus-3LRT9Uzz",
-      "summary": "If you could do only three things for your health, what should they be? Andrew Huberman’s answer is surprisingly straightforward: get bright light shortly after waking, resistance train, and make the sleep you can get as high-quality as possible. Andrew joins a16z Partner Daisy Wolf to walk through the protocols he actually follows, from exercise and nutrition to meditation, supplements, and locking his social media phone in a box. He also explains why optimizing every health protocol can be counterproductive if it gets in the way of the rest of your life. And for founders, Andrew makes a different case: identify the hours when your brain does its best work and protect them. They discuss cognitive performance, meditation, sustainable workloads, and emerging neurotechnology that could help us control transitions between sleep, focus, and recovery. Resources: Huberman Lab : https://www.hubermanlab.com/ Follow Andrew Huberman: https://www.youtube.com/@hubermanlab Follow Daisy Wolf: https://x.com/daisydwolf Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a21c67c7-2da7-4431-9d3d-f4e75c87a8a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a21c67c7-2da7-4431-9d3d-f4e75c87a8a2&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -266,18 +278,6 @@
       "summary": "Zack McGuire is Senior Managing Director of Investments at Children's Healthcare of Atlanta. Zack's career spans Citigroup, Emory University, the University of Georgia Foundation, and the Maine Public Employees Retirement System before joining Children's three and a half years ago. His responsibilities extend well beyond investing into team leadership, overseeing the investment process, and strategic initiatives across the broader healthcare system. Our conversation covers how an institution's capital base shapes its investment strategy, CHOA's thematic approach to portfolio construction, empowering a team of generalists, and leveraging investment relationships to support the broader institution. Zack brings humility, curiosity, and conviction to his work, grounded in a belief that resonates deeply with us at Capital Allocators: one of the best ways to compound capital is to compound relationships. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant.com )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.524_SDM_Zack_McGuire_-_AUDIO_V2.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-      "published_at": "2026-11-01T13:31:36+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-      "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
-      "audio_url": "https://api.substack.com/feed/podcast/222540764/f275dfcf515e562def6dae7092c58a8f.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
