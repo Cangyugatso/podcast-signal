@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-11-09T01:22:59.456256+00:00",
+  "generated_at": "2026-11-10T03:56:20.250788+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 23,
+  "item_count": 25,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "published_at": "2026-11-09T20:37:49+00:00",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+      "audio_url": "https://api.substack.com/feed/podcast/224204833/3e7b0383ece75c99e49912158629159a.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "published_at": "2026-11-09T17:15:53+00:00",
+      "url": "https://latent.space/p/handshake/",
+      "summary": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1c0f3-0e12-7b37-bb7f-c0b59fbc3b39/01a1c0f3-1027-7b6d-887c-fbde19347d32.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+      "published_at": "2026-11-09T16:01:20+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How this founder built a better Duolingo with Codex | William Imoh",
+      "published_at": "2026-11-09T13:04:17+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "summary": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
+      "audio_url": "https://api.substack.com/feed/podcast/223506048/0e772a6b2d54aca00c8dfa53a9591eb4.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Scott Kupor on Building a16z and Rebuilding the Federal Workforce",
+      "published_at": "2026-11-09T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/scott-kupor-on-building-a16z-and-rebuilding-the-federal-workforce-EU8R_X0j",
+      "summary": "Scott Kupor helped build a16z from three people into a firm with hundreds of employees. Now, as Director of the U.S. Office of Personnel Management, he’s applying some of the same lessons about talent, incentives, and organizational design to a workforce of roughly two million federal employees. Scott joins Founders host David Senra to tell the story of a16z’s earliest days, from joining Marc Andreessen and Ben Horowitz during the 2008 financial crisis to borrowing Michael Ovitz’s CAA model to build a venture firm around specialized networks and services for founders. He explains why a16z chose to market itself when venture firms traditionally didn’t, how early wins like Skype accelerated the firm’s growth, and why it eventually reorganized around specialized investing teams. Then they turn to Scott’s move into government. He lays out his effort to build a more merit-based federal workforce, attract younger technical talent, and create what he calls “permissioned risk” so government employees can actually try new things. That includes everything from changing how performance and promotions work to replacing a retirement process that still relied on hundreds of millions of pieces of paper stored in an underground Pennsylvania mine. Resources: U.S. Office of Personnel Management: https://www.opm.gov/ Federal early-career opportunities: https://earlycareers.gov/ Follow Scott Kupor on X: https://x.com/skupor Follow David Senra on X: https://x.com/davidsenra Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/814b5550-5a9b-40b5-ae2f-991c65cbdc62/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=814b5550-5a9b-40b5-ae2f-991c65cbdc62&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Chasing Demand in Early-Stage Venture at Felicis – Aydin Senkut (EP.526)",
+      "published_at": "2026-11-09T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/chasing-demand-in-early-stage-venture-at-felicis-aydin-senkut-ep526",
+      "summary": "Aydin Senkut is the Founder of Felicis, a venture capital firm he founded 20 years ago that invests in seed and Series A companies, now out of a billion-dollar fund. Aydin joined me on the show five years ago, and we followed that conversation with what's changed for Felicis, high growth companies, and the venture industry. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.526_Aydin_Senkut_-_AUDIO_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "[REPLAY] Aydin Senkut – Tenacious Sourcing and Founder Support at Felicis, Venture is Eating the Investment World 6 (EP.234)",
+      "published_at": "2026-11-09T08:30:00+00:00",
+      "url": "https://tedseides.libsyn.com/replay-aydin-senkut-tenacious-sourcing-and-founder-support-at-felicis-venture-is-eating-the-investment-world-6-ep234",
+      "summary": "Aydin Senkut is the Founder and Managing Partner of Felicis Ventures, a $2 billion early stage venture firm that invests in founders building iconic companies that transcend geographic and industry boundaries. Its success has placed Aydin on the Forbes Midas List for the past 8 years. Our conversation covers Aydin's early exposure to entrepreneurship and international business, experience as the first international product manager at Google, and transition into angel investing and founding Felicis. We discuss his investment philosophy, proactive sourcing, and doing whatever it takes to join the cap table and support founders. We close with Aydin's perspective on competition in the venture capital industry. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.234_-_Aydin_Senkut_FINAL_REPLAY.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -125,18 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-      "published_at": "2026-11-06T10:35:21+00:00",
-      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-      "summary": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -209,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The New AI Agents That Shop, Plan, and Gossip",
-      "published_at": "2026-11-04T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd",
-      "summary": "Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our lives? David Pawlan, creator of Assistant Benchmark, returns with Anish Acharya and Josh Elman to take stock of how quickly the agent landscape has changed. David has now tested more than 140 AI assistants, and they unpack what separates them, from memory and judgment to trust, shopping, and social experiences. They also explore what happens when agents start talking to each other, how they could create new kinds of social networks and serendipity, and why the most compelling agents may ultimately do more than save time. They could become a kind of secret superpower. Resources: Follow David Pawlan: https://x.com/DavidPawlan Follow Josh Elman: https://x.com/joshelma Follow Anish Acharya on X: https://x.com/illscience Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/304b6178-d2e4-4447-aae7-810df659e5e1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=304b6178-d2e4-4447-aae7-810df659e5e1&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -243,49 +303,13 @@
       "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-      "published_at": "2026-11-02T16:02:08+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-      "published_at": "2026-11-02T13:04:11+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "summary": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
-      "audio_url": "https://api.substack.com/feed/podcast/222585887/bfda41c5e11152421ee6c9867402b579.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Dynamic Allocation and Concentrated Conviction – Zack McGuire (EP.524)",
-      "published_at": "2026-11-02T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/dynamic-allocation-and-concentrated-conviction-zack-mcguire-ep524",
-      "summary": "Zack McGuire is Senior Managing Director of Investments at Children's Healthcare of Atlanta. Zack's career spans Citigroup, Emory University, the University of Georgia Foundation, and the Maine Public Employees Retirement System before joining Children's three and a half years ago. His responsibilities extend well beyond investing into team leadership, overseeing the investment process, and strategic initiatives across the broader healthcare system. Our conversation covers how an institution's capital base shapes its investment strategy, CHOA's thematic approach to portfolio construction, empowering a team of generalists, and leveraging investment relationships to support the broader institution. Zack brings humility, curiosity, and conviction to his work, grounded in a belief that resonates deeply with us at Capital Allocators: one of the best ways to compound capital is to compound relationships. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant.com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.524_SDM_Zack_McGuire_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
   "errors": [
     {
       "source": "SemiAnalysis",
       "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 500: Internal Server Error"
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
     }
   ]
 }
