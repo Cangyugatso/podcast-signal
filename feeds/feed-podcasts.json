@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-11-10T03:56:20.250788+00:00",
+  "generated_at": "2026-11-11T01:40:15.622930+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 25,
+  "item_count": 32,
   "podcasts": [
+    {
+      "source": "Lex Fridman",
+      "domain": "ai",
+      "language": "en",
+      "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+      "published_at": "2026-11-10T23:52:44+00:00",
+      "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
+      "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency podcast on the War on the Rocks platform. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep504-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/preston-stewart-michael-kofman-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Michael’s X: https://x.com/KofmanMichael Michael’s Podcast: https://warontherocks.com/premium/therussiacontingency/ Preston’s YouTube: https://youtube.com/@prestonstewart Preston’s X: https://x.com/prestonstew_ SPONSORS: To support this podcast, check out our sponsors & get discounts: GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (00:43) – Sponsors, Comments, and Reflections (08:20) – State of the war in Ukraine (21:59) – Drone warfare and the kill zone (59:09) – Who is winning the war? (1:10:46) – Military analysis of Russia’s 2022 invasion (1:26:34) – Battle of Bakhmut (1:42:17) – War optimism and bad information (2:02:26) – Prigozhin’s mutiny (2:16:40) – Putin vs Zelenskyy (2:34:38) – Trump (2:43:33) – Paths to peace in Ukraine (2:54:13) – Nature of war PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
+      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
+      "feed_url": "https://lexfridman.com/feed/podcast/",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+      "published_at": "2026-11-10T23:03:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing",
+      "summary": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC investigation, pivoting to software (20:47) Creating the police body cam, surveillance state concerns around Flock (35:25) Freedom vs safety, Skydio deal, Taser drone project controversy (45:24) Future of robotic systems and drones in policing Thanks to our partner for making this possible: AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at https://applovin.com/ALLIN Follow Rick: https://x.com/AxonRick Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "published_at": "2026-11-10T20:05:17+00:00",
+      "url": "https://latent.space/p/resend/",
+      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1c6f7-44d3-72a3-8e65-ffcfae742084/01a1c6f7-4605-726f-ac19-31f9b1763da0.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "published_at": "2026-11-10T18:56:32+00:00",
+      "url": "https://latent.space/p/naiveai/",
+      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "HubSpot’s Co-Founder on Finding Your Next Startup Idea",
+      "published_at": "2026-11-10T15:29:35+00:00",
+      "url": "https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA",
+      "summary": "As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-founder and CTO Dharmesh Shah to explore why the software opportunity is growing, and how founders can stay off the “Yellow Brick Road” the labs are racing down. Drawing on HubSpot’s evolution, Dharmesh explains why founders should start with a narrow market, learn quickly, and solve the whole customer problem. They discuss where application companies can build lasting value as models become infrastructure: workflows, customer context, and the systems where work happens. They also explore HubSpot’s AI experiments, the rise of one-person businesses, and why cheaper software creation could unlock markets that previously couldn’t support a software company. Resources: Follow Dharmesh Shah on X: https://x.com/dharmesh Follow Joe Schmidt on X: https://x.com/joeschmidtiv Read Joe’s essay, “Avoiding Death on the Yellow Brick Road”: https://a16z.com/avoiding-death-on-the-yellow-brick-road/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5398da9b-2c8d-4643-9306-55a8f357aea2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5398da9b-2c8d-4643-9306-55a8f357aea2&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "State of the tech job market: late 2026",
+      "published_at": "2026-11-10T15:04:03+00:00",
+      "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+      "summary": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "published_at": "2026-11-10T06:34:44+00:00",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -15,6 +99,19 @@
       "audio_url": "https://api.substack.com/feed/podcast/224204833/3e7b0383ece75c99e49912158629159a.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "The biggest risk to the US data center buildout is already in effect in one state.",
+      "published_at": "2026-11-09T20:07:43+00:00",
+      "url": "https://www.youtube.com/shorts/WIft71LTKR8",
+      "summary": "The biggest risk to the US data center buildout is already in effect in one state. “The single biggest risk isn’t a single candidate, because in many cases both parties and candidates want developers to accept stricter terms.” “In the case of Texas, it’s a freeze that already exists. Texas stopped issuing TCEQ permits to data center projects at the end of September, on top of an ERCOT interconnection audit that started in August.” “Texas alone is close to 30% of US additions in 2028. So a few months of lost time in that one state, that one market, could move the national number.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "WIft71LTKR8"
     },
     {
       "source": "Latent Space",
@@ -101,18 +198,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "published_at": "2026-11-08T21:23:29+00:00",
-      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-      "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1bcf7-771f-7c67-ba1d-94f856e787b0/01a1bcf7-78db-7028-b115-7c753e3b3b76.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -135,6 +220,19 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ecbf726b-c2a7-4092-acfd-a045ba8e5c30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ecbf726b-c2a7-4092-acfd-a045ba8e5c30&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Jobs in the AI Era?",
+      "published_at": "2026-11-08T01:52:36+00:00",
+      "url": "https://www.youtube.com/shorts/r5Qjg3S7hBY",
+      "summary": "AI already writes better code than many of the engineers using it. Good engineers have never been more valuable. That may not last. “Any software engineer that has their eyes on the ball will probably tell you that Opus, when given a well-specified problem, is just a better software engineer than me, period.” “But at the same time, good software engineers are more valuable today than they’ve ever been.” “Is it possible we’re in this Goldilocks zone, where humans can still provide the taste, supervision and judgment that makes them plus the model way, way more effective than just the model?” “Maybe two years from now, you actually only need one dude at each company supervising all the software engineering, and basically everyone else got fired.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "r5Qjg3S7hBY"
     },
     {
       "source": "All-In Podcast",
@@ -173,30 +271,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "published_at": "2026-11-07T03:04:53+00:00",
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "summary": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "published_at": "2026-11-06T15:10:53+00:00",
-      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
-      "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1a3f4-4773-7a7d-acdc-731f8540ab5d/01a1b153-728b-7ba1-9c45-88599573e55f.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -221,6 +295,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Many of the most popular AI benchmarks are badly made. The flaws are easy to build in and hard to ca",
+      "published_at": "2026-11-05T23:06:42+00:00",
+      "url": "https://www.youtube.com/shorts/XM5CpNVbDVk",
+      "summary": "Many of the most popular AI benchmarks are badly made. The flaws are easy to build in and hard to catch. “A lot of the really popular benchmarks out there are kind of trash. This is largely because they’re made by people who don’t have expertise in making evals or environments or training data in general.” “It’s very easy to make a task that seems good on a surface level, but it’s actually unfair in some way, such that it’s a poor test of model capabilities.” “A lot of people make their tasks harder by making them unfair rather than actually making the task difficult.” “It’s very hard to figure this out unless you run ten rollouts, look at the transcripts, see why the model failed, and determine manually: was this actually a legitimate failure?” Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "XM5CpNVbDVk"
+    },
+    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -230,18 +317,6 @@
       "summary": "AIs are now good enough to run a conspiracy",
       "audio_url": "",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The New CFO: How AI Is Rewriting the Finance Function | Figma CFO Praveer Melwani",
-      "published_at": "2026-11-05T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym",
-      "summary": "AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Figma CFO Praveer Melwani argues that the best finance teams are becoming builders themselves, automating repetitive work so they can spend more time understanding customers, running experiments, and shaping strategy. Praveer joins a16z’s Seema Amble and Ivan Makarov to share what that shift looks like inside Figma, from collections and expense analysis to M&A diligence, where the corp dev team now uses AI to prototype products and simulate how Figma leaders might challenge an investment memo. They discuss why AI “slop” is a real risk, how Figma decides what to build versus buy, and why successful internal experiments eventually need a centralized systems layer to turn one-off agents into reliable infrastructure. They also get into what this means for hiring the next generation of finance leaders. Praveer’s bar isn’t simply whether someone can use AI. It’s whether they can understand the business, interrogate the output, communicate clearly, and use automation without outsourcing their thinking. Resources: Figma: https://www.figma.com/ You Need a New CFO: https://www.a16z.news/p/you-need-a-new-cfo Follow Praveer Melwani on LinkedIn: https://www.linkedin.com/in/praveer-melwani/ Follow Seema Amble on X: https://x.com/seema_amble Follow Ivan Makarov on X: https://x.com/IvanoMakSF Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/85b10429-90eb-46ca-ba43-147768966fea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=85b10429-90eb-46ca-ba43-147768966fea&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -281,6 +356,32 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can the midterms stall the 2028 datacenter buildout? 🚨",
+      "published_at": "2026-11-04T22:29:05+00:00",
+      "url": "https://www.youtube.com/shorts/tp5niBO9G9M",
+      "summary": "Can the midterms stall the 2028 datacenter buildout? 🚨 \"The polls all show that Abbott is projected to win.\" Maya Wayne and Jeremie join Jordan the morning of Election Day to unpack Texas's TCEQ permit freeze, the 30.3 GW of planned 2028 capacity that could be at risk, a datacenter backlash that crosses party lines, and whether $50 billion for a few thousand jobs is a bad trade, then we check their calls against the results.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "tp5niBO9G9M"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Ep. 043 - The Midterms and the 2028 Datacenter Buildout (Datacenters)",
+      "published_at": "2026-11-04T22:14:48+00:00",
+      "url": "https://www.youtube.com/watch?v=J-d7gn-8t7s",
+      "summary": "Recorded Election Day morning, before any results: SemiAnalysis’s model has about 62 GW of US datacenter additions in 2028, most not yet under construction and sitting in states electing a governor. Texas alone is close to 30%. Jordan Nanos (@JordanNanos) sits down with Maya Barkin (@mayabarkin), Wayne Ma (@waynema) and Jeremie Eliahou Ontiveros (@JeremieEO) on why 2027 is largely locked in, why the backlash crosses party lines, and how developers can win over their neighbors. Since recording: the AP called Texas for Gina Hinojosa, who would pause datacenter permitting, and Georgia for Keisha Lance Bottoms, and Democrats took a 3-2 majority on Georgia’s Public Service Commission, which sets power rates. (As of Nov 4, 2:35 PM ET.) Read the article: https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan 0:00 Intro 0:54 The 2028 Buildout 5:32 Pause vs. Conditions 10:03 Bipartisan Backlash 14:37 Grid Risk 16:30 Tax Incentives 19:51 Texas 24:34 Risks to 2027 30:23 Georgia 32:31 Federal Outlook 35:20 Winning Over Neighbors 42:04 What We're Watching",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "J-d7gn-8t7s"
+    },
+    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -291,25 +392,7 @@
       "audio_url": "https://traffic.megaphone.fm/CLS7412616378.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Lenny’s Newsletter holiday gift guide 2026",
-      "published_at": "2026-11-03T14:45:33+00:00",
-      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "summary": "100+ gift ideas—all things I actually use, love, and recommend",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
