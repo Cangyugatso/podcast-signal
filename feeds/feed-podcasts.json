@@ -1,9 +1,94 @@
 {
-  "generated_at": "2026-11-11T01:40:15.622930+00:00",
+  "generated_at": "2026-11-12T02:39:21.457260+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 32,
   "podcasts": [
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+      "published_at": "2026-11-11T20:03:03+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Learn more about AlphaGenome 2: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/9234925c-4e42-4b1b-a9d3-f24d9005ea2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=9234925c-4e42-4b1b-a9d3-f24d9005ea2d&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Old GPUs v/s New GPUs",
+      "published_at": "2026-11-11T19:12:44+00:00",
+      "url": "https://www.youtube.com/shorts/mAij6m2kQo4",
+      "summary": "“All of the evidence so far points to the opposite. Amazon is still renting out all of its A100 instances, even its V100 instances. It still has Kepler instances for sale.” “OpenAI still runs the A100 clusters it installed in 2020. CoreWeave has rented out its H100s through 2029. Those are going to be seven-year-old GPUs, and I expect they’d probably be extended after that.” “So what are people doing with the old GPUs? Generally, research. If you can give a neocloud customer access to older chips at the right price, they’re always going to find a way to make researchers more productive.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "mAij6m2kQo4"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "published_at": "2026-11-11T13:04:09+00:00",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "summary": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+      "audio_url": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
+      "published_at": "2026-11-11T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG",
+      "summary": "The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strategy during the internet buildout, asks what that era can teach us about this one. Mike joins a16z’s Raghu Raghuram and Guido Appenzeller to compare today’s investment in GPUs, data centers, and power with the fiber boom of the late 1990s, and explain why the infrastructure could prove valuable even if the market corrects. They also discuss NVIDIA, custom silicon, networking, and the changing economics of GPUs, plus lessons from Cisco’s acquisition machine. And Mike explains why he thinks this technology cycle could be even more consequential than the last. Resources: Follow Mike Volpi on X: https://x.com/mavolpi Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Follow Guido Appenzeller on X: https://x.com/appenz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ce81cf09-4c64-42cf-8dc2-753ea8df67a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ce81cf09-4c64-42cf-8dc2-753ea8df67a5&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "published_at": "2026-11-11T09:34:28+00:00",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "summary": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
+      "published_at": "2026-11-11T09:00:00+00:00",
+      "url": "https://colossus.com/episode/the-patient-revolution/",
+      "summary": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021. The heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the price of a Netflix subscription. But to capture that opportunity, Zach first had to rebuild Ro's culture around high performance and a big heart. It shows in the stories Ro shares from people like Serena Williams, which help patients get past the stigma of seeking treatment. The inspiration behind it all is his father, a doctor whose care Zach wants to recreate in software. Please enjoy my conversation with Zach Reitano. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:01:35) Why Healthcare Spending Should Rise (00:05:39) Putting Patients in Control (00:10:37) Inside Ro's GLP-1 Business (00:16:29) How GLP-1s Could Reshape Society (00:23:15) The Hidden Cost of Protecting Jobs (00:28:35) Rebuilding a Zombie Company (00:36:33) What Drove Ro's 10x Growth (00:43:49) Where Healthcare Goes Next (00:46:27) Zach's Personal Health Stack (00:54:07) Finding the Work You Were Born For (01:00:15) Ro's Consumer Playbook (01:04:39) Breaking Medical Taboos (01:12:54) The Kindest Thing",
+      "audio_url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "published_at": "2026-11-11T04:49:48+00:00",
+      "url": "https://latent.space/p/codex-work/",
+      "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Lex Fridman",
       "domain": "ai",
@@ -11,7 +96,7 @@
       "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
       "published_at": "2026-11-10T23:52:44+00:00",
       "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
-      "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency podcast on the War on the Rocks platform. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep504-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/preston-stewart-michael-kofman-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Michael’s X: https://x.com/KofmanMichael Michael’s Podcast: https://warontherocks.com/premium/therussiacontingency/ Preston’s YouTube: https://youtube.com/@prestonstewart Preston’s X: https://x.com/prestonstew_ SPONSORS: To support this podcast, check out our sponsors & get discounts: GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (00:43) – Sponsors, Comments, and Reflections (08:20) – State of the war in Ukraine (21:59) – Drone warfare and the kill zone (59:09) – Who is winning the war? (1:10:46) – Military analysis of Russia’s 2022 invasion (1:26:34) – Battle of Bakhmut (1:42:17) – War optimism and bad information (2:02:26) – Prigozhin’s mutiny (2:16:40) – Putin vs Zelenskyy (2:34:38) – Trump (2:43:33) – Paths to peace in Ukraine (2:54:13) – Nature of war PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
+      "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency podcast on the War on the Rocks platform. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep504-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/preston-stewart-michael-kofman-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Michael’s X: https://x.com/KofmanMichael Michael’s Podcast: https://warontherocks.com/premium/therussiacontingency/ Preston’s YouTube: https://youtube.com/@prestonstewart Preston’s X: https://x.com/prestonstew_ SPONSORS: To support this podcast, check out our sponsors & get discounts: GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (00:43) – Sponsors, Comments, and Reflections (08:20) – State of the war in Ukraine (21:59) – Drone warfare and the kill zone (59:09) – Who is winning the war? (1:10:46) – Military analysis of Russia’s 2022 invasion (1:26:34) – Battle of Bakhmut (1:42:17) – War optimism and bad information (2:02:26) – Prigozhin’s mutiny (2:16:40) – Putin vs Zelenskyy (2:34:38) – Trump (2:43:33) – Paths to peace in Ukraine (2:54:13) – Nature of war PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/episode/7ywcdUyAXA3dNFKU4xjFeY – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
       "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
       "feed_url": "https://lexfridman.com/feed/podcast/",
       "source_type": "rss"
@@ -114,18 +199,6 @@
       "video_id": "WIft71LTKR8"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "published_at": "2026-11-09T17:15:53+00:00",
-      "url": "https://latent.space/p/handshake/",
-      "summary": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1c0f3-0e12-7b37-bb7f-c0b59fbc3b39/01a1c0f3-1027-7b6d-887c-fbde19347d32.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -183,30 +256,6 @@
       "summary": "Aydin Senkut is the Founder and Managing Partner of Felicis Ventures, a $2 billion early stage venture firm that invests in founders building iconic companies that transcend geographic and industry boundaries. Its success has placed Aydin on the Forbes Midas List for the past 8 years. Our conversation covers Aydin's early exposure to entrepreneurship and international business, experience as the first international product manager at Google, and transition into angel investing and founding Felicis. We discuss his investment philosophy, proactive sourcing, and doing whatever it takes to join the cap table and support founders. We close with Aydin's perspective on competition in the venture capital industry. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.234_-_Aydin_Senkut_FINAL_REPLAY.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "published_at": "2026-11-08T21:41:44+00:00",
-      "url": "https://latent.space/p/cs146s/",
-      "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-      "published_at": "2026-11-08T13:31:32+00:00",
-      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-      "audio_url": "https://api.substack.com/feed/podcast/219474705/5fcf90cae186120b6d62e9a3f792b5f7.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
     {
@@ -268,18 +317,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO4366735889.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Inside Salesforce’s $100 Billion M&A Playbook | John Somorjai",
-      "published_at": "2026-11-06T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/inside-salesforces-100-billion-ma-playbook-john-somorjai-taKdd7nQ",
-      "summary": "What makes a startup worth acquiring when software has never been easier to build? Salesforce’s John Somorjai says the answer goes well beyond technology: the best acquisitions can accelerate a product roadmap, bring in exceptional talent, and put a startup in front of 15,000 Salesforce sales reps almost overnight. John joins a16z General Partner Alex Immerman to unpack the thinking behind nearly $100 billion in acquisitions during his tenure, from Slack and MuleSoft to a new generation of AI-native companies. They discuss Salesforce’s build-versus-buy framework, why outcome-based pricing is replacing seats in parts of enterprise software, and what founders should consider when deciding whether to sell. John also shares what can kill a deal during diligence, why he thinks parts of today’s venture market are overvalued, and how Salesforce Ventures is expanding from enterprise software into frontier AI and robotics. Resources: Follow John Somorjai: https://www.linkedin.com/in/johnsomorjai/ Follow Alex Immerman: https://x.com/aleximm Learn more about Salesforce Ventures: https://salesforceventures.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/81d17d19-a4a7-47b2-a616-cea2299d9189/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=81d17d19-a4a7-47b2-a616-cea2299d9189&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -353,44 +390,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO6382086783.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can the midterms stall the 2028 datacenter buildout? 🚨",
-      "published_at": "2026-11-04T22:29:05+00:00",
-      "url": "https://www.youtube.com/shorts/tp5niBO9G9M",
-      "summary": "Can the midterms stall the 2028 datacenter buildout? 🚨 \"The polls all show that Abbott is projected to win.\" Maya Wayne and Jeremie join Jordan the morning of Election Day to unpack Texas's TCEQ permit freeze, the 30.3 GW of planned 2028 capacity that could be at risk, a datacenter backlash that crosses party lines, and whether $50 billion for a few thousand jobs is a bad trade, then we check their calls against the results.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "tp5niBO9G9M"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Ep. 043 - The Midterms and the 2028 Datacenter Buildout (Datacenters)",
-      "published_at": "2026-11-04T22:14:48+00:00",
-      "url": "https://www.youtube.com/watch?v=J-d7gn-8t7s",
-      "summary": "Recorded Election Day morning, before any results: SemiAnalysis’s model has about 62 GW of US datacenter additions in 2028, most not yet under construction and sitting in states electing a governor. Texas alone is close to 30%. Jordan Nanos (@JordanNanos) sits down with Maya Barkin (@mayabarkin), Wayne Ma (@waynema) and Jeremie Eliahou Ontiveros (@JeremieEO) on why 2027 is largely locked in, why the backlash crosses party lines, and how developers can win over their neighbors. Since recording: the AP called Texas for Gina Hinojosa, who would pause datacenter permitting, and Georgia for Keisha Lance Bottoms, and Democrats took a 3-2 majority on Georgia’s Public Service Commission, which sets power rates. (As of Nov 4, 2:35 PM ET.) Read the article: https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan 0:00 Intro 0:54 The 2028 Buildout 5:32 Pause vs. Conditions 10:03 Bipartisan Backlash 14:37 Grid Risk 16:30 Tax Incentives 19:51 Texas 24:34 Risks to 2027 30:23 Georgia 32:31 Federal Outlook 35:20 Winning Over Neighbors 42:04 What We're Watching",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "J-d7gn-8t7s"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
-      "published_at": "2026-11-04T09:00:00+00:00",
-      "url": "https://colossus.com/episode/the-productive-investor/",
-      "summary": "My guest today is Martin Casado, General Partner at Andreessen Horowitz. Martin has spent three decades building and investing in technology infrastructure. We discuss why traditional approaches to investing often fail to capture disruptive technologies, how AI is reshaping the economics of software, and why the ability to turn capital directly into technological progress may be the most important change of all. Martin also shares lessons from some of his biggest investments and acquisitions. Please enjoy this conversation with Martin Casado. For the full show notes, transcript, and links to mentioned content, check out the episode page here. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠colossus.com/subscribe⁠. ----- ⁠Ramp’s⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠ramp.com/invest⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠Vanta⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠vanta.com/invest⁠. ----- WorkOS⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- Rogo is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit rogo.ai/invest. ----- ⁠Ridgeline⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠. ----- Editing and post-production work for this episode was provided by The Podcast Consultant. Timestamps: (00:00:00) The Four Types of Investors (00:04:58) Why Moats Rarely Matter (00:14:45) The State of AI Infrastructure (00:19:21) Frontier Model Economics (00:24:12) What AI Makes Possible Now (00:29:14) AI and Cybersecurity (00:30:52) Why Money Can Finally Scale Engineering (00:37:21) Neo Clouds, Neo Labs, and Data Centers in Space (00:40:52) Why Private Markets Are Efficient (00:47:23) Lessons From Strategic M&A (00:54:17) How the Role of the Investor Is Changing (00:58:49) Why This Is an Industrial Revolution",
-      "audio_url": "https://traffic.megaphone.fm/CLS7412616378.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
