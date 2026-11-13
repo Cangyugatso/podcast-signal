@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-11-12T02:39:21.457260+00:00",
+  "generated_at": "2026-11-13T02:20:15.512563+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 32,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Next Era of Games: Mods, Agents, and Infinite Worlds",
+      "published_at": "2026-11-12T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi",
+      "summary": "AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In this episode, a16z General Partners Anish Acharya and Jonathan Lai discuss how AI is changing game development, from generating art and code to operating tools like Blender and game engines directly. They explain why cheaper development could let studios take more creative risks while opening game creation to people without traditional coding or design skills. They also explore modding, remixing existing games, and the emergence of AI-native experiences that generate characters, abilities, and storylines on the fly, potentially creating games that never really end. Resources: Follow Anish Acharya on X: https://x.com/illscience Follow Jonathan Lai on X: https://x.com/Tocelot Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b403b9e-103f-46e4-96d3-94a6d9815e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b403b9e-103f-46e4-96d3-94a6d9815e26&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "published_at": "2026-11-12T11:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP6854771088.mp3",
+      "summary": "Drug discovery and development has long relied on expensive, time-consuming empirical trial and error. By shifting the discovery process onto computers, Isomorphic Labs wants to fundamentally change medicine from a process of discovery to one of precision engineering. Elad Gil sits down with Isomorphic’s president Max Jaderberg to discuss his vision for using predictive AI models to achieve experimental accuracy. Max details how the success of AlphaFold provided the first proof of concept that a deep learning model could generalize in the field of biology, and how an AI model’s compounding of learnings allows it to achieve generalizability with scale, thus greatly increasing the probability of success as well as speed in real world clinical trials. He also talks about evolving past the need for animal testing through in-silico models, Isomorphic’s focus on developing drug design engines that are agnostic of disease area, target class, and modality, why accurate molecule engineering unlocks the potential for multidrug cocktails that span complex biological pathways, and how he believes AI molecule optimization will improve both human lifespan and healthspan. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MaxJaderberg | @IsomorphicLabs Chapters: 00:00 – Trailer 00:45 – Max Jaderberg Introduction 01:24 – Isomorphic Origins 05:23 – Drug Discovery Stagnation 11:49 – Hiring at Isomorphic 14:35 – Bringing Drug Discovery Onto Computers 19:31 – Isomorphic’s Datasets 20:30 – Rethinking Endpoints 22:50 – External vs. Internal Dependences 23:57 – Automating Biologic Labs 26:22 – Internal Development vs. Partnerships 27:19 – Areas of Human Health Focus 29:21 – Multidrug Approaches 32:17 – Risk Appetite Variation 34:26 – Disease Treatment Outlook 35:42 – Human Longevity and Drug Development 39:16 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP6854771088.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "WTT: You Can't See Everything",
+      "published_at": "2026-11-12T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/wtt-you-cant-see-everything",
+      "summary": "The new documentary about Elizabeth Holmes and a candid conversation with a successful investment manager got me thinking about how we discover the truth. In this What Ted's Thinking , You Can't See Everything, I explore how the questions allocators ask can shape the answers they receive, and how our search for certainty can get in the way of understanding. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_WTT_-_You_Cant_See_Everything_-_AUDIO_V2.2_intro_music.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "The Quality Growth Playbook for Biotech | David Ferreiro",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Quality-Growth-Playbook-for-Biotech--David-Ferreiro-e3s7ick",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO7147626010.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "published_at": "2026-11-12T05:26:54+00:00",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "published_at": "2026-11-12T05:08:20+00:00",
+      "url": "https://latent.space/p/jev-revolution/",
+      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "Google DeepMind Podcast",
       "domain": "ai",
@@ -15,19 +87,6 @@
       "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/9234925c-4e42-4b1b-a9d3-f24d9005ea2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=9234925c-4e42-4b1b-a9d3-f24d9005ea2d&feed=JT6pbPkg",
       "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Old GPUs v/s New GPUs",
-      "published_at": "2026-11-11T19:12:44+00:00",
-      "url": "https://www.youtube.com/shorts/mAij6m2kQo4",
-      "summary": "“All of the evidence so far points to the opposite. Amazon is still renting out all of its A100 instances, even its V100 instances. It still has Kepler instances for sale.” “OpenAI still runs the A100 clusters it installed in 2020. CoreWeave has rented out its H100s through 2029. Those are going to be seven-year-old GPUs, and I expect they’d probably be extended after that.” “So what are people doing with the old GPUs? Generally, research. If you can give a neocloud customer access to older chips at the right price, they’re always going to find a way to make researchers more productive.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "mAij6m2kQo4"
     },
     {
       "source": "Lenny's Podcast",
@@ -126,18 +185,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "published_at": "2026-11-10T18:56:32+00:00",
-      "url": "https://latent.space/p/naiveai/",
-      "summary": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "a16z",
       "domain": "ai",
       "language": "en",
@@ -162,18 +209,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "published_at": "2026-11-10T06:34:44+00:00",
-      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "summary": "November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for?",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -184,19 +219,6 @@
       "audio_url": "https://api.substack.com/feed/podcast/224204833/3e7b0383ece75c99e49912158629159a.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "The biggest risk to the US data center buildout is already in effect in one state.",
-      "published_at": "2026-11-09T20:07:43+00:00",
-      "url": "https://www.youtube.com/shorts/WIft71LTKR8",
-      "summary": "The biggest risk to the US data center buildout is already in effect in one state. “The single biggest risk isn’t a single candidate, because in many cases both parties and candidates want developers to accept stricter terms.” “In the case of Texas, it’s a freeze that already exists. Texas stopped issuing TCEQ permits to data center projects at the end of September, on top of an ERCOT interconnection audit that started in August.” “Texas alone is close to 30% of US additions in 2028. So a few months of lost time in that one state, that one market, could move the national number.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "WIft71LTKR8"
     },
     {
       "source": "Lenny's Podcast",
@@ -271,19 +293,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Jobs in the AI Era?",
-      "published_at": "2026-11-08T01:52:36+00:00",
-      "url": "https://www.youtube.com/shorts/r5Qjg3S7hBY",
-      "summary": "AI already writes better code than many of the engineers using it. Good engineers have never been more valuable. That may not last. “Any software engineer that has their eyes on the ball will probably tell you that Opus, when given a well-specified problem, is just a better software engineer than me, period.” “But at the same time, good software engineers are more valuable today than they’ve ever been.” “Is it possible we’re in this Goldilocks zone, where humans can still provide the taste, supervision and judgment that makes them plus the model way, way more effective than just the model?” “Maybe two years from now, you actually only need one dude at each company supervising all the software engineering, and basically everyone else got fired.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "r5Qjg3S7hBY"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -293,18 +302,6 @@
       "summary": "(0:00) Bestie intros! (3:37) Midterms postmortem: What led to a generational GOP collapse? (32:26) How can Trump salvage his presidency? (53:13) Market reaction: Data center fears, $4T in market cap shed, AI ban potential (1:24:21) Science Corner: OpenAI solves Exponential Time Hypothesis *This episode was recorded Friday morning Chamath on Tetragrammaton with Rick Rubin: https://www.youtube.com/watch?v=sUgwBqSRf3E Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump https://www.texastribune.org/2026/11/04/texas-democrats-blue-wave https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html https://x.com/atrupar/status/2118056070715162747 https://x.com/JDVance/status/2118004988433641835 https://polymarket.com/event/ipos-before-2027 https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b https://x.com/xdNiBoR/status/2118412345789579392 https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E296_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Mark Hyman’s Guide to Living Longer and Staying Strong",
-      "published_at": "2026-11-07T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/mark-hymans-guide-to-living-longer-and-staying-strong-csBJXQYG",
-      "summary": "What actually matters if you want to stay healthy as you age? Dr. Mark Hyman argues it isn’t the most extreme longevity intervention. It’s the small investments you make every day in strength, nutrition, sleep, and stress. Mark joins a16z Partner Daisy Wolf to walk through what he actually does, from meditation and strength training to protein, supplements, sleep, sauna, cold plunges, and the occasional ice cream. He explains why preserving muscle becomes increasingly important with age and how he uses testing to understand what’s happening inside his body. They also discuss the idea behind Function Health: combining blood tests, imaging, wearables, medical records, and eventually AI to move healthcare from treating disease toward understanding and preventing it earlier. Resources: Follow Mark Hyman: https://x.com/drmarkhyman Learn more about Function Health: https://www.functionhealth.com Follow Daisy Wolf on X: https://x.com/daisydwolf Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ffa4d372-58ef-4974-b844-ff5b3711e385/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ffa4d372-58ef-4974-b844-ff5b3711e385&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -330,68 +327,13 @@
       "audio_url": "https://traffic.megaphone.fm/CLS7293803007.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Many of the most popular AI benchmarks are badly made. The flaws are easy to build in and hard to ca",
-      "published_at": "2026-11-05T23:06:42+00:00",
-      "url": "https://www.youtube.com/shorts/XM5CpNVbDVk",
-      "summary": "Many of the most popular AI benchmarks are badly made. The flaws are easy to build in and hard to catch. “A lot of the really popular benchmarks out there are kind of trash. This is largely because they’re made by people who don’t have expertise in making evals or environments or training data in general.” “It’s very easy to make a task that seems good on a surface level, but it’s actually unfair in some way, such that it’s a poor test of model capabilities.” “A lot of people make their tasks harder by making them unfair rather than actually making the task difficult.” “It’s very hard to figure this out unless you run ten rollouts, look at the transcripts, see why the model failed, and determine manually: was this actually a legitimate failure?” Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "XM5CpNVbDVk"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "The benchmark where AIs have to lie to win",
-      "published_at": "2026-11-05T21:05:50+00:00",
-      "url": "https://www.dwarkesh.com/p/clocktower",
-      "summary": "AIs are now good enough to run a conspiracy",
-      "audio_url": "",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Tokenization, Agentic Trading, Harmonic: Robinhood's Mission to Expand Ownership with CEO Vlad Tenev",
-      "published_at": "2026-11-05T11:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP1158596730.mp3",
-      "summary": "What does it mean to build wealth as an individual investor in today’s society, especially as gains continue to get concentrated into smaller groups of VCs or institutional investors? Robinhood’s CEO and co-founder Vlad Tenev has a vision that can be summed up in one word: Ownership. In this episode, Sarah Guo chats with Vlad to get a closer look at how Robinhood has evolved from a simple app to buy stocks at zero commission into a global conglomerate that allows customers to own across a wide variety of surfaces and asset classes. Vlad explains how Robinhood is helping users extend ownership amidst the current economy and ongoing AI revolution through Trump accounts, tokenization of privates, and newer product offerings like Robinhood Chain, Agentic Trading, and Agentic Credit Card. He also talks about how his new mathematical superintelligence startup, Harmonic, is revolutionizing the field and how he hopes it will decentralize new discoveries and inventions. Vlad and Sarah also discuss how prediction markets could tie into the ownership conversation, whether financial infrastructure can be optimized to enable even higher volumes of high-frequency trading, and his advice for maintaining a level head when facing the vagaries of a changing financial market. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @vladtenev | @RobinhoodApp | @HarmonicMath Chapters: 00:46 – Intro to Vlad Tenev, His Background, and Robinhood Today 12:25 – A Revolutionary Future for Mathematics 18:49 – Robinhood’s Vision for Tokenization 26:06 – Monetizing Knowledge via Prediction Markets 28:48 – Impacts of Agentic Trading and Democratizing Trading 33:48 – Safeguarding Financial Infrastructure for a New Load of HFTs 38:30 – Ownership of Private Companies in the AI Revolution 48:34 – Robinhood and Trump Accounts 50:47 – Keeping a Steady Hand and Head as a Leader 53:48 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP1158596730.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Opportunistic Real Estate and Hard Asset Credit at Mavik – Vik Uppal (EP.525)",
-      "published_at": "2026-11-05T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/opportunistic-real-estate-and-hard-asset-credit-at-mavik-vik-uppal-ep525",
-      "summary": "Vik Uppal is the Founder and CIO of Mavik Capital Management, a $2 billion flexible special situations investment firm grounded in commercial real estate and hard assets that operates through a credit lens. Vik began developing properties as a teenager and after a difficult experience during the financial crisis, moved to New York to begin a career as a professional investor. Our conversation covers Vik's path from developer to distressed investor and the principles he built Mavik around: stable capital, alignment, flexibility, and finding opportunities where capital is scarce. We discuss filtering a wide funnel for ideas, creating downside protection, identifying opportunities in commercial real estate, avoiding the AI infrastructure boom, and growing an investment business without losing its edge. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.525_Vik_Uppal_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "The Best Business You've Never Heard Of | Todd Wenning",
-      "published_at": "2026-11-05T08:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
-      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO6382086783.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "SemiAnalysis",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
+    }
+  ]
 }
