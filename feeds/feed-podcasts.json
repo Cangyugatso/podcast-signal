@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-13T02:20:15.512563+00:00",
+  "generated_at": "2026-11-14T01:56:38.280610+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "The avalanche that hit math is coming for AI development",
+      "published_at": "2026-11-13T18:37:51+00:00",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "summary": "Why I now expect superintelligence by 2030",
+      "audio_url": "",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
+      "published_at": "2026-11-13T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ",
+      "summary": "AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them faster than many companies can respond. Wiz co-founder and CTO Ami Luttwak joins a16z General Partners Zane Lackey and Sarah Wang to unpack what he calls “Black October,” a wave of vulnerabilities and agentic attacks that he believes marks a turning point for cybersecurity. They break down PHP2Shell, why AI is collapsing the time between vulnerability discovery and exploitation, and what happens when open-source models put increasingly sophisticated offensive capabilities in more hands. Ami explains why startups are becoming attractive targets, particularly when they hold valuable AI credentials, and why yesterday’s secure architecture may no longer be secure as models improve. The conversation then turns to defense. Ami argues that companies need to continuously attack their own systems, automate investigation and patching wherever possible, design infrastructure assuming sophisticated attackers will get in, and rethink security stacks built for a slower era. His warning is simple: if attackers can move in minutes, defenders can no longer operate on human timelines. Resources: Follow Ami Luttwak on X: https://x.com/amiluttwak Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Zane Lackey on X: https://x.com/zanelackey Learn more about Wiz: https://www.wiz.io/ Read ‘The Rise of Agentic Attacks: What They Look Like, and Where They're Headed’: https://www.wiz.io/blog/the-rise-of-agentic-attacks Read more from Wiz’s blogs: https://www.wiz.io/blog Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/981c35dd-8fcd-4d9a-824d-869467a169fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=981c35dd-8fcd-4d9a-824d-869467a169fd&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "published_at": "2026-11-13T09:04:13+00:00",
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "published_at": "2026-11-13T04:17:25+00:00",
+      "url": "https://latent.space/p/artcraft/",
+      "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -137,18 +185,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "published_at": "2026-11-11T04:49:48+00:00",
-      "url": "https://latent.space/p/codex-work/",
-      "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lex Fridman",
       "domain": "ai",
       "language": "en",
@@ -170,18 +206,6 @@
       "summary": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC investigation, pivoting to software (20:47) Creating the police body cam, surveillance state concerns around Flock (35:25) Freedom vs safety, Skydio deal, Taser drone project controversy (45:24) Future of robotic systems and drones in policing Thanks to our partner for making this possible: AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at https://applovin.com/ALLIN Follow Rick: https://x.com/AxonRick Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "published_at": "2026-11-10T20:05:17+00:00",
-      "url": "https://latent.space/p/resend/",
-      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1c6f7-44d3-72a3-8e65-ffcfae742084/01a1c6f7-4605-726f-ac19-31f9b1763da0.mp3",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -281,18 +305,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Health Interventions Actually Worth Your Time | Justin Mares",
-      "published_at": "2026-11-08T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_",
-      "summary": "Health advice has become an endless stream of supplements, diets, wearables, and biohacks. Which interventions are actually worth your time? Truemed CEO Justin Mares argues that most people should ignore the extremes and focus on a few fundamentals: better food, movement, sleep, and reducing harmful exposures. Justin joins a16z General Partner Daisy Wolf to walk through his own approach to health, from what he eats and how he exercises to supplements, blood tests, sauna, sleep, and the changes he’s made to his home. They also discuss the larger problem behind Truemed: while chronic disease drives the vast majority of U.S. healthcare spending, relatively little goes toward prevention. Justin explains how Truemed is trying to change that by making it easier for eligible consumers to use tax-free HSA and FSA dollars on qualified lifestyle interventions. Resources: Follow Justin Mares on X: https://x.com/jwmares Follow Daisy Wolf on X: https://x.com/daisydwolf Learn more about TrueMed: https://www.truemed.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ecbf726b-c2a7-4092-acfd-a045ba8e5c30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ecbf726b-c2a7-4092-acfd-a045ba8e5c30&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -314,18 +326,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO4366735889.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
-      "published_at": "2026-11-06T09:00:00+00:00",
-      "url": "https://colossus.com/episode/trillion-dollar-goalposts/",
-      "summary": "My guest today is Ramtin Naimi, the founder of Abstract Ventures, back for our second conversation. Few people see as many companies as Ramtin and his firm, so this time we zoom in on what they’re seeing right now. The question he keeps coming back to is whether this is 2019 or 2021: early in a run, or at the top of one. Hot rounds now come with a second, pricier tranche for the firms that lost the deal, and he’s seen more term sheets pulled or renegotiated in recent weeks than at any time since 2021. We also get into the neolabs, one of which plans to spend $1 billion on a single training run, how the goalposts for a best-case outcome moved from $10 billion to a trillion dollars, and the biggest mistake he’s made building Abstract. Please enjoy my conversation with Ramtin Naimi. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:00:00) The Speed of Today's Deal Market (00:05:43) How Today Compares to 2021 (00:08:25) Mega Funds and LP Liquidity (00:13:43) New Ways to Pay for Compute (00:17:13) GPU Scarcity and the Neolab Boom (00:20:42) Why Proactive Seed Bets Win (00:27:42) Is Late Stage the Safe Bet? (00:31:58) Data Companies and New Angels (00:34:46) How Abstract Is Evolving (00:38:17) Rating the Market's Froth",
-      "audio_url": "https://traffic.megaphone.fm/CLS7293803007.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
