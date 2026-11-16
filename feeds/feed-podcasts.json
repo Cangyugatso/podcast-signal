@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-15T01:28:58.524205+00:00",
+  "generated_at": "2026-11-16T01:31:38.992612+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "published_at": "2026-11-15T13:31:28+00:00",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+      "audio_url": "https://api.substack.com/feed/podcast/224231309/9fa1e58e302073432fc875f5c7f3b8f5.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "What Breaks When You Scale 10x? | Zipline’s Keller Cliffton",
+      "published_at": "2026-11-15T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/what-breaks-when-you-scale-10x-ziplines-keller-cliffton-xr3f9vCW",
+      "summary": "It was illegal to fly autonomously in U.S. airspace when Keller Cliffton started Zipline, so the company went somewhere that would let it prove the technology worked: Rwanda. A decade later, Zipline has made more than 3 million deliveries and is bringing its autonomous delivery network to the U.S. Keller joins Sophia Dew on The Method to explain why Zipline started by delivering blood to hospitals, how operating in the real world shaped the company, and why almost everything has to be reinvented every time the business grows 10x. They also discuss Zipline’s expansion into U.S. home delivery, how the company organizes teams more like special forces than a traditional hierarchy, and why Keller believes demand could eventually reach 50 billion instant deliveries a year in the U.S. Resources: Originally published by The Method . Watch the original episode: https://www.youtube.com/watch?v=EQSsqVGJpWA Follow Keller Cliffton: https://x.com/Keller Follow Sophia Dew: https://x.com/sophiadew Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f5475b29-83e5-49c2-a8b9-f706e6402f23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f5475b29-83e5-49c2-a8b9-f706e6402f23&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -257,18 +281,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "HubSpot’s Co-Founder on Finding Your Next Startup Idea",
-      "published_at": "2026-11-10T15:29:35+00:00",
-      "url": "https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA",
-      "summary": "As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-founder and CTO Dharmesh Shah to explore why the software opportunity is growing, and how founders can stay off the “Yellow Brick Road” the labs are racing down. Drawing on HubSpot’s evolution, Dharmesh explains why founders should start with a narrow market, learn quickly, and solve the whole customer problem. They discuss where application companies can build lasting value as models become infrastructure: workflows, customer context, and the systems where work happens. They also explore HubSpot’s AI experiments, the rise of one-person businesses, and why cheaper software creation could unlock markets that previously couldn’t support a software company. Resources: Follow Dharmesh Shah on X: https://x.com/dharmesh Follow Joe Schmidt on X: https://x.com/joeschmidtiv Read Joe’s essay, “Avoiding Death on the Yellow Brick Road”: https://a16z.com/avoiding-death-on-the-yellow-brick-road/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5398da9b-2c8d-4643-9306-55a8f357aea2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5398da9b-2c8d-4643-9306-55a8f357aea2&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -289,18 +301,6 @@
       "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
       "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
       "audio_url": "https://api.substack.com/feed/podcast/224204833/3e7b0383ece75c99e49912158629159a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-      "published_at": "2026-11-09T16:01:20+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
       "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     },
