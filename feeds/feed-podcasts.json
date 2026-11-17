@@ -1,9 +1,119 @@
 {
-  "generated_at": "2026-11-16T01:31:38.992612+00:00",
+  "generated_at": "2026-11-17T04:17:11.829201+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 33,
   "podcasts": [
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "USA v/s China AI Labs. OpenSource AI after Jensen leaves NVIDIA",
+      "published_at": "2026-11-17T03:01:35+00:00",
+      "url": "https://www.youtube.com/shorts/Ovp1EeXGoLM",
+      "summary": "More than 1.5 GW of chips are in China that shouldn’t be. Unwinding that web could reshape open-source AI. “In our view, there’s more than one and a half gigawatts of chips in China that are not supposed to be there according to US law. How they get there, that whole web, that’s what’s going to unwind.” “If NVIDIA can no longer support the open-source ecosystem, because that was Jensen’s primary goal, does that mean the open-source ecosystem falls away?” “Now open source looks a lot weaker with NVIDIA down and out. Anthropic looks much more likely to get a complete monopoly or a duopoly. This bodes really well for Anthropic’s IPO next week.” “They’re more diverse in what chips they use than any other company in the world.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Ovp1EeXGoLM"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "published_at": "2026-11-16T21:38:03+00:00",
+      "url": "https://latent.space/p/bfl/",
+      "summary": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1e632-c02d-7e1d-84cb-b3d9453f63eb/01a1e632-c136-7f19-ba30-c3bc167811bd.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "published_at": "2026-11-16T17:46:28+00:00",
+      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "summary": "Watch now (99 mins) | \"It would be hard for humanity to recover.\"",
+      "audio_url": "https://api.substack.com/feed/podcast/225196123/2f4a4103cbe12814f6fafafce433e73c.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "published_at": "2026-11-16T16:02:55+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "How I fight token fraud as a solo founder",
+      "published_at": "2026-11-16T13:04:09+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+      "summary": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
+      "audio_url": "https://api.substack.com/feed/podcast/224392250/ad3b2051f728063c0a409b97f39c7873.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn’t the Economy?",
+      "published_at": "2026-11-16T11:30:48+00:00",
+      "url": "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY",
+      "summary": "AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg sits down with Google DeepMind economist Alex Imas and economist Tyler Cowen to examine how advances in AI translate into growth, jobs, wages, and productivity. They debate what it would take to reach double-digit economic growth, why bottlenecks and falling AI costs could slow the impact, and whether frontier lab valuations require much larger productivity gains. They also explore the “economics of intelligence,” including why the bigger shift may come not from smarter individual agents, but from AI agents learning to coordinate at scale. Resources: Follow Alex Imas on X: https://x.com/alexolegimas Follow Tyler Cowen on X: https://x.com/tylercowen Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b81278f-b214-4c96-a5c2-05f4c9f608a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b81278f-b214-4c96-a5c2-05f4c9f608a1&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/single-manager-hedge-funds-pod-shops-and-the-age-of-ai-paul-enright-ep527",
+      "summary": "Paul Enright is a guru on equity hedge fund investing. Paul manages his family office, Krainos Holdings, that he started after a long career at Viking Global. For the last three years, he went back into the business as Chairman of Fundamental Equities for multi-manager pod shop Jain Global. Our conversation is a deep dive on single manager and multi manager hedge funds and on equity research in the age of AI. AlphaSense free trial for Capital Allocators listeners. Take Ridgeline's investment management tech survey . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com/signup) Editing and post-production work for this episode was provided by The Podcast Consultant ( thepodcastconsultant.com )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)",
+      "published_at": "2026-11-16T08:50:00+00:00",
+      "url": "https://tedseides.libsyn.com/replay-paul-enright-inside-long-short-equity-investing-capital-allocators-ep266",
+      "summary": "Paul Enright is a private investor managing his own capital under single family office, Krainos Capital. Paul opened Krainos after a dozen years at Viking Global Investors, the multi-billion dollar long-short equity hedge fund that also has been one of the most successful breeding grounds for talent in the industry. He has a deep understanding of intricacies of long-short equity investing and a knack for explaining it well. Our conversation covers Paul's career path to Viking, training while there, and advice to early-career investors. We dive into the distinction between business analysis and stock picking, and the importance of portfolio management to investment success. In the process, we discuss liquidity, shorting, portfolio rebalancing, incentive compensation, and market structure. We close with Paul's approach to managing his own money and his answers to a terrific set of questions sourced from his Twitter feed before the show. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.266_Paul_Enright_-_REPLAY_2026_V1.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "The devil’s advocate case for letting China rent American compute.",
+      "published_at": "2026-11-16T01:04:32+00:00",
+      "url": "https://www.youtube.com/shorts/rRDiiDjtp1k",
+      "summary": "The devil’s advocate case for letting China rent American compute. “If China has access to compute outside of China, it’s paying humongous margin dollars to the US ecosystem. Nvidia makes about $7 million of profit on every megawatt deployed. The cloud provider makes another $7 to 10 million at today’s pricing.” “If ByteDance wants to compete with Meta on video recommendation globally, and you don’t let it buy the chips but you do let it rent them, Meta potentially has a fourth of the cost of compute.” “Application-layer companies running on open models add up to well north of $10 billion in ARR. DeepSeek makes less than Baseten and Fireworks do serving its models. America is making so much money off Chinese models.” Watch the Full Podcast on YouTube.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "rRDiiDjtp1k"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -27,6 +137,19 @@
       "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f5475b29-83e5-49c2-a8b9-f706e6402f23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f5475b29-83e5-49c2-a8b9-f706e6402f23&feed=JGE3yC0V",
       "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "NVIDIA v/s Custom Chips..Who wins?",
+      "published_at": "2026-11-14T23:52:19+00:00",
+      "url": "https://www.youtube.com/shorts/rJuzxYQxktk",
+      "summary": "Six of Nvidia’s seven biggest customers are building their own chips. “NVIDIA’s seven biggest customers account for the vast majority of GPUs being deployed: Google, Microsoft, Meta, Amazon, SpaceX, Anthropic and OpenAI. All of them, except SpaceX, are making their own chips.” “If NVIDIA didn’t prop up CoreWeave and the other neoclouds, those industries just would not exist, and the hyperscalers would have full control.” “Jensen’s the only executive in the semiconductor industry convincing supply chain companies to invest like they’ve never done before. From our benchmarking, the TPU is just as good as NVIDIA. But Google doesn’t have that DNA of wheeling and dealing.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "rJuzxYQxktk"
     },
     {
       "source": "Lenny's Podcast",
@@ -77,6 +200,19 @@
       "source_type": "rss"
     },
     {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "What's NVIDIA without Jensen? Steve Jobs v/s Elon Musk v/s Jensen Huang",
+      "published_at": "2026-11-14T05:03:14+00:00",
+      "url": "https://www.youtube.com/shorts/OVIUH_0UZBg",
+      "summary": "“Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executive team.” “This is probably when the sharks are in the water. The VCs are going to come in and offer people billions of dollars to start their own chip companies, their own neolabs.” “If a year from now we’ve seen a bunch of departures from NVIDIA, I’m going to be really concerned about their future.” “Steve Jobs is a pure visionary, and Jensen is negotiating every supply chain contract.” “If there’s any manufacturing issues with Rubin, people are distracted and Jensen’s not there. Things get solved slower, things get solved by committees.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "OVIUH_0UZBg"
+    },
+    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -87,6 +223,19 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E297_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Chips are under scrutiny. Data sales to China aren’t, yet.",
+      "published_at": "2026-11-13T21:10:25+00:00",
+      "url": "https://www.youtube.com/shorts/zjn29csaxN4",
+      "summary": "Chips are under scrutiny. Data sales to China aren’t, yet. “A lot of the data companies sell tons of data to China. It’s a really funny way to distill. Their pipelines run on frontier models, so if you’re building environments with those models and selling them to China, in some way you’re distilling the info out of them.” “Selling and renting chips to China will face a lot more scrutiny. Selling data hasn’t had any yet, and it will probably fall under that too.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "zjn29csaxN4"
     },
     {
       "source": "Dwarkesh Patel",
@@ -197,18 +346,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "published_at": "2026-11-12T05:08:20+00:00",
-      "url": "https://latent.space/p/jev-revolution/",
-      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Google DeepMind Podcast",
       "domain": "ai",
       "language": "en",
@@ -230,18 +367,6 @@
       "summary": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
       "audio_url": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
-      "published_at": "2026-11-11T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG",
-      "summary": "The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strategy during the internet buildout, asks what that era can teach us about this one. Mike joins a16z’s Raghu Raghuram and Guido Appenzeller to compare today’s investment in GPUs, data centers, and power with the fiber boom of the late 1990s, and explain why the infrastructure could prove valuable even if the market corrects. They also discuss NVIDIA, custom silicon, networking, and the changing economics of GPUs, plus lessons from Cisco’s acquisition machine. And Mike explains why he thinks this technology cycle could be even more consequential than the last. Resources: Follow Mike Volpi on X: https://x.com/mavolpi Follow Raghu Raghuram on X: https://x.com/RaghuRaghuram Follow Guido Appenzeller on X: https://x.com/appenz Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ce81cf09-4c64-42cf-8dc2-753ea8df67a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ce81cf09-4c64-42cf-8dc2-753ea8df67a5&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -279,61 +404,7 @@
       "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
       "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "State of the tech job market: late 2026",
-      "published_at": "2026-11-10T15:04:03+00:00",
-      "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-      "summary": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-      "published_at": "2026-11-09T20:37:49+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-      "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
-      "audio_url": "https://api.substack.com/feed/podcast/224204833/3e7b0383ece75c99e49912158629159a.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Chasing Demand in Early-Stage Venture at Felicis – Aydin Senkut (EP.526)",
-      "published_at": "2026-11-09T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/chasing-demand-in-early-stage-venture-at-felicis-aydin-senkut-ep526",
-      "summary": "Aydin Senkut is the Founder of Felicis, a venture capital firm he founded 20 years ago that invests in seed and Series A companies, now out of a billion-dollar fund. Aydin joined me on the show five years ago, and we followed that conversation with what's changed for Felicis, high growth companies, and the venture industry. AlphaSense free trial for Capital Allocators listeners. Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators. com/ ) Access Transcript with Premium Membership ( https://capitalallocators. com/signup ) Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.526_Aydin_Senkut_-_AUDIO_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "[REPLAY] Aydin Senkut – Tenacious Sourcing and Founder Support at Felicis, Venture is Eating the Investment World 6 (EP.234)",
-      "published_at": "2026-11-09T08:30:00+00:00",
-      "url": "https://tedseides.libsyn.com/replay-aydin-senkut-tenacious-sourcing-and-founder-support-at-felicis-venture-is-eating-the-investment-world-6-ep234",
-      "summary": "Aydin Senkut is the Founder and Managing Partner of Felicis Ventures, a $2 billion early stage venture firm that invests in founders building iconic companies that transcend geographic and industry boundaries. Its success has placed Aydin on the Forbes Midas List for the past 8 years. Our conversation covers Aydin's early exposure to entrepreneurship and international business, experience as the first international product manager at Google, and transition into angel investing and founding Felicis. We discuss his investment philosophy, proactive sourcing, and doing whatever it takes to join the cap table and support founders. We close with Aydin's perspective on competition in the venture capital industry. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.234_-_Aydin_Senkut_FINAL_REPLAY.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
     }
   ],
-  "errors": [
-    {
-      "source": "SemiAnalysis",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg: HTTP Error 404: Not Found"
-    }
-  ]
+  "errors": []
 }
