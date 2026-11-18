@@ -1,9 +1,81 @@
 {
-  "generated_at": "2026-11-17T04:17:11.829201+00:00",
+  "generated_at": "2026-11-18T03:17:04.479382+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 33,
   "podcasts": [
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+      "published_at": "2026-11-17T21:43:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/databricks-ceo-agi-is-already-here-why-companies-are-behind-and-the-superintelligence-debate",
+      "summary": "(0:00) Ali Ghodsi joins the show: Databricks' early bets on cloud, AI, and open source (8:50) Is AGI Already Here? Why Enterprise AI Is Falling Behind (22:04) Live Demo: How Databricks Uses Agentic AI For Efficiency (38:25) Databricks IPO: The Case for Staying Private (44:02) RSI, Cyber Risk & the Doom Debate Thanks to our partner for making this possible: Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. Learn more at https://airwallex.com/allin Follow Ali: https://x.com/@alighodsi Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_99_AliGhodsi_Databricks.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+      "published_at": "2026-11-17T18:02:02+00:00",
+      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can AI Learn to Improve Itself? | Recursive Self-Improvement",
+      "published_at": "2026-11-17T17:44:53+00:00",
+      "url": "https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ",
+      "summary": "For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. Mark Chen says OpenAI has built “AI research interns.” So how far are we from AI that can do the research on its own? In our first episode of Working Theory, a16z general partner Sarah Wang explores recursive self-improvement with two leading AI researchers: Mark Chen, Chief Research Officer at OpenAI, and John Schulman, co-founder and Chief Scientist of Thinking Machines Lab, and co-founder of OpenAI. They cover what RSI actually means, why research taste is so hard to teach, and why AI may be one of our best tools for solving alignment. Resources: Follow Mark Chen: https://x.com/markchen90 Follow John Schulman: https://x.com/johnschulman2 Follow Sarah Wang on X: https://x.com/sarahdingwang Chart Sources https://situational-awareness.ai/from-agi-to-superintelligence/ https://openai.com/index/research-acceleration-view-inside-openai/ https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/ https://x.com/sebkrier/status/2119213426589278648 https://assets.claude.com/7b1c44894e980876479947dcdd40716278aeeffd.pdf Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0cea4b6e-e8d9-4713-a7a4-4d470073803c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0cea4b6e-e8d9-4713-a7a4-4d470073803c&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "published_at": "2026-11-17T15:00:00+00:00",
+      "url": "https://latent.space/p/cloudflare/",
+      "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
+      "published_at": "2026-11-17T13:00:00+00:00",
+      "url": "https://colossus.com/episode/restoring-the-american-dream/",
+      "summary": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy. Brad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away. Brad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside. Please enjoy my conversation with Brad and Geoffrey. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:00:42) Why Education Alone Isn't Enough (00:07:41) Is the American Dream Lost? (00:14:19) Getting 70 Million Accounts Claimed (00:20:40) How the Accounts Work (00:24:43) Ownership vs. Populism (00:28:42) Winning Over Both Parties (00:35:57) Will the Program Last? (00:43:30) Lessons From 50 Years of Fighting Poverty (00:47:43) Financial Education at Scale (00:57:19) What Young People Fear About AI (01:05:56) Why Giving Money Away Is Hard (01:12:08) What's at Stake for America (01:21:17) The Trip That Changed Geoffrey's Life",
+      "audio_url": "https://traffic.megaphone.fm/CLS6783435309.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "published_at": "2026-11-17T09:24:56+00:00",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "summary": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "SemiAnalysis",
       "domain": "ai",
@@ -274,30 +346,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-      "published_at": "2026-11-13T04:17:25+00:00",
-      "url": "https://latent.space/p/artcraft/",
-      "summary": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Next Era of Games: Mods, Agents, and Infinite Worlds",
-      "published_at": "2026-11-12T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi",
-      "summary": "AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one? In this episode, a16z General Partners Anish Acharya and Jonathan Lai discuss how AI is changing game development, from generating art and code to operating tools like Blender and game engines directly. They explain why cheaper development could let studios take more creative risks while opening game creation to people without traditional coding or design skills. They also explore modding, remixing existing games, and the emergence of AI-native experiences that generate characters, abilities, and storylines on the fly, potentially creating games that never really end. Resources: Follow Anish Acharya on X: https://x.com/illscience Follow Jonathan Lai on X: https://x.com/Tocelot Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b403b9e-103f-46e4-96d3-94a6d9815e26/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b403b9e-103f-46e4-96d3-94a6d9815e26&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "No Priors",
       "domain": "ai",
       "language": "en",
@@ -334,18 +382,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "published_at": "2026-11-12T05:26:54+00:00",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
-      "summary": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Google DeepMind Podcast",
       "domain": "ai",
       "language": "en",
@@ -358,18 +394,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-      "published_at": "2026-11-11T13:04:09+00:00",
-      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-      "summary": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
-      "audio_url": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -379,30 +403,6 @@
       "summary": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021. The heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the price of a Netflix subscription. But to capture that opportunity, Zach first had to rebuild Ro's culture around high performance and a big heart. It shows in the stories Ro shares from people like Serena Williams, which help patients get past the stigma of seeking treatment. The inspiration behind it all is his father, a doctor whose care Zach wants to recreate in software. Please enjoy my conversation with Zach Reitano. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:01:35) Why Healthcare Spending Should Rise (00:05:39) Putting Patients in Control (00:10:37) Inside Ro's GLP-1 Business (00:16:29) How GLP-1s Could Reshape Society (00:23:15) The Hidden Cost of Protecting Jobs (00:28:35) Rebuilding a Zombie Company (00:36:33) What Drove Ro's 10x Growth (00:43:49) Where Healthcare Goes Next (00:46:27) Zach's Personal Health Stack (00:54:07) Finding the Work You Were Born For (01:00:15) Ro's Consumer Playbook (01:04:39) Breaking Medical Taboos (01:12:54) The Kindest Thing",
       "audio_url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
-      "published_at": "2026-11-10T23:52:44+00:00",
-      "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
-      "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and Ukrainian militaries. He is a senior fellow at the Carnegie Endowment and he hosts The Russia Contingency podcast on the War on the Rocks platform. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep504-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/preston-stewart-michael-kofman-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Michael’s X: https://x.com/KofmanMichael Michael’s Podcast: https://warontherocks.com/premium/therussiacontingency/ Preston’s YouTube: https://youtube.com/@prestonstewart Preston’s X: https://x.com/prestonstew_ SPONSORS: To support this podcast, check out our sponsors & get discounts: GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex Fin: AI agent for customer service. Go to https://fin.ai/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Wispr Flow: AI-powered voice dictation app. Go to https://wisprflow.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ OUTLINE: (00:00) – Introduction (00:43) – Sponsors, Comments, and Reflections (08:20) – State of the war in Ukraine (21:59) – Drone warfare and the kill zone (59:09) – Who is winning the war? (1:10:46) – Military analysis of Russia’s 2022 invasion (1:26:34) – Battle of Bakhmut (1:42:17) – War optimism and bad information (2:02:26) – Prigozhin’s mutiny (2:16:40) – Putin vs Zelenskyy (2:34:38) – Trump (2:43:33) – Paths to peace in Ukraine (2:54:13) – Nature of war PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/episode/7ywcdUyAXA3dNFKU4xjFeY – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
-      "published_at": "2026-11-10T23:03:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing",
-      "summary": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC investigation, pivoting to software (20:47) Creating the police body cam, surveillance state concerns around Flock (35:25) Freedom vs safety, Skydio deal, Taser drone project controversy (45:24) Future of robotic systems and drones in policing Thanks to our partner for making this possible: AppLovin Ads is AppLovin's AI advertising platform reaching over a billion daily active users across mobile games. Full-screen video ads with a 35-second median watch time. Advertisers are profitably spending hundreds of thousands of dollars a day. AppLovin Ads is now open to all advertisers. Sign up at https://applovin.com/ALLIN Follow Rick: https://x.com/AxonRick Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-INTV_RickSmith_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     }
   ],
