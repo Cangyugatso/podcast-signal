@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-11-18T03:17:04.479382+00:00",
+  "generated_at": "2026-11-19T02:54:50.538261+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 33,
+  "item_count": 31,
   "podcasts": [
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Missing Layer for Personal AI | First Person Labs’ Ken Liu",
+      "published_at": "2026-11-18T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00",
+      "summary": "AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, priorities, relationships, and digital context could move with you instead? First Person Labs co-founder Ken Liu joins a16z’s Martin Casado and Joel de la Garza to introduce Second, a personal context layer designed to understand what you’re doing across your digital life and make that context available to the agents you choose. They discuss how Second can proactively connect information across conversations and applications, why protecting such personal data requires a different security architecture, and the longer-term vision of AI that doesn’t just respond to prompts, but understands enough context to know when and how to help. Resources: Try Second: https://2.computer Learn more about First Person Labs: https://fpl.company/ Follow Ken Liu: ​​​​ https://www.linkedin.com/in/kenziyuliu/ Follow Martin Casado on X: https://x.com/martin_casado a16z.com Follow Joel de la Garza: https://x.com/YODELAGARZA a16z.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/07b9cac6-3023-4069-82be-9f0832c5106e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=07b9cac6-3023-4069-82be-9f0832c5106e&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "published_at": "2026-11-18T10:19:04+00:00",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Next CEO of NVIDIA is..... Who should run NVIDIA next?",
+      "published_at": "2026-11-18T05:13:36+00:00",
+      "url": "https://www.youtube.com/shorts/Qs1EDoITg4I",
+      "summary": "Jensen is out. Who should run NVIDIA next? “It has to be an external CEO, given all of the questions around chip shipments to China. I hope it is Charlie Kawwas of Broadcom or Johny Srouji of Apple.” “If it is internal candidates, Ian Buck and Jonah Alben are the two best bets. But everything around shipping chips to China is going to be very, very scrutinized. Did they know? What did they know?” “Jensen has been the defender of open source. Now there is no one defending Chinese open source anymore. Certainly the restrictions from the US on China are about to ramp up.”",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "Qs1EDoITg4I"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -297,19 +334,6 @@
       "source_type": "rss"
     },
     {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Chips are under scrutiny. Data sales to China aren’t, yet.",
-      "published_at": "2026-11-13T21:10:25+00:00",
-      "url": "https://www.youtube.com/shorts/zjn29csaxN4",
-      "summary": "Chips are under scrutiny. Data sales to China aren’t, yet. “A lot of the data companies sell tons of data to China. It’s a really funny way to distill. Their pipelines run on frontier models, so if you’re building environments with those models and selling them to China, in some way you’re distilling the info out of them.” “Selling and renting chips to China will face a lot more scrutiny. Selling data hasn’t had any yet, and it will probably fall under that too.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "zjn29csaxN4"
-    },
-    {
       "source": "Dwarkesh Patel",
       "domain": "ai",
       "language": "en",
@@ -319,30 +343,6 @@
       "summary": "Why I now expect superintelligence by 2030",
       "audio_url": "",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
-      "published_at": "2026-11-13T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ",
-      "summary": "AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them faster than many companies can respond. Wiz co-founder and CTO Ami Luttwak joins a16z General Partners Zane Lackey and Sarah Wang to unpack what he calls “Black October,” a wave of vulnerabilities and agentic attacks that he believes marks a turning point for cybersecurity. They break down PHP2Shell, why AI is collapsing the time between vulnerability discovery and exploitation, and what happens when open-source models put increasingly sophisticated offensive capabilities in more hands. Ami explains why startups are becoming attractive targets, particularly when they hold valuable AI credentials, and why yesterday’s secure architecture may no longer be secure as models improve. The conversation then turns to defense. Ami argues that companies need to continuously attack their own systems, automate investigation and patching wherever possible, design infrastructure assuming sophisticated attackers will get in, and rethink security stacks built for a slower era. His warning is simple: if attackers can move in minutes, defenders can no longer operate on human timelines. Resources: Follow Ami Luttwak on X: https://x.com/amiluttwak Follow Sarah Wang on X: https://x.com/sarahdingwang Follow Zane Lackey on X: https://x.com/zanelackey Learn more about Wiz: https://www.wiz.io/ Read ‘The Rise of Agentic Attacks: What They Look Like, and Where They're Headed’: https://www.wiz.io/blog/the-rise-of-agentic-attacks Read more from Wiz’s blogs: https://www.wiz.io/blog Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/981c35dd-8fcd-4d9a-824d-869467a169fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=981c35dd-8fcd-4d9a-824d-869467a169fd&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-      "published_at": "2026-11-13T09:04:13+00:00",
-      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-      "summary": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -379,30 +379,6 @@
       "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO7147626010.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
-      "published_at": "2026-11-11T20:03:03+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Learn more about AlphaGenome 2: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/9234925c-4e42-4b1b-a9d3-f24d9005ea2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=9234925c-4e42-4b1b-a9d3-f24d9005ea2d&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
-      "published_at": "2026-11-11T09:00:00+00:00",
-      "url": "https://colossus.com/episode/the-patient-revolution/",
-      "summary": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021. The heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the price of a Netflix subscription. But to capture that opportunity, Zach first had to rebuild Ro's culture around high performance and a big heart. It shows in the stories Ro shares from people like Serena Williams, which help patients get past the stigma of seeking treatment. The inspiration behind it all is his father, a doctor whose care Zach wants to recreate in software. Please enjoy my conversation with Zach Reitano. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠here⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:01:35) Why Healthcare Spending Should Rise (00:05:39) Putting Patients in Control (00:10:37) Inside Ro's GLP-1 Business (00:16:29) How GLP-1s Could Reshape Society (00:23:15) The Hidden Cost of Protecting Jobs (00:28:35) Rebuilding a Zombie Company (00:36:33) What Drove Ro's 10x Growth (00:43:49) Where Healthcare Goes Next (00:46:27) Zach's Personal Health Stack (00:54:07) Finding the Work You Were Born For (01:00:15) Ro's Consumer Playbook (01:04:39) Breaking Medical Taboos (01:12:54) The Kindest Thing",
-      "audio_url": "https://traffic.megaphone.fm/CLS9826691790.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
       "source_type": "rss"
     }
   ],
