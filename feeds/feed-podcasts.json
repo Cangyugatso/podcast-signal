@@ -1,9 +1,105 @@
 {
-  "generated_at": "2026-11-19T02:54:50.538261+00:00",
+  "generated_at": "2026-11-20T02:48:10.963787+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 31,
+  "item_count": 33,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "published_at": "2026-11-19T23:58:21+00:00",
+      "url": "https://latent.space/p/linear-scaling/",
+      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1f60c-1b1f-791d-ab17-93dc95925d0f/01a1f60c-1d13-7e51-8f68-58af8c020059.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "published_at": "2026-11-19T19:46:40+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP of Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs like AlphaGo and AlphaFold; today, Koray is leading the charge toward general-purpose intelligence with Gemini. In this episode, they discuss why real-world products are essential to building AGI, how Gemini’s architecture continuously evolves, and the topic on everyone's mind: recursive self-improvement. Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Fast Should We Build Superintelligence? | Nick Bostrom",
+      "published_at": "2026-11-19T15:29:34+00:00",
+      "url": "https://a16z.simplecast.com/episodes/how-fast-should-we-build-superintelligence-nick-bostrom-21xI3Oxg",
+      "summary": "The question isn’t simply whether humanity should race toward superintelligence or stop. Nick Bostrom argues the harder challenge is preserving the ability to slow down when safety falls behind, without turning a temporary pause into permanent technological stagnation. a16z’s Eddy Lazzarin and Elena Burger sit down with Bostrom to revisit the ideas he helped bring into the mainstream, now that increasingly capable AI systems actually exist. They discuss why alignment may become harder as models grow more situationally aware, which capability improvements may carry more risk than others, and why Bostrom favors “pacing the frontier” rather than committing to a broad or indefinite pause. They also examine the cost of waiting. Bostrom argues that safely developed superintelligence could radically extend human lifespans and address problems from disease to poverty, meaning delay carries risks of its own. From there, the conversation turns to Deep Utopia , governance, the possibility of post-human forms of life, the simulation argument, and whether AI could eventually surpass humans at philosophy itself. Resources: Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Elena Burger on X: https://x.com/VirtualElena Follow Nick Bostrom / Macrostrategy Research Initiative: https://nickbostrom.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0a6ec871-891c-4c0f-bd80-08ebf4fc4b2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0a6ec871-891c-4c0f-bd80-08ebf4fc4b2d&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "No Priors",
+      "domain": "ai",
+      "language": "en",
+      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "published_at": "2026-11-19T11:44:00+00:00",
+      "url": "https://traffic.megaphone.fm/PDP6475704364.mp3",
+      "summary": "Is the AI singularity actually coming? Bob McGrew, former Chief Research Officer at OpenAI, argues that superintelligence won’t arrive without changes in the physical world, and that the “hard takeoff” argument is wrong. Sarah Guo and Elad Gil sit down with Bob, an early key executive at Palantir who later led research at OpenAI. He is now CEO and co-founder of Arda, which is leveraging AI to make American manufacturing competitive. Bob explains why automating AI researchers is a one-time boost rather than a runaway loop, and why GPUs, compute, wet labs, and factories are the real bottlenecks. They cover Arda’s work with Anduril on everything from actuators to missiles to the Fury combat aircraft, why Arda is building “Cursor for manufacturing engineers”, and how the forward deployed engineering model really works. Plus, the big-picture future view: machines that make machines, self-replicating factories, and Bob’s answer to the Fermi paradox. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @bobmcgrewai | @Arda_Industries Chapters: 00:00 – Trailer 00:05 – Bob McGrew Introduction 01:05 – Why work on the physical world during the AI revolution? 02:27 – Why the hard takeoff argument is wrong 05:48 – Labs or startups – who will win in robotics and biology? 13:00 – Why America designs products but doesn’t build them 16:33 – Who needs flexible automation: defense, consumer electronics, data centers 18:19 – Humanoid robots vs. robotic work cells 21:07 – Open-world vs. closed-world robotics 25:20 – Building with Anduril: from days to 90 minutes 28:59 – Palantir’s problem-first approach vs. OpenAI’s technology-first approach 33:15 – From dropping out of Stanford to joining OpenAI 37:13 – Why general robotics models suddenly work 40:28 – Implications for the robotics ecosystem 42:46 – On-device models, speed, and safety 44:18 – How forward deployed engineering really works 50:57 – Superintelligence out of the data center 53:41 – Self-replicating factories and Von Neumann probes 56:46 – Bob’s answer to the Fermi paradox 59:33 – Conclusion",
+      "audio_url": "https://traffic.megaphone.fm/PDP6475704364.mp3",
+      "feed_url": "https://feeds.megaphone.fm/nopriors",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Evolution of Digital Assets at Grayscale – Peter Mintzberg (EP.528)",
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/evolution-of-digital-assets-at-grayscale-peter-mintzberg-ep528",
+      "summary": "Peter Mintzberg is CEO of Grayscale, one of the world's largest digital asset managers founded in 2013. Peter joined Grayscale two years ago after a career in strategy and M&A at Goldman Sachs, Apollo, and BlackRock. He saw digital assets as the next step in the evolution of traditional finance. Our conversation covers the rapid mainstream adoption of digital assets, Grayscale's transition from its pioneering trusts to a broad ETF platform, and opportunities beyond Bitcoin and Ethereum. We discuss active management in digital assets, the evolution of blockchain applications, and the changing regulatory environment. We then turn to Peter's view of what comes next, including the convergence of AI and tokenization, personalized portfolios, and a future where the distinction between liquid and illiquid assets fades away. See full disclaimer here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.528_Peter_Mintzberg_-_AUDIO_V2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "AI Spending & Market Risk: Capex, Valuations & Returns | Dan Rasmussen",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/AI-Spending--Market-Risk-Capex--Valuations--Returns--Dan-Rasmussen-e3skoq1",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. What the singularity means for your money. In 47 seconds a day: thelastinvestment.com Investing in AI and the Singularity Whitepaper My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at ⁠acquirersmultiple.com/podcast⁠ About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO6275239517.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "published_at": "2026-11-19T07:07:43+00:00",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lex Fridman",
+      "domain": "ai",
+      "language": "en",
+      "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+      "published_at": "2026-11-19T04:37:34+00:00",
+      "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
+      "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep505-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/larry-lawton-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Larry’s YouTube: https://youtube.com/c/LarryLawtonJewelThief Larry’s Instagram: https://instagram.com/reallarrylawton SPONSORS: To support this podcast, check out our sponsors & get discounts: Fin: AI agent for customer service. Go to https://fin.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai OUTLINE: (00:00) – Introduction (01:32) – Sponsors, Comments, and Reflections (07:23) – GTA 6 (28:31) – 1980s Miami crime era (44:48) – Scarface (1:05:18) – Surviving solitary confinement (1:17:01) – First jewelry store robbery (1:26:04) – Prison economy and stamps (1:33:21) – Mass incarceration in America (2:13:12) – Psychopaths in prison (2:28:02) – New York mob (2:53:29) – First day in prison (2:58:25) – Most dangerous prison gangs PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/episode/3pMbOrsJ33K61lgOBsUrq5 – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
+      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
+      "feed_url": "https://lexfridman.com/feed/podcast/",
+      "source_type": "rss"
+    },
     {
       "source": "a16z",
       "domain": "ai",
@@ -125,18 +221,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "Ovp1EeXGoLM"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
-      "published_at": "2026-11-16T21:38:03+00:00",
-      "url": "https://latent.space/p/bfl/",
-      "summary": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1e632-c02d-7e1d-84cb-b3d9453f63eb/01a1e632-c136-7f19-ba30-c3bc167811bd.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
     },
     {
       "source": "Dwarkesh Patel",
@@ -285,30 +369,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "From the Telephone to Modern Computing | James Gleick",
-      "published_at": "2026-11-14T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/from-the-telephone-to-modern-computing-james-gleick-oBlUL96w",
-      "summary": "James Gleick — acclaimed science writer and bestselling author of Chaos: Making a New Science as well as biographies on polymaths Isaac Newton and Richard Feynman — joins Sonal Chokshi and Robert Hackett to discuss his new book, The Telephone: A New History. It is a story of a device — who really invented it, how? — of a network, of a lab, and of how innovation happens. The telephone was dismissed as a toy or a frivolity — at best, something people could use to listen to concerts or sermons from home. Even with a working invention, everyone was still trying to figure out what a telephone was for, using the framework of what they already knew. Then its users started finding their own answers. Farmers built their own decentralized networks using barbed-wire fences — the “devil’s rope” — and, over time, research at a company built around phone calls helped lay the foundations of modern computing. This conversation explores the nuances of building at the frontier: competing inventors, the experiments, the “scenius of genius.” Why did established businesses underestimate it? Did the telephone network have to become a monopoly? What made Bell Labs so productive? And how a single invention could set off a technology revolution? Resources: Originally published by the a16z Frontier Show. Read The Telephone: A New History: https://us.macmillan.com/books/978037... Subscribe on YouTube: @a16zfrontier Subscribe to our Substack: https://a16zfrontier.substack.com/ Visit our website: https://a16zfrontier.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5eb9ee02-ca6b-48b2-998d-54ccb12ca740/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5eb9ee02-ca6b-48b2-998d-54ccb12ca740&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] The No AI Slop Manifesto",
-      "published_at": "2026-11-14T08:31:02+00:00",
-      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-      "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -343,42 +403,6 @@
       "summary": "Why I now expect superintelligence by 2030",
       "audio_url": "",
       "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
-      "published_at": "2026-11-12T11:00:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP6854771088.mp3",
-      "summary": "Drug discovery and development has long relied on expensive, time-consuming empirical trial and error. By shifting the discovery process onto computers, Isomorphic Labs wants to fundamentally change medicine from a process of discovery to one of precision engineering. Elad Gil sits down with Isomorphic’s president Max Jaderberg to discuss his vision for using predictive AI models to achieve experimental accuracy. Max details how the success of AlphaFold provided the first proof of concept that a deep learning model could generalize in the field of biology, and how an AI model’s compounding of learnings allows it to achieve generalizability with scale, thus greatly increasing the probability of success as well as speed in real world clinical trials. He also talks about evolving past the need for animal testing through in-silico models, Isomorphic’s focus on developing drug design engines that are agnostic of disease area, target class, and modality, why accurate molecule engineering unlocks the potential for multidrug cocktails that span complex biological pathways, and how he believes AI molecule optimization will improve both human lifespan and healthspan. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MaxJaderberg | @IsomorphicLabs Chapters: 00:00 – Trailer 00:45 – Max Jaderberg Introduction 01:24 – Isomorphic Origins 05:23 – Drug Discovery Stagnation 11:49 – Hiring at Isomorphic 14:35 – Bringing Drug Discovery Onto Computers 19:31 – Isomorphic’s Datasets 20:30 – Rethinking Endpoints 22:50 – External vs. Internal Dependences 23:57 – Automating Biologic Labs 26:22 – Internal Development vs. Partnerships 27:19 – Areas of Human Health Focus 29:21 – Multidrug Approaches 32:17 – Risk Appetite Variation 34:26 – Disease Treatment Outlook 35:42 – Human Longevity and Drug Development 39:16 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP6854771088.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "WTT: You Can't See Everything",
-      "published_at": "2026-11-12T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/wtt-you-cant-see-everything",
-      "summary": "The new documentary about Elizabeth Holmes and a candid conversation with a successful investment manager got me thinking about how we discover the truth. In this What Ted's Thinking , You Can't See Everything, I explore how the questions allocators ask can shape the answers they receive, and how our search for certainty can get in the way of understanding. Read Ted's blog here . Editing and post-production work for this episode was provided by The Podcast Consultant ( https://thepodcastconsultant. com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_WTT_-_You_Cant_See_Everything_-_AUDIO_V2.2_intro_music.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "The Quality Growth Playbook for Biotech | David Ferreiro",
-      "published_at": "2026-11-12T08:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Quality-Growth-Playbook-for-Biotech--David-Ferreiro-e3s7ick",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. My new book ⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at acquirersmultiple.com/podcast About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠SEE LATEST EPISODES⁠⁠ ⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠ FOLLOW TOBIAS ⁠⁠Acquirers Multiple⁠⁠ ⁠⁠Acquirers Funds⁠⁠ ⁠⁠Twitter⁠⁠ ⁠⁠LinkedIn⁠⁠ ⁠⁠Facebook⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠Crash Test Dummy⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO7147626010.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
