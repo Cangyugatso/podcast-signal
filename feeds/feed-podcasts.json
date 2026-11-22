@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-21T02:57:05.184585+00:00",
+  "generated_at": "2026-11-22T01:51:44.268233+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 32,
+  "item_count": 31,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "published_at": "2026-11-21T16:49:56+00:00",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "summary": "Community Wisdom 306",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Professional Network Built for You and Your AI Agent",
+      "published_at": "2026-11-21T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL",
+      "summary": "What if your AI agent could find the people you should know before you even start looking? Cosign is building a professional network around reputation and trusted recommendations, and now agents can use that network too. MTS host Sophia Dew sits down with a16z’s David Booth and Cosign’s Bella Nazzari to discuss what they’ve learned since launching Cosign, why traditional profiles often miss the operators doing the most important work, and how the Cosign Awards are surfacing talent through the people willing to vouch for them. They also explore an emerging behavior: people connecting their agents to Cosign to continuously find relevant people, lists, and opportunities, and what professional networking could look like when both humans and their agents participate. Resources: Follow David Booth: https://x.com/davidbooth Follow Bella Nazzari: https://x.com/nazzari Follow Sophia Dew: https://x.com/sophiadew Learn more about Cosign: https://cosign.co/ Connect your agent to Cosign: https://cosign.co/agents Follow MTS on X: https://x.com/MTSLive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f0a94159-1e7b-4208-9088-df19e8314067/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f0a94159-1e7b-4208-9088-df19e8314067&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Nvidia Without Jensen: Does the Price Now Make Sense?",
+      "published_at": "2026-11-21T08:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Nvidia-Without-Jensen-Does-the-Price-Now-Make-Sense-e3sobfn",
+      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠⁠⁠Acquirers Multiple⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Acquirers Funds⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Twitter⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠⁠⁠Crash Test Dummy⁠⁠⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO7855481370.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "published_at": "2026-11-21T05:02:13+00:00",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "summary": "November 20 2026 —",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
     {
       "source": "All-In Podcast",
       "domain": "ai",
@@ -174,18 +222,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "published_at": "2026-11-18T10:19:04+00:00",
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "summary": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -296,18 +332,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn’t the Economy?",
-      "published_at": "2026-11-16T11:30:48+00:00",
-      "url": "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY",
-      "summary": "AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg sits down with Google DeepMind economist Alex Imas and economist Tyler Cowen to examine how advances in AI translate into growth, jobs, wages, and productivity. They debate what it would take to reach double-digit economic growth, why bottlenecks and falling AI costs could slow the impact, and whether frontier lab valuations require much larger productivity gains. They also explore the “economics of intelligence,” including why the bigger shift may come not from smarter individual agents, but from AI agents learning to coordinate at scale. Resources: Follow Alex Imas on X: https://x.com/alexolegimas Follow Tyler Cowen on X: https://x.com/tylercowen Follow Erik Torenberg on X: https://x.com/eriktorenberg Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b81278f-b214-4c96-a5c2-05f4c9f608a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b81278f-b214-4c96-a5c2-05f4c9f608a1&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Capital Allocators",
       "domain": "invest",
       "language": "en",
@@ -354,43 +378,6 @@
       "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
       "audio_url": "https://api.substack.com/feed/podcast/224231309/9fa1e58e302073432fc875f5c7f3b8f5.mp3",
       "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "NVIDIA v/s Custom Chips..Who wins?",
-      "published_at": "2026-11-14T23:52:19+00:00",
-      "url": "https://www.youtube.com/shorts/rJuzxYQxktk",
-      "summary": "Six of Nvidia’s seven biggest customers are building their own chips. “NVIDIA’s seven biggest customers account for the vast majority of GPUs being deployed: Google, Microsoft, Meta, Amazon, SpaceX, Anthropic and OpenAI. All of them, except SpaceX, are making their own chips.” “If NVIDIA didn’t prop up CoreWeave and the other neoclouds, those industries just would not exist, and the hyperscalers would have full control.” “Jensen’s the only executive in the semiconductor industry convincing supply chain companies to invest like they’ve never done before. From our benchmarking, the TPU is just as good as NVIDIA. But Google doesn’t have that DNA of wheeling and dealing.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "rJuzxYQxktk"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-      "published_at": "2026-11-14T21:15:46+00:00",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-      "summary": "Community Wisdom 305",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "Is AI Killing Adobe? We Discuss",
-      "published_at": "2026-11-14T20:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Is-AI-Killing-Adobe--We-Discuss-e3sbv2s",
-      "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠⁠ ⁠⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠⁠Acquirers Multiple⁠⁠⁠⁠ ⁠⁠⁠⁠Acquirers Funds⁠⁠⁠⁠ ⁠⁠⁠⁠Twitter⁠⁠⁠⁠ ⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠ ⁠⁠⁠⁠Facebook⁠⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠⁠Crash Test Dummy⁠⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO4753719970.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
     }
   ],
