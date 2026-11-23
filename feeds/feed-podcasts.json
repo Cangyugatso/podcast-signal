@@ -1,9 +1,33 @@
 {
-  "generated_at": "2026-11-22T01:51:44.268233+00:00",
+  "generated_at": "2026-11-23T02:08:27.297259+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 31,
+  "item_count": 30,
   "podcasts": [
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "published_at": "2026-11-22T13:31:53+00:00",
+      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "audio_url": "https://api.substack.com/feed/podcast/224503136/c3eb6c0917fda5bcefa5862e3b0c1835.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-how-the-internet-happened-chris-dixon-brian-mccullough-2018-k0AHBjvt",
+      "summary": "Why do technologies that look like bad ideas in one era become enormous companies in the next? Originally recorded in 2018, Brian McCullough and Chris Dixon trace the companies, failures, and accidents that built the modern internet. They revisit the battle between the open web and more centralized visions of the “information superhighway,” why eBay helped establish trust between strangers online, what Napster understood about digital media, and how Google found a business model for search. They also look at the dot-com crash and the ideas that arrived before the technology was ready, from cloud storage to grocery delivery, asking what those cycles can teach founders about spotting the next wave. Resources: Follow Brian McCullough on X: https://x.com/brianmcc Follow Chris Dixon on X: https://x.com/cdixon Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/72c66943-1a58-4565-bf56-94c3493753af/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=72c66943-1a58-4565-bf56-94c3493753af&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -259,18 +283,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Can AI Learn to Improve Itself? | Recursive Self-Improvement",
-      "published_at": "2026-11-17T17:44:53+00:00",
-      "url": "https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ",
-      "summary": "For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. Mark Chen says OpenAI has built “AI research interns.” So how far are we from AI that can do the research on its own? In our first episode of Working Theory, a16z general partner Sarah Wang explores recursive self-improvement with two leading AI researchers: Mark Chen, Chief Research Officer at OpenAI, and John Schulman, co-founder and Chief Scientist of Thinking Machines Lab, and co-founder of OpenAI. They cover what RSI actually means, why research taste is so hard to teach, and why AI may be one of our best tools for solving alignment. Resources: Follow Mark Chen: https://x.com/markchen90 Follow John Schulman: https://x.com/johnschulman2 Follow Sarah Wang on X: https://x.com/sarahdingwang Chart Sources https://situational-awareness.ai/from-agi-to-superintelligence/ https://openai.com/index/research-acceleration-view-inside-openai/ https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/ https://x.com/sebkrier/status/2119213426589278648 https://assets.claude.com/7b1c44894e980876479947dcdd40716278aeeffd.pdf Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0cea4b6e-e8d9-4713-a7a4-4d470073803c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0cea4b6e-e8d9-4713-a7a4-4d470073803c&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Invest Like the Best",
       "domain": "invest",
       "language": "en",
@@ -353,31 +365,6 @@
       "summary": "Paul Enright is a private investor managing his own capital under single family office, Krainos Capital. Paul opened Krainos after a dozen years at Viking Global Investors, the multi-billion dollar long-short equity hedge fund that also has been one of the most successful breeding grounds for talent in the industry. He has a deep understanding of intricacies of long-short equity investing and a knack for explaining it well. Our conversation covers Paul's career path to Viking, training while there, and advice to early-career investors. We dive into the distinction between business analysis and stock picking, and the importance of portfolio management to investment success. In the process, we discuss liquidity, shorting, portfolio rebalancing, incentive compensation, and market structure. We close with Paul's approach to managing his own money and his answers to a terrific set of questions sourced from his Twitter feed before the show. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
       "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.266_Paul_Enright_-_REPLAY_2026_V1.mp3?dest-id=482814",
       "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "The devil’s advocate case for letting China rent American compute.",
-      "published_at": "2026-11-16T01:04:32+00:00",
-      "url": "https://www.youtube.com/shorts/rRDiiDjtp1k",
-      "summary": "The devil’s advocate case for letting China rent American compute. “If China has access to compute outside of China, it’s paying humongous margin dollars to the US ecosystem. Nvidia makes about $7 million of profit on every megawatt deployed. The cloud provider makes another $7 to 10 million at today’s pricing.” “If ByteDance wants to compete with Meta on video recommendation globally, and you don’t let it buy the chips but you do let it rent them, Meta potentially has a fourth of the cost of compute.” “Application-layer companies running on open models add up to well north of $10 billion in ARR. DeepSeek makes less than Baseten and Fireworks do serving its models. America is making so much money off Chinese models.” Watch the Full Podcast on YouTube.",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "rRDiiDjtp1k"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
-      "published_at": "2026-11-15T13:31:28+00:00",
-      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
-      "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
-      "audio_url": "https://api.substack.com/feed/podcast/224231309/9fa1e58e302073432fc875f5c7f3b8f5.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
       "source_type": "rss"
     }
   ],
