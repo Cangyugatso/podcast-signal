@@ -1,9 +1,69 @@
 {
-  "generated_at": "2026-11-23T02:08:27.297259+00:00",
+  "generated_at": "2026-11-24T05:42:32.967004+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 30,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "published_at": "2026-11-24T04:14:16+00:00",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+      "published_at": "2026-11-23T16:01:48+00:00",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+      "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "audio_url": "",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+      "published_at": "2026-11-23T13:04:43+00:00",
+      "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "summary": "Watch now (31 mins) | 🎙️ Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
+      "audio_url": "https://api.substack.com/feed/podcast/225576082/74277ebadec1be07e36f9da61c5ab5fe.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "The One-Person Biotech | OpenAI Life Sciences",
+      "published_at": "2026-11-23T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB",
+      "summary": "What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16z’s Jay Rughani and Jorge Conde to discuss how AI and thousands of parallel agents could reshape drug discovery and development. They trace OpenAI’s life sciences work from scientific reasoning to the acquisition of Orchestra Bio, and how agents could search biological data, manage clinical trials, and navigate regulatory and manufacturing workflows. They also discuss AI’s role in solving difficult diagnoses and a future where a single person could potentially launch and advance multiple biotech programs. Resources: Joy Jiao on LinkedIn: https://www.linkedin.com/in/yunxin-jiao/ Follow Ashoka Rajendra on X: https://x.com/ashokaraj_ OpenAI on Orchestra Bio and Rosalind: https://openai.com/index/openai-to-acquire-orchestra-bio/ Follow Jay Rughani on X: https://x.com/JayRughani Follow Jorge Conde on X: https://x.com/JorgeCondeBio Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f4221967-bfe3-477d-85f4-72463c8670f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f4221967-bfe3-477d-85f4-72463c8670f4&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "Capital Allocators",
+      "domain": "invest",
+      "language": "en",
+      "title": "Alternative Real Assets at $110 Billion Harrison Street – Christopher Merrill (EP.529)",
+      "published_at": "2026-11-23T09:00:00+00:00",
+      "url": "https://tedseides.libsyn.com/alternative-real-assets-at-110-billion-harrison-street-christopher-merrill-ep529",
+      "summary": "Christopher Merrill is the Co-Founder and CEO of Harrison Street, a $110 billion alternative real assets manager that spans real estate, infrastructure, and credit. Our conversation covers investing in demographic-driven real estate and building a differentiated firm by challenging conventional wisdom and learning from mistakes. Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.529_-_Chris_Merrill_-_AUDIO_V1.2.mp3?dest-id=482814",
+      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
+      "source_type": "rss"
+    },
     {
       "source": "Lenny's Podcast",
       "domain": "ai",
@@ -210,18 +270,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
-      "published_at": "2026-11-19T07:07:43+00:00",
-      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
-      "summary": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Lex Fridman",
       "domain": "ai",
       "language": "en",
@@ -231,18 +279,6 @@
       "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep505-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/larry-lawton-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Larry’s YouTube: https://youtube.com/c/LarryLawtonJewelThief Larry’s Instagram: https://instagram.com/reallarrylawton SPONSORS: To support this podcast, check out our sponsors & get discounts: Fin: AI agent for customer service. Go to https://fin.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai OUTLINE: (00:00) – Introduction (01:32) – Sponsors, Comments, and Reflections (07:23) – GTA 6 (28:31) – 1980s Miami crime era (44:48) – Scarface (1:05:18) – Surviving solitary confinement (1:17:01) – First jewelry store robbery (1:26:04) – Prison economy and stamps (1:33:21) – Mass incarceration in America (2:13:12) – Psychopaths in prison (2:28:02) – New York mob (2:53:29) – First day in prison (2:58:25) – Most dangerous prison gangs PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/episode/3pMbOrsJ33K61lgOBsUrq5 – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
       "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
       "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Missing Layer for Personal AI | First Person Labs’ Ken Liu",
-      "published_at": "2026-11-18T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00",
-      "summary": "AI agents are getting smarter, but every new agent still has to learn who you are. What if your preferences, priorities, relationships, and digital context could move with you instead? First Person Labs co-founder Ken Liu joins a16z’s Martin Casado and Joel de la Garza to introduce Second, a personal context layer designed to understand what you’re doing across your digital life and make that context available to the agents you choose. They discuss how Second can proactively connect information across conversations and applications, why protecting such personal data requires a different security architecture, and the longer-term vision of AI that doesn’t just respond to prompts, but understands enough context to know when and how to help. Resources: Try Second: https://2.computer Learn more about First Person Labs: https://fpl.company/ Follow Ken Liu: ​​​​ https://www.linkedin.com/in/kenziyuliu/ Follow Martin Casado on X: https://x.com/martin_casado a16z.com Follow Joel de la Garza: https://x.com/YODELAGARZA a16z.com Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/07b9cac6-3023-4069-82be-9f0832c5106e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=07b9cac6-3023-4069-82be-9f0832c5106e&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -292,79 +328,6 @@
       "summary": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy. Brad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away. Brad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside. Please enjoy my conversation with Brad and Geoffrey. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:00:42) Why Education Alone Isn't Enough (00:07:41) Is the American Dream Lost? (00:14:19) Getting 70 Million Accounts Claimed (00:20:40) How the Accounts Work (00:24:43) Ownership vs. Populism (00:28:42) Winning Over Both Parties (00:35:57) Will the Program Last? (00:43:30) Lessons From 50 Years of Fighting Poverty (00:47:43) Financial Education at Scale (00:57:19) What Young People Fear About AI (01:05:56) Why Giving Money Away Is Hard (01:12:08) What's at Stake for America (01:21:17) The Trip That Changed Geoffrey's Life",
       "audio_url": "https://traffic.megaphone.fm/CLS6783435309.mp3",
       "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "USA v/s China AI Labs. OpenSource AI after Jensen leaves NVIDIA",
-      "published_at": "2026-11-17T03:01:35+00:00",
-      "url": "https://www.youtube.com/shorts/Ovp1EeXGoLM",
-      "summary": "More than 1.5 GW of chips are in China that shouldn’t be. Unwinding that web could reshape open-source AI. “In our view, there’s more than one and a half gigawatts of chips in China that are not supposed to be there according to US law. How they get there, that whole web, that’s what’s going to unwind.” “If NVIDIA can no longer support the open-source ecosystem, because that was Jensen’s primary goal, does that mean the open-source ecosystem falls away?” “Now open source looks a lot weaker with NVIDIA down and out. Anthropic looks much more likely to get a complete monopoly or a duopoly. This bodes really well for Anthropic’s IPO next week.” “They’re more diverse in what chips they use than any other company in the world.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Ovp1EeXGoLM"
-    },
-    {
-      "source": "Dwarkesh Patel",
-      "domain": "ai",
-      "language": "en",
-      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
-      "published_at": "2026-11-16T17:46:28+00:00",
-      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
-      "summary": "Watch now (99 mins) | \"It would be hard for humanity to recover.\"",
-      "audio_url": "https://api.substack.com/feed/podcast/225196123/2f4a4103cbe12814f6fafafce433e73c.mp3",
-      "feed_url": "https://www.dwarkesh.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
-      "published_at": "2026-11-16T16:02:55+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
-      "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "How I fight token fraud as a solo founder",
-      "published_at": "2026-11-16T13:04:09+00:00",
-      "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
-      "summary": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
-      "audio_url": "https://api.substack.com/feed/podcast/224392250/ad3b2051f728063c0a409b97f39c7873.mp3",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI – Paul Enright (EP.527)",
-      "published_at": "2026-11-16T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/single-manager-hedge-funds-pod-shops-and-the-age-of-ai-paul-enright-ep527",
-      "summary": "Paul Enright is a guru on equity hedge fund investing. Paul manages his family office, Krainos Holdings, that he started after a long career at Viking Global. For the last three years, he went back into the business as Chairman of Fundamental Equities for multi-manager pod shop Jain Global. Our conversation is a deep dive on single manager and multi manager hedge funds and on equity research in the age of AI. AlphaSense free trial for Capital Allocators listeners. Take Ridgeline's investment management tech survey . Learn more about Juniper Square here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list ( https://capitalallocators.com/ ) Access Transcript with Premium Membership ( https://capitalallocators.com/signup) Editing and post-production work for this episode was provided by The Podcast Consultant ( thepodcastconsultant.com )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "[REPLAY] Paul Enright – Inside Long-Short Equity Investing (Capital Allocators, EP.266)",
-      "published_at": "2026-11-16T08:50:00+00:00",
-      "url": "https://tedseides.libsyn.com/replay-paul-enright-inside-long-short-equity-investing-capital-allocators-ep266",
-      "summary": "Paul Enright is a private investor managing his own capital under single family office, Krainos Capital. Paul opened Krainos after a dozen years at Viking Global Investors, the multi-billion dollar long-short equity hedge fund that also has been one of the most successful breeding grounds for talent in the industry. He has a deep understanding of intricacies of long-short equity investing and a knack for explaining it well. Our conversation covers Paul's career path to Viking, training while there, and advice to early-career investors. We dive into the distinction between business analysis and stock picking, and the importance of portfolio management to investment success. In the process, we discuss liquidity, shorting, portfolio rebalancing, incentive compensation, and market structure. We close with Paul's approach to managing his own money and his answers to a terrific set of questions sourced from his Twitter feed before the show. Learn More Follow Ted on Twitter at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant ( ⁠ https://thepodcastconsultant.com ⁠ )",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.266_Paul_Enright_-_REPLAY_2026_V1.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
       "source_type": "rss"
     }
   ],
