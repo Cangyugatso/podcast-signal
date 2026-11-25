@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-11-24T05:42:32.967004+00:00",
+  "generated_at": "2026-11-25T04:44:41.418876+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 27,
+  "item_count": 30,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "published_at": "2026-11-25T04:29:07+00:00",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "summary": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Can a Chip Beat Biology?",
+      "published_at": "2026-11-25T00:00:40+00:00",
+      "url": "https://www.youtube.com/shorts/eflTDr2kvPE",
+      "summary": "Naveen Rao, founder of Nervana and MosaicML and now CEO of Unconventional AI, tells Dylan Patel why computing has hit an energy wall and what comes next. From the first episode of Tape Out, a new SemiAnalysis series. Subscribe for more.",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "eflTDr2kvPE"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "Building a chip to beat biology | Naveen Rao - Unconventional AI [Tape Out - Ep.001]",
+      "published_at": "2026-11-24T23:30:13+00:00",
+      "url": "https://www.youtube.com/watch?v=FBtUWwlaBoY",
+      "summary": "\"We actually build chips every three months. Like we literally tape out a new chip.\" Naveen Rao has built two AI companies and sold them both: Nervana to Intel and MosaicML to Databricks. His third, Unconventional AI, looks nothing like either of them. His argument is that AI is now limited by energy, so the number that matters is joules per token. Getting there means dropping the von Neumann split between memory and compute and building a machine that is \"programmed by weights.\" To learn fast, his team tapes out a new chip roughly every three months. Their first test chip, a system of coupled oscillators, generated small images at about 900 nanojoules each, against about 50 millijoules on a GPU. Dylan Patel pushes on all of it: - why so many analog chips blew their lead once you count the conversion costs - whether programmability still matters when NVIDIA is king - whether we will stop buying computers and start buying intelligence tokens - how far AI can go in designing chips itself Tape Out is a new SemiAnalysis series: we sit across from the founders building AI hardware and ask the hard questions. Timestamps 0:00 Cold Open 0:20 Naveen's Background 5:03 Unconventional AI 6:42 Beyond von Neumann 11:11 Analog vs Digital 20:02 Chips Every 3 Months 21:35 The Oscillator Chip 25:39 Biggest Challenges 27:59 Does Programmability Matter? 31:14 Charting the Path 37:23 Hardware vs Tokens 40:44 Hiring and AI Chip Design Naveen Rao X: https://x.com/NaveenGRao LinkedIn: https://www.linkedin.com/in/naveen-rao-bba5b01/ Unconventional AI Website: https://unconv.ai X: https://x.com/unconvai LinkedIn: https://www.linkedin.com/company/unconvai/ Careers: https://unconv.ai/careers/ Dylan Patel X: https://x.com/dylan522p LinkedIn: https://www.linkedin.com/in/dylanpatelsa/ SemiAnalysis Website: https://semianalysis.com Newsletter: https://newsletter.semianalysis.com X: https://x.com/SemiAnalysis_ LinkedIn: https://www.linkedin.com/company/semianalysis YouTube: https://www.youtube.com/@SemiAnalysis",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "FBtUWwlaBoY"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "Responding to objections to recursive self-improvement",
+      "published_at": "2026-11-24T21:45:30+00:00",
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "summary": "What the skeptics get right about superintelligence",
+      "audio_url": "https://api.substack.com/feed/podcast/226413128/a9606f26acc6870494c29aa0a5007a9d.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Google DeepMind Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "The brain helped us build AI. Now AI is explaining the brain.",
+      "published_at": "2026-11-24T18:17:32+00:00",
+      "url": "https://deepmind.com/podcast",
+      "summary": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the early days of AI, researchers looked to the brain for clues about how to build smarter machines. But today, that relationship has been flipped on its head. Join Professor Hannah Fry and neuroscience researchers Maria Eckstein and Kim Stachenfeld to see how scientists are using AI to better understand the human mind. Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/bb45070c-d56a-4e27-8bac-a7b07985c504/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=bb45070c-d56a-4e27-8bac-a7b07985c504&feed=JT6pbPkg",
+      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
+      "source_type": "rss"
+    },
+    {
+      "source": "Invest Like the Best",
+      "domain": "invest",
+      "language": "en",
+      "title": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]",
+      "published_at": "2026-11-24T15:00:00+00:00",
+      "url": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+      "summary": "Scott Wu is the CEO and co-founder of Cognition, the company behind the AI coding agent Devin. Cognition made its first dollar of revenue in September 2024. Less than two years later, it crossed a $1 billion run rate, and Citi is rolling Devin out to about 14,000 engineers as it brings software projects in-house. We talk about what that means for the job of an engineer, and the trade-off between buying too much compute and not having enough to serve your customers. Scott thinks major breaches at some of the world's largest companies and government agencies are almost inevitable in the next six to 12 months. As AI agents start working in swarms, they're finding flaws that have gone unnoticed for years. I ask him what companies should be doing now and why he still thinks the attackers will lose in the long run. Please enjoy my conversation with Scott Wu. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠here⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠⁠colossus.com/subscribe⁠⁠⁠. ----- ⁠⁠⁠Ramp’s⁠⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠⁠ramp.com/invest⁠⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠⁠Vanta⁠⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠⁠vanta.com/invest⁠⁠⁠. ----- ⁠⁠WorkOS⁠⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠⁠Rogo⁠⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠⁠rogo.ai/invest⁠⁠. ----- ⁠⁠⁠Ridgeline⁠⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠⁠The Podcast Consultant⁠⁠. Timestamps: (00:02:03) Cognition by the Numbers (00:04:37) Why Major Breaches Are Coming (00:11:04) Bringing AI Defense to Enterprises (00:14:40) How Dangerous Are Agent Swarms? (00:22:25) Why Compute Is the New Oil (00:27:53) The Compute Planning Tightrope (00:33:53) Rolling Out Devin at Scale (00:37:22) The Engineer's New Job (00:41:12) Agents Triggering More Agents (00:46:26) Open Models and the Frontier (00:49:43) Testing AI Against Real Engineering (00:53:26) Why Cognition Stays Independent (00:56:08) Recruiting for a Generational Company (00:59:40) Leading In the AI Era",
+      "audio_url": "https://traffic.megaphone.fm/CLS5759445410.mp3",
+      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE",
+      "summary": "When Apple Pay launched in the U.S., only about 3% of merchants accepted contactless payments. A decade later, Jennifer Bailey has helped expand it to 75 markets and more than 11,000 bank and network partners. Jennifer joins a16z General Partner Alex Rampell to tell the story of building Apple Pay, from solving the chicken-and-egg problem of banks, merchants, and consumers to designing payments around security and privacy without Apple seeing individual transactions. They also discuss the expansion from payments into transit, tickets, car and hotel keys, and digital IDs, plus why customer experience, patience, and timing have shaped Jennifer’s approach to building new products inside Apple. Resources: Follow Jennifer Bailey on LinkedIn: https://www.linkedin.com/in/jbaileyz Bailey: Follow Alex Rampell on X: https://x.com/arampell Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/02cb7d51-09f9-4aae-907e-64eee1212c6d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=02cb7d51-09f9-4aae-907e-64eee1212c6d&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -14,6 +100,18 @@
       "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
       "audio_url": "",
       "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "All-In Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+      "published_at": "2026-11-24T02:30:00+00:00",
+      "url": "https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem",
+      "summary": "(0:00) CrowdStrike CEO, George Kurtz joins the show! (1:38) Are the Outages Cyberattacks? (10:36) How AI Lets Anyone Hack Like a Nation-State Level Threat (16:33) Patching, Technical Debt, and Outages (33:40) Open-Weight and Local AI: Risk and Defense (42:38) Hackers Don't Break In, They Log In Thanks to our partners for making this possible: As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. Learn more at CreativePlanning.com/AllIn Zcash is encrypted Bitcoin. In an age of AI-powered surveillance, financial privacy is freedom. Protect your wealth from prying eyes. Download Vizor Wallet and start using Zcash today. Learn more at https://vizor.cash Follow George: https://x.com/@George_Kurtz Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_Geoge_Kurtz_INT.mp3?dest-id=1928300",
+      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
       "source_type": "rss"
     },
     {
@@ -198,18 +296,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
-      "published_at": "2026-11-19T23:58:21+00:00",
-      "url": "https://latent.space/p/linear-scaling/",
-      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
-      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1f60c-1b1f-791d-ab17-93dc95925d0f/01a1f60c-1d13-7e51-8f68-58af8c020059.mp3",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "Google DeepMind Podcast",
       "domain": "ai",
       "language": "en",
@@ -219,18 +305,6 @@
       "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP of Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs like AlphaGo and AlphaFold; today, Koray is leading the charge toward general-purpose intelligence with Gemini. In this episode, they discuss why real-world products are essential to building AGI, how Gemini’s architecture continuously evolves, and the topic on everyone's mind: recursive self-improvement. Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a&feed=JT6pbPkg",
       "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "How Fast Should We Build Superintelligence? | Nick Bostrom",
-      "published_at": "2026-11-19T15:29:34+00:00",
-      "url": "https://a16z.simplecast.com/episodes/how-fast-should-we-build-superintelligence-nick-bostrom-21xI3Oxg",
-      "summary": "The question isn’t simply whether humanity should race toward superintelligence or stop. Nick Bostrom argues the harder challenge is preserving the ability to slow down when safety falls behind, without turning a temporary pause into permanent technological stagnation. a16z’s Eddy Lazzarin and Elena Burger sit down with Bostrom to revisit the ideas he helped bring into the mainstream, now that increasingly capable AI systems actually exist. They discuss why alignment may become harder as models grow more situationally aware, which capability improvements may carry more risk than others, and why Bostrom favors “pacing the frontier” rather than committing to a broad or indefinite pause. They also examine the cost of waiting. Bostrom argues that safely developed superintelligence could radically extend human lifespans and address problems from disease to poverty, meaning delay carries risks of its own. From there, the conversation turns to Deep Utopia , governance, the possibility of post-human forms of life, the simulation argument, and whether AI could eventually surpass humans at philosophy itself. Resources: Follow Eddy Lazzarin on X: https://x.com/eddylazzarin Follow Elena Burger on X: https://x.com/VirtualElena Follow Nick Bostrom / Macrostrategy Research Initiative: https://nickbostrom.com/ Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0a6ec871-891c-4c0f-bd80-08ebf4fc4b2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0a6ec871-891c-4c0f-bd80-08ebf4fc4b2d&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
       "source_type": "rss"
     },
     {
@@ -293,42 +367,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "Qs1EDoITg4I"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
-      "published_at": "2026-11-17T21:43:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/databricks-ceo-agi-is-already-here-why-companies-are-behind-and-the-superintelligence-debate",
-      "summary": "(0:00) Ali Ghodsi joins the show: Databricks' early bets on cloud, AI, and open source (8:50) Is AGI Already Here? Why Enterprise AI Is Falling Behind (22:04) Live Demo: How Databricks Uses Agentic AI For Efficiency (38:25) Databricks IPO: The Case for Staying Private (44:02) RSI, Cyber Risk & the Doom Debate Thanks to our partner for making this possible: Airwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. Learn more at https://airwallex.com/allin Follow Ali: https://x.com/@alighodsi Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect #allin #tech #news",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AUDIO_99_AliGhodsi_Databricks.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lenny's Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-      "published_at": "2026-11-17T18:02:02+00:00",
-      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
-      "summary": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
-      "audio_url": "",
-      "feed_url": "https://www.lennysnewsletter.com/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "Invest Like the Best",
-      "domain": "invest",
-      "language": "en",
-      "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
-      "published_at": "2026-11-17T13:00:00+00:00",
-      "url": "https://colossus.com/episode/restoring-the-american-dream/",
-      "summary": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy. Brad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away. Brad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside. Please enjoy my conversation with Brad and Geoffrey. For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠⁠. ----- Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠. ----- ⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus. ----- Trusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠. ----- ⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. ----- ⁠Rogo⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠rogo.ai/invest⁠. ----- ⁠⁠Ridgeline⁠⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠⁠. ----- Editing and post-production work for this episode was provided by ⁠The Podcast Consultant⁠. Timestamps: (00:00:42) Why Education Alone Isn't Enough (00:07:41) Is the American Dream Lost? (00:14:19) Getting 70 Million Accounts Claimed (00:20:40) How the Accounts Work (00:24:43) Ownership vs. Populism (00:28:42) Winning Over Both Parties (00:35:57) Will the Program Last? (00:43:30) Lessons From 50 Years of Fighting Poverty (00:47:43) Financial Education at Scale (00:57:19) What Young People Fear About AI (01:05:56) Why Giving Money Away Is Hard (01:12:08) What's at Stake for America (01:21:17) The Trip That Changed Geoffrey's Life",
-      "audio_url": "https://traffic.megaphone.fm/CLS6783435309.mp3",
-      "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-      "source_type": "rss"
     }
   ],
   "errors": []
