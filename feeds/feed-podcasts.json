@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-11-25T04:44:41.418876+00:00",
+  "generated_at": "2026-11-26T03:54:15.978780+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 30,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "published_at": "2026-11-25T22:28:01+00:00",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a214b9-5541-758c-b9a3-1d85f48144ff/01a214d7-cbb8-79f1-a627-087a38d098e9.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "published_at": "2026-11-25T22:23:41+00:00",
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "summary": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
+      "audio_url": "",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "Lenny's Podcast",
+      "domain": "ai",
+      "language": "en",
+      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+      "published_at": "2026-11-25T13:04:21+00:00",
+      "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "summary": "Watch now (32 mins) | 🎙️ My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
+      "audio_url": "https://api.substack.com/feed/podcast/226276789/784fb4d5819cc07349df297996db3655.mp3",
+      "feed_url": "https://www.lennysnewsletter.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Replay: Principles and Algorithms for Work and Life | Ray Dalio (2019)",
+      "published_at": "2026-11-25T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-principles-and-algorithms-for-work-and-life-ray-dalio-2019-c5Xl8LYw",
+      "summary": "Can you turn the lessons you learn from experience into a repeatable system for making better decisions? Ray Dalio argues that writing down the principles behind your decisions, testing them against history, and eventually turning them into algorithms can help. In this archive conversation, Ray joins a16z’s Alex Rampell and Sonal Chokshi to discuss decision-making under uncertainty, learning from mistakes, and why understanding cause and effect matters more than blindly trusting a black-box model. They also get into radical open-mindedness, judging people on process rather than outcomes, building teams around complementary strengths, and why knowing what you don’t know may be more valuable than what you do. Resources: Follow Ray Dalio on X: https://x.com/RayDalio X Blog Follow Alex Rampell on X: https://x.com/arampell Andreessen Horowitz Follow Sonal Chokshi on X: https://x.com/smc90 Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/aa7582d3-bf6b-4e30-8ea2-ce0403927f04/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=aa7582d3-bf6b-4e30-8ea2-ce0403927f04&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -247,30 +295,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
-      "published_at": "2026-11-20T21:18:41+00:00",
-      "url": "https://latent.space/p/formal-verification/",
-      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Why the Agent Era Needs a New Operating System | DHH",
-      "published_at": "2026-11-20T15:48:13+00:00",
-      "url": "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL",
-      "summary": "David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: the chance to build a new operating system people actually want to use. DHH joins a16z General Partners Martin Casado and Anish Acharya to explain why he’s building Omarchy, an agent-first Linux distribution designed around a computer that users can modify simply by asking. They discuss why the command lines, config files, and detailed error messages that once made Linux intimidating now make it unusually well suited to agents, and why DHH believes software development has become cheap enough to challenge decades-old platform lock-in. But if code is becoming abundant, what still matters? DHH argues that taste, craft, and the willingness to obsess over the final 2% become more important, not less. The conversation moves from tiny teams wielding the productive capacity of thousands of people to open models, competition at the frontier, and the return of hacker, demo, and pseudonymous internet culture. Resources: Follow David Heinemeier Hansson on X: @dhh David Heinemeier Hansson: dhh.dk Omarchy: omarchy.org 37signals: 37signals.com Follow Martin Casado on X: @martin_casado Follow Anish Acharya on X: @illscience Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "SemiAnalysis",
       "domain": "ai",
       "language": "en",
@@ -282,18 +306,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "P3ZaQEhnxvg"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
-      "published_at": "2026-11-20T07:12:24+00:00",
-      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
-      "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
     },
     {
       "source": "Google DeepMind Podcast",
@@ -354,19 +366,6 @@
       "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
       "feed_url": "https://lexfridman.com/feed/podcast/",
       "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Next CEO of NVIDIA is..... Who should run NVIDIA next?",
-      "published_at": "2026-11-18T05:13:36+00:00",
-      "url": "https://www.youtube.com/shorts/Qs1EDoITg4I",
-      "summary": "Jensen is out. Who should run NVIDIA next? “It has to be an external CEO, given all of the questions around chip shipments to China. I hope it is Charlie Kawwas of Broadcom or Johny Srouji of Apple.” “If it is internal candidates, Ian Buck and Jonah Alben are the two best bets. But everything around shipping chips to China is going to be very, very scrutinized. Did they know? What did they know?” “Jensen has been the defender of open source. Now there is no one defending Chinese open source anymore. Certainly the restrictions from the US on China are about to ramp up.”",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "Qs1EDoITg4I"
     }
   ],
   "errors": []
