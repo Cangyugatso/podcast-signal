@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-11-26T03:54:15.978780+00:00",
+  "generated_at": "2026-11-27T03:54:30.761203+00:00",
   "lookback_hours": 168,
   "source_count": 13,
-  "item_count": 30,
+  "item_count": 27,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "published_at": "2026-11-26T23:02:48+00:00",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a21990-d1c6-7a0c-b8e0-fa2c1f04b55c/01a21990-d354-76be-8342-c5bfbf222b77.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "This Thanksgiving, we at SemiAnalysis are thankful for the gift of Bremsstrahlung radiation",
+      "published_at": "2026-11-26T16:03:46+00:00",
+      "url": "https://www.youtube.com/watch?v=RvLfrZamvJU",
+      "summary": "This Thanksgiving, we at SemiAnalysis are thankful for the gift of Bremsstrahlung radiation",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "RvLfrZamvJU"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Replay: On Food as Medicine (2020)",
+      "published_at": "2026-11-26T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-on-food-as-medicine-2020-6pgEsA1X",
+      "summary": "What if one of healthcare’s most powerful interventions isn’t a drug, but food? Originally recorded in 2020, this conversation looks at how nutrition could help prevent and manage chronic disease while lowering healthcare costs. Julie Yoo speaks with Dr. Andrea Feinberg and Plated co-founder Josh Hix about food insecurity, medically tailored meals, reimbursement, and why access and convenience can matter as much as knowing what’s healthy. They also discuss how online grocery shopping and delivery could reshape people’s food environments, and what it would take to make nutritious food a more integrated part of healthcare. Resources: Follow Dr. Andrea Feinberg on LinkedIn: https://www.linkedin.com/in/andrea-feinberg-md-9584a8b7 Follow Josh Hix on X: https://x.com/joshhix Follow Julie Yoo on X: https://x.com/julesyoo Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e09deb33-45a7-4621-bc9d-523fe8562c3e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e09deb33-45a7-4621-bc9d-523fe8562c3e&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
+    {
+      "source": "The Acquirers Podcast",
+      "domain": "invest",
+      "language": "en",
+      "title": "Raoul Pal: \"Economic History Is Over.\" The Exponential Age Has Begun",
+      "published_at": "2026-11-26T08:00:00+00:00",
+      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Raoul-Pal-Economic-History-Is-Over--The-Exponential-Age-Has-Begun-e3t16al",
+      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. What the singularity means for your money. In 47 seconds a day: ⁠thelastinvestment.com⁠ ⁠Investing in AI and the Singularity Whitepaper⁠ My new book ⁠⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at ⁠⁠acquirersmultiple.com/podcast⁠⁠ About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠⁠ ⁠⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠⁠Acquirers Multiple⁠⁠⁠⁠ ⁠⁠⁠⁠Acquirers Funds⁠⁠⁠⁠ ⁠⁠⁠⁠Twitter⁠⁠⁠⁠ ⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠ ⁠⁠⁠⁠Facebook⁠⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠⁠Crash Test Dummy⁠⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
+      "audio_url": "https://traffic.megaphone.fm/APO3418956105.mp3",
+      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -247,18 +296,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "The Professional Network Built for You and Your AI Agent",
-      "published_at": "2026-11-21T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL",
-      "summary": "What if your AI agent could find the people you should know before you even start looking? Cosign is building a professional network around reputation and trusted recommendations, and now agents can use that network too. MTS host Sophia Dew sits down with a16z’s David Booth and Cosign’s Bella Nazzari to discuss what they’ve learned since launching Cosign, why traditional profiles often miss the operators doing the most important work, and how the Cosign Awards are surfacing talent through the people willing to vouch for them. They also explore an emerging behavior: people connecting their agents to Cosign to continuously find relevant people, lists, and opportunities, and what professional networking could look like when both humans and their agents participate. Resources: Follow David Booth: https://x.com/davidbooth Follow Bella Nazzari: https://x.com/nazzari Follow Sophia Dew: https://x.com/sophiadew Learn more about Cosign: https://cosign.co/ Connect your agent to Cosign: https://cosign.co/agents Follow MTS on X: https://x.com/MTSLive Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f0a94159-1e7b-4208-9088-df19e8314067/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f0a94159-1e7b-4208-9088-df19e8314067&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "The Acquirers Podcast",
       "domain": "invest",
       "language": "en",
@@ -268,18 +305,6 @@
       "summary": "Value Options Podcast a podcast about value investing and options by investors Tobias Carlisle and Tim Travis. My new book ⁠⁠⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at https://acquirersmultiple.com/podcast ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠⁠⁠Acquirers Multiple⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Acquirers Funds⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Twitter⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠Facebook⁠⁠⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠⁠⁠Crash Test Dummy⁠⁠⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
       "audio_url": "https://traffic.megaphone.fm/APO7855481370.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Riemann Hypothesis proved...twice independently",
-      "published_at": "2026-11-21T05:02:13+00:00",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
-      "summary": "November 20 2026 —",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
       "source_type": "rss"
     },
     {
@@ -306,66 +331,6 @@
       "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
       "source_type": "youtube",
       "video_id": "P3ZaQEhnxvg"
-    },
-    {
-      "source": "Google DeepMind Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
-      "published_at": "2026-11-19T19:46:40+00:00",
-      "url": "https://deepmind.com/podcast",
-      "summary": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP of Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was focused on specialized breakthroughs like AlphaGo and AlphaFold; today, Koray is leading the charge toward general-purpose intelligence with Gemini. In this episode, they discuss why real-world products are essential to building AGI, how Gemini’s architecture continuously evolves, and the topic on everyone's mind: recursive self-improvement. Please leave us a review on Spotify or Apple Podcasts if you enjoyed this episode. We always want to hear from our audience whether that's in the form of feedback, new idea or a guest recommendation! Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://afp-920373-injected.calisto.simplecastaudio.com/36cf10bf-f6dd-4a98-96a9-8eda9f59db4f/episodes/cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=36cf10bf-f6dd-4a98-96a9-8eda9f59db4f&awEpisodeId=cf8ed27d-8f5f-4db2-9524-138ac2bd5a6a&feed=JT6pbPkg",
-      "feed_url": "https://feeds.simplecast.com/JT6pbPkg",
-      "source_type": "rss"
-    },
-    {
-      "source": "No Priors",
-      "domain": "ai",
-      "language": "en",
-      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
-      "published_at": "2026-11-19T11:44:00+00:00",
-      "url": "https://traffic.megaphone.fm/PDP6475704364.mp3",
-      "summary": "Is the AI singularity actually coming? Bob McGrew, former Chief Research Officer at OpenAI, argues that superintelligence won’t arrive without changes in the physical world, and that the “hard takeoff” argument is wrong. Sarah Guo and Elad Gil sit down with Bob, an early key executive at Palantir who later led research at OpenAI. He is now CEO and co-founder of Arda, which is leveraging AI to make American manufacturing competitive. Bob explains why automating AI researchers is a one-time boost rather than a runaway loop, and why GPUs, compute, wet labs, and factories are the real bottlenecks. They cover Arda’s work with Anduril on everything from actuators to missiles to the Fury combat aircraft, why Arda is building “Cursor for manufacturing engineers”, and how the forward deployed engineering model really works. Plus, the big-picture future view: machines that make machines, self-replicating factories, and Bob’s answer to the Fermi paradox. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @bobmcgrewai | @Arda_Industries Chapters: 00:00 – Trailer 00:05 – Bob McGrew Introduction 01:05 – Why work on the physical world during the AI revolution? 02:27 – Why the hard takeoff argument is wrong 05:48 – Labs or startups – who will win in robotics and biology? 13:00 – Why America designs products but doesn’t build them 16:33 – Who needs flexible automation: defense, consumer electronics, data centers 18:19 – Humanoid robots vs. robotic work cells 21:07 – Open-world vs. closed-world robotics 25:20 – Building with Anduril: from days to 90 minutes 28:59 – Palantir’s problem-first approach vs. OpenAI’s technology-first approach 33:15 – From dropping out of Stanford to joining OpenAI 37:13 – Why general robotics models suddenly work 40:28 – Implications for the robotics ecosystem 42:46 – On-device models, speed, and safety 44:18 – How forward deployed engineering really works 50:57 – Superintelligence out of the data center 53:41 – Self-replicating factories and Von Neumann probes 56:46 – Bob’s answer to the Fermi paradox 59:33 – Conclusion",
-      "audio_url": "https://traffic.megaphone.fm/PDP6475704364.mp3",
-      "feed_url": "https://feeds.megaphone.fm/nopriors",
-      "source_type": "rss"
-    },
-    {
-      "source": "Capital Allocators",
-      "domain": "invest",
-      "language": "en",
-      "title": "Evolution of Digital Assets at Grayscale – Peter Mintzberg (EP.528)",
-      "published_at": "2026-11-19T09:00:00+00:00",
-      "url": "https://tedseides.libsyn.com/evolution-of-digital-assets-at-grayscale-peter-mintzberg-ep528",
-      "summary": "Peter Mintzberg is CEO of Grayscale, one of the world's largest digital asset managers founded in 2013. Peter joined Grayscale two years ago after a career in strategy and M&A at Goldman Sachs, Apollo, and BlackRock. He saw digital assets as the next step in the evolution of traditional finance. Our conversation covers the rapid mainstream adoption of digital assets, Grayscale's transition from its pioneering trusts to a broad ETF platform, and opportunities beyond Bitcoin and Ethereum. We discuss active management in digital assets, the evolution of blockchain applications, and the changing regulatory environment. We then turn to Peter's view of what comes next, including the convergence of AI and tokenization, personalized portfolios, and a future where the distinction between liquid and illiquid assets fades away. See full disclaimer here . Learn More Follow Ted on X at @tseides or LinkedIn Subscribe to the mailing list Access Transcript with Premium Membership Editing and post-production work for this episode was provided by The Podcast Consultant",
-      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.528_Peter_Mintzberg_-_AUDIO_V2.mp3?dest-id=482814",
-      "feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "The Acquirers Podcast",
-      "domain": "invest",
-      "language": "en",
-      "title": "AI Spending & Market Risk: Capex, Valuations & Returns | Dan Rasmussen",
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "url": "https://podcasters.spotify.com/pod/show/acquirers/episodes/AI-Spending--Market-Risk-Capex--Valuations--Returns--Dan-Rasmussen-e3skoq1",
-      "summary": "Value: After Hours is a podcast about value investing, Fintwit, and all things finance and investment by investors Tobias Carlisle, and Jake Taylor. We are live every Tuesday at 1.30pm E / 10.30am P. What the singularity means for your money. In 47 seconds a day: thelastinvestment.com Investing in AI and the Singularity Whitepaper My new book ⁠⁠⁠⁠⁠Crash Test Dummy: How to Survive the Coming Market Crash (and Thrive in the Next Boom)⁠⁠⁠⁠⁠ is now available via ⁠⁠⁠⁠⁠https://link.amazon/B04hl5L95⁠⁠⁠⁠⁠ ────────────────────── ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── See our latest episodes at ⁠acquirersmultiple.com/podcast⁠ About Jake Jake's Twitter: https://twitter.com/farnamjake1 Jake's book: The Rebel Allocator https://amzn.to/2sgip3l ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠VALUE OPTIONS LETTER⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Three to five curated ideas every week — cash-secured puts, covered calls, and spreads on businesses we'd want to own at strikes we'd be willing to pay. Every trade includes the business thesis in plain English, the fair-value estimate and its key assumptions, the specific option trade with target premium, and the pre-identified exit criteria. Every idea reviewed and approved by an analyst before it hits your inbox. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠valueoptionsletter.com/subscribe⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ────────────────────── ABOUT THE PODCAST Hi, I'm Tobias Carlisle. I launched The Acquirers Podcast to discuss the process of finding undervalued stocks, deep value investing, hedge funds, activism, buyouts, and special situations. We uncover the tactics and strategies for finding good investments, managing risk, dealing with bad luck, and maximizing success. ⁠⁠⁠SEE LATEST EPISODES⁠⁠⁠ ⁠⁠⁠SEE OUR FREE DEEP VALUE STOCK SCREENER ⁠⁠⁠ FOLLOW TOBIAS ⁠⁠⁠Acquirers Multiple⁠⁠⁠ ⁠⁠⁠Acquirers Funds⁠⁠⁠ ⁠⁠⁠Twitter⁠⁠⁠ ⁠⁠⁠LinkedIn⁠⁠⁠ ⁠⁠⁠Facebook⁠⁠⁠ ABOUT TOBIAS CARLISLE Principal, Acquirers Funds. Author of books on investing, most recently ⁠⁠⁠Crash Test Dummy⁠⁠⁠ . Co-host of Value: After Hours. Former activist hedge fund analyst, general counsel of an ASX-listed company, and M&A lawyer. Based in Los Angeles.",
-      "audio_url": "https://traffic.megaphone.fm/APO6275239517.mp3",
-      "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
-      "source_type": "rss"
-    },
-    {
-      "source": "Lex Fridman",
-      "domain": "ai",
-      "language": "en",
-      "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
-      "published_at": "2026-11-19T04:37:34+00:00",
-      "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
-      "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth out of prison. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep505-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/larry-lawton-transcript CONTACT LEX: Feedback – give feedback to Lex: https://lexfridman.com/survey AMA – submit questions, videos or call-in: https://lexfridman.com/ama Hiring – join our team: https://lexfridman.com/hiring Other – other ways to get in touch: https://lexfridman.com/contact EPISODE LINKS: Larry’s YouTube: https://youtube.com/c/LarryLawtonJewelThief Larry’s Instagram: https://instagram.com/reallarrylawton SPONSORS: To support this podcast, check out our sponsors & get discounts: Fin: AI agent for customer service. Go to https://fin.ai/lex Shop: Turns any AI agent into your personal shopper. Go to https://shop.md/lex GiveDirectly: Direct donations to people living in extreme poverty. Go to https://givedirectly.org/lex LMNT: Zero-sugar electrolyte drink mix. Go to https://drinkLMNT.com/lex Perplexity: AI-powered answer engine. Go to https://perplexity.ai/ Higgsfield AI: AI-based video generation, filmmaking, and creative studio. Go to https://higgsfield.ai OUTLINE: (00:00) – Introduction (01:32) – Sponsors, Comments, and Reflections (07:23) – GTA 6 (28:31) – 1980s Miami crime era (44:48) – Scarface (1:05:18) – Surviving solitary confinement (1:17:01) – First jewelry store robbery (1:26:04) – Prison economy and stamps (1:33:21) – Mass incarceration in America (2:13:12) – Psychopaths in prison (2:28:02) – New York mob (2:53:29) – First day in prison (2:58:25) – Most dangerous prison gangs PODCAST LINKS: – Podcast Website: https://lexfridman.com/podcast – Apple Podcasts: https://apple.co/2lwqZIr – Spotify: https://open.spotify.com/episode/3pMbOrsJ33K61lgOBsUrq5 – RSS: https://lexfridman.com/feed/podcast/ – Podcast Playlist: https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 – Clips Channel: https://www.youtube.com/lexclips",
-      "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
-      "feed_url": "https://lexfridman.com/feed/podcast/",
-      "source_type": "rss"
     }
   ],
   "errors": []
