@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-11-27T03:54:30.761203+00:00",
+  "generated_at": "2026-11-28T03:41:03.626961+00:00",
   "lookback_hours": 168,
   "source_count": 13,
   "item_count": 27,
   "podcasts": [
+    {
+      "source": "Latent Space",
+      "domain": "ai",
+      "language": "en",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "published_at": "2026-11-27T22:19:18+00:00",
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "summary": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a21efa-24c7-769b-afbe-cd7e135e4e85/01a21efa-28a3-7145-a228-ed763afc8f37.mp3",
+      "feed_url": "https://www.latent.space/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "SemiAnalysis",
+      "domain": "ai",
+      "language": "en",
+      "title": "SILICON SUPPLY SHOP, NOW OPEN",
+      "published_at": "2026-11-27T19:45:38+00:00",
+      "url": "https://www.youtube.com/shorts/mm2OwNnZEKQ",
+      "summary": "SILICON SUPPLY SHOP, NOW OPEN siliconsupply.shop",
+      "audio_url": "",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+      "source_type": "youtube",
+      "video_id": "mm2OwNnZEKQ"
+    },
+    {
+      "source": "Dwarkesh Patel",
+      "domain": "ai",
+      "language": "en",
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "published_at": "2026-11-27T18:01:14+00:00",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "summary": "\"If we pause now, people still won't understand what's at stake.\"",
+      "audio_url": "https://api.substack.com/feed/podcast/226789196/9ee0d925927246dcf5f9e1d4dc2983f9.mp3",
+      "feed_url": "https://www.dwarkesh.com/feed",
+      "source_type": "rss"
+    },
+    {
+      "source": "a16z",
+      "domain": "ai",
+      "language": "en",
+      "title": "Replay: From Swipe to Scale: How Tinder Became #1 (2024)",
+      "published_at": "2026-11-27T11:00:00+00:00",
+      "url": "https://a16z.simplecast.com/episodes/replay-from-swipe-to-scale-how-tinder-became-1-2024-6396tu7J",
+      "summary": "How do you build a network product when it only works if everyone around you is already using it? Originally recorded in 2024, Tinder founder Sean Rad explains how the company went from a few hundred users to the world’s #1 dating app. Sean joins a16z General Partner Andrew Chen to unpack Tinder’s early product decisions, why the team avoided mass marketing in favor of building density on college campuses, and how the swipe experience grew out of designing specifically for mobile. They also discuss why product-market fit has to come before marketing, how Tinder learned from failed features, and why listening to users mattered more than competitors or the press. Resources: Learn more about Speedrun: https://a16z.com/games/speedrun/ Find Sean on Twitter: https://x.com/seanrad Find Andrew on Twitter: https://x.com/andrewchen Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f249c8d5-7395-4fe5-a36c-afbc59d5485f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f249c8d5-7395-4fe5-a36c-afbc59d5485f&feed=JGE3yC0V",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "source_type": "rss"
+    },
     {
       "source": "Latent Space",
       "domain": "ai",
@@ -188,18 +237,6 @@
       "source_type": "rss"
     },
     {
-      "source": "Latent Space",
-      "domain": "ai",
-      "language": "en",
-      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
-      "published_at": "2026-11-24T04:14:16+00:00",
-      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
-      "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
-      "audio_url": "",
-      "feed_url": "https://www.latent.space/feed",
-      "source_type": "rss"
-    },
-    {
       "source": "All-In Podcast",
       "domain": "ai",
       "language": "en",
@@ -272,18 +309,6 @@
       "source_type": "rss"
     },
     {
-      "source": "a16z",
-      "domain": "ai",
-      "language": "en",
-      "title": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
-      "published_at": "2026-11-22T11:00:00+00:00",
-      "url": "https://a16z.simplecast.com/episodes/replay-how-the-internet-happened-chris-dixon-brian-mccullough-2018-k0AHBjvt",
-      "summary": "Why do technologies that look like bad ideas in one era become enormous companies in the next? Originally recorded in 2018, Brian McCullough and Chris Dixon trace the companies, failures, and accidents that built the modern internet. They revisit the battle between the open web and more centralized visions of the “information superhighway,” why eBay helped establish trust between strangers online, what Napster understood about digital media, and how Google found a business model for search. They also look at the dot-com crash and the ideas that arrived before the technology was ready, from cloud storage to grocery delivery, asking what those cycles can teach founders about spotting the next wave. Resources: Follow Brian McCullough on X: https://x.com/brianmcc Follow Chris Dixon on X: https://x.com/cdixon Stay Updated: Find a16z on YouTube: YouTube Find a16z on X Find a16z on LinkedIn Listen to the a16z Show on Spotify Listen to the a16z Show on Apple Podcasts Follow our host: https://twitter.com/eriktorenberg Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures. Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/72c66943-1a58-4565-bf56-94c3493753af/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=72c66943-1a58-4565-bf56-94c3493753af&feed=JGE3yC0V",
-      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
-      "source_type": "rss"
-    },
-    {
       "source": "Lenny's Podcast",
       "domain": "ai",
       "language": "en",
@@ -306,31 +331,6 @@
       "audio_url": "https://traffic.megaphone.fm/APO7855481370.mp3",
       "feed_url": "https://anchor.fm/s/9603714/podcast/rss",
       "source_type": "rss"
-    },
-    {
-      "source": "All-In Podcast",
-      "domain": "ai",
-      "language": "en",
-      "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
-      "published_at": "2026-11-20T22:14:00+00:00",
-      "url": "https://allinchamathjason.libsyn.com/anthropic-goes-public-nvidia-in-crisis-markets-tank-open-source-crackdown",
-      "summary": "(0:00) Chamath's theory on 10 AI Megacorps that go \"Dirt to Application\" (3:27) Anthropic goes public, how companies are handling AI disruption (16:41) Bull/bear case for Anthropic and the market (36:41) White House weighs new open source disclosure rule for Chinese models (59:17) State of Nvidia: Tanking stock, talent crisis, legal issues, Jensen's future Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: https://x.com/theallinpod Follow on Instagram: https://www.instagram.com/theallinpod Follow on TikTok: https://www.tiktok.com/@allin Follow on LinkedIn: https://www.linkedin.com/company/allinpod Intro Music Credit: https://rb.gy/tppkzl https://x.com/yung_spielburg Intro Video Credit: https://x.com/TheZachEffect Referenced in the show: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open https://x.com/patrick_oshag/status/2036835706434179347 https://x.com/chamath/status/2123530812901732593 https://x.com/KobeissiLetter/status/2123444634257109287 https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18 https://misanthropicstatement.com https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E298_Ch.mp3?dest-id=1928300",
-      "feed_url": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-      "source_type": "rss"
-    },
-    {
-      "source": "SemiAnalysis",
-      "domain": "ai",
-      "language": "en",
-      "title": "Apple's New Chiplet Design",
-      "published_at": "2026-11-20T12:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=P3ZaQEhnxvg",
-      "summary": "Analyzing Apple's first Chiplet Architecture: Silicon deep-dive & die-to-die interconnect (SoIC-mH / SoIC-X F2F). Get real silicon insights from STEEL: https://semianalysis.com/steel-lab/",
-      "audio_url": "",
-      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
-      "source_type": "youtube",
-      "video_id": "P3ZaQEhnxvg"
     }
   ],
   "errors": []
